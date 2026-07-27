@@ -1,4 +1,212 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,85,,substitution,,True,,,Edson Fernando,Mayk,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,78,,substitution,,False,,,Walace,Z. Vitor,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,78,,substitution,,True,,,V. Bueno,Zé Ricardo,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,70,,substitution,,True,,,Patrick,L. Picco,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,70,,substitution,,True,,,G. Taliari,Jajá,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,70,,substitution,,True,,,M. Alexandre,Y. Pikachu,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,61,,substitution,,False,,,Matheuzinho,D. Tarzia,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,61,,substitution,,False,,,F. Souza,Jamerson,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,61,,substitution,,False,,,R. Kayzer,Cacá,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,61,,substitution,,False,,,T. Pochettino,Erick,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,54,,goal,A. Manga,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,53,,card,Y. Pikachu,True,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,43,,card,M. Felipe,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,41,,card,Cacá,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,39,,goal,Jajá,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-07-26,20,Remo,Vitória,2,0,4,,card,Z. Ivaldo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,90,3,card,R. Lodi,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,90,,substitution,,False,,,Alexsander,T. Pérez,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,85,,substitution,,False,,,V. Hugo,Á. Preciado,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,78,,substitution,,True,,,L. Evangelista,Mauricio,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,78,,substitution,,True,,,A. Gabriel,J. Piquerez,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,77,,goal,I. Gomes,False,,,,,,,1,2
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,76,,card,Ruan,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,75,,goal,F. Anderson,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,71,,substitution,,False,,,I. Gomes,V. Hugo,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,71,,substitution,,False,,,A. Minda,Bernard,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,65,,substitution,,True,,,Heittor,Paulinho,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,59,,substitution,,True,,,V. Roque,E. Martínez,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,59,,substitution,,True,,,F. Anderson,A. Giay,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,54,,goal,V. Hugo,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,46,,substitution,,False,,,M. Cissé,Maycon,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,31,,card,Á. Preciado,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Palmeiras,Atlético Mineiro,1,2,16,,varDecision,J. Piquerez,True,,,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,90,,period,,,,,,,FT,,0,0
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,90,1,card,P. Roberto,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,86,,card,I. Sosa,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,84,,substitution,,True,,,Vinicinho,E. Sasha,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,84,,substitution,,True,,,I. Sosa,Fernando,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,83,,substitution,,False,,,F. Jonatan,Bruno Melo,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,83,,substitution,,False,,,P. Roberto,P. Rocha,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,72,,substitution,,False,,,J. Lavega,L. Ronier,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,72,,substitution,,False,,,Keno,B. Lopes,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,65,,substitution,,True,,,I. Pitta,L. Barbosa,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,65,,substitution,,True,,,H. Mosquera,J. Herrera,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,62,,substitution,,False,,,V. G. Tissi,V. Paulista,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,58,,card,V. Paulista,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,29,,substitution,,True,,,P. Henrique,G. Marques,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,20,,card,L. Barbosa,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Red Bull Bragantino,Coritiba,0,0,-5,,card,G. Rodríguez,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,90,,period,,,,,,,FT,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,90,2,card,J. Nardoni,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,89,,goal,Diego Caito,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,87,,substitution,,False,,,Y. Soteldo,Hércules,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,86,,substitution,,False,,,Ignácio,K. Serna,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,80,,substitution,,True,,,P. Gabriel,Marlon,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,79,,card,A. Canobbio,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,78,,substitution,,True,,,J. Cabral,F. Amuzu,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,78,,substitution,,True,,,J. Enamorado,Tetê,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,77,,card,C. Vinícius,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,75,,substitution,,False,,,Nonato,L. Acosta,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,75,,substitution,,False,,,G. Cano,Hulk,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,69,,substitution,,True,,,M. Braithwaite,E. Noriega,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,69,,substitution,,True,,,Diego Caito,C. Pavón,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,69,,card,T. Silva,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,65,,goal,Hulk,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,62,,varDecision,Hulk,False,,,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,21,,substitution,,False,,,Renê,G. Arana,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,13,,card,Guga,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,12,,card,Hércules,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Grêmio,Fluminense,1,1,-5,,card,L. Zubeldia,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,90,,period,,,,,,,FT,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,90,11,card,L. Ramon,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,90,5,substitution,,False,,,Sabino,Wendell,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,90,3,varDecision,S. Lino,True,,,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,90,,substitution,,False,,,A. Silva,Luciano,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,90,,injuryTime,,,,,,,,12,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,88,,card,J. Calleri,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,87,,substitution,,True,,,E. Araujo,E. Pulgar,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,87,,substitution,,True,,,Wallace,Pedro,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,79,,substitution,,True,,,Everton,B. Henrique,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,70,,goal,J. Calleri,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,69,,card,Wendell,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,66,,substitution,,False,,,Victor Sá,Danielzinho,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,66,,substitution,,False,,,Ferreira,Artur,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,63,,card,A. Sandro,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,58,,substitution,,True,,,G. de Arrascaeta,Lorran,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,57,,goal,L. Pereira,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-07-26,20,Flamengo,São Paulo,1,1,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,,period,,,,,,,FT,,0,1
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,8,card,K. Jorge,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,7,card,K. Arroyo,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,4,card,K. Barría,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,,substitution,,False,,,L. Villalba,M. Martins,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,,substitution,,False,,,Marçal,A. Telles,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,88,,card,A. Telles,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,82,,substitution,,False,,,K. Barría,A. Cabral,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,82,,substitution,,False,,,S. Rodríguez,Á. Montoro,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,77,,substitution,,True,,,K. Moraes,G. Rojas,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,77,,substitution,,True,,,W. Furtado,Fagner,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,69,,substitution,,False,,,K. Toledo,D. Santos,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,60,,substitution,,True,,,K. Arroyo,Marquinhos,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,60,,substitution,,True,,,J. Marcelo,F. Bruno,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,56,,card,J. Jesus,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,45,4,card,N. Ferraresi,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,45,3,card,Fagner,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,45,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,41,,goal,G. Justino,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,39,,substitution,,True,,,Wanderson,L. Sinisterra,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,35,,card,Huguinho,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Cruzeiro,Botafogo,0,1,26,,card,Warleson,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,90,,period,,,,,,,FT,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,90,6,card,Allan,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,86,,substitution,,True,,,M. Sanabria,E. Pulga,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,85,,substitution,,False,,,A. Carrillo,Y. Alberto,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,77,,substitution,,True,,,E. Ribeiro,J. Lucas,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,77,,substitution,,False,,,M. Pereira,Raniele,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,77,,substitution,,False,,,Allan,A. Luiz,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,70,,substitution,,False,,,Z. Labyad,B. Bidon,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,69,,substitution,,False,,,P. Milans,F. Angileri,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,69,,substitution,,True,,,K. Furquim,A. Véliz,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,69,,substitution,,True,,,L. Juba,J. Guilherme,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,69,,substitution,,True,,,W. José,Ademir,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,67,,card,B. Bidon,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,45,4,goal,D. Duarte,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,45,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,35,,card,Raniele,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,28,,card,J. Guilherme,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,19,,card,D. Duarte,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,16,,card,F. Angileri,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,12,,varDecision,A. Véliz,True,,,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,8,,goal,F. Angileri,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,-5,,card,Kauê,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-26,20,Bahia,Corinthians,1,1,-5,,card,R. Ceni,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,90,,period,,,,,,,FT,,1,1
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,83,,card,N. Moreira,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,82,,substitution,,False,,,Chico,Denilson,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,80,,goal,A. Gómez,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,74,,substitution,,True,,,J. Rojas,C. Barros,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,71,,substitution,,True,,,L. Piton,Cuiabano,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,70,,substitution,,True,,,Jair,R. R. S. d. S. Barros,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,69,,substitution,,False,,,Eduardo,Japa,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,69,,substitution,,False,,,Fernandinho,E. Carioca,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,66,,card,Walter,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,60,,substitution,,True,,,N. Moreira,Tchê Tchê,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,60,,substitution,,True,,,David,Adson,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,46,,substitution,,False,,,C. Eduardo,G. Silva,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,36,,substitution,,False,,,L. Oliveira,J. Aldo,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Vasco da Gama,Mirassol,1,1,30,,goal,Igor Formiga,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,90,,period,,,,,,,FT,,2,2
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,89,,goal,Neymar,True,,,,,,,2,2
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,88,,card,B. Matias,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,88,,varDecision,V. Balieiro,False,,,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,83,,substitution,,False,,,V. Balieiro,Camilo,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,80,,substitution,,True,,,Rony,G. Barbosa,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,80,,substitution,,True,,,Thaciano,Á. Barreal,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,80,,substitution,,False,,,B. Pacheco,Fernando,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,77,,card,Á. Barreal,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,76,,card,Neymar,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,75,,card,B. Tubarão,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,73,,card,Matheus,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,68,,card,L. Veríssimo,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,63,,substitution,,True,,,C. Oliva,Willian Arão,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,63,,substitution,,True,,,G. Caballero,B. Rollheiser,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,63,,substitution,,True,,,G. Menino,I. Vinícius,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,62,,goal,J. P. Ananias,False,,,,,,,1,2
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,54,,card,Camilo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,51,,goal,Marcinho,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,46,,substitution,,False,,,Marcinho,K. Ramírez,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,46,,substitution,,False,,,G. Augusto,Ênio,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,46,,substitution,,False,,,B. Matias,D. Antunes,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-07-25,20,Santos,Chapecoense,2,2,36,,goal,Neymar,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,84,,substitution,,False,,,J. P. B. d. O. Lo,R. Villagra,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,81,,substitution,,True,,,Isaac,Leozinho,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,81,,substitution,,True,,,G. Benavídez,Gilberto,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,81,,substitution,,True,,,J. Portilla,Jádson,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,69,,substitution,,False,,,A. Patrick,Alerrandro,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,65,,substitution,,True,,,J. Cruz,S. Mendoza,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,63,,substitution,,False,,,B. Henrique,F. Torres,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,62,,substitution,,False,,,B. Aguirre,M. Bahia,,,,
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,60,,goal,K. Viveros,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,45,1,goal,Leozinho,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-07-25,20,Athletico,Internacional,2,0,45,,injuryTime,,,,,,,,2,,
 brasileirao_serie_a_2026,2026-07-23,4,Botafogo,Vitória,0,0,90,,period,,,,,,,FT,,0,0
 brasileirao_serie_a_2026,2026-07-23,4,Botafogo,Vitória,0,0,90,1,card,M. Ponte,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-07-23,4,Botafogo,Vitória,0,0,90,,injuryTime,,,,,,,,6,,

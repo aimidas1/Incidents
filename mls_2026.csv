@@ -1,4 +1,25 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,90,,period,,,,,,,FT,,1,1
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,87,,substitution,,False,,,M. Henry,T. Corbeanu,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,86,,substitution,,True,,,M. Ilenič,T. Martins,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,86,,substitution,,True,,,S. Garfield-Reid,N. Fernández,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,72,,substitution,,True,,,M. Carrizo,T. Magno,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,72,,substitution,,False,,,D. Etienne,Đ. Mihailović,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,71,,substitution,,False,,,D. Kerr,J. Sargent,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,71,,substitution,,False,,,A. Coello,N. Dorsch,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,61,,card,J. Gilman,False,yellow,Foul,,,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,59,,substitution,,True,,,H. Wolf,A. Ojeda,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,59,,substitution,,True,,,M. Jones,B. Traore,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,56,,card,N. Dorsch,False,yellow,Foul,,,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,45,,period,,,,,,,HT,,1,1
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,45,6,goal,Đ. Mihailović,False,,,,,,,1,1
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,45,6,card,J. Osorio,False,yellow,Foul,,,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,45,,injuryTime,,,,,,,,6,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,18,,card,N. Fernández,True,yellow,Time wasting,,,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,11,,card,T. Magno,True,yellow,Foul,,,,,,
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,8,,goal,N. Fernández,True,,,,,,,1,0
+mls_2026,2026-07-31,,New York City FC,Toronto FC,1,1,6,,card,R. Laryea,False,yellow,Foul,,,,,,
 mls_2026,2026-07-26,,Portland Timbers,Real Salt Lake,2,1,90,,period,,,,,,,FT,,2,1
 mls_2026,2026-07-26,,Portland Timbers,Real Salt Lake,2,1,90,,injuryTime,,,,,,,,5,,
 mls_2026,2026-07-26,,Portland Timbers,Real Salt Lake,2,1,86,,substitution,,True,,,J. Ortíz,C. Bassett,,,,

@@ -36,6 +36,29 @@ mls_2026,2026-08-02,,LA Galaxy,FC Dallas,0,0,45,,injuryTime,,,,,,,,1,,
 mls_2026,2026-08-02,,LA Galaxy,FC Dallas,0,0,35,,card,Kaick,False,yellow,Foul,,,,,,
 mls_2026,2026-08-02,,LA Galaxy,FC Dallas,0,0,31,,card,C. Cappis,False,yellow,Foul,,,,,,
 mls_2026,2026-08-02,,LA Galaxy,FC Dallas,0,0,4,,card,P. Delgado,False,yellow,Foul,,,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,90,,period,,,,,,,FT,,4,2
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,90,5,goal,A. Jabbari,True,,,,,,,4,2
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,90,3,substitution,,True,,,A. Jabbari,K. Denkey,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,89,,card,M. Robinson,True,yellow,Foul,,,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,89,,substitution,,True,,,T. Anunga,O. Nwobodo,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,88,,substitution,,True,,,A. Powell,E. Echenique,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,87,,card,P. Bucha,True,yellow,Foul,,,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,82,,goal,Evander,True,,,,,,,3,2
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,81,,substitution,,False,,,D. Romney,R. Vieira,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,81,,substitution,,False,,,J. Jasinski,B. Kikanović,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,80,,goal,T. Barlow,True,,,,,,,2,2
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,73,,substitution,,False,,,J. Skahan,O. Bouda,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,70,,substitution,,True,,,T. Hadebe,K. Smith,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,70,,substitution,,True,,,T. Barlow,K. M. Dem,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,60,,substitution,,False,,,J. Ricketts,V. Costa,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,56,,goal,T. Werner,False,,,,,,,1,2
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,46,,substitution,,False,,,I. Harkes,N. Fernandez,,,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,45,,period,,,,,,,HT,,1,1
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,33,,goal,B. Ramírez,True,,,,,,,1,1
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,26,,goal,D. Munie,False,,,,,,,0,1
+mls_2026,2026-08-02,,FC Cincinnati,San Jose Earthquakes,4,2,20,,card,K. Smith,True,yellow,Foul,,,,,,
 mls_2026,2026-08-02,,Colorado Rapids,Austin FC,1,0,90,,period,,,,,,,FT,,1,0
 mls_2026,2026-08-02,,Colorado Rapids,Austin FC,1,0,90,5,card,R. Navarro,True,yellow,,,,,,,
 mls_2026,2026-08-02,,Colorado Rapids,Austin FC,1,0,90,4,goal,R. Navarro,True,,,,,,,1,0
@@ -186,29 +209,6 @@ mls_2026,2026-08-01,,DC United,Nashville SC,2,2,45,3,card,T. Baribo,True,yellow,
 mls_2026,2026-08-01,,DC United,Nashville SC,2,2,45,,injuryTime,,,,,,,,4,,
 mls_2026,2026-08-01,,DC United,Nashville SC,2,2,40,,goal,S. Mohammed,False,,,,,,,0,2
 mls_2026,2026-08-01,,DC United,Nashville SC,2,2,32,,goal,S. Surridge,False,,,,,,,0,1
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,90,,period,,,,,,,FT,,4,2
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,90,5,goal,A. Jabbari,True,,,,,,,4,2
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,90,3,substitution,,True,,,A. Jabbari,K. Denkey,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,89,,card,M. Robinson,True,yellow,Foul,,,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,89,,substitution,,True,,,T. Anunga,O. Nwobodo,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,88,,substitution,,True,,,A. Powell,E. Echenique,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,87,,card,P. Bucha,True,yellow,Foul,,,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,82,,goal,Evander,True,,,,,,,3,2
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,81,,substitution,,False,,,D. Romney,R. Vieira,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,81,,substitution,,False,,,J. Jasinski,B. Kikanović,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,80,,goal,T. Barlow,True,,,,,,,2,2
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,73,,substitution,,False,,,J. Skahan,O. Bouda,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,70,,substitution,,True,,,T. Hadebe,K. Smith,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,70,,substitution,,True,,,T. Barlow,K. M. Dem,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,60,,substitution,,False,,,J. Ricketts,V. Costa,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,56,,goal,T. Werner,False,,,,,,,1,2
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,46,,substitution,,False,,,I. Harkes,N. Fernandez,,,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,45,,period,,,,,,,HT,,1,1
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,45,,injuryTime,,,,,,,,2,,
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,33,,goal,B. Ramírez,True,,,,,,,1,1
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,26,,goal,D. Munie,False,,,,,,,0,1
-mls_2026,2026-08-01,,FC Cincinnati,San Jose Earthquakes,4,2,20,,card,K. Smith,True,yellow,Foul,,,,,,
 mls_2026,2026-08-01,,New York Red Bulls,Orlando City SC,3,2,90,,period,,,,,,,FT,,3,2
 mls_2026,2026-08-01,,New York Red Bulls,Orlando City SC,3,2,90,6,card,J. Marshall-Rutty,True,yellow,Time wasting,,,,,,
 mls_2026,2026-08-01,,New York Red Bulls,Orlando City SC,3,2,90,,injuryTime,,,,,,,,7,,

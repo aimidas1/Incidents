@@ -1,4 +1,50 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,,period,,,,,,,FT,,3,1
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,7,card,J. Valencia,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,7,card,F. Romero,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,,substitution,,True,,,A. Briseño,A. Vega,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,,injuryTime,,,,,,,,8,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,85,,substitution,,False,,,F. Méndez,D. Leyva,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,80,,card,A. Oliveros,False,yellowRed,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,67,,substitution,,False,,,M. Espíndola,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,65,,substitution,,True,,,P. Pérez,J. R. Angulo,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,65,,substitution,,True,,,Helinho,É. Gutiérrez,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,59,,substitution,,True,,,F. Viñas,I. López,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,59,,substitution,,True,,,V. Guzmán,J. Díaz,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,57,,goal,L. Jimenez,True,,,,,,,3,1
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,46,,substitution,,False,,,J. Valencia,J. Ruiz,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,46,,substitution,,False,,,M. Zaleta,C. A. V. Tenorio,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,46,,substitution,,False,,,P. Pedraza,J. Torres,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,45,,period,,,,,,,HT,,2,1
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,45,7,card,A. Oliveros,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,45,6,card,J. Carranza,False,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,45,5,goal,E. López,True,,,,,,,2,1
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,45,4,card,R. Martínez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,44,,varDecision,J. Carranza,False,,,,,,,,
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,42,,goal,J. Carranza,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,29,,goal,I. López,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,90,,period,,,,,,,FT,,3,0
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,90,,goal,A. Cardenas,True,,,,,,,3,0
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,81,,substitution,,False,,,J. Mancha,E. Aguirre,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,78,,substitution,,True,,,O. Arriaga,I. Violante,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,78,,substitution,,True,,,A. Cardenas,H. Martín,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,75,,substitution,,False,,,K. Palacios,A. Lopez Vargas,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,73,,goal,B. Rodríguez,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,71,,substitution,,True,,,B. Rodríguez,A. Gutiérrez,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,63,,substitution,,False,,,J. Güemez,S. Mariscal,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,63,,substitution,,False,,,L. Di Yorio,E. Bullaude,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,46,,substitution,,False,,,D. González,R. Sordo,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,46,,substitution,,True,,,I. Reyes,R. Veiga,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,46,,substitution,,True,,,K. Álvarez,D. Espinoza,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,45,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,30,,card,F. Sánchez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,24,,varDecision,F. Pardo,False,,,,,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,2,,goal,H. Martín,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,-5,,card,R. Paiva,False,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-08-02,3,Club América,Santos Laguna,3,0,-5,,card,R. Paiva,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-08-02,3,Cruz Azul,Atlante FC,2,3,90,,period,,,,,,,FT,,2,3
 liga_mx_apertura_2026,2026-08-02,3,Cruz Azul,Atlante FC,2,3,90,10,goal,A. Palavecino,True,,,,,,,2,3
 liga_mx_apertura_2026,2026-08-02,3,Cruz Azul,Atlante FC,2,3,90,,injuryTime,,,,,,,,7,,

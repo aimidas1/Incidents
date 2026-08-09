@@ -1,4 +1,23 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,90,,period,,,,,,,FT,,0,2
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,90,3,card,B. Raines,True,yellow,Foul,,,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,89,,substitution,,False,,,O. Lingr,Guilherme,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,89,,substitution,,False,,,D. Samassékou,H. Herrera,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,87,,substitution,,True,,,W. Harris,W. Sands,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,81,,substitution,,False,,,D. McGuire,E. Ponce,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,81,,substitution,,False,,,I. Aliyu,M. Bogusz,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,79,,substitution,,True,,,G. Yow,P. Miller,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,79,,substitution,,True,,,D. Fagúndez,A. Yusuf,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,72,,substitution,,False,,,A. Bouzat,J. McGlynn,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,63,,goal,A. Resch,False,,,,,,,0,2
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,54,,substitution,,True,,,C. Baker,M. Polster,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,54,,substitution,,True,,,J. Harrison,M. Zambrano,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,54,,card,L. Ennali,False,yellow,Foul,,,,,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,45,1,goal,Guilherme,False,,,,,,,0,1
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,45,,injuryTime,,,,,,,,4,,
+mls_2026,2026-08-08,,New England Revolution,Houston Dynamo,0,2,-5,,card,B. Olsen,False,yellow,Argument,,,,,,
 mls_2026,2026-08-02,,Portland Timbers,Seattle Sounders FC,2,1,90,,period,,,,,,,FT,,2,1
 mls_2026,2026-08-02,,Portland Timbers,Seattle Sounders FC,2,1,90,4,substitution,,True,,,O. Fernandez,K. Velde,,,,
 mls_2026,2026-08-02,,Portland Timbers,Seattle Sounders FC,2,1,90,,injuryTime,,,,,,,,5,,

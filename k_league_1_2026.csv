@@ -1,4 +1,65 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,90,,period,,,,,,,FT,,2,0
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,90,4,card,C. J. Park,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,87,,card,C. Lee,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,75,,substitution,,False,,,J. Lee,B. Knežević,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,75,,substitution,,False,,,B. K. Kim,J. H. Kim,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,71,,substitution,,True,,,P. Min-Jae,J. Celestine,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,71,,substitution,,True,,,J. Kim,Emerson Ramon,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,71,,card,Emerson Ramon,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,69,,card,J. Celestine,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,67,,substitution,,True,,,C. Byung-Wook,C. M. Lee,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,60,,substitution,,True,,,C. J. Park,S. Sang-Eun,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,60,,substitution,,True,,,K. Shin-jin,M. Aiás,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,51,,goal,I. Yu,True,,,,,,,2,0
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,46,,substitution,,False,,,Airton,H. Chae,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,45,,period,,,,,,,HT,,1,0
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,45,1,goal,S. Sang-Eun,True,,,,,,,1,0
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,36,,card,W. Jeong,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,35,,substitution,,False,,,G. Choi,I. Jukić,,,,
+k_league_1_2026,2026-08-15,23,Jeju SK,FC Anyang,2,0,17,,substitution,,False,,,U. Kim,B. Herculano,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,90,,period,,,,,,,FT,,1,2
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,90,7,goal,Wanderson,False,,,,,,,1,2
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,86,,substitution,,False,,,J. Teixeira,J. Tranziska,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,86,,substitution,,False,,,J. Si-Woo,M. Jeon,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,84,,goal,J. Iredale,True,,,,,,,1,1
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,82,,substitution,,True,,,A. D. B. Loua,C. M. Shin,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,82,,substitution,,True,,,K. Jong-Seok,K. Choi,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,82,,card,C. M. Shin,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,74,,substitution,,True,,,Seung-un Ha,S. Y. Kwon,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,69,,substitution,,False,,,K. J. Won,H. M. Jung,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,68,,substitution,,True,,,K. Woo-Jin,Y. J. Ri,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,68,,substitution,,True,,,Y. Je-ho,M. Moon,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,60,,substitution,,False,,,C. Lee,S. Y. Ki,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,53,,card,Y. J. Ri,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,46,,substitution,,False,,,M. Kang,H. Seo-woong,,,,
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,45,,period,,,,,,,HT,,0,1
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,38,,goal,J. Tranziska,False,,,,,,,0,1
+k_league_1_2026,2026-08-15,23,Gwangju FC,Pohang Steelers,1,2,-5,,card,J. Lee,True,yellow,Argument,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,90,,period,,,,,,,FT,,4,2
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,90,4,card,P. Klimala,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,90,3,goal,S. Jeong,True,,,,,,,4,2
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,90,2,substitution,,True,,,D. Hwang,Anderson Oliveira,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,89,,card,M. Seon-min,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,88,,substitution,,False,,,V. Bobsin,M. Kim,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,83,,goal,M. Song,True,,,,,,,3,2
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,81,,goal,M. Song,True,,,,,,,2,2
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,69,,substitution,,True,,,M. Song,J. Son,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,68,,substitution,,False,,,C. Ha,W.S. Um,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,66,,card,J. S. Seo,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,63,,substitution,,True,,,C. Jun,S. Park,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,62,,goal,K. Jin-su,False,,,,,,,1,2
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,61,,substitution,,False,,,K. H. Yu,M. K. Ju,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,61,,substitution,,False,,,J. Jeong,G. Ludwigson,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,61,,substitution,,False,,,J. S. Seo,M. Ishida,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,48,,goal,P. Klimala,True,,,,,,,1,1
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,46,,substitution,,True,,,M. Seon-min,L. Seung-mo,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,45,,period,,,,,,,HT,,0,1
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,45,6,card,Y. Al-Arab,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,42,,card,S. Jeong,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,41,,card,Y. Kang,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,38,,goal,M. K. Ju,False,,,,,,,0,1
+k_league_1_2026,2026-08-15,23,FC Seoul,Daejeon Hana Citizen,4,2,27,,card,A. Kryvotsiuk,False,yellow,Foul,,,,,,
 k_league_1_2026,2026-08-08,22,Pohang Steelers,Ulsan HD,0,2,90,,period,,,,,,,FT,,0,2
 k_league_1_2026,2026-08-08,22,Pohang Steelers,Ulsan HD,0,2,90,3,card,J. Hyeonwoo,False,yellow,Foul,,,,,,
 k_league_1_2026,2026-08-08,22,Pohang Steelers,Ulsan HD,0,2,84,,substitution,,True,,,C. Lee,S. Kim,,,,

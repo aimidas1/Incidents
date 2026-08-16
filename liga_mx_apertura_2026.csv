@@ -1,4 +1,40 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,90,,period,,,,,,,FT,,6,1
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,90,2,goal,J. Rodríguez,True,,,,,,,6,1
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,71,,substitution,,True,,,J. Corona,L. Ocampos,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,70,,substitution,,False,,,F. Nevarez,A. Mayorga,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,70,,substitution,,False,,,Monchu,Ó. Estupiñán,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,63,,substitution,,True,,,A. D. Nigris,D. Rossi,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,63,,substitution,,True,,,R. de la Rosa,H. Cuypers,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,63,,substitution,,True,,,I. Fimbres,O. Pineda,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,62,,goal,L. Ocampos,True,,,,,,,5,1
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,56,,substitution,,False,,,M. d. S. Silva,Ricardinho,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,55,,varDecision,D. Rossi,True,,,,,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,46,,substitution,,False,,,R. Dourado,G. Castilho,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,46,,substitution,,False,,,J. Torres,R. Fulgencio,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,45,,period,,,,,,,HT,,4,1
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,45,3,goal,O. Pineda,True,,,,,,,4,1
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,45,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,37,,substitution,,True,,,J. Rodríguez,D. Aceves,,,,
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,32,,goal,Ó. Estupiñán,False,,,,,,,3,1
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,29,,goal,H. Cuypers,True,,,,,,,3,0
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,15,,goal,D. Rossi,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-08-16,4,CF Monterrey,FC Juárez,6,1,6,,goal,L. Orellano,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,90,,period,,,,,,,FT,,0,0
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,90,9,card,N. Carrera,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,90,,injuryTime,,,,,,,,9,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,82,,substitution,,False,,,V. Guzmán,J. Díaz,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,80,,substitution,,True,,,J. Moxica,L. Puente,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,75,,substitution,,False,,,H. Gonzalez,L. García,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,74,,substitution,,False,,,F. Arce Jr.,É. Gutiérrez,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,60,,substitution,,False,,,P. Pérez,D. Barbosa,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,60,,substitution,,False,,,Helinho,J. R. Angulo,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,53,,substitution,,True,,,M. Sarrafiore,O. Vázquez,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,29,,substitution,,True,,,W. Clar,E. Jiménez,,,,
+liga_mx_apertura_2026,2026-08-15,4,Atlante FC,CD Toluca,0,0,13,,card,A. Quirós,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,,period,,,,,,,FT,,3,1
 liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,7,card,J. Valencia,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-08-03,3,CD Toluca,Club Necaxa,3,1,90,7,card,F. Romero,True,yellow,Argument,,,,,,

@@ -1,4 +1,89 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,90,,period,,,,,,,FT,,0,2
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,86,,card,P. Rothrock,True,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,86,,substitution,,False,,,N. Djordjevic,E. Sabbi,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,85,,substitution,,True,,,C. Gaffney,A. Roldán,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,82,,goal,T. Müller,False,,,,,,,0,2
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,77,,goal,R. Elloumi,False,,,,,,,0,1
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,76,,card,N. Tolo,True,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,73,,substitution,,True,,,K. Kee-hee,K. Kossa-Rienzi,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,73,,substitution,,True,,,O. D. Rosario,D. Musovski,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,66,,substitution,,False,,,T. Blackmon,R. Priso,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,58,,substitution,,False,,,R. Gauld,C. T. Sabaly,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,58,,substitution,,True,,,A. Lopez,S. Brunell,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,57,,card,J. Ragen,True,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,45,,injuryTime,,,,,,,,4,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,36,,substitution,,True,,,S. Gomez,J. Ferreira,,,,
+mls_2026,2026-08-17,,Seattle Sounders FC,Vancouver Whitecaps,0,2,18,,substitution,,False,,,R. Elloumi,J. Badwal,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,90,,period,,,,,,,FT,,1,2
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,90,9,card,M. Uzuni,True,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,90,,injuryTime,,,,,,,,10,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,85,,substitution,,False,,,R. Binyamin,P. Musa,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,85,,substitution,,False,,,C. Holstad,J. Valiente,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,83,,card,O. Urhoghide,False,yellow,Time wasting,,,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,82,,substitution,,True,,,J. Nelson,Guilherme Biro,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,79,,substitution,,False,,,Kaick,Ramiro,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,73,,goal,P. Musa,False,,,,,,,1,2
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,70,,substitution,,False,,,L. Farrington,S. Moreno,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,68,,card,O. Svatok,True,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,63,,substitution,,True,,,B. Vázquez,C. Ramirez,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,63,,substitution,,True,,,Ž. Kolmanič,J. Gallagher,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,63,,card,J. Valiente,False,yellow,,,,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,60,,card,B. Kamungo,False,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,57,,goal,E. Torres,True,,,,,,,1,1
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,46,,substitution,,True,,,F. Torres,J. Rosales,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,46,,substitution,,True,,,P. Płacheta,I. Sánchez,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,45,2,goal,L. Abubakar,False,,,,,,,0,1
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,45,,injuryTime,,,,,,,,3,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,35,,card,M. Đorđević,True,yellow,Foul,,,,,,
+mls_2026,2026-08-17,,Austin FC,FC Dallas,1,2,33,,card,Ramiro,False,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,90,,period,,,,,,,FT,,2,1
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,90,4,card,V. Janssen,False,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,88,,substitution,,False,,,O. Fernandez,K. Miller,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,85,,goal,F. Surman,False,,,,,,,2,1
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,82,,substitution,,True,,,M. Pineda,A. Salétros,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,79,,card,A. Salétros,True,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,76,,substitution,,False,,,V. Janssen,D. Da Costa,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,76,,substitution,,False,,,J. Caicedo,D. Chará,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,72,,substitution,,True,,,J. Dean,L. Barroso,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,61,,substitution,,False,,,J. Ortíz,C. Bassett,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,61,,substitution,,False,,,A. Lassiter,A. Alves,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,60,,substitution,,True,,,P. Dithejane,P. Zinckernagel,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,60,,substitution,,True,,,J. Bamba,R. Lewandowski,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,57,,card,R. Lod,True,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,51,,card,B. Bye,False,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,45,,period,,,,,,,HT,,2,0
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,14,,goal,D. T. D'Avilla,True,,,,,,,2,0
+mls_2026,2026-08-16,,Chicago Fire,Portland Timbers,2,1,9,,goal,R. Lod,True,,,,,,,1,0
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,90,,period,,,,,,,FT,,2,3
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,90,,card,M. Jones,True,yellow,Argument,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,85,,card,K. Wagner,False,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,80,,substitution,,False,,,A. Bedoya,C. Sullivan,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,79,,card,T. Gray,True,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,78,,substitution,,True,,,Raul Gustavo,M. Murray,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,75,,goal,B. Damiani,False,,,,,,,2,3
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,70,,substitution,,False,,,Q. Sullivan,I. Vassilev,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,69,,goal,B. Damiani,False,,,,,,,2,2
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,67,,substitution,,True,,,M. Jones,B. Traore,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,67,,substitution,,True,,,T. Magno,Luighi,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,62,,substitution,,False,,,J. Bueno,J. Lukić,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,60,,substitution,,True,,,K. O'Toole,K. Parks,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,60,,substitution,,True,,,M. Carrizo,J. Shore,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,50,,card,M. Iloski,False,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,48,,goal,D. Jean Jacques,False,,,,,,,2,1
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,45,,period,,,,,,,HT,,2,0
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,45,2,goal,Luighi,True,,,,,,,2,0
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,45,,injuryTime,,,,,,,,4,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,44,,card,J. Lukić,False,yellow,Persistent fouling,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,43,,card,Luighi,True,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,16,,card,N. Harriel,False,yellow,Foul,,,,,,
+mls_2026,2026-08-16,,New York City FC,Philadelphia Union,2,3,4,,goal,B. Traore,True,,,,,,,1,0
 mls_2026,2026-08-16,,San Jose Earthquakes,St.Louis City,1,3,90,,period,,,,,,,FT,,1,3
 mls_2026,2026-08-16,,San Jose Earthquakes,St.Louis City,1,3,89,,substitution,,False,,,P. Ault,S. Becher,,,,
 mls_2026,2026-08-16,,San Jose Earthquakes,St.Louis City,1,3,89,,substitution,,False,,,J. Orozco,C. Wallem,,,,

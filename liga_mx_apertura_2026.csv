@@ -1,4 +1,47 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,90,,period,,,,,,,FT,,2,3
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,90,3,goal,F. Almada,False,,,,,,,2,3
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,87,,substitution,,False,,,C. Baltazar,B. Garnica,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,83,,substitution,,True,,,A. Mozo,C. Sánchez,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,83,,substitution,,True,,,A. Alcaraz,S. Rondón,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,83,,substitution,,False,,,L. Camilo,I. Moreno,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,83,,substitution,,False,,,L. Hernández,E. Gómez,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,83,,substitution,,False,,,Ó. Villa,E. Mustre,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,77,,substitution,,True,,,G. Álvarez,O. Idrissi,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,65,,substitution,,False,,,A. Ramirez,S. Sanabria,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,63,,goal,S. Rondón,True,,,,,,,2,2
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,60,,varDecision,M. Isais,True,,,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,46,,substitution,,True,,,J. Vallejo,Kenedy,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,46,,substitution,,True,,,R. Pizarro,E. Montiel,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,45,,period,,,,,,,HT,,1,2
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,42,,goal,S. Rondón,True,,,,,,,1,2
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,33,,goal,K. Velasco,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,31,,varDecision,J. Vargas,False,,,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,CF Pachuca,Club Puebla,2,3,16,,goal,E. Gómez,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,90,,period,,,,,,,FT,,1,2
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,85,,substitution,,False,,,P. Bellón,D. Arcila,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,81,,card,B. Colula,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,79,,card,D. Leyva,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,78,,substitution,,True,,,M. Pedroza,M. Espíndola,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,74,,substitution,,False,,,S. Reyes,S. Vegas,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,72,,goal,J. Domínguez,False,,,,,,,1,2
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,65,,goal,M. Espíndola,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,65,,substitution,,True,,,E. Rodriguez,R. Monreal,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,65,,substitution,,True,,,M. Zaleta,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,64,,substitution,,True,,,R. Martínez,K. Naves,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,64,,substitution,,False,,,J. Domínguez,J. Cortizo,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,64,,substitution,,False,,,L. Valadez,F. Beltrán,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,60,,card,R. Echeverría,False,red,Violent conduct,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,60,,varDecision,R. Echeverría,False,,,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,58,,card,K. Naves,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,46,,substitution,,False,,,B. Colula,I. Moreno,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,46,,substitution,,True,,,J. Torres,C. A. V. Tenorio,,,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-08-18,4,Club Necaxa,Club León,1,2,27,,goal,D. Arcila,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-08-17,4,Club Tijuana,Cruz Azul,2,1,90,,period,,,,,,,FT,,2,1
 liga_mx_apertura_2026,2026-08-17,4,Club Tijuana,Cruz Azul,2,1,90,,injuryTime,,,,,,,,6,,
 liga_mx_apertura_2026,2026-08-17,4,Club Tijuana,Cruz Azul,2,1,86,,substitution,,False,,,J. Suárez,J. Márquez,,,,

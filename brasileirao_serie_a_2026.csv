@@ -1,4 +1,66 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,90,5,goal,M. Pereira,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,86,,substitution,,True,,,Zé Lucas,M. Henrique,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,86,,card,Wesley,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,83,,substitution,,False,,,L. Araújo,Pedro,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,82,,card,B. Henrique,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,76,,substitution,,True,,,N. Villarreal,K. Jorge,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,75,,substitution,,True,,,K. Kenji,K. Arroyo,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,75,,substitution,,True,,,Gerson,L. Romero,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,72,,substitution,,False,,,E. Araujo,E. Pulgar,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,72,,substitution,,False,,,B. Henrique,L. Paquetá,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,63,,substitution,,False,,,Jorginho,G. de Arrascaeta,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,63,,substitution,,False,,,G. Plata,S. Lino,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,55,,goal,K. Arroyo,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,46,,substitution,,True,,,Wesley,J. Costa,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,45,,injuryTime,,,,,,,,1,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,36,,card,J. Marcelo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,22,,goal,Pedro,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-08-22,24,Cruzeiro,Flamengo,2,1,20,,card,F. Bruno,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,,period,,,,,,,FT,,0,0
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,10,card,G. Maripán,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,10,card,K. Castaño,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,9,card,G. Mercado,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,9,card,P. Paula,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,2,substitution,,True,,,J. Juninho,B. Gomes,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,2,substitution,,True,,,Allex,A. Patrick,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,90,,injuryTime,,,,,,,,10,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,81,,substitution,,False,,,A. Franco,M. Cissé,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,78,,substitution,,True,,,N. Eliasson,J. Carbonero,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,78,,substitution,,True,,,P. Paula,B. Henrique,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,77,,substitution,,True,,,Anthoni,M. Cunha,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,72,,card,R. Villagra,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,69,,card,K. P. Resende,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,64,,substitution,,False,,,Dudu,R. Lodi,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,63,,substitution,,False,,,V. Hugo,Ruan,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,62,,card,Fred,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,48,,card,B. Gomes,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,46,,substitution,,False,,,Fred,Bernard,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,46,,substitution,,False,,,K. Castaño,T. Pérez,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-08-22,24,Internacional,Atlético Mineiro,0,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,89,,substitution,,False,,,Patrick,Marllon,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,89,,substitution,,False,,,L. Picco,Zé Ricardo,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,83,,goal,K. Serna,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,83,,substitution,,True,,,R. Felipe,Y. Soteldo,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,81,,card,Y. Pikachu,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,76,,substitution,,True,,,G. Cano,Hulk,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,70,,substitution,,False,,,A. Manga,Jajá,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,70,,substitution,,False,,,A. Galeano,Marcelinho,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,66,,goal,Hulk,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,61,,substitution,,False,,,D. Braga,V. Bueno,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,46,,substitution,,True,,,K. Serna,A. Canobbio,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,46,,substitution,,True,,,Nonato,Hércules,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,44,,substitution,,True,,,J. Fidelis,S. Xavier,,,,
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,31,,goal,Jajá,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-08-22,24,Fluminense,Remo,2,1,4,,card,Hércules,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-08-17,23,Internacional,Remo,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_a_2026,2026-08-17,23,Internacional,Remo,1,1,90,5,card,V. Bueno,False,yellow,,,,,,,
 brasileirao_serie_a_2026,2026-08-17,23,Internacional,Remo,1,1,90,5,goal,V. Bueno,False,,,,,,,1,1

@@ -1,4 +1,87 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,90,,period,,,,,,,FT,,3,0
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,89,,goal,S. Kim,True,,,,,,,3,0
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,85,,card,S. Ye-Geon,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,84,,substitution,,True,,,M. J. Kim,Galego,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,84,,substitution,,True,,,H. Jeong,T. Santos,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,82,,card,J. Teixeira,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,78,,substitution,,False,,,J. Rocha,J. Eo,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,75,,substitution,,True,,,S. Kim,Rodrigo,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,75,,substitution,,True,,,L. Eui-Hyeong,Gabriel,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,65,,substitution,,True,,,S. Kim,J. Kim,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,65,,card,M. Jeon,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,59,,substitution,,False,,,S. Y. Ki,D. Kim,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,59,,substitution,,False,,,J. Teixeira,H. Seo-woong,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,46,,substitution,,False,,,K. J. Won,H. M. Jung,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,46,,substitution,,False,,,Wanderson,J. Tranziska,,,,
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,45,,period,,,,,,,HT,,2,0
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,32,,goal,D. Kim,True,,,,,,,2,0
+k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,16,,goal,Galego,True,,,,,,,1,0
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,90,,period,,,,,,,FT,,1,0
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,90,11,card,Y. Kim,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,90,6,card,S. Myeong-Kwan,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,82,,substitution,,False,,,J. Si-Young,S. Shim,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,82,,substitution,,False,,,B. Michel,K. S. Lee,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,82,,substitution,,True,,,S. S. Kim,D. J. Lee,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,76,,substitution,,True,,,Italo,S. Lee,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,76,,substitution,,True,,,J. Gamboa,S. U. Maeng,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,74,,card,S. Lee,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,65,,substitution,,True,,,T. Orobó,B. Mota,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,64,,substitution,,False,,,D. Bojanić,L. Jin-hyun,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,60,,substitution,,False,,,Marcão,H. Lee,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,60,,card,J. Seung-hyeon,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,55,,card,B. Mota,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,54,,goal,B. Mota,True,,,,,,,1,0
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,51,,card,S. Shim,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,46,,substitution,,False,,,J. Lee,K. Young-gwon,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,46,,substitution,,True,,,T. Kim,C. Woo-Jin,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,28,,card,C. Woo-Jin,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeonbuk Hyundai Motors,Ulsan HD,1,0,-5,,card,K. Hyun-Seok,False,yellow,Argument,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,90,,period,,,,,,,FT,,0,0
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,90,8,card,J. B. Baek,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,90,7,card,K. Lee-Seok,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,90,7,card,C. Byung-Wook,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,89,,substitution,,False,,,I. Kim,K. H. Lee,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,85,,card,T. Park,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,81,,substitution,,False,,,S. H. Hong,Tae-hwan Kim,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,81,,substitution,,False,,,C. Lee,L. Jung-Taek,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,78,,substitution,,True,,,K. Shin-jin,M. Aiás,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,71,,card,M. Aiás,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,68,,substitution,,True,,,K. Ki-Min,M. Jang,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,68,,substitution,,False,,,J. Kim,Y. Hong,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,68,,substitution,,True,,,C. Byung-Wook,Emerson Ramon,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,68,,substitution,,False,,,K. Lee-Seok,S. Park,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,68,,substitution,,True,,,S. Park,C. M. Lee,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,54,,substitution,,True,,,C. J. Park,S. Sang-Eun,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,45,2,card,Emerson Ramon,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,Jeju SK,Gimcheon Sangmu FC,0,0,44,,card,P. Cheol-Woo,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,90,,period,,,,,,,FT,,0,7
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,90,3,card,K. Jin-su,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,90,1,card,M. Song,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,90,1,card,J. Lee,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,80,,substitution,,False,,,D. Hwang,H. Babec,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,72,,card,G. Choi,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,71,,substitution,,False,,,C. Seong-hoon,P. Klimala,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,69,,substitution,,True,,,Y. C. Kim,M. Oliveira,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,62,,substitution,,False,,,C. Jun,S. Park,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,62,,substitution,,False,,,M. Song,M. Seon-min,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,62,,substitution,,False,,,J. Son,L. Seung-mo,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,60,,substitution,,True,,,G. Choi,Airton,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,60,,substitution,,True,,,K. Kang,H. Chae,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,58,,goal,L. Seung-mo,False,,,,,,,0,7
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,53,,goal,S. Jeong,False,,,,,,,0,6
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,46,,substitution,,True,,,K. Han,J. H. Kim,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,46,,substitution,,True,,,J. Lee,B. Knežević,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,45,,period,,,,,,,HT,,0,5
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,44,,goal,Anderson Oliveira,False,,,,,,,0,5
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,35,,goal,P. Klimala,False,,,,,,,0,4
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,31,,goal,M. Seon-min,False,,,,,,,0,3
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,13,,goal,H. Babec,False,,,,,,,0,2
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,9,,card,S. Jeong,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,7,,goal,M. Seon-min,False,,,,,,,0,1
+k_league_1_2026,2026-08-22,24,FC Anyang,FC Seoul,0,7,-5,,card,G. D. Kim,False,yellow,Argument,,,,,,
 k_league_1_2026,2026-08-16,23,Ulsan HD,Gangwon FC,2,3,90,,period,,,,,,,FT,,2,3
 k_league_1_2026,2026-08-16,23,Ulsan HD,Gangwon FC,2,3,90,7,card,M. Tuci,False,yellow,Foul,,,,,,
 k_league_1_2026,2026-08-16,23,Ulsan HD,Gangwon FC,2,3,90,,card,H. Lee,True,yellow,Foul,,,,,,

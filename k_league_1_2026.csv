@@ -1,4 +1,37 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,90,,period,,,,,,,FT,,0,1
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,90,5,goal,S. Mugoša,False,,,,,,,0,1
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,84,,substitution,,False,,,D. Lee,G. Fernandes,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,84,,substitution,,False,,,L. Min-Hyeok,C. Y. Lee,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,80,,substitution,,True,,,A. D. B. Loua,M. Moon,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,80,,substitution,,True,,,M. Lee,João Pedro,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,78,,card,S. Y. Kwon,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,76,,substitution,,False,,,L. Ribeiro,M. Ferrier,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,65,,substitution,,True,,,J. Jeong,H. A. Friðjónsson,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,65,,substitution,,True,,,K. Woo-Jin,J. Iredale,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,58,,substitution,,False,,,S. Mugoša,S. Kim,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,58,,substitution,,False,,,C. Seung-Gu,K. Myung-Sun,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,55,,card,S. Kim,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,53,,substitution,,True,,,S. Min,T. v. Grunsven,,,,
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-08-23,24,Gwangju FC,Incheon United,0,1,22,,card,João Pedro,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,90,,period,,,,,,,FT,,3,0
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,84,,substitution,,True,,,J. S. Seo,G. Ludwigson,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,77,,substitution,,False,,,K. Yun-Gu,Y. Lee,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,74,,substitution,,True,,,C. Ha,A. Kryvotsiuk,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,74,,substitution,,True,,,V. Bobsin,S. Lee,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,66,,goal,J. Jeong,True,,,,,,,3,0
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,57,,substitution,,False,,,K. Dong-hyeon,H. Chul,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,56,,goal,M. K. Ju,True,,,,,,,2,0
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,47,,goal,G. Ludwigson,True,,,,,,,1,0
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,46,,substitution,,True,,,M. Ishida,J. B. Kim,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,46,,substitution,,False,,,K. Do-Hyun,K. Joon-hyuk,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,46,,substitution,,False,,,G. Lee,Y. Goh,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,44,,card,S. Lee,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,42,,card,M. Seo,False,red,Violent conduct,,,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,37,,substitution,,True,,,J. Jeong,W.S. Um,,,,
+k_league_1_2026,2026-08-23,24,Daejeon Hana Citizen,Gangwon FC,3,0,21,,substitution,,False,,,K. Gun-hee,B. Choi,,,,
 k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,90,,period,,,,,,,FT,,3,0
 k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,89,,goal,S. Kim,True,,,,,,,3,0
 k_league_1_2026,2026-08-22,24,Bucheon FC 1995,Pohang Steelers,3,0,85,,card,S. Ye-Geon,True,yellow,Foul,,,,,,

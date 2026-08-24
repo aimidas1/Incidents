@@ -1,4 +1,40 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,90,,period,,,,,,,FT,,2,1
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,87,,substitution,,False,,,J. Bartlett,Capita,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,78,,substitution,,True,,,M. Edwards,L. Brennan,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,77,,substitution,,True,,,S. Alzate,C. Sanchez,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,76,,card,E. Báez,True,yellow,Time wasting,,,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,73,,substitution,,True,,,S. Gregersen,P. Díaz,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,72,,card,L. Brennan,True,yellow,Foul,,,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,70,,goal,S. Afrifa,False,,,,,,,2,1
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,62,,substitution,,True,,,L. Brennan,A. Gill,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,62,,substitution,,True,,,W. Reilly,F. Picault,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,62,,substitution,,False,,,S. Afrifa,T. Calheira,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,62,,substitution,,False,,,J. Reid,E. Karić,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,45,,period,,,,,,,HT,,2,0
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,45,2,substitution,,False,,,J. Reynolds,J. Davis,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,45,,injuryTime,,,,,,,,5,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,24,,goal,F. Picault,True,,,,,,,2,0
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,22,,card,E. Karić,False,yellow,Foul,,,,,,
+mls_2026,2026-08-23,,Atlanta United,Sporting Kansas City,2,1,13,,goal,T. Jacob,True,,,,,,,1,0
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,90,,period,,,,,,,FT,,1,1
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,90,,injuryTime,,,,,,,,2,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,81,,substitution,,True,,,D. Fagúndez,J. Harrison,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,81,,substitution,,True,,,W. Harris,D. Turgeman,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,70,,substitution,,True,,,C. Baker,M. Polster,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,69,,card,J. Harrison,True,yellow,Foul,,,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,68,,substitution,,False,,,K. O'Toole,B. Traore,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,68,,substitution,,False,,,Raul Gustavo,A. Perea,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,64,,substitution,,True,,,J. Siqueira,J. Yueill,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,61,,card,K. Parks,False,yellow,Foul,,,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,46,,substitution,,False,,,Luighi,T. Magno,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,45,,period,,,,,,,HT,,1,1
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,45,1,goal,J. Sands,False,,,,,,,1,1
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,40,,substitution,,False,,,K. Parks,J. Shore,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,40,,substitution,,False,,,M. Ilenič,T. Gray,,,,
+mls_2026,2026-08-23,,New England Revolution,New York City FC,1,1,36,,goal,D. Turgeman,True,,,,,,,1,0
 mls_2026,2026-08-23,,San Jose Earthquakes,Minnesota United,1,5,90,,period,,,,,,,FT,,1,5
 mls_2026,2026-08-23,,San Jose Earthquakes,Minnesota United,1,5,90,,injuryTime,,,,,,,,2,,
 mls_2026,2026-08-23,,San Jose Earthquakes,Minnesota United,1,5,86,,substitution,,False,,,D. Padelford,A. Markanich,,,,

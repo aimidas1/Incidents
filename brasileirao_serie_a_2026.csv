@@ -1,4 +1,25 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,90,,period,,,,,,,FT,,2,3
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,90,2,goal,S. Rodríguez,True,,,,,,,2,3
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,85,,goal,S. Rodríguez,True,,,,,,,1,3
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,85,,substitution,,False,,,R. P. Nepomuceno,K. Viveros,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,80,,substitution,,True,,,M. Martins,Á. Montoro,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,78,,goal,K. Viveros,False,,,,,,,0,3
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,77,,card,Dantas,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,72,,substitution,,True,,,S. Rodríguez,Edenilson,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,68,,card,Edenilson,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,63,,substitution,,True,,,K. Barría,C. Medina,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,63,,substitution,,True,,,Huguinho,Allan,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,61,,substitution,,False,,,Dudu,J. Cruz,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,46,,substitution,,False,,,J. Portilla,L. Gustavo,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,46,,substitution,,False,,,K. C. Vargas,Leozinho,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,46,,substitution,,True,,,J. Santos,K. Toledo,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,45,,period,,,,,,,HT,,0,2
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,35,,card,K. Toledo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,13,,goal,K. Viveros,False,,,,,,,0,2
+brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,11,,goal,J. Cruz,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-08-23,24,Coritiba,Corinthians,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_a_2026,2026-08-23,24,Coritiba,Corinthians,2,1,90,3,goal,Raniele,False,,,,,,,2,1
 brasileirao_serie_a_2026,2026-08-23,24,Coritiba,Corinthians,2,1,90,,injuryTime,,,,,,,,6,,

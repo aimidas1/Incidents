@@ -1888,6 +1888,52 @@ k_league_1_2026,2026-04-21,9,FC Seoul,Bucheon FC 1995,3,0,35,,card,S. Seong,Fals
 k_league_1_2026,2026-04-21,9,FC Seoul,Bucheon FC 1995,3,0,31,,goal,P. Klimala,True,,,,,,,1,0
 k_league_1_2026,2026-04-21,9,FC Seoul,Bucheon FC 1995,3,0,30,,varDecision,H. Babec,True,,,,,,,,
 k_league_1_2026,2026-04-21,9,FC Seoul,Bucheon FC 1995,3,0,14,,card,D. K. Baek,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,90,,period,,,,,,,FT,,0,1
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,90,,card,L. Ho-jae,True,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,90,,card,J. Park,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,90,,card,J. H. Kim,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,90,,injuryTime,,,,,,,,6,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,85,,substitution,,False,,,B. K. Kim,M. Oliveira,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,85,,substitution,,False,,,C. Lee,J. H. Kim,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,84,,card,T. H. Lee,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,82,,substitution,,True,,,S. Seung-Beom,K. Ye-Sung,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,82,,substitution,,True,,,C. Sang-Hyeok,K. Shin,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,78,,substitution,,False,,,J. Park,U. Kim,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,68,,goal,G. Choi,False,,,,,,,0,1
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,66,,substitution,,True,,,S. Y. Ki,D. Kim,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,59,,substitution,,False,,,Airton,M. Seong-Woo,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,59,,substitution,,False,,,T. O. Kotte,J. Lee,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,57,,card,D. Kim,True,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,55,,substitution,,True,,,J. Tranziska,H. Seo-woong,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,46,,substitution,,True,,,Wanderson,J. Rocha,,,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,45,,injuryTime,,,,,,,,1,,
+k_league_1_2026,2026-04-19,8,Pohang Steelers,FC Anyang,0,1,16,,card,J. Rocha,True,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,90,,period,,,,,,,FT,,5,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,90,,goal,D. G. Lee,True,,,,,,,5,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,90,,goal,Y. Heo,True,,,,,,,4,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,90,,injuryTime,,,,,,,,8,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,84,,card,P. Sung-Hyun,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,82,,card,K. S. Lee,True,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,79,,substitution,,True,,,C. Seok-Hyun,S. Shim,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,79,,substitution,,True,,,Y. Heo,Marcão,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,71,,substitution,,False,,,K. Yun-Ho,Seung-un Ha,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,71,,substitution,,False,,,P. Sung-Hyun,J. Jeong,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,69,,substitution,,True,,,Pedrinho,J. Si-Young,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,65,,card,S. Shim,True,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,64,,substitution,,True,,,D. G. Lee,D. Bojanic,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,64,,substitution,,True,,,L. Min-Hyeok,H. Lee,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,64,,substitution,,False,,,S. Y. Gwon,J. Kim,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,63,,substitution,,False,,,Y. Hong,K. Choi,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,60,,card,Y. Kim,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,57,,goal,Marcão,True,,,,,,,3,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,45,,period,,,,,,,HT,,2,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,45,,injuryTime,,,,,,,,3,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,39,,card,S. J. Ju,False,yellow,,,,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,37,,substitution,,False,,,M. Moon,C. M. Shin,,,,
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,27,,goal,Marcão,True,,,,,,,2,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,20,,goal,C. M. Shin,False,,,,,,,1,1
+k_league_1_2026,2026-04-19,8,Ulsan HD,Gwangju FC,5,1,18,,goal,J. Seung-hyeon,True,,,,,,,1,0
 k_league_1_2026,2026-04-18,8,Jeju SK,Gimcheon Sangmu FC,1,1,90,,period,,,,,,,FT,,1,1
 k_league_1_2026,2026-04-18,8,Jeju SK,Gimcheon Sangmu FC,1,1,90,,injuryTime,,,,,,,,6,,
 k_league_1_2026,2026-04-18,8,Jeju SK,Gimcheon Sangmu FC,1,1,75,,substitution,,False,,,J. Jae-Min,Y. Hong,,,,

@@ -1,4 +1,68 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,90,,period,,,,,,,FT,,2,0
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,90,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,84,,substitution,,False,,,I. Luna,V. Arteaga,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,84,,substitution,,False,,,C. Calderón,U. Antuna,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,84,,substitution,,True,,,D. Abreu,M. E. Ghezouani,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,82,,substitution,,True,,,P. N. Ortíz,A. Preciado,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,81,,goal,G. Mora,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,79,,varDecision,M. E. Ghezouani,True,,,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,77,,substitution,,True,,,R. Árciga,F. González,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,77,,substitution,,True,,,Á. Zapata,Y. Padilla,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,77,,substitution,,True,,,U. Bilbao,J. Vega,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,67,,substitution,,False,,,Juninho,A. Carrasquilla,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,67,,substitution,,False,,,P. Vite,A. Medina,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,60,,varDecision,P. Bennevendo,False,,,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,59,,card,P. Bennevendo,False,red,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,53,,goal,G. Mora,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,45,,injuryTime,,,,,,,,1,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,33,,card,I. Tona,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Tijuana,Pumas UNAM,2,0,12,,card,A. Carrasquilla,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,90,,period,,,,,,,FT,,1,3
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,90,4,card,J. Torres,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,90,4,card,P. Pedraza,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,86,,substitution,,False,,,J. Díaz,O. Campos,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,84,,substitution,,False,,,A. Montes,A. Garcia,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,84,,substitution,,False,,,O. Ebere,J. Paradela,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,84,,card,E. Rodriguez,True,yellow,,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,83,,goal,E. Rodriguez,True,,,,,,,1,3
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,78,,substitution,,True,,,R. C. Pineda,D. Leyva,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,73,,substitution,,False,,,G. Fernández,N. Ibáñez,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,73,,substitution,,False,,,J. R. Barragan,R. González,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,73,,substitution,,False,,,L. Romero,J. Márquez,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,67,,card,J. Ruiz,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,61,,substitution,,True,,,E. Rodriguez,O. González,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,61,,substitution,,True,,,P. Pedraza,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,59,,card,A. Garcia,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,54,,card,W. Ditta,False,yellow,,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,53,,goal,W. Ditta,False,,,,,,,0,3
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,46,,goal,N. Ibáñez,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,46,,substitution,,True,,,J. Torres,M. Espíndola,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,46,,substitution,,True,,,R. Martínez,K. Naves,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,45,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,43,,card,D. Leyva,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,32,,substitution,,True,,,M. Zaleta,C. A. V. Tenorio,,,,
+liga_mx_apertura_2026,2026-08-29,6,Club Necaxa,Cruz Azul,1,3,23,,goal,J. Márquez,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,90,2,substitution,,True,,,O. Vázquez,M. Sarrafiore,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,90,1,goal,M. Sarrafiore,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,89,,card,E. Pizzuto,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,87,,substitution,,True,,,J. Charcopa,A. Escobar,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,87,,substitution,,True,,,J. Moxica,J. González,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,81,,goal,A. Alvarado,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,77,,varDecision,J. Guevara,False,,,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,74,,card,L. Puente,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,73,,substitution,,False,,,B. Colula,S. Vegas,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,71,,card,S. Vegas,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,46,,substitution,,False,,,J. Cortizo,F. Beltrán,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,46,,substitution,,False,,,D. Arcila,I. Díaz,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,46,,substitution,,False,,,A. Alvarado,D. Cambindo,,,,
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-08-29,6,Atlante FC,Club León,1,1,45,,injuryTime,,,,,,,,2,,
 liga_mx_apertura_2026,2026-08-24,5,Pumas UNAM,Club Necaxa,1,1,90,,period,,,,,,,FT,,1,1
 liga_mx_apertura_2026,2026-08-24,5,Pumas UNAM,Club Necaxa,1,1,90,5,card,E. Rodriguez,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-08-24,5,Pumas UNAM,Club Necaxa,1,1,90,4,card,I. Luna,True,yellow,Foul,,,,,,

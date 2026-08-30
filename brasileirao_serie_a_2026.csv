@@ -1,4 +1,69 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,90,,period,,,,,,,FT,,3,1
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,90,5,goal,F. Morais,False,,,,,,,3,1
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,90,4,card,L. Freitas,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,90,2,goal,David,True,,,,,,,3,0
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,85,,substitution,,True,,,R. Rique,Tchê Tchê,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,85,,substitution,,True,,,M. Hinestroza,A. Gómez,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,85,,substitution,,False,,,Wanderson,N. Villarreal,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,79,,substitution,,False,,,L. Silva,Zé Lucas,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,79,,substitution,,True,,,C. Barros,S. Sosa,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,79,,substitution,,True,,,David,F. Colidio,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,79,,substitution,,False,,,F. Morais,K. Kenji,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,70,,substitution,,True,,,P. Rodríguez,Adson,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,62,,substitution,,False,,,Wesley,J. Costa,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,62,,substitution,,False,,,M. Pereira,L. Rodríguez,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,55,,goal,L. Freitas,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,33,,goal,Tchê Tchê,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,27,,card,Adson,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-30,25,Vasco da Gama,Cruzeiro,3,1,24,,card,J. Marcelo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,90,5,card,J. Capixaba,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,90,,goal,Fernando,False,,,,,,,2,1
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,90,,varDecision,Fernando,False,,,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,86,,card,H. Mosquera,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,84,,card,A. Silva,True,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,84,,substitution,,True,,,D. Ferreira,Danielzinho,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,84,,substitution,,True,,,Ferreira,Artur,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,83,,card,P. Henrique,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,78,,substitution,,False,,,Y. A. d. Aquino,I. Pitta,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,71,,substitution,,True,,,L. Ramon,Luciano,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,71,,substitution,,True,,,P. Maia,A. Buta,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,68,,substitution,,False,,,G. Neves,J. Herrera,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,68,,substitution,,False,,,H. Mosquera,L. Barbosa,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,55,,substitution,,True,,,A. Silva,G. Santana,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,46,,substitution,,False,,,Fernando,Vinicinho,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,46,,substitution,,False,,,Fabinho,E. Ramires,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,45,,period,,,,,,,HT,,2,0
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,45,4,goal,G. Santana,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,45,,card,A. Sant Anna,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,45,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,14,,goal,Luciano,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,8,,varDecision,Luciano,True,,,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,São Paulo,Red Bull Bragantino,2,1,90,,card,J. Calleri,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,90,,substitution,,True,,,C. C. Soares,Reinier,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,90,,substitution,,True,,,V. Hugo,Alexsander,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,87,,goal,Erick,False,,,,,,,2,1
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,81,,substitution,,False,,,Walace,Caique,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,75,,substitution,,True,,,Dudu,A. Minda,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,69,,substitution,,False,,,Renê,A. Bruno,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,69,,substitution,,False,,,Matheuzinho,D. Tarzia,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,69,,substitution,,False,,,Erick,E. Martinez,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,63,,goal,Reinier,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,60,,substitution,,True,,,G. Scarpa,T. Borbas,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,59,,card,M. Cissé,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,46,,substitution,,False,,,Mateusinho,E. Brítez,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,44,,card,Á. Preciado,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,35,,card,D. Tarzia,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-29,25,Atlético Mineiro,Vitória,2,1,25,,goal,T. Borbas,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,90,,period,,,,,,,FT,,2,3
 brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,90,2,goal,S. Rodríguez,True,,,,,,,2,3
 brasileirao_serie_a_2026,2026-08-24,24,Botafogo,Athletico,2,3,90,,injuryTime,,,,,,,,5,,

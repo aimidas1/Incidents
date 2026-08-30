@@ -1,4 +1,41 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,90,,period,,,,,,,FT,,3,1
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,90,4,card,J. Jae-Sang,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,90,2,substitution,,False,,,D. Lim,L. Kang-Hyeon,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,90,,substitution,,True,,,B. Michel,D. G. Lee,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,90,,substitution,,True,,,K. Young-gwon,S. Myeong-Kwan,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,90,,substitution,,True,,,J. Jae-Sang,Yago,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,86,,substitution,,False,,,J. Jae-Min,K. H. Lee,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,75,,goal,Yago,True,,,,,,,3,1
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,71,,substitution,,True,,,J. Si-Young,L. Jin-hyun,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,71,,substitution,,True,,,K. S. Lee,D. Bojanić,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,68,,substitution,,False,,,I. Kim,Y. Hong,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,62,,goal,K. Sang-woo,True,,,,,,,2,1
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,60,,substitution,,False,,,J. Byung-Kwan,J. Go,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,58,,substitution,,True,,,K. Sang-woo,H. Lee,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,46,,substitution,,False,,,K. Lee-Seok,T. Park,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,46,,substitution,,False,,,L. Sangheon,S. Park,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,45,,period,,,,,,,HT,,1,1
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,45,2,card,L. Jung-Taek,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,44,,goal,Yago,True,,,,,,,1,1
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,43,,card,T. Park,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-29,26,Ulsan HD,Gimcheon Sangmu FC,3,1,14,,goal,K. H. Lee,False,,,,,,,0,1
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,90,,period,,,,,,,FT,,1,1
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,90,3,substitution,,True,,,L. Eui-Hyeong,Gabriel,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,90,2,substitution,,False,,,B. K. Kim,Airton,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,90,2,card,Yeo,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,89,,card,J. Lee,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,83,,substitution,,False,,,J. Lee,J. H. Kim,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,83,,substitution,,False,,,H. Chae,M. Oliveira,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,82,,card,Gabriel,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,70,,goal,Airton,False,,,,,,,1,1
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,70,,substitution,,True,,,S. Kim,S. Ye-Geon,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,70,,substitution,,True,,,B. G. Yoon,J. Kim,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,67,,substitution,,False,,,B. Knežević,G. Choi,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,67,,substitution,,False,,,B. Tsague,U. Kim,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,65,,substitution,,True,,,Yeo,T. Santos,,,,
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,53,,goal,J. Kim,True,,,,,,,1,0
+k_league_1_2026,2026-08-29,26,Bucheon FC 1995,FC Anyang,1,1,45,,period,,,,,,,HT,,0,0
 k_league_1_2026,2026-08-26,25,Gangwon FC,Gwangju FC,2,2,90,,period,,,,,,,FT,,2,2
 k_league_1_2026,2026-08-26,25,Gangwon FC,Gwangju FC,2,2,89,,goal,K. Dong-hyeon,True,,,,,,,2,2
 k_league_1_2026,2026-08-26,25,Gangwon FC,Gwangju FC,2,2,88,,goal,M. Tuci,True,,,,,,,1,2

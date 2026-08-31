@@ -1,4 +1,45 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,,period,,,,,,,FT,,3,3
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,7,goal,L. Farrington,False,,,,,,,3,3
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,7,card,L. MacNaughton,True,yellow,Time wasting,,,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,89,,substitution,,False,,,S. Sarver,Kaick,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,89,,card,P. Musa,False,yellow,Foul,,,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,88,,substitution,,True,,,L. MacNaughton,J. Orozco,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,81,,goal,S. Ibeagha,False,,,,,,,3,2
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,72,,substitution,,True,,,Z. Zengue,J. Sang-bin,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,68,,substitution,,False,,,N. Norris,B. Kamungo,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,68,,substitution,,False,,,L. Farrington,Ramiro,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,64,,goal,C. Holse,True,,,,,,,3,1
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,59,,substitution,,False,,,R. Binyamin,S. Moreno,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,59,,substitution,,False,,,C. Cappis,H. Johansson,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,59,,substitution,,True,,,C. Holse,A. Mățan,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,45,,period,,,,,,,HT,,2,1
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,45,,injuryTime,,,,,,,,4,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,43,,goal,D. Edelman,True,,,,,,,2,1
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,18,,goal,S. Moore,False,,,,,,,1,1
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,14,,card,Ramiro,False,yellow,Foul,,,,,,
+mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,3,,goal,S. Becher,True,,,,,,,1,0
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,90,,period,,,,,,,FT,,1,3
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,90,4,substitution,,False,,,J. Yueill,A. Yusuf,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,90,4,substitution,,False,,,D. Fagúndez,C. Gil,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,90,,substitution,,True,,,A. Herrera,E. Bailly,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,90,,substitution,,True,,,L. Giaccone,B. Méndez,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,90,,injuryTime,,,,,,,,6,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,89,,substitution,,True,,,D. Chambost,A. Gomes,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,89,,substitution,,False,,,I. Feingold,J. Harrison,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,87,,substitution,,False,,,W. Harris,D. Turgeman,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,79,,goal,C. Gil,False,,,,,,,1,3
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,78,,card,A. Yusuf,False,yellow,Argument,,,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,75,,varDecision,D. Turgeman,False,,,,,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,62,,substitution,,True,,,G. Tapia,J. Martínez,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,62,,substitution,,True,,,C. Ruvalcaba,T. Karumanchi,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,45,,period,,,,,,,HT,,1,2
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,45,,injuryTime,,,,,,,,3,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,41,,goal,D. Turgeman,False,,,,,,,1,2
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,32,,goal,M. Polster,False,,,,,,,1,1
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,25,,card,T. Karumanchi,True,yellow,Foul,,,,,,
+mls_2026,2026-08-30,,Columbus Crew,New England Revolution,1,3,8,,goal,B. Méndez,True,,,,,,,1,0
 mls_2026,2026-08-30,,Portland Timbers,Austin FC,1,2,90,,period,,,,,,,FT,,1,2
 mls_2026,2026-08-30,,Portland Timbers,Austin FC,1,2,90,7,card,J. Rosales,False,yellow,Foul,,,,,,
 mls_2026,2026-08-30,,Portland Timbers,Austin FC,1,2,90,3,goal,O. Svatok,False,,,,,,,1,2

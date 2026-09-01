@@ -95,6 +95,27 @@ eredivisie_2026_2027,2026-08-08,1,PSV Eindhoven,Fortuna Sittard,2,2,87,,substitu
 eredivisie_2026_2027,2026-08-08,1,PSV Eindhoven,Fortuna Sittard,2,2,90,,period,,,,,,,FT,,2,2
 eredivisie_2026_2027,2026-08-08,1,PSV Eindhoven,Fortuna Sittard,2,2,90,2,goal,É. Michut,False,,,,,,,2,2
 eredivisie_2026_2027,2026-08-08,1,PSV Eindhoven,Fortuna Sittard,2,2,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,33,,card,A. Ouazane,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,45,,period,,,,,,,HT,,0,0
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,45,,injuryTime,,,,,,,,6,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,57,,card,S. Floranus,True,red,Foul,,,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,60,,substitution,,True,,,D. v. d. Haar,I. Cissoko,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,61,,substitution,,True,,,G. Reiziger,D. Mbayo,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,61,,substitution,,False,,,J. Mokio,O. Gloukh,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,61,,substitution,,False,,,J. Brandt,S. Berghuis,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,61,,substitution,,False,,,M. Godts,Y. Regeer,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,67,,substitution,,False,,,M. Leonardo,K. Dolberg,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,73,,substitution,,False,,,T. Arokodare,A. Ouazane,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,74,,substitution,,True,,,T. Velthuis,T. Oosting,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,76,,goal,J. Mokio,False,,,,,,,0,1
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,85,,substitution,,True,,,O. Velanas,R. Thomas,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,85,,substitution,,True,,,E. Sørensen,T. Sommer,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,86,,card,D. Klaassen,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,88,,card,G. Reiziger,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,89,,card,K. Kostons,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,90,,period,,,,,,,FT,,0,2
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,90,5,goal,J. Brandt,False,,,,,,,0,2
+eredivisie_2026_2027,2026-08-09,1,PEC Zwolle,AFC Ajax,0,2,90,,injuryTime,,,,,,,,6,,
 eredivisie_2026_2027,2026-08-09,1,Sparta Rotterdam,Feyenoord,0,1,35,,goal,L. Valente,False,,,,,,,0,1
 eredivisie_2026_2027,2026-08-09,1,Sparta Rotterdam,Feyenoord,0,1,39,,card,C. Terho,True,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-08-09,1,Sparta Rotterdam,Feyenoord,0,1,45,,period,,,,,,,HT,,0,1

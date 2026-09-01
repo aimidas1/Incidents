@@ -18,7 +18,6 @@ italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,87,,substitution,,Tru
 italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,87,,goal,A. Vergara,False,,,,,,,0,2
 italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,90,,period,,,,,,,FT,,0,2
 italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,90,,injuryTime,,,,,,,,5,,
-italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,6,,goal,H. Çalhanoğlu,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,29,,goal,G. Varela,False,,,,,,,1,1
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,34,,card,L. Martínez,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,45,,period,,,,,,,HT,,1,1
@@ -28,6 +27,7 @@ italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,48,,goal,P. Zieliński,Tru
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,54,,substitution,,True,,,P. Sučić,H. Çalhanoğlu,,,,
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,54,,substitution,,True,,,A. Bonny,L. Martínez,,,,
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,55,,goal,F. P. Esposito,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,6,,goal,H. Çalhanoğlu,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,63,,goal,Y. Bisseck,True,,,,,,,4,1
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,69,,card,E. Kouadio,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,70,,substitution,,False,,,N. Galazzi,M. Mout,,,,
@@ -96,8 +96,25 @@ italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,,period,,,,,,,FT
 italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,3,card,G. Calvani,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,1,substitution,,False,,,M. Perin,G. Vicario,,,,
 italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,,injuryTime,,,,,,,,6,,
-italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,3,,card,K. Gaspar,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,52,,card,R. Loftus-Cheek,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,56,,substitution,,False,,,L. Modrić,R. Loftus-Cheek,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,56,,substitution,,False,,,A. Rabiot,A. Jashari,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,64,,goal,A. Cissè,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,66,,goal,A. Rabiot,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,66,,substitution,,False,,,A. Saelemaekers,A. Cissè,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,66,,substitution,,False,,,D. Bartesaghi,P. Estupiñán,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,70,,substitution,,True,,,A. Njie,G. Simeone,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,70,,substitution,,True,,,N. Fortini,M. Pedersen,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,70,,substitution,,True,,,C. Adams,C. Casadei,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,76,,substitution,,False,,,M. Gabbia,M. Gila,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,81,,substitution,,True,,,Z. Aboukhlal,A. Cacciamani,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,85,,substitution,,True,,,S. Kulenović,P. Comuzzo,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,90,,period,,,,,,,FT,,1,2
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,90,3,goal,C. Adams,True,,,,,,,1,2
+italia_serie_a_2026_2027,2026-08-23,1,Torino,AC Milan,1,2,90,,injuryTime,,,,,,,,3,,
 italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,16,,varDecision,T. Correia,True,,,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,3,,card,K. Gaspar,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,45,,period,,,,,,,HT,,0,0
 italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,45,,injuryTime,,,,,,,,3,,
 italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,46,,goal,O. Gorter,False,,,,,,,0,1

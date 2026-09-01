@@ -78,14 +78,12 @@ portugal_liga_betclic_2026_2027,2026-08-08,1,Vitória SC,FC Arouca,0,1,90,3,card
 portugal_liga_betclic_2026_2027,2026-08-08,1,Vitória SC,FC Arouca,0,1,90,2,card,O. Lebedenko,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-08,1,Vitória SC,FC Arouca,0,1,90,,card,D. Monteiro,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-08,1,Vitória SC,FC Arouca,0,1,90,,injuryTime,,,,,,,,4,,
-portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,5,,varDecision,A. Silva,True,,,,,,,,
-portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,8,,card,M. Mendes,False,yellow,Foul,,,,,,
-portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,9,,goal,A. Silva,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,40,,varDecision,A. Silva,True,,,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,43,,card,N. Touaizi,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,44,,goal,G. Veiga,True,,,,,,,2,0
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,45,,period,,,,,,,HT,,2,0
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,5,,varDecision,A. Silva,True,,,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,52,,card,Y. Bojang,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,58,,substitution,,True,,,P. Rosario,A. Varela,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,58,,substitution,,True,,,B. Sainz,W. Gomes,,,,
@@ -95,12 +93,32 @@ portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,74,,substit
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,74,,substitution,,False,,,Z. Kassary,Ian Luccas,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,75,,substitution,,True,,,R. Mora,G. Veiga,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,79,,substitution,,False,,,M. Essimi,Figueiredo,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,8,,card,M. Mendes,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,82,,substitution,,True,,,D. Gül,A. Silva,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,89,,card,Chiquinho,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,9,,goal,A. Silva,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,90,,period,,,,,,,FT,,2,0
 portugal_liga_betclic_2026_2027,2026-08-09,1,FC Porto,FC Alverca,2,0,90,,injuryTime,,,,,,,,6,,
-portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,7,,goal,F. Navarro,False,,,,,,,0,1
-portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,8,,goal,N. John,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,19,,substitution,,True,,,D. Moreira,Weverson,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,26,,substitution,,False,,,T. Monteiro,Ryan,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,32,,card,F. Cáseres,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,45,4,card,N. Abbey,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,45,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,47,,card,A. Ndoj,False,red,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,50,,substitution,,False,,,T. Nikitscher,R. Galčík,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,65,,substitution,,True,,,Z. Carlos,F. Cáseres,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,65,,substitution,,True,,,J. Silva,D. Moreira,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,76,,substitution,,True,,,H. Hernández,A. Lausen,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,77,,substitution,,True,,,T. Touré,G. Martins,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,82,,substitution,,False,,,M. Vrousai,J. Blesa,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,83,,substitution,,False,,,J. Brabec,D. Nascimento,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,83,,substitution,,False,,,D. Špikić,D. Bezerra,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,85,,card,J. Brabec,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,87,,goal,H. Hernández,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,90,,period,,,,,,,FT,,1,0
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,90,1,card,G. Liavas,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Gil Vicente,Rio Ave,1,0,90,,injuryTime,,,,,,,,8,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,18,,card,D. Travassos,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,20,,card,G. Liberato,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,42,,substitution,,False,,,A. Bajrami,B. Arrey-Mbi,,,,
@@ -114,9 +132,11 @@ portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,59,,s
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,61,,card,N. John,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,66,,goal,P. Víctor,False,,,,,,,1,2
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,67,,substitution,,True,,,J. Veloso,R. Alonso,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,7,,goal,F. Navarro,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,75,,substitution,,True,,,M. Stjepanović,N. John,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,75,,substitution,,True,,,Y. Maranhão,G. Liberato,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,78,,card,G. Batista,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,8,,goal,N. John,True,,,,,,,1,1
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,,period,,,,,,,FT,,2,2
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,4,substitution,,False,,,J. Moutinho,D. E. Tıknaz,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,3,card,P. Víctor,False,yellow,Argument,,,,,,

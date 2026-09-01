@@ -21,7 +21,6 @@ brasileirao_serie_b_2026,2026-03-21,1,Botafogo-SP,Fortaleza,4,0,90,,card,F. Viei
 brasileirao_serie_b_2026,2026-03-21,1,Botafogo-SP,Fortaleza,4,0,90,,substitution,,True,,,Marquinho,L. Maciel,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Botafogo-SP,Fortaleza,4,0,90,,substitution,,True,,,J. Nem,Kelvin,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Botafogo-SP,Fortaleza,4,0,90,,card,Maílton,False,red,,,,,,,
-brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,7,,goal,Vinicius Zanocelo,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,42,,substitution,,False,,,Marcão Silva,R. Andrade,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,46,,substitution,,True,,,Fernandinho,Vina,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,52,,card,Éder,True,yellow,,,,,,,
@@ -32,6 +31,7 @@ brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,63,,substitution,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,64,,substitution,,False,,,Foguinho,D. Miraíma,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,64,,substitution,,False,,,Pedrinho,L. Rian,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,64,,substitution,,False,,,Echaporã,Fabrício Daniel,,,,
+brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,7,,goal,Vinicius Zanocelo,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,74,,substitution,,True,,,Júlio César,Rafael Ramos,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,82,,substitution,,False,,,P. Vitor,Pablo Dyego,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Ceará,São Bernardo,1,1,85,,card,L. Lima,True,yellow,,,,,,,
@@ -95,7 +95,6 @@ brasileirao_serie_b_2026,2026-03-21,1,Vila Nova FC,Clube De Regatas Brasil,2,2,9
 brasileirao_serie_b_2026,2026-03-21,1,Vila Nova FC,Clube De Regatas Brasil,2,2,90,6,card,V. Barata,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-03-21,1,Vila Nova FC,Clube De Regatas Brasil,2,2,90,,injuryTime,,,,,,,,11,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,0,,card,H. D. Anjos,True,yellow,Argument,,,,,,
-brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,6,,goal,Waguininho,False,,,,,,,0,1
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,19,,card,I. Fernandes,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,35,,card,Arnaldo,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,35,,card,E. Biasi,False,yellow,Foul,,,,,,
@@ -109,6 +108,7 @@ brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,46,,substitution,,T
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,49,,varDecision,Samuel,True,,,,,,,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,51,,card,Samuel,True,red,Foul,,,,,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,57,,substitution,,False,,,W. Lepo,Marcinho,,,,
+brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,6,,goal,Waguininho,False,,,,,,,0,1
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,61,,card,B. Alves,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,63,,substitution,,True,,,F. Cardoso,Juninho,,,,
 brasileirao_serie_b_2026,2026-03-22,1,Náutico,Criciúma,0,1,69,,substitution,,False,,,F. Mateus,Jean Irmer,,,,

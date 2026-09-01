@@ -114,6 +114,26 @@ france_ligue_1_2026_2027,2026-08-22,1,Troyes,Paris FC,0,0,81,,substitution,,Fals
 france_ligue_1_2026_2027,2026-08-22,1,Troyes,Paris FC,0,0,86,,substitution,,True,,,Y. Koné,R. Ripart,,,,
 france_ligue_1_2026_2027,2026-08-22,1,Troyes,Paris FC,0,0,90,,period,,,,,,,FT,,0,0
 france_ligue_1_2026_2027,2026-08-22,1,Troyes,Paris FC,0,0,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,11,,goal,O. Giroud,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,22,,card,A. Bermont,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,31,,goal,T. Santos,False,,,,,,,0,2
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,45,,period,,,,,,,HT,,0,2
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,57,,substitution,,True,,,P. Peter,A. Bermont,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,57,,substitution,,False,,,F. Correia,B. Önal,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,63,,substitution,,False,,,G. Perrin,O. Giroud,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,63,,substitution,,False,,,O. Sahraoui,E. Mbappé,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,72,,card,H. Haraldsson,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,73,,substitution,,True,,,M. U. Simbakoli,A. E. Ouazzani,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,73,,substitution,,True,,,D. Harouna,J. Allevinah,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,74,,card,R. Perraud,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,76,,substitution,,False,,,C. Verdonk,R. Perraud,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,76,,substitution,,False,,,I. Cossier,H. Haraldsson,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,85,,substitution,,True,,,B. Diatta,Y. Belkhdim,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,85,,substitution,,True,,,C. Arcus,L. Raolisoa,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,90,,period,,,,,,,FT,,0,2
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,90,,card,M. U. Simbakoli,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-08-23,1,Angers,Lille,0,2,90,,injuryTime,,,,,,,,4,,
 france_ligue_1_2026_2027,2026-08-29,2,Lorient,Troyes,1,2,26,,varDecision,A. Mille,False,,,,,,,,
 france_ligue_1_2026_2027,2026-08-29,2,Lorient,Troyes,1,2,29,,goal,R. Ripart,False,,,,,,,0,1
 france_ligue_1_2026_2027,2026-08-29,2,Lorient,Troyes,1,2,38,,goal,L. Maronnier,False,,,,,,,0,2

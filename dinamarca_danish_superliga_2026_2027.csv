@@ -118,6 +118,30 @@ dinamarca_danish_superliga_2026_2027,2026-07-27,1,Randers FC,Silkeborg IF,1,1,80
 dinamarca_danish_superliga_2026_2027,2026-07-27,1,Randers FC,Silkeborg IF,1,1,80,,substitution,,True,,,O. F. Seck,M. Themsen,,,,
 dinamarca_danish_superliga_2026_2027,2026-07-27,1,Randers FC,Silkeborg IF,1,1,90,,period,,,,,,,FT,,1,1
 dinamarca_danish_superliga_2026_2027,2026-07-27,1,Randers FC,Silkeborg IF,1,1,90,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,12,,substitution,,False,,,E. Kahl,F. Tingager,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,31,,varDecision,K. Arnstad,False,,,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,33,,goal,K. Arnstad,False,,,,,,,0,1
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,42,,card,S. Colyn,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,45,,period,,,,,,,HT,,0,1
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,45,1,card,Í. S. Þorvaldsson,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,45,,injuryTime,,,,,,,,4,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,46,,substitution,,False,,,R. Carstensen,O. Haugstrup,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,51,,card,C. Storch,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,57,,substitution,,True,,,O. Højer,A. Bøndergaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,57,,substitution,,True,,,C. Allen,O. Buur,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,63,,card,F. Emmery,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,65,,substitution,,False,,,S. Tchamche,T. Bech,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,65,,substitution,,False,,,L. Callø,C. Storch,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,67,,goal,C. Winther,True,,,,,,,1,1
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,73,,substitution,,True,,,F. Gytkjær,Í. S. Þorvaldsson,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,74,,card,M. Camara,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,77,,substitution,,False,,,M. Knudsen,M. Camara,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,87,,substitution,,True,,,M. H. Rasmussen,S. Colyn,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,87,,substitution,,True,,,D. Kristjansson,R. Tytens,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,88,,goal,F. Gytkjær,True,,,,,,,2,1
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,90,,period,,,,,,,FT,,2,2
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,90,1,goal,J. Jønsson,False,,,,,,,2,2
+dinamarca_danish_superliga_2026_2027,2026-08-01,2,Lyngby,AGF,2,2,90,,injuryTime,,,,,,,,4,,
 dinamarca_danish_superliga_2026_2027,2026-08-28,6,AC Horsens,Viborg FF,2,3,34,,card,J. Madsen,True,yellow,Argument,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-28,6,AC Horsens,Viborg FF,2,3,34,,goal,D. Hanza,False,,,,,,,0,1
 dinamarca_danish_superliga_2026_2027,2026-08-28,6,AC Horsens,Viborg FF,2,3,45,,period,,,,,,,HT,,0,2

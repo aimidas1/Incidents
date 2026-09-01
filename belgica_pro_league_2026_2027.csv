@@ -93,6 +93,30 @@ belgica_pro_league_2026_2027,2026-08-09,1,KAA Gent,KV Mechelen,2,0,85,,card,M. D
 belgica_pro_league_2026_2027,2026-08-09,1,KAA Gent,KV Mechelen,2,0,86,,substitution,,False,,,C. J. V. Meirvenne,B. Bafdili,,,,
 belgica_pro_league_2026_2027,2026-08-09,1,KAA Gent,KV Mechelen,2,0,90,,period,,,,,,,FT,,2,0
 belgica_pro_league_2026_2027,2026-08-09,1,KAA Gent,KV Mechelen,2,0,90,,injuryTime,,,,,,,,4,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,20,,card,A. K. Traoré,False,yellow,Simulation,,,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,22,,varDecision,A. Ousou,True,,,,,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,24,,goal,P. Guiagon,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,30,,card,A. K. Traoré,False,red,Violent conduct,,,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,31,,card,A. Ousou,True,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,39,,goal,Ó. Gil,False,,,,,,,1,1
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,45,,period,,,,,,,HT,,1,1
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,45,,card,C. Ikwuemesi,False,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,45,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,46,,substitution,,True,,,I. I. Cissé,A. Boukamir,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,47,,varDecision,C. Keita,True,,,,,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,59,,goal,K. V. D. Kerkhof,True,,,,,,,2,1
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,64,,substitution,,False,,,D. Opoku,Ó. Gil,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,64,,substitution,,False,,,T. Ogiwara,H. Teklab,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,68,,substitution,,True,,,A. Bojang,P. Pflücke,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,70,,substitution,,False,,,Ł. Łakomy,W. George,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,74,,substitution,,True,,,F. Mbemba,P. Guiagon,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,74,,substitution,,True,,,J. N. Romsaas,A. Scheidler,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,76,,substitution,,False,,,S. Yamada,C. Ikwuemesi,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,76,,substitution,,False,,,K. Vaesen,W. Balikwisha,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,79,,goal,F. Mbemba,True,,,,,,,3,1
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,83,,substitution,,True,,,A. Colassin,A. Bernier,,,,
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,90,,period,,,,,,,FT,,3,1
+belgica_pro_league_2026_2027,2026-08-09,1,RC Sporting Charleroi,Oud-Heverlee Leuven,3,1,90,,injuryTime,,,,,,,,3,,
 belgica_pro_league_2026_2027,2026-08-09,1,SV Zulte Waregem,KRC Genk,2,1,39,,goal,R. Durosinmi,False,,,,,,,0,1
 belgica_pro_league_2026_2027,2026-08-09,1,SV Zulte Waregem,KRC Genk,2,1,42,,card,D. Heymans,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-08-09,1,SV Zulte Waregem,KRC Genk,2,1,45,,period,,,,,,,HT,,0,1

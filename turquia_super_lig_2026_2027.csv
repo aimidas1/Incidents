@@ -113,6 +113,25 @@ turquia_super_lig_2026_2027,2026-08-16,1,Başakşehir FK,Kocaelispor,2,0,90,,per
 turquia_super_lig_2026_2027,2026-08-16,1,Başakşehir FK,Kocaelispor,2,0,90,2,card,Ö. A. Şahiner,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-08-16,1,Başakşehir FK,Kocaelispor,2,0,90,,substitution,,True,,,O. Ergün,J. Kałuziński,,,,
 turquia_super_lig_2026_2027,2026-08-16,1,Başakşehir FK,Kocaelispor,2,0,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,25,,goal,V. Černý,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,28,,card,D. Costa,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,46,,substitution,,False,,,C. R. Yao,A. Sabiri,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,48,,card,C. R. Yao,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,53,,card,L. Trossard,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,62,,substitution,,True,,,I. Fakili,L. Trossard,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,63,,substitution,,False,,,B. Boutobba,L. Pintor,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,63,,substitution,,True,,,H. Oh,S. Kilicsoy,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,68,,card,D. Costa,False,yellowRed,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,85,,substitution,,False,,,Y. Barası,K. Michalak,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,88,,substitution,,True,,,K. Ouattara,R. Yılmaz,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,88,,substitution,,True,,,M. Rashica,V. Černý,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,89,,substitution,,True,,,W. Ndidi,J. Olaitan,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,90,,period,,,,,,,FT,,1,0
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,90,4,card,T. Djaló,True,yellow,Time wasting,,,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,90,1,substitution,,False,,,A. Yavuz,Calegari,,,,
+turquia_super_lig_2026_2027,2026-08-16,1,Beşiktaş JK,Eyüpspor,1,0,90,,injuryTime,,,,,,,,4,,
 turquia_super_lig_2026_2027,2026-08-29,3,Gaziantep FK,Çaykur Rizespor,1,2,12,,goal,E. Bulut,False,,,,,,,0,1
 turquia_super_lig_2026_2027,2026-08-29,3,Gaziantep FK,Çaykur Rizespor,1,2,35,,goal,A. Sowe,False,,,,,,,0,2
 turquia_super_lig_2026_2027,2026-08-29,3,Gaziantep FK,Çaykur Rizespor,1,2,40,,substitution,,True,,,S. Dursun,F. Bavuk,,,,

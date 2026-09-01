@@ -1,4 +1,75 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,21,,goal,D. Upamecano,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,45,,period,,,,,,,HT,,1,0
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,52,,goal,J. Vagnoman,False,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,55,,goal,M. Olise,True,,,,,,,2,1
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,57,,goal,J. Vagnoman,True,,,,,,,3,1
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,61,,substitution,,True,,,I. Saibari,N. Brown,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,62,,substitution,,False,,,J. Leweling,T. Tomás,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,62,,card,J. Chabot,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,63,,substitution,,False,,,E. Demirović,D. Pejčinović,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,64,,varDecision,M. Olise,True,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,68,,card,F. Jeltsch,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,74,,substitution,,False,,,B. E. Khannouss,J. Chabot,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,74,,substitution,,False,,,L. Stergiou,D. Undav,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,74,,substitution,,True,,,J. Stanišić,A. Davies,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,81,,card,K. Min-jae,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,82,,goal,A. Pavlović,True,,,,,,,4,1
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,84,,substitution,,True,,,J. Tah,K. Min-jae,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,84,,substitution,,True,,,L. Karl,H. Kane,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,84,,substitution,,True,,,T. Bischof,A. Pavlović,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,88,,substitution,,False,,,C. Andrés,A. Stiller,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,90,,period,,,,,,,FT,,5,1
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,90,3,card,G. Prömel,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,90,2,goal,L. Díaz,True,,,,,,,5,1
+alemanha_bundesliga_2026_2027,2026-08-28,1,FC Bayern München,VfB Stuttgart,5,1,90,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,27,,goal,A. Daghim,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,45,,period,,,,,,,HT,,0,1
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,51,,goal,S. El Mala,True,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,53,,substitution,,False,,,M. Moerstedt,A. Hložek,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,53,,substitution,,False,,,R. Hranáč,Bernardo,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,65,,substitution,,True,,,T. Dallinga,R. Ache,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,65,,substitution,,True,,,E. Skhiri,P. Okon-Engstler,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,65,,substitution,,True,,,L. Maina,S. El Mala,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,67,,goal,O. Kabak,False,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,71,,substitution,,False,,,N. D. Cat,P. Wimmer,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,72,,goal,T. Dallinga,True,,,,,,,2,2
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,82,,goal,T. Dallinga,True,,,,,,,3,2
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,83,,card,O. Kabak,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,87,,substitution,,False,,,M. Rots,A. Hajdari,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,87,,substitution,,False,,,A. Kramarić,A. Daghim,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,90,,period,,,,,,,FT,,3,2
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,90,4,card,M. Moerstedt,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,90,3,substitution,,True,,,J. Schmied,A. Castro-Montes,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,90,,substitution,,True,,,M. Bülter,T. Krauß,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Köln,TSG Hoffenheim,3,2,90,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,3,,goal,E. Latte Lath,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,10,,goal,Y. Ebnoutalib,False,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,11,,card,Y. Ebnoutalib,False,yellow,,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,11,,goal,Y. Ebnoutalib,False,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,13,,card,J. Maluze,False,yellow,Time wasting,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,23,,card,M. Aebischer,True,yellow,Persistent fouling,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,45,,period,,,,,,,HT,,1,2
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,45,,injuryTime,,,,,,,,8,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,61,,substitution,,True,,,T. Skarke,E. Latte Lath,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,61,,substitution,,True,,,W. Jeong,A. Schäfer,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,61,,substitution,,True,,,L. Burcu,M. Aebischer,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,66,,substitution,,False,,,M. Pimpong,J. Burkardt,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,67,,goal,Y. Ebnoutalib,False,,,,,,,1,3
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,76,,substitution,,True,,,J. Haberer,A. Kemlein,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,79,,substitution,,False,,,L. Arrhov,C. Uzun,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,79,,substitution,,False,,,O. Højlund,A. Amaimouni Echghouyab,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,79,,goal,L. Querfeld,True,,,,,,,2,3
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,81,,card,Z. Van Den Bosch,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,82,,substitution,,True,,,D. Köhn,M. Ljubičić,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,84,,card,R. Onyedika,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,85,,substitution,,False,,,Otávio,Y. Ebnoutalib,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,90,,period,,,,,,,FT,,3,3
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,90,2,goal,T. Skarke,True,,,,,,,3,3
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,90,,card,Otávio,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,1. FC Union Berlin,Eintracht Frankfurt,3,3,90,,injuryTime,,,,,,,,4,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,38,,card,S. Castaneda,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,45,,period,,,,,,,HT,,0,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,45,,injuryTime,,,,,,,,1,,
@@ -14,7 +85,6 @@ alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,9
 alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,90,2,substitution,,False,,,C. Lippmann,M. Pieringer,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,90,1,card,P. Mwene,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,1. FSV Mainz 05,SC Paderborn 07,0,0,90,,injuryTime,,,,,,,,4,,
-alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,9,,goal,S. Guirassy,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,21,,card,A. Sambi Lokonga,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,45,,period,,,,,,,HT,,2,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,45,1,goal,S. Bornauw,True,,,,,,,2,0
@@ -32,6 +102,7 @@ alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,82
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,84,,substitution,,True,,,K. Prates,M. Beier,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,85,,card,D. Svensson,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,89,,substitution,,False,,,R. Philippe,L. Lemke,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,9,,goal,S. Guirassy,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,90,,period,,,,,,,FT,,2,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,Borussia Dortmund,Hamburger SV,2,0,90,,injuryTime,,,,,,,,4,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,RB Leipzig,Borussia M'gladbach,3,0,25,,goal,R. Baku,True,,,,,,,1,0
@@ -53,8 +124,6 @@ alemanha_bundesliga_2026_2027,2026-08-29,1,RB Leipzig,Borussia M'gladbach,3,0,83
 alemanha_bundesliga_2026_2027,2026-08-29,1,RB Leipzig,Borussia M'gladbach,3,0,90,,period,,,,,,,FT,,3,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,RB Leipzig,Borussia M'gladbach,3,0,90,6,varDecision,H. Bolin,False,,,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,RB Leipzig,Borussia M'gladbach,3,0,90,,injuryTime,,,,,,,,5,,
-alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,8,,goal,L. Petkov,True,,,,,,,1,0
-alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,9,,goal,C. Campbell,True,,,,,,,2,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,29,,card,M. Rohr,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,41,,card,C. Campbell,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,45,,period,,,,,,,HT,,2,0
@@ -71,9 +140,11 @@ alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,75,,substitution,,True,,,L. Schnellbacher,D. Mokwa,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,77,,goal,P. Schick,False,,,,,,,3,1
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,78,,card,F. Medina,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,8,,goal,L. Petkov,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,82,,substitution,,True,,,F. Le Joncour,M. Rohr,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,85,,substitution,,False,,,V. O. Boniface,A. Moreira,,,,
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,89,,card,N. Kristof,True,yellow,Time wasting,,,,,,
+alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,9,,goal,C. Campbell,True,,,,,,,2,0
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,90,,period,,,,,,,FT,,3,2
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,90,1,goal,C. Kofane,False,,,,,,,3,2
 alemanha_bundesliga_2026_2027,2026-08-29,1,SV 07 Elversberg,Bayer 04 Leverkusen,3,2,90,,injuryTime,,,,,,,,5,,

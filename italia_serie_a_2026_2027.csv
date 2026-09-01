@@ -1,4 +1,121 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,54,,card,M. Politano,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,66,,substitution,,False,,,N. Lang,A. Santos,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,66,,substitution,,True,,,J. Messias,T. Baldanzi,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,66,,substitution,,True,,,S. Otoa,L. Østigård,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,67,,substitution,,False,,,K. De Bruyne,F. Anguissa,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,67,,substitution,,False,,,A. Vergara,M. Politano,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,74,,substitution,,True,,,F. Meichtry,L. Colombo,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,75,,substitution,,True,,,D. Sow,Amorim,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,78,,substitution,,False,,,L. Lucca,R. Højlund,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,81,,substitution,,False,,,M. Olivera,R. Marín,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,82,,goal,K. De Bruyne,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,85,,card,S. Sabelli,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,85,,card,L. Østigård,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,87,,substitution,,True,,,A. Zulevic,J. Vásquez,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,87,,goal,A. Vergara,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,90,,period,,,,,,,FT,,0,2
+italia_serie_a_2026_2027,2026-08-22,1,Genoa,SSC Napoli,0,2,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,6,,goal,H. Çalhanoğlu,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,29,,goal,G. Varela,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,34,,card,L. Martínez,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,45,,period,,,,,,,HT,,1,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,45,1,card,H. Çalhanoğlu,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,48,,goal,P. Zieliński,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,54,,substitution,,True,,,P. Sučić,H. Çalhanoğlu,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,54,,substitution,,True,,,A. Bonny,L. Martínez,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,55,,goal,F. P. Esposito,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,63,,goal,Y. Bisseck,True,,,,,,,4,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,69,,card,E. Kouadio,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,70,,substitution,,False,,,N. Galazzi,M. Mout,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,70,,substitution,,False,,,P. Cutrone,A. Bakoune,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,70,,substitution,,False,,,O. Forson,A. Colpani,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,75,,substitution,,True,,,L. Henrique,A. Diouf,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,75,,substitution,,True,,,J. Stones,M. Akanji,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,83,,substitution,,True,,,A. Stanković,P. Zieliński,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,83,,substitution,,False,,,J. Robinson,G. Varela,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,84,,card,L. Lucchesi,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,88,,substitution,,False,,,F. Delli Carri,L. Lucchesi,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,90,,period,,,,,,,FT,,4,1
+italia_serie_a_2026_2027,2026-08-22,1,Inter,Monza,4,1,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,10,,card,Z. Pedro,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,57,,card,J. Fazzini,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,66,,substitution,,False,,,G. Borrelli,P. Mendy,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,66,,substitution,,False,,,M. Felici,J. Fazzini,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,66,,substitution,,False,,,G. Zappa,Z. Pedro,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,66,,substitution,,True,,,P. Almqvist,A. Bernabé,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,75,,substitution,,True,,,O. Diallo,S. Lontani,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,75,,substitution,,True,,,R. Kouda,M. Keita,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,79,,goal,A. Romano,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,84,,substitution,,True,,,N. Elphege,A. Konaté,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,85,,substitution,,True,,,B. Cremaschi,M. Troilo,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,87,,substitution,,False,,,K. Mutandwa,D. Maldini,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,87,,substitution,,False,,,G. Aurelio,A. Obert,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,90,,period,,,,,,,FT,,0,1
+italia_serie_a_2026_2027,2026-08-22,1,Parma,Cagliari,0,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,28,,card,J. Piotrowski,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,29,,goal,H. Kamara,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,41,,card,J. Abankwah,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,46,,substitution,,False,,,A. Diao,M. Baturina,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,46,,substitution,,False,,,L. Da Cunha,M. Perrone,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,46,,substitution,,True,,,E. Ebosse,M. Palma,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,54,,goal,A. Douvikas,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,71,,substitution,,True,,,L. Miller,J. Piotrowski,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,71,,substitution,,False,,,M. Liberali,J. Rodriguez,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,72,,substitution,,True,,,V. Bayo,I. Gueye,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,85,,substitution,,True,,,U. Gómez,J. Ekkelenkamp,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,89,,substitution,,False,,,M. Caqueret,N. Paz,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,89,,substitution,,False,,,I. Smolčić,Y. Couto,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,,period,,,,,,,FT,,1,1
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,3,card,U. Gómez,True,yellow,,,,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,,substitution,,True,,,O. Zarraga,N. Zaniolo,,,,
+italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,22,,goal,Bremer,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,43,,card,R. Schmid,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,45,,period,,,,,,,HT,,0,1
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,45,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,50,,card,Z. Çelik,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,59,,substitution,,True,,,A. Zerbin,S. Fini,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,59,,substitution,,True,,,P. Masini,R. Schmid,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,67,,substitution,,True,,,A. Oyono,I. Monterisi,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,67,,substitution,,True,,,L. Hasa,M. Cichella,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,69,,substitution,,False,,,J. Boga,K. Yıldız,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,69,,substitution,,False,,,E. Zhegrova,F. Conceição,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,69,,substitution,,False,,,A. Cambiaso,Z. Çelik,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,76,,substitution,,True,,,A. Terzić,G. Bracaglia,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,79,,substitution,,False,,,T. Koopmeiners,D. Luiz,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,81,,card,A. Cambiaso,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,,period,,,,,,,FT,,0,1
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,3,card,G. Calvani,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,1,substitution,,False,,,M. Perin,G. Vicario,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Frosinone,Juventus,0,1,90,,injuryTime,,,,,,,,6,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,3,,card,K. Gaspar,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,16,,varDecision,T. Correia,True,,,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,46,,goal,O. Gorter,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,46,,substitution,,False,,,C. Ndaba,A. Gallo,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,59,,card,O. Ngom,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,61,,substitution,,False,,,Y. Maleh,O. Gorter,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,64,,substitution,,True,,,R. Haps,T. Correia,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,70,,substitution,,True,,,M. Dagasso,K. Pérez,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,71,,card,D. Veiga,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,74,,substitution,,False,,,N. Štulić,W. Geubbels,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,74,,substitution,,False,,,T. Gabriel,N. Konan,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,78,,card,M. Dagasso,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,80,,goal,T. Gabriel,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,85,,substitution,,True,,,R. Sagrado,A. Hainaut,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,85,,substitution,,True,,,A. Rrahmani,T. Bašić,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,90,,period,,,,,,,FT,,0,2
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,90,1,substitution,,False,,,O. Gandelman,S. Pierotti,,,,
+italia_serie_a_2026_2027,2026-08-23,1,Venezia,Lecce,0,2,90,,injuryTime,,,,,,,,3,,
 italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,10,,card,J. Lucumí,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,45,,period,,,,,,,HT,,0,0
 italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,45,,injuryTime,,,,,,,,3,,
@@ -20,7 +137,6 @@ italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,88,,goal,T. Koopmeiners
 italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,90,,period,,,,,,,FT,,2,0
 italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,90,3,card,A. Konaté,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Juventus,Parma,2,0,90,,injuryTime,,,,,,,,5,,
-italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,9,,goal,H. Çalhanoğlu,False,,,,,,,0,1
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,14,,card,M. Akanji,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,45,,period,,,,,,,HT,,0,1
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,45,,injuryTime,,,,,,,,2,,
@@ -36,6 +152,7 @@ italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,78,,substitution,,True,
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,81,,substitution,,False,,,Y. Bisseck,L. Henrique,,,,
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,83,,substitution,,True,,,R. Ciervo,A. Deiola,,,,
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,88,,card,K. Carlos,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,9,,goal,H. Çalhanoğlu,False,,,,,,,0,1
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,90,,period,,,,,,,FT,,0,1
 italia_serie_a_2026_2027,2026-08-30,2,Cagliari,Inter,0,1,90,,injuryTime,,,,,,,,5,,
 italia_serie_a_2026_2027,2026-08-30,2,Lazio,Genoa,1,0,14,,card,L. Østigård,False,yellow,Foul,,,,,,
@@ -91,10 +208,9 @@ italia_serie_a_2026_2027,2026-08-31,2,Atalanta,Bologna,1,0,80,,substitution,,Fal
 italia_serie_a_2026_2027,2026-08-31,2,Atalanta,Bologna,1,0,90,,period,,,,,,,FT,,1,0
 italia_serie_a_2026_2027,2026-08-31,2,Atalanta,Bologna,1,0,90,6,goal,L. Samardžić,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-08-31,2,Atalanta,Bologna,1,0,90,,injuryTime,,,,,,,,4,,
-italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,4,,goal,D. Malen,False,,,,,,,0,1
-italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,9,,card,D. Malen,False,yellow,Handball,,,,,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,23,,goal,D. Malen,False,,,,,,,0,2
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,25,,goal,M. Soulé,False,,,,,,,0,3
+italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,4,,goal,D. Malen,False,,,,,,,0,1
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,45,,period,,,,,,,HT,,0,3
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,45,,injuryTime,,,,,,,,3,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,46,,substitution,,True,,,Y. Maleh,O. Gorter,,,,
@@ -108,6 +224,7 @@ italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,67,,substitution,,False,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,72,,substitution,,True,,,I. Ilić,O. Ngom,,,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,72,,substitution,,True,,,A. Ahmed,S. Pierotti,,,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,84,,substitution,,False,,,M. de Roon,P. Dybala,,,,
+italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,9,,card,D. Malen,False,yellow,Handball,,,,,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,90,,period,,,,,,,FT,,0,4
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,90,,card,I. Ilić,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,90,,injuryTime,,,,,,,,5,,

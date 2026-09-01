@@ -1,4 +1,26 @@
 ﻿league,match_date,round_number,home_team,away_team,match_home_score,match_away_score,minute,added_time,type,player,is_home,card_type,reason,player_in,player_out,period_text,injury_length,incident_home_score,incident_away_score
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,90,,period,,,,,,,FT,,2,3
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,90,7,card,Marllon,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,90,5,substitution,,True,,,G. Poveda,A. Galeano,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,90,3,goal,P. Rocha,False,,,,,,,2,3
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,84,,substitution,,True,,,D. Braga,L. Picco,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,79,,substitution,,True,,,V. Bueno,Zé Welison,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,79,,substitution,,True,,,A. Manga,Y. Pikachu,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,78,,card,Zé Welison,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,76,,goal,Fabinho,False,,,,,,,2,2
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,70,,substitution,,False,,,P. Roberto,J. Lavega,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,70,,substitution,,False,,,Fabinho,B. Lopes,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,66,,card,G. Taliari,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,64,,goal,Y. Pikachu,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,61,,goal,Zé Ricardo,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,59,,substitution,,False,,,V. Paulista,V. G. Tissi,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,59,,substitution,,False,,,F. Jonatan,F. Sobral,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,56,,card,T. Cóser,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,53,,substitution,,False,,,R. Moledo,J. Maranhão,,,,
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,47,,goal,Zé Welison,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-08-31,25,Remo,Coritiba,2,3,45,,injuryTime,,,,,,,,4,,
 brasileirao_serie_a_2026,2026-08-30,25,Bahia,Internacional,3,2,90,,period,,,,,,,FT,,3,2
 brasileirao_serie_a_2026,2026-08-30,25,Bahia,Internacional,3,2,90,1,card,D. Duarte,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-08-30,25,Bahia,Internacional,3,2,90,,injuryTime,,,,,,,,5,,

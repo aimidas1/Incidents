@@ -126,6 +126,430 @@ arabia_saudita_pro_league_2026_2027,2026-08-14,1,Neom SC,Al-Fayha,2,1,87,,substi
 arabia_saudita_pro_league_2026_2027,2026-08-14,1,Neom SC,Al-Fayha,2,1,87,,substitution,,True,,,F. Al-Ghamdi,A. Kone,,,,
 arabia_saudita_pro_league_2026_2027,2026-08-14,1,Neom SC,Al-Fayha,2,1,90,,period,,,,,,,FT,,2,1
 arabia_saudita_pro_league_2026_2027,2026-08-14,1,Neom SC,Al-Fayha,2,1,90,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,21,,card,C. Da Costa,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,43,,goal,Y. En-Nesyri,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,45,,period,,,,,,,HT,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,45,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,46,,substitution,,True,,,R. Kaabi,F. Alshamrani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,52,,goal,J. Domingues,False,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,55,,varDecision,D. Pereira,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,58,,card,D. Pereira,True,red,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,62,,substitution,,True,,,M. Shanqeeti,A. Al-Julaydan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,62,,substitution,,True,,,H. Kadesh,M. Diaby,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,64,,substitution,,False,,,A. A. Obaid,R. Sawlan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,66,,card,M. Shanqeeti,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,73,,substitution,,False,,,I. Kortajarena,J. Domingues,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,82,,substitution,,True,,,M. Al-Sahafi,Y. En-Nesyri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,86,,substitution,,False,,,S. A. Shehri,S. Pinas,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,90,,period,,,,,,,FT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,90,3,substitution,,True,,,A. Al-Ghamdi,H. Aouar,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Ittihad,Al-Kholood,1,1,90,,injuryTime,,,,,,,,8,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,3,,card,F. A. Abdulwahed,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,18,,substitution,,True,,,S. Alnajdi,S. Al-Nasser,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,37,,goal,Ângelo,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,40,,goal,J. Félix,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,45,,period,,,,,,,HT,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,46,,substitution,,False,,,W. Kanga,F. A. Abdulwahed,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,52,,card,J. Félix,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,63,,substitution,,False,,,J. Ramos,F. Zubaidi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,64,,substitution,,False,,,A. A. Khaibari,A. R. A. Khaibari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,66,,substitution,,True,,,A. Yahya,K. Coman,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,66,,substitution,,True,,,S. Costa,J. Félix,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,73,,goal,S. Costa,True,,,,,,,3,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,77,,substitution,,True,,,M. Marran,A. Al-Hamdan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,77,,substitution,,True,,,S. Al Naji,S. Mané,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,80,,substitution,,False,,,A. A. Masoud,L. Haraslín,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,81,,substitution,,False,,,S. A. Tumbukti,S. Baattia,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,90,,period,,,,,,,FT,,3,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Nassr,Al-Fateh,3,0,90,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,7,,card,M. Kanabah,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,22,,varDecision,J. King,False,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,45,1,card,B. Al-Hurayji,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,64,,substitution,,False,,,N. A. Sadi,M. Kanabah,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,64,,substitution,,False,,,H. Al-Jayzani,S. A. Hamsal,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,68,,substitution,,True,,,Y. E. Bahraoui,S. R. Mohamed,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,79,,substitution,,True,,,R. Al-Tulayhi,F. Al-Rashidi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,79,,substitution,,True,,,B. Al-Arini,N. Bajrami,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,79,,substitution,,False,,,A. Al-Hafith,S. Al-Amri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,80,,substitution,,False,,,H. A. A. Issa,A. Asiri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,82,,card,M. Crespo,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,90,,period,,,,,,,FT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,90,3,substitution,,False,,,Witcha,M. Barrow,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,90,,substitution,,True,,,M. A. Aqal,M. Al-Kuwaykibi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,90,,substitution,,True,,,A. A. Hassan,B. Al-Hurayji,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,90,,card,H. Al-Jayzani,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-15,1,Al-Taawoun,Al-Khaleej,0,0,90,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,27,,card,F. Sakala,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,31,,goal,S. Milinković-Savić,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,45,,period,,,,,,,HT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,46,,goal,S. Mandash,False,,,,,,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,46,,substitution,,True,,,F. M. Alhubayshi,A. Al-Qahtani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,46,,substitution,,True,,,A. A. Hussain,N. Al-Harthi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,68,,substitution,,True,,,S. Ganvoula,Lázaro,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,69,,substitution,,False,,,T. Hernández,M. Al-Harbi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,78,,substitution,,False,,,N. Al-Dawsari,R. Neves,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,85,,substitution,,True,,,A. Bamasud,M. A. Baqawi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,85,,substitution,,True,,,M. Al-Beshe,A. Semedo,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,85,,substitution,,False,,,M. A. Dawood,A. Lajami,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,85,,substitution,,False,,,S. A. Dahal,S. Mandash,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,85,,substitution,,False,,,N. Al-Habashi,C. Summerville,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,88,,goal,N. Al-Dawsari,False,,,,,,,0,3
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,90,,period,,,,,,,FT,,0,3
+arabia_saudita_pro_league_2026_2027,2026-08-20,2,Al-Fayha,Al-Hilal,0,3,90,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,6,,substitution,,False,,,H. Camara,S. Benrahma,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,11,,varDecision,T. Bongonda,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,27,,substitution,,True,,,A. Fallatah,A. Almogren,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,37,,card,T. Bongonda,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,51,,goal,A. Lacazette,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,56,,card,C. Bassogog,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,60,,goal,A. Lacazette,False,,,,,,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,73,,substitution,,True,,,S. Haddad,A. Al-Shereaf,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,73,,substitution,,True,,,E. A. Muwallad,A. Fallatah,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,79,,substitution,,False,,,M. A. Saad,A. Lacazette,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,79,,substitution,,False,,,M. A. Taha,G. Masouras,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,82,,substitution,,True,,,W. Kadan,K. Al-Harbi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,90,,period,,,,,,,FT,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,90,1,substitution,,False,,,K. Al-Dawsari,K. Al-Absi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al Faisaly,Neom SC,0,2,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,3,,goal,A. Al-Malki,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,31,,card,A. Al-Dakheel,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,45,,period,,,,,,,HT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,45,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,52,,card,S. A. Rashed,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,63,,substitution,,False,,,H. Bahebri,G. N'Koudou,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,66,,substitution,,True,,,M. A. Hamdani,A. Al-Shamrani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,79,,substitution,,True,,,W. Alshangeati,S. A. Rashed,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,79,,substitution,,True,,,A. Diakite,S. Bendebka,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,79,,substitution,,False,,,S. Farhan,A. Al-Malki,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,,period,,,,,,,FT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,8,substitution,,True,,,A. Al-Nakhli,A. Bah,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,7,substitution,,True,,,M. Al-Yami,M. Ben Hmida,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,2,card,H. Bahebri,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,,substitution,,False,,,Q. Lajami,Ó. Rodríguez,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,,substitution,,False,,,M. F. Al-Nemer,G. Laborde,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,,injuryTime,,,,,,,,7,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Hazem,Al Diriyah,0,1,90,,card,B. Lage,False,red,Unallowed field entering,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,24,,varDecision,J. Quiñones,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,40,,card,D. Lopy,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,45,,period,,,,,,,HT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,45,1,card,M. A. Al-Shamat,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,45,1,goal,G. Ilenikhena,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,45,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,46,,substitution,,False,,,A. Al-Ghamdi,R. Kaabi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,47,,card,D. Lopy,False,yellowRed,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,57,,substitution,,False,,,M. Al-Sahafi,G. Ilenikhena,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,57,,substitution,,False,,,A. Mukhtar,S. Bergwijn,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,57,,substitution,,True,,,T. Reijnders,Otávio,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,71,,substitution,,True,,,M. H. Alqahtani,J. Thakri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,79,,substitution,,True,,,E. Houssa,M. A. Juwayr,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,79,,substitution,,True,,,T. Alammar,M. A. Al-Shamat,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,80,,substitution,,True,,,A. Al-Salem,M. Retegui,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,87,,substitution,,False,,,A. Al-Julaydan,Y. En-Nesyri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,90,,period,,,,,,,FT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,90,5,substitution,,False,,,M. Barnawi,H. Kadesh,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Qadsiah,Al-Ittihad,0,1,90,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,18,,goal,A. Al-Amri,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,45,,period,,,,,,,HT,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,45,1,goal,Ângelo,False,,,,,,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,58,,goal,J. Félix,False,,,,,,,0,3
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,62,,substitution,,False,,,C. Ronaldo,A. Al-Hamdan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,62,,substitution,,True,,,C. Fall,T. Okou,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,62,,substitution,,True,,,E. Bahri,S. H. Hazazi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,75,,substitution,,False,,,N. A. Sharari,A. Al-Amri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,75,,substitution,,False,,,A. Al-Hassan,A. Al-Khaibari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,75,,substitution,,False,,,A. Yahya,S. Mané,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,76,,substitution,,True,,,H. H. A. Ali,F. A. Jayzani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,83,,goal,C. Ronaldo,False,,,,,,,0,4
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,83,,substitution,,True,,,H. Al-Raqwani,L. Antunes,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,83,,substitution,,True,,,F. Al-Sobhi,H. Majrashi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,85,,substitution,,False,,,S. Al Naji,J. Félix,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,90,,period,,,,,,,FT,,0,4
+arabia_saudita_pro_league_2026_2027,2026-08-21,2,Al-Riyadh,Al-Nassr,0,4,90,,injuryTime,,,,,,,,2,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,5,,goal,I. Toney,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,13,,goal,I. Toney,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,41,,card,E. Spertsyan,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,45,,period,,,,,,,HT,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,46,,substitution,,True,,,S. Y. Balobaid,Z. Hawsawi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,46,,substitution,,False,,,K. Boumedmed,B. Y. Al-Sayyali,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,51,,goal,F. Trincão,True,,,,,,,3,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,57,,goal,I. Toney,True,,,,,,,4,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,66,,substitution,,False,,,M. Al-Zaid,L. Rosier,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,66,,substitution,,True,,,M. A. Mutairi,W. Galeno,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,66,,substitution,,True,,,F. Al-Buraikan,I. Toney,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,66,,substitution,,True,,,S. Aboulshamat,E. Spertsyan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,67,,substitution,,False,,,K. A. Shamrani,F. Al-Ghamdi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,67,,substitution,,False,,,N. Fekir,A. Hindi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,76,,substitution,,False,,,F. Al-Sibyani,N. Al-Daajani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,81,,card,Z. Aljohani,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,84,,substitution,,True,,,N. Masoud,V. A. Edoa,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,86,,card,N. Fekir,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,90,,period,,,,,,,FT,,4,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,90,3,card,F. Al-Sibyani,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Ahli,Abha,4,0,90,,injuryTime,,,,,,,,2,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,45,,injuryTime,,,,,,,,2,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,60,,substitution,,True,,,Sorriso,A. A. Fawaz,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,71,,substitution,,False,,,M. Glušćević,R. M. Tanfouri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,78,,goal,J. Hendry,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,79,,substitution,,True,,,F. Zubaidi,L. Haraslín,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,79,,substitution,,True,,,A. A. Khaibari,A. A. Suwailem,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,86,,substitution,,True,,,A. R. A. Khaibari,S. Baattia,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,86,,substitution,,True,,,S. Al-Shurafa,M. Lixandru,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,86,,substitution,,False,,,B. Celina,K. Al-Ghannam,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,86,,substitution,,False,,,M. Alaeli,M. Al-Olayan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,86,,substitution,,False,,,A. Madu,A. Khateeb,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,90,,period,,,,,,,FT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,90,,substitution,,False,,,M. A. Khayrallah,Á. Medrán,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Fateh,Al-Ettifaq,0,1,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,8,,card,O. Mascarell,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,45,,injuryTime,,,,,,,,2,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,46,,substitution,,True,,,N. A. Sadi,S. Al-Amri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,58,,substitution,,False,,,T. Partey,A. Al Asmari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,58,,substitution,,False,,,A. Matuq,R. Martínez,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,71,,substitution,,True,,,H. A. A. Issa,M. Kanabah,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,71,,substitution,,True,,,B. Kouyaté,A. Asiri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,82,,substitution,,False,,,H. Alsebyani,D. Al-Enezi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,82,,substitution,,False,,,L. Stojanović,M. Al-Thani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,84,,substitution,,True,,,A. Al-Hafith,M. Al-Khabrani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,86,,card,A. Matuq,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,88,,substitution,,False,,,H. Al-Dubais,H. Al-Hammami,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,90,,period,,,,,,,FT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Khaleej,Al-Shabab,0,0,90,1,substitution,,True,,,R. A. Shanqiti,M. Barrow,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,21,,goal,E. Utkus,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,30,,goal,I. Kortajarena,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,38,,varDecision,S. Pinas,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,40,,varDecision,I. Kortajarena,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,45,,period,,,,,,,HT,,3,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,45,3,goal,S. Pinas,True,,,,,,,3,0
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,45,,injuryTime,,,,,,,,7,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,46,,substitution,,False,,,M. A. Aqal,N. Bajrami,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,46,,substitution,,False,,,Y. E. Bahraoui,F. Al-Rashidi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,46,,substitution,,False,,,B. Al-Arini,M. Al-Kuwaykibi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,52,,goal,A. Hamdallah,False,,,,,,,3,1
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,59,,substitution,,False,,,O. Dorley,R. Al-Tulayhi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,64,,substitution,,True,,,A. Al-Dosari,J. Domingues,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,74,,card,S. Pinas,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,76,,card,C. Da Costa,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,79,,substitution,,True,,,M. Sawan,C. Da Costa,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,83,,substitution,,False,,,A. Hendi,B. Al-Hurayji,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,88,,substitution,,True,,,Adi,R. Sawlan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,88,,substitution,,True,,,Y. Al-Zubaidi,A. Al-Aliwa,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,90,,period,,,,,,,FT,,3,2
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,90,4,card,I. Kortajarena,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,90,2,goal,A. Hamdallah,False,,,,,,,3,2
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,90,2,card,Y. Al-Zubaidi,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-22,2,Al-Kholood,Al-Taawoun,3,2,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,18,,goal,A. Al-Dwehe,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,29,,card,A. Bah,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,34,,goal,S. Bergwijn,True,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,37,,varDecision,M. Al-Sahafi,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,40,,card,M. Ben Hmida,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,41,,goal,S. Bergwijn,True,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,45,,period,,,,,,,HT,,2,1
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,45,2,card,M. Al-Sahafi,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,45,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,46,,substitution,,True,,,A. Al-Julaydan,M. Al-Sahafi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,46,,substitution,,True,,,H. Kadesh,S. Keller,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,50,,card,H. Kadesh,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,53,,card,A. Faris,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,59,,goal,S. Bendebka,False,,,,,,,2,2
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,60,,substitution,,True,,,G. Ilenikhena,Y. En-Nesyri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,65,,substitution,,False,,,A. Al-Shamrani,A. Al-Dwehe,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,65,,substitution,,False,,,M. A. Hamdani,A. Al-Nakhli,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,73,,substitution,,True,,,S. Al-Shehri,J. Simić,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,74,,card,A. Al-Shamrani,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,77,,substitution,,False,,,M. Al-Yami,A. Bah,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,77,,substitution,,False,,,F. Al-Azmi,S. A. Rashed,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,78,,varDecision,D. Pereira,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,81,,goal,S. Bergwijn,True,,,,,,,3,2
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,85,,substitution,,True,,,R. Kaabi,S. Bergwijn,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,88,,substitution,,False,,,A. Diakite,M. Ben Hmida,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,90,,period,,,,,,,FT,,3,2
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Al-Ittihad,Al-Hazem,3,2,90,,injuryTime,,,,,,,,7,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,20,,card,G. Álvarez,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,29,,goal,T. Reijnders,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,45,,period,,,,,,,HT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,46,,card,A. Al-Hejji,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,46,,substitution,,False,,,Y. Al-Shahrani,M. A. Al-Shamat,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,56,,goal,M. Retegui,False,,,,,,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,61,,substitution,,True,,,K. Al-Absi,M. A. Saad,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,61,,substitution,,True,,,A. Lacazette,A. Al-Hejji,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,61,,substitution,,True,,,F. Al-Ghamdi,K. Al-Dawsari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,70,,substitution,,False,,,M. H. Alqahtani,M. Retegui,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,75,,substitution,,True,,,I. A. Hawsawi,G. Masouras,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,75,,substitution,,True,,,M. Alburayk,A. Al Oyayari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,77,,substitution,,False,,,I. Mahnashi,J. Thakri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,87,,substitution,,False,,,T. Alammar,M. A. Juwayr,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,90,,period,,,,,,,FT,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-24,3,Neom SC,Al-Qadsiah,0,2,90,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,17,,goal,J. King,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,24,,goal,K. A. Karani,True,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,45,,period,,,,,,,HT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,46,,substitution,,True,,,N. Fekir,F. Al-Ghamdi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,46,,substitution,,True,,,A. Gory,L. Rosier,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,46,,substitution,,False,,,S. Al-Amri,H. A. A. Issa,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,51,,card,M. Batshuayi,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,60,,substitution,,True,,,M. Al-Zaid,N. Al-Daajani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,61,,card,Rebocho,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,66,,substitution,,False,,,S. A. Hamsal,R. A. Shanqiti,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,73,,substitution,,False,,,M. Kanabah,J. King,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,73,,substitution,,False,,,A. Al-Hafith,B. Kouyaté,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,84,,substitution,,True,,,F. Al-Sibyani,A. Al-Fahad,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,88,,substitution,,True,,,A. Hindi,S. Aljohani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,90,,period,,,,,,,FT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,90,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Abha,Al-Khaleej,1,1,90,,card,M. Malaika,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,12,,card,Bento,False,red,Professional foul last man,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,16,,substitution,,False,,,A. Al-Otaibi,Ângelo,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,31,,goal,O. Duda,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,43,,card,M. Dembélé,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,45,,period,,,,,,,HT,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,45,3,goal,Á. Medrán,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,45,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,46,,substitution,,True,,,A. Madu,M. Al-Olayan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,46,,substitution,,False,,,A. Al-Khaibari,C. Ronaldo,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,52,,substitution,,True,,,J. Larsson,M. Glušćević,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,55,,card,J. Félix,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,68,,substitution,,False,,,S. Al Naji,K. Coman,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,68,,substitution,,True,,,K. Al-Ghannam,R. M. Tanfouri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,68,,substitution,,True,,,B. Celina,Y. Shammari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,69,,substitution,,False,,,A. Al-Hamdan,S. Costa,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,74,,goal,S. Mané,False,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,77,,goal,A. Al-Amri,False,,,,,,,2,2
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,87,,substitution,,True,,,M. Alaeli,M. Dembélé,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,90,,period,,,,,,,FT,,2,3
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,90,3,substitution,,False,,,N. A. Sharari,S. Mané,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,90,1,varDecision,S. Mané,False,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,90,,goal,S. Mané,False,,,,,,,2,3
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Ettifaq,Al-Nassr,2,3,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,32,,goal,M. Trézéguet,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,36,,goal,J. Brownhill,True,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,41,,goal,L. Antunes,False,,,,,,,1,2
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,44,,card,S. Alessa,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,45,,period,,,,,,,HT,,2,2
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,45,1,goal,Y. Carrasco,True,,,,,,,2,2
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,45,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,46,,substitution,,True,,,A. Al Asmari,T. Partey,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,51,,card,V. Lekhal,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,57,,goal,T. Okou,False,,,,,,,2,3
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,60,,varDecision,K. Keïta,False,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,61,,card,K. Keïta,False,red,Violent conduct,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,70,,substitution,,True,,,A. Matuq,M. Al-Thani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,79,,substitution,,False,,,E. Bahri,L. Antunes,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,81,,goal,Y. Carrasco,True,,,,,,,3,3
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,86,,substitution,,False,,,H. Majrashi,T. Okou,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,89,,substitution,,False,,,H. H. A. Ali,M. Trézéguet,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,90,,period,,,,,,,FT,,3,3
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Shabab,Al-Riyadh,3,3,90,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,45,,injuryTime,,,,,,,,2,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,53,,card,B. Al-Hurayji,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,66,,substitution,,True,,,R. Al-Tulayhi,O. Dorley,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,70,,card,A. Al-Duqayl,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,73,,substitution,,False,,,A. Bamasud,Lázaro,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,73,,substitution,,False,,,M. A. Dowaish,F. M. Alhubayshi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,73,,substitution,,True,,,B. Al-Arini,Y. E. Bahraoui,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,73,,substitution,,True,,,S. R. Mohamed,N. Bajrami,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,78,,substitution,,False,,,M. Al-Beshe,N. Al-Harthi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,84,,substitution,,True,,,A. Hendi,B. Al-Hurayji,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,84,,substitution,,True,,,M. A. Aqal,M. Al-Kuwaykibi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,86,,substitution,,False,,,A. A. Hussain,A. Semedo,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,86,,substitution,,False,,,M. Al-Rashidi,Z. Al-Sahafi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,90,,period,,,,,,,FT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-25,3,Al-Taawoun,Al-Fayha,0,0,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,64,,substitution,,True,,,C. Diandy,H. Bahebri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,65,,substitution,,False,,,A. Al-Dosari,J. Domingues,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,68,,varDecision,I. Kortajarena,False,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,71,,goal,A. Al-Aliwa,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,77,,card,R. Sawlan,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,80,,substitution,,False,,,Y. Madani,R. Sawlan,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,81,,substitution,,True,,,K. Al-Asiri,M. Hameran,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,81,,substitution,,True,,,M. F. Al-Nemer,A. Al-Malki,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,83,,goal,M. F. Al-Nemer,True,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,87,,card,S. Cisse,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,87,,substitution,,False,,,M. Sawan,A. Al-Aliwa,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,90,,period,,,,,,,FT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,90,1,card,H. Al-Shanqity,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Diriyah,Al-Kholood,1,1,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,23,,card,T. Bongonda,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,29,,goal,L. Haraslín,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,33,,card,K. Boateng,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,35,,card,A. Seck,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,41,,goal,C. Bassogog,True,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,41,,varDecision,C. Bassogog,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,45,,period,,,,,,,HT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,45,3,card,E. A. Muwallad,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,45,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,58,,card,E. A. Muwallad,True,yellowRed,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,66,,substitution,,True,,,M. Jahfali,A. Al-Shereaf,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,70,,substitution,,True,,,S. Haddad,T. Bongonda,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,71,,substitution,,False,,,Sorriso,F. A. Abdulwahed,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,80,,substitution,,False,,,S. A. Tumbukti,A. R. A. Khaibari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,80,,substitution,,False,,,F. Zubaidi,L. Haraslín,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,84,,card,S. A. Tumbukti,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,85,,substitution,,True,,,A. Bin Subayt,C. Bassogog,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,85,,substitution,,True,,,Y. Al-Shammari,K. Al-Harbi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,87,,substitution,,False,,,S. Al-Shurafa,M. Lixandru,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,87,,substitution,,False,,,A. A. Suwailem,A. A. Khaibari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,90,,period,,,,,,,FT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-08-26,3,Al Faisaly,Al-Fateh,1,1,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,4,,substitution,,False,,,M. Al-Zaid,L. Rosier,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,32,,goal,Lázaro,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,38,,card,K. A. Shamrani,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,45,,period,,,,,,,HT,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,45,5,card,J. Gaari,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,45,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,46,,substitution,,False,,,N. Al-Daajani,F. Al-Sibyani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,56,,goal,Lázaro,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,59,,substitution,,False,,,F. Al-Ghamdi,M. Al-Zaid,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,59,,substitution,,False,,,A. Hindi,K. A. Shamrani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,68,,card,A. Diallo,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,76,,substitution,,True,,,Z. Al-Sahafi,P. Oliveira,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,80,,substitution,,True,,,S. Ganvoula,Lázaro,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,80,,substitution,,False,,,M. Dawran,N. Fekir,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,81,,substitution,,True,,,F. M. Alhubayshi,N. Al-Harthi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,84,,goal,A. Gory,False,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,87,,goal,A. Diallo,True,,,,,,,3,1
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,87,,substitution,,True,,,M. Al-Beshe,H. Moura,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,90,,period,,,,,,,FT,,3,2
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,90,4,goal,M. Batshuayi,False,,,,,,,3,2
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,90,2,varDecision,A. Gory,False,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Fayha,Abha,3,2,90,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,6,,card,A. Asiri,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,15,,goal,M. K. Meite,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,29,,goal,S. Milinković-Savić,False,,,,,,,0,2
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,38,,goal,S. Al-Amri,True,,,,,,,1,2
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,40,,goal,T. Hernández,False,,,,,,,1,3
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,43,,goal,C. Summerville,False,,,,,,,1,4
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,45,,period,,,,,,,HT,,1,5
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,45,2,goal,S. Mandash,False,,,,,,,1,5
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,46,,substitution,,True,,,T. A. Khaibri,M. Kanabah,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,58,,substitution,,True,,,A. Fulgini,N. A. Sadi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,58,,substitution,,True,,,H. Al-Jayzani,S. A. Hamsal,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,58,,substitution,,True,,,H. A. A. Issa,S. Al-Amri,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,62,,substitution,,False,,,N. Al-Dawsari,M. K. Meite,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,62,,substitution,,False,,,M. Al-Harbi,T. Hernández,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,66,,card,R. Neves,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,70,,substitution,,True,,,A. A. Shaafi,Rebocho,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,73,,substitution,,False,,,Y. Akçiçek,K. Koulibaly,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,73,,substitution,,False,,,M. A. Hawsawi,R. Neves,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,78,,substitution,,False,,,N. Al-Habashi,S. Milinković-Savić,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,90,,period,,,,,,,FT,,1,5
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Khaleej,Al-Hilal,1,5,90,,injuryTime,,,,,,,,4,,
 arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,11,,goal,B. Al-Hurayji,False,,,,,,,0,1
 arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,20,,card,S. Alnajdi,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,45,,period,,,,,,,HT,,1,1
@@ -145,6 +569,24 @@ arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,87,,sub
 arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,90,,period,,,,,,,FT,,2,1
 arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,90,3,card,J. Félix,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Nassr,Al-Taawoun,2,1,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,37,,card,V. Lekhal,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,45,4,card,F. A. Jayzani,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,45,1,card,H. Camara,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,45,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,46,,substitution,,True,,,H. H. A. Ali,F. A. Jayzani,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,53,,varDecision,B. Mensah,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,54,,card,B. Mensah,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,61,,goal,T. Okou,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,65,,substitution,,False,,,M. A. Taha,I. A. Hawsawi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,65,,substitution,,False,,,A. Al Oyayari,K. Al-Dawsari,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,69,,substitution,,True,,,H. Al-Shurafa,M. Trézéguet,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,74,,substitution,,False,,,M. A. Saad,H. Camara,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,82,,substitution,,True,,,M. Tambakti,T. Okou,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,83,,substitution,,False,,,F. Al-Ghamdi,K. Al-Absi,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,83,,substitution,,False,,,A. Al-Anzi,A. Al-Hejji,,,,
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,90,,period,,,,,,,FT,,1,0
+arabia_saudita_pro_league_2026_2027,2026-08-28,4,Al-Riyadh,Neom SC,1,0,90,,injuryTime,,,,,,,,6,,
 arabia_saudita_pro_league_2026_2027,2026-08-29,4,Al-Ettifaq,Al Diriyah,0,3,26,,card,K. Al-Asiri,False,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-08-29,4,Al-Ettifaq,Al Diriyah,0,3,27,,substitution,,True,,,M. A. Khayrallah,R. Al-Oteibi,,,,
 arabia_saudita_pro_league_2026_2027,2026-08-29,4,Al-Ettifaq,Al Diriyah,0,3,45,,period,,,,,,,HT,,0,1
@@ -241,3 +683,28 @@ arabia_saudita_pro_league_2026_2027,2026-08-30,4,Al-Qadsiah,Al Faisaly,3,1,82,,s
 arabia_saudita_pro_league_2026_2027,2026-08-30,4,Al-Qadsiah,Al Faisaly,3,1,90,,period,,,,,,,FT,,3,1
 arabia_saudita_pro_league_2026_2027,2026-08-30,4,Al-Qadsiah,Al Faisaly,3,1,90,1,substitution,,True,,,E. Houssa,M. A. Juwayr,,,,
 arabia_saudita_pro_league_2026_2027,2026-08-30,4,Al-Qadsiah,Al Faisaly,3,1,90,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,9,,goal,S. Milinković-Savić,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,11,,card,R. Ibañez,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,13,,card,M. K. Meite,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,15,,card,C. Summerville,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,16,,card,S. Inzaghi,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,23,,goal,C. Summerville,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,30,,substitution,,True,,,H. Altambakti,A. Lajami,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,45,,period,,,,,,,HT,,2,0
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,45,7,card,M. Demiral,False,yellowRed,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,45,4,card,M. Demiral,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,45,3,card,I. Toney,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,45,,injuryTime,,,,,,,,6,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,46,,substitution,,False,,,F. Al-Buraikan,F. Trincão,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,46,,substitution,,False,,,R. Hamed,Z. Aljohani,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,46,,substitution,,True,,,O. Watkins,M. K. Meite,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,46,,substitution,,False,,,M. Abdulrahman,M. Bakor,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,48,,card,R. Hamed,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,52,,substitution,,True,,,M. Al-Harbi,T. Hernández,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,82,,substitution,,False,,,M. A. Mutairi,W. Galeno,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,86,,goal,O. Watkins,True,,,,,,,3,0
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,87,,substitution,,False,,,N. Masoud,Z. Hawsawi,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,89,,substitution,,True,,,N. Al-Habashi,S. Mandash,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,89,,substitution,,True,,,S. A. Dahal,C. Summerville,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,90,,period,,,,,,,FT,,3,0
+arabia_saudita_pro_league_2026_2027,2026-09-01,3,Al-Hilal,Al-Ahli,3,0,90,,injuryTime,,,,,,,,5,,

@@ -238,9 +238,9 @@ polonia_ekstraklasa_2026_2027,2026-08-01,2,Piast Gliwice,Wisła Kraków,4,3,86,,
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Piast Gliwice,Wisła Kraków,4,3,88,,goal,L. Sanca,True,,,,,,,4,3
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Piast Gliwice,Wisła Kraków,4,3,90,,period,,,,,,,FT,,4,3
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Piast Gliwice,Wisła Kraków,4,3,90,,injuryTime,,,,,,,,6,,
-polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,4,,card,T. Christensen,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,12,,substitution,,False,,,P. Rodríguez,F. Jagiełło,,,,
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,35,,goal,Y. Agnero,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,4,,card,T. Christensen,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,43,,goal,A. Sayyad,False,,,,,,,0,2
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,45,,period,,,,,,,HT,,0,2
 polonia_ekstraklasa_2026_2027,2026-08-01,2,Wieczysta Kraków,Lech Poznań,1,2,45,,injuryTime,,,,,,,,4,,
@@ -284,9 +284,9 @@ polonia_ekstraklasa_2026_2027,2026-08-02,2,GKS Katowice,Radomiak Radom,3,1,90,,p
 polonia_ekstraklasa_2026_2027,2026-08-02,2,GKS Katowice,Radomiak Radom,3,1,90,4,substitution,,True,,,J. Kokosinski,I. Shkurin,,,,
 polonia_ekstraklasa_2026_2027,2026-08-02,2,GKS Katowice,Radomiak Radom,3,1,90,3,goal,B. Nowak,True,,,,,,,3,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,GKS Katowice,Radomiak Radom,3,1,90,,injuryTime,,,,,,,,7,,
-polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,4,,goal,F. Kocaba,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,25,,goal,Ł. Zjawiński,True,,,,,,,1,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,34,,varDecision,M. Rajović,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,4,,goal,F. Kocaba,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,45,,period,,,,,,,HT,,1,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,45,,injuryTime,,,,,,,,2,,
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Legia Warszawa,Zagłębie Lubin,3,1,46,,substitution,,False,,,F. Szymczak,L. Szabó,,,,
@@ -321,9 +321,8 @@ polonia_ekstraklasa_2026_2027,2026-08-02,2,Śląsk Wrocław,Raków Częstochowa,
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Śląsk Wrocław,Raków Częstochowa,2,1,90,,period,,,,,,,FT,,2,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Śląsk Wrocław,Raków Częstochowa,2,1,90,,goal,P. Samiec-Talar,True,,,,,,,2,1
 polonia_ekstraklasa_2026_2027,2026-08-02,2,Śląsk Wrocław,Raków Częstochowa,2,1,90,,injuryTime,,,,,,,,4,,
-polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,4,,varDecision,B. Traoré,True,,,,,,,,
-polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,9,,card,D. Kameri,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,35,,card,L. Wahlqvist,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,4,,varDecision,B. Traoré,True,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,45,,period,,,,,,,HT,,0,0
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,45,,injuryTime,,,,,,,,2,,
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,46,,goal,L. Borges,False,,,,,,,0,1
@@ -338,6 +337,7 @@ polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,79,,s
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,83,,substitution,,True,,,K. Śmiglewski,M. Klich,,,,
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,84,,substitution,,True,,,D. Piła,Kakabadze,,,,
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,86,,substitution,,False,,,M. Ndiaye,F. Čuić,,,,
+polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,9,,card,D. Kameri,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,90,,period,,,,,,,FT,,0,2
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,90,4,goal,P. Mukairu,False,,,,,,,0,2
 polonia_ekstraklasa_2026_2027,2026-08-03,2,KS Cracovia,Pogoń Szczecin,0,2,90,,injuryTime,,,,,,,,5,,
@@ -482,8 +482,6 @@ polonia_ekstraklasa_2026_2027,2026-08-09,3,Śląsk Wrocław,KS Cracovia,0,0,90,,
 polonia_ekstraklasa_2026_2027,2026-08-09,3,Śląsk Wrocław,KS Cracovia,0,0,90,3,card,G. Henriksson,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-09,3,Śląsk Wrocław,KS Cracovia,0,0,90,1,card,D. Kameri,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-09,3,Śląsk Wrocław,KS Cracovia,0,0,90,,injuryTime,,,,,,,,5,,
-polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,7,,goal,M. Ševčík,True,,,,,,,1,0
-polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,9,,card,Z. Ouattara,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,10,,goal,R. Augustyniak,True,,,,,,,2,0
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,10,,varDecision,R. Augustyniak,True,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,17,,goal,R. Adamski,True,,,,,,,3,0
@@ -499,17 +497,19 @@ polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,57,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,57,,substitution,,False,,,R. Baró,R. Lumungo,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,61,,substitution,,False,,,C. Donis,I. Camará,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,61,,substitution,,False,,,F. Koperski,A. Diéguez,,,,
+polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,7,,goal,M. Ševčík,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,71,,substitution,,True,,,M. Rajović,Ł. Zjawiński,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,81,,substitution,,False,,,K. Karasek,Conrado,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,82,,substitution,,True,,,E. Mikanovich,P. Wszołek,,,,
+polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,9,,card,Z. Ouattara,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,90,,period,,,,,,,FT,,5,0
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,90,1,card,B. Kapustka,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-14,4,Legia Warszawa,Radomiak Radom,5,0,90,,injuryTime,,,,,,,,1,,
-polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,6,,goal,T. Christensen,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,43,,card,M. Vojtko,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,45,,period,,,,,,,HT,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,45,,injuryTime,,,,,,,,2,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,54,,substitution,,True,,,J. Lokilo,I. Lima,,,,
+polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,6,,goal,T. Christensen,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,60,,substitution,,False,,,Miki,L. Semedo,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,61,,substitution,,False,,,B. Lederman,P. Pušić,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,62,,goal,T. Christensen,False,,,,,,,0,2
@@ -527,7 +527,6 @@ polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,9
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,90,2,goal,L. Sanca,True,,,,,,,3,4
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,90,,goal,J. Czerwiński,True,,,,,,,2,4
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Piast Gliwice,Wieczysta Kraków,3,4,90,,injuryTime,,,,,,,,3,,
-polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,8,,goal,S. Kapuadi,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,22,,goal,M. Fassbender,False,,,,,,,1,1
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,26,,card,S. Bergier,True,yellow,Argument,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,26,,goal,M. Fassbender,False,,,,,,,1,2
@@ -539,6 +538,7 @@ polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,71,,substitution,,True,,,S. Akere,E. Kornvig,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,79,,substitution,,False,,,D. Bąk,M. Stępiński,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,79,,substitution,,False,,,H. Zwozny,S. Davidović,,,,
+polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,8,,goal,S. Kapuadi,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,84,,card,W. Długosz,False,yellow,Argument,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,84,,substitution,,True,,,Paulinho Bóia,M. García,,,,
 polonia_ekstraklasa_2026_2027,2026-08-15,4,Widzew Łódź,MKS Korona Kielce,1,2,84,,substitution,,True,,,L. Selahi,F. Álvarez,,,,
@@ -670,7 +670,6 @@ polonia_ekstraklasa_2026_2027,2026-08-22,5,MKS Korona Kielce,Motor Lublin,1,1,88
 polonia_ekstraklasa_2026_2027,2026-08-22,5,MKS Korona Kielce,Motor Lublin,1,1,90,,period,,,,,,,FT,,1,1
 polonia_ekstraklasa_2026_2027,2026-08-22,5,MKS Korona Kielce,Motor Lublin,1,1,90,1,substitution,,False,,,T. Plavotić,C. Simon,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,MKS Korona Kielce,Motor Lublin,1,1,90,,injuryTime,,,,,,,,3,,
-polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,7,,goal,Ł. Zjawiński,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,42,,card,R. Deziel Jr.,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,45,,period,,,,,,,HT,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,45,,injuryTime,,,,,,,,1,,
@@ -679,6 +678,7 @@ polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,56,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,56,,substitution,,True,,,I. Lima,J. Lokilo,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,56,,substitution,,True,,,J. Lewicki,E. Fikaj,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,57,,substitution,,False,,,A. Reca,P. Wszołek,,,,
+polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,7,,goal,Ł. Zjawiński,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,81,,substitution,,False,,,D. Szymański,H. Arreiol,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,81,,substitution,,False,,,M. Rajović,Ł. Zjawiński,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,81,,substitution,,False,,,W. Urbański,M. Ševčík,,,,
@@ -688,11 +688,10 @@ polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,90,5
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,90,1,substitution,,False,,,K. Chodyna,R. Vinagre,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,90,,substitution,,True,,,A. Katsantonis,S. N. Ndimba,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Piast Gliwice,Legia Warszawa,1,1,90,,injuryTime,,,,,,,,10,,
-polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,3,,varDecision,P. Wiśniewski,False,,,,,,,,
-polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,7,,card,P. Wiśniewski,False,red,Professional foul last man,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,11,,substitution,,False,,,M. Żyro,M. Fornalczyk,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,11,,card,S. Kapuadi,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,15,,goal,M. García,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,3,,varDecision,P. Wiśniewski,False,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,36,,goal,F. Álvarez,False,,,,,,,0,2
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,42,,substitution,,True,,,E. Shabani,J. Yriarte,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,42,,card,L. Selahi,False,yellow,Foul,,,,,,
@@ -707,6 +706,7 @@ polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,6
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,63,,goal,Á. Baena,False,,,,,,,1,3
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,67,,substitution,,True,,,D. Markowski,G. Tomasiewicz,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,69,,card,E. Shabani,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,7,,card,P. Wiśniewski,False,red,Professional foul last man,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,76,,substitution,,False,,,E. Kornvig,J. Shehu,,,,
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,78,,goal,P. Banaszak,True,,,,,,,2,3
 polonia_ekstraklasa_2026_2027,2026-08-22,5,Śląsk Wrocław,Widzew Łódź,3,3,84,,varDecision,L. Marjanac,True,,,,,,,,
@@ -735,11 +735,11 @@ polonia_ekstraklasa_2026_2027,2026-08-23,5,GKS Katowice,Wisła Płock,5,0,82,,su
 polonia_ekstraklasa_2026_2027,2026-08-23,5,GKS Katowice,Wisła Płock,5,0,90,,period,,,,,,,FT,,5,0
 polonia_ekstraklasa_2026_2027,2026-08-23,5,GKS Katowice,Wisła Płock,5,0,90,2,goal,J. Kokosinski,True,,,,,,,5,0
 polonia_ekstraklasa_2026_2027,2026-08-23,5,GKS Katowice,Wisła Płock,5,0,90,,injuryTime,,,,,,,,1,,
-polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,3,,goal,M. Juwara,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,11,,card,J. Sánchez,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,14,,card,D. Keramitsis,True,yellow,Off the ball foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,20,,goal,M. Juwara,False,,,,,,,1,1
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,24,,goal,L. Wahlqvist,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,3,,goal,M. Juwara,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,33,,goal,E. Youan,False,,,,,,,2,2
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,45,,period,,,,,,,HT,,2,2
 polonia_ekstraklasa_2026_2027,2026-08-23,5,Pogoń Szczecin,Wisła Kraków,2,2,45,,injuryTime,,,,,,,,5,,

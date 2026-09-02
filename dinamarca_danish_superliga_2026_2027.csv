@@ -222,10 +222,10 @@ dinamarca_danish_superliga_2026_2027,2026-08-02,2,Silkeborg IF,FC København,1,3
 dinamarca_danish_superliga_2026_2027,2026-08-02,2,Silkeborg IF,FC København,1,3,90,1,card,L. Riisgaard,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-02,2,Silkeborg IF,FC København,1,3,90,,substitution,,False,,,M. Nasnas,Y. Moukoko,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-02,2,Silkeborg IF,FC København,1,3,90,,injuryTime,,,,,,,,4,,
-dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,5,,substitution,,False,,,D. B. Frimpong,M. Olesen,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,45,,period,,,,,,,HT,,0,0
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,45,,injuryTime,,,,,,,,2,,
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,46,,substitution,,False,,,A. Bergholt,D. Grétarsson,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,5,,substitution,,False,,,D. B. Frimpong,M. Olesen,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,60,,substitution,,True,,,J. Niemiec,A. Sørensen,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,60,,substitution,,True,,,R. Falk,J. Bonde,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,67,,substitution,,True,,,M. Andersen,F. Arp,,,,
@@ -238,7 +238,6 @@ dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske F
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,85,,card,L. Qamili,False,yellow,Argument,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,90,,period,,,,,,,FT,,1,0
 dinamarca_danish_superliga_2026_2027,2026-08-03,2,Odense Boldklub,Sønderjyske Fodbold,1,0,90,,injuryTime,,,,,,,,3,,
-dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,7,,varDecision,T. Jørgensen,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,45,,period,,,,,,,HT,,0,0
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,45,2,card,S. Emini,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,45,,injuryTime,,,,,,,,1,,
@@ -248,6 +247,7 @@ dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,66,,substitution,,True,,,P. Kristensen,T. Klysner,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,67,,substitution,,False,,,B. Brahimi,S. Jalal,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,67,,substitution,,False,,,M. Søndergaard,A. Beck,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,7,,varDecision,T. Jørgensen,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,78,,substitution,,False,,,H. Bidstrup,S. Kuzmić,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,85,,substitution,,True,,,D. Wilkins,D. B. Frimpong,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-07,3,Sønderjyske Fodbold,Viborg FF,0,0,87,,substitution,,False,,,A. Kleis-Kristoffersen,D. Hanza,,,,
@@ -380,9 +380,9 @@ dinamarca_danish_superliga_2026_2027,2026-08-16,4,Odense Boldklub,AC Horsens,1,2
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Odense Boldklub,AC Horsens,1,2,88,,substitution,,False,,,I. Milićević,K. Ehibhatiomhan,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Odense Boldklub,AC Horsens,1,2,90,,period,,,,,,,FT,,1,2
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Odense Boldklub,AC Horsens,1,2,90,,injuryTime,,,,,,,,3,,
-dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,2,,goal,B. Meling,False,,,,,,,0,1
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,14,,goal,B. Meling,False,,,,,,,0,2
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,17,,substitution,,True,,,M. Sjølstad,L. Pedersen,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,2,,goal,B. Meling,False,,,,,,,0,1
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,45,,period,,,,,,,HT,,0,3
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,45,1,goal,M. Madsen,False,,,,,,,0,3
 dinamarca_danish_superliga_2026_2027,2026-08-16,4,Randers FC,FC København,0,4,45,,injuryTime,,,,,,,,2,,
@@ -424,13 +424,13 @@ dinamarca_danish_superliga_2026_2027,2026-08-17,4,Brøndby IF,Sønderjyske Fodbo
 dinamarca_danish_superliga_2026_2027,2026-08-17,4,Brøndby IF,Sønderjyske Fodbold,3,2,90,,period,,,,,,,FT,,3,2
 dinamarca_danish_superliga_2026_2027,2026-08-17,4,Brøndby IF,Sønderjyske Fodbold,3,2,90,1,card,S. Emini,False,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-17,4,Brøndby IF,Sønderjyske Fodbold,3,2,90,,injuryTime,,,,,,,,4,,
-dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,5,,card,A. Saine,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,15,,goal,K. Ehibhatiomhan,True,,,,,,,1,0
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,34,,card,K. Ehibhatiomhan,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,45,,period,,,,,,,HT,,1,0
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,45,,injuryTime,,,,,,,,5,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,46,,substitution,,False,,,O. Højer,J. J. Thomasen,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,46,,substitution,,False,,,D. Kristjansson,R. Tytens,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,5,,card,A. Saine,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,55,,substitution,,True,,,J. Körkkö,K. Ehibhatiomhan,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,55,,substitution,,True,,,A. Herdonsson,A. Moro,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,AC Horsens,Lyngby,2,1,59,,card,K. Kirkegaard,True,yellow,Foul,,,,,,
@@ -512,7 +512,6 @@ dinamarca_danish_superliga_2026_2027,2026-08-23,5,Sønderjyske Fodbold,FC Nordsj
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Sønderjyske Fodbold,FC Nordsjælland,0,3,90,,period,,,,,,,FT,,0,3
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Sønderjyske Fodbold,FC Nordsjælland,0,3,90,,injuryTime,,,,,,,,4,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,1,,goal,B. Meling,True,,,,,,,1,0
-dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,8,,goal,D. Hanza,True,,,,,,,2,0
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,16,,goal,A. Beck,True,,,,,,,3,0
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,31,,card,B. Meling,False,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,45,,period,,,,,,,HT,,3,0
@@ -528,12 +527,11 @@ dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,72
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,76,,substitution,,True,,,P. Keller,M. Søndergaard,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,76,,substitution,,True,,,H. Bidstrup,S. Kuzmić,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,77,,substitution,,False,,,T. Maseko,Robert,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,8,,goal,D. Hanza,True,,,,,,,2,0
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,81,,card,W. Clem,False,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,85,,substitution,,True,,,F. Damkjer,A. Beck,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,90,,period,,,,,,,FT,,4,0
 dinamarca_danish_superliga_2026_2027,2026-08-23,5,Viborg FF,FC København,4,0,90,,injuryTime,,,,,,,,3,,
-dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,6,,card,M. Köhlert,True,yellow,Foul,,,,,,
-dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,7,,varDecision,L. Riisgaard,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,13,,varDecision,L. Riisgaard,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,17,,card,L. Binks,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,32,,card,W. Møller,False,yellow,Foul,,,,,,
@@ -544,7 +542,9 @@ dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,4
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,51,,goal,J. Vanlerberghe,True,,,,,,,1,1
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,54,,goal,O. Fenger,True,,,,,,,2,1
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,57,,substitution,,True,,,P. Mortensen,O. Fenger,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,6,,card,M. Köhlert,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,68,,card,M. Frøkjær-Jensen,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,7,,varDecision,L. Riisgaard,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,71,,substitution,,False,,,P. Ganchas,J. Gammelby,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,71,,substitution,,False,,,W. Kirk,R. Al Hajj,,,,
 dinamarca_danish_superliga_2026_2027,2026-08-24,5,Brøndby IF,Silkeborg IF,3,1,71,,substitution,,False,,,A. Simmelhack,O. Ross,,,,

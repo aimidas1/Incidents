@@ -166,8 +166,8 @@ portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,4,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,3,card,P. Víctor,False,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,1,goal,J. Veloso,True,,,,,,,2,2
 portugal_liga_betclic_2026_2027,2026-08-09,1,Moreirense,Sporting Braga,2,2,90,,injuryTime,,,,,,,,3,,
-portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,2,,varDecision,L. Santos,False,,,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,19,,goal,G. Paciência,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,2,,varDecision,L. Santos,False,,,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,21,,goal,G. Paciência,True,,,,,,,2,0
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,24,,card,V. Lopes,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,36,,goal,Liziero,False,,,,,,,2,1
@@ -189,7 +189,6 @@ portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,80,,sub
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,85,,substitution,,True,,,L. Soares,D. Calila,,,,
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,90,,period,,,,,,,FT,,2,2
 portugal_liga_betclic_2026_2027,2026-08-10,1,Santa Clara,CD Nacional,2,2,90,,injuryTime,,,,,,,,5,,
-portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,9,,goal,F. Gonçalves,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,22,,goal,F. Ioannidis,True,,,,,,,2,0
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,24,,card,S. Altimira,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,26,,card,T. Balieiro,False,yellow,Foul,,,,,,
@@ -212,6 +211,7 @@ portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,77,,sub
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,78,,card,G. Silva,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,83,,substitution,,True,,,I. Fresneda,G. Vagiannidis,,,,
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,88,,substitution,,False,,,P. Ouotro,Samu,,,,
+portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,9,,goal,F. Gonçalves,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,90,,period,,,,,,,FT,,3,2
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,90,1,card,G. Inácio,True,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-14,2,Sporting CP,Vitória SC,3,2,90,,injuryTime,,,,,,,,6,,
@@ -323,7 +323,6 @@ portugal_liga_betclic_2026_2027,2026-08-16,2,FC Arouca,Moreirense,4,0,85,,substi
 portugal_liga_betclic_2026_2027,2026-08-16,2,FC Arouca,Moreirense,4,0,90,,period,,,,,,,FT,,4,0
 portugal_liga_betclic_2026_2027,2026-08-16,2,FC Arouca,Moreirense,4,0,90,1,goal,D. Nandín,True,,,,,,,4,0
 portugal_liga_betclic_2026_2027,2026-08-16,2,FC Arouca,Moreirense,4,0,90,,injuryTime,,,,,,,,3,,
-portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,8,,goal,F. v. Breemen,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,21,,goal,S. Bouzaidi,False,,,,,,,1,1
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,42,,card,A. Butzke,False,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,45,,period,,,,,,,HT,,1,1
@@ -336,6 +335,7 @@ portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,68,,car
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,73,,substitution,,False,,,M. Boakye,M. Tejón,,,,
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,73,,substitution,,False,,,S. Bamba,A. Butzke,,,,
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,76,,substitution,,True,,,U. Abubakar,G. Koutsias,,,,
+portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,8,,goal,F. v. Breemen,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,80,,substitution,,False,,,T. Tavares,S. Bouzaidi,,,,
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,85,,substitution,,True,,,R. Beney,Sorriso,,,,
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,88,,substitution,,False,,,G. Szalai,V. Danilović,,,,
@@ -343,8 +343,8 @@ portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,88,,sub
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,90,,period,,,,,,,FT,,1,2
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,90,4,goal,M. Boakye,False,,,,,,,1,2
 portugal_liga_betclic_2026_2027,2026-08-16,2,Famalicão,CS Marítimo,1,2,90,,injuryTime,,,,,,,,5,,
-portugal_liga_betclic_2026_2027,2026-08-17,2,Casa Pia,Benfica,0,7,3,,goal,G. Prestianni,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-08-17,2,Casa Pia,Benfica,0,7,14,,goal,R. Silva,False,,,,,,,0,2
+portugal_liga_betclic_2026_2027,2026-08-17,2,Casa Pia,Benfica,0,7,3,,goal,G. Prestianni,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-08-17,2,Casa Pia,Benfica,0,7,45,,period,,,,,,,HT,,0,2
 portugal_liga_betclic_2026_2027,2026-08-17,2,Casa Pia,Benfica,0,7,45,,injuryTime,,,,,,,,1,,
 portugal_liga_betclic_2026_2027,2026-08-17,2,Casa Pia,Benfica,0,7,47,,goal,V. Pavlidis,False,,,,,,,0,3
@@ -409,8 +409,8 @@ portugal_liga_betclic_2026_2027,2026-08-22,3,Estoril Praia,Rio Ave,0,2,81,,subst
 portugal_liga_betclic_2026_2027,2026-08-22,3,Estoril Praia,Rio Ave,0,2,86,,card,A. Ndoj,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-22,3,Estoril Praia,Rio Ave,0,2,90,,period,,,,,,,FT,,0,2
 portugal_liga_betclic_2026_2027,2026-08-22,3,Estoril Praia,Rio Ave,0,2,90,,injuryTime,,,,,,,,4,,
-portugal_liga_betclic_2026_2027,2026-08-22,3,Sporting CP,FC Alverca,3,1,2,,goal,M. Araújo,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-22,3,Sporting CP,FC Alverca,3,1,16,,card,Y. Bojang,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-22,3,Sporting CP,FC Alverca,3,1,2,,goal,M. Araújo,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-22,3,Sporting CP,FC Alverca,3,1,22,,card,G. Catamo,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-22,3,Sporting CP,FC Alverca,3,1,39,,card,D. Gui,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-22,3,Sporting CP,FC Alverca,3,1,45,,period,,,,,,,HT,,1,0
@@ -467,9 +467,9 @@ portugal_liga_betclic_2026_2027,2026-08-23,3,Santa Clara,Famalicão,1,0,88,,card
 portugal_liga_betclic_2026_2027,2026-08-23,3,Santa Clara,Famalicão,1,0,88,,substitution,,True,,,H. Silva,J. Tavares,,,,
 portugal_liga_betclic_2026_2027,2026-08-23,3,Santa Clara,Famalicão,1,0,90,,period,,,,,,,FT,,1,0
 portugal_liga_betclic_2026_2027,2026-08-23,3,Santa Clara,Famalicão,1,0,90,,injuryTime,,,,,,,,4,,
-portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,4,,goal,G. Silva,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,28,,card,G. Nogueira,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,38,,card,M. Nogueira,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,4,,goal,G. Silva,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,45,,period,,,,,,,HT,,1,0
 portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,45,,injuryTime,,,,,,,,4,,
 portugal_liga_betclic_2026_2027,2026-08-23,3,Vitória SC,CD Nacional,1,0,45,,card,T. Margarido,True,yellow,Argument,,,,,,
@@ -504,11 +504,11 @@ portugal_liga_betclic_2026_2027,2026-08-24,3,Gil Vicente,Casa Pia,2,0,79,,substi
 portugal_liga_betclic_2026_2027,2026-08-24,3,Gil Vicente,Casa Pia,2,0,82,,card,M. Elimbi Gilbert,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-24,3,Gil Vicente,Casa Pia,2,0,90,,period,,,,,,,FT,,2,0
 portugal_liga_betclic_2026_2027,2026-08-24,3,Gil Vicente,Casa Pia,2,0,90,,injuryTime,,,,,,,,3,,
-portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,5,,goal,F. Gonçalves,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,19,,goal,G. Catamo,False,,,,,,,0,2
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,26,,goal,L. J. Suárez ,False,,,,,,,0,3
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,37,,goal,L. J. Suárez ,False,,,,,,,0,4
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,45,,period,,,,,,,HT,,0,4
+portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,5,,goal,F. Gonçalves,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,51,,card,L. J. Suárez ,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,60,,card,T. Nikitscher,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-08-28,4,Rio Ave,Sporting CP,0,4,65,,substitution,,False,,,L. Guilherme,G. Catamo,,,,

@@ -105,9 +105,6 @@ inglaterra_premier_league_2026_2027,2026-08-22,1,Nottingham Forest,Leeds United,
 inglaterra_premier_league_2026_2027,2026-08-22,1,Nottingham Forest,Leeds United,0,1,90,,period,,,,,,,FT,,0,1
 inglaterra_premier_league_2026_2027,2026-08-22,1,Nottingham Forest,Leeds United,0,1,90,3,substitution,,True,,,A. Kalimuendo,Murillo,,,,
 inglaterra_premier_league_2026_2027,2026-08-22,1,Nottingham Forest,Leeds United,0,1,90,,injuryTime,,,,,,,,3,,
-inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,8,,goal,V. Lindelöf,True,,,,,,,1,0
-inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,9,,card,J. Gomes,False,yellow,Argument,,,,,,
-inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,9,,card,P. Groß,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,11,,card,Y. Ayari,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,18,,goal,M. De Cuyper,True,,,,,,,2,0
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,30,,goal,J. Hinshelwood,True,,,,,,,3,0
@@ -123,10 +120,13 @@ inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Vi
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,74,,substitution,,False,,,L. Bogarde,R. Barkley,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,78,,substitution,,True,,,I. Osman,M. De Cuyper,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,78,,substitution,,True,,,Z. Yohanna,M. Wieffer,,,,
+inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,8,,goal,V. Lindelöf,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,82,,substitution,,False,,,Alysson,J. McGinn,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,82,,substitution,,False,,,M. Ruggeri,I. Maatsen,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,86,,substitution,,False,,,A. Garnacho,E. Buendía,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,86,,substitution,,True,,,M. Yalcouyé,D. Gómez,,,,
+inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,9,,card,J. Gomes,False,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,9,,card,P. Groß,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,90,,period,,,,,,,FT,,4,0
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,90,5,card,M. Cash,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Brighton & Hove Albion,Aston Villa,4,0,90,,injuryTime,,,,,,,,5,,
@@ -149,13 +149,13 @@ inglaterra_premier_league_2026_2027,2026-08-23,1,Manchester City,Bournemouth,2,1
 inglaterra_premier_league_2026_2027,2026-08-23,1,Manchester City,Bournemouth,2,1,90,2,varDecision,J. Gvardiol,True,,,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Manchester City,Bournemouth,2,1,90,1,goal,J. Gvardiol,True,,,,,,,2,1
 inglaterra_premier_league_2026_2027,2026-08-23,1,Manchester City,Bournemouth,2,1,90,,injuryTime,,,,,,,,3,,
-inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,5,,goal,A. Elanga,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,25,,card,Y. Wissa,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,30,,card,J. Frimpong,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,30,,card,M. Kerkez,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,34,,card,L. Miley,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,45,,period,,,,,,,HT,,1,0
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,45,,injuryTime,,,,,,,,1,,
+inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,5,,goal,A. Elanga,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,55,,goal,C. Gakpo,False,,,,,,,1,1
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,56,,substitution,,True,,,J. Willock,W. Osula,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,56,,substitution,,True,,,J. Ramsey,S. Steur,,,,
@@ -175,13 +175,13 @@ inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,90,,card,V. van Dijk,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-23,1,Newcastle United,Liverpool FC,2,2,90,,injuryTime,,,,,,,,5,,
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,1,,goal,J. Pedro,False,,,,,,,0,1
-inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,5,,card,L. Colwill,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,12,,card,R. Lavia,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,23,,goal,J. King,True,,,,,,,1,1
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,41,,goal,M. Rogers,False,,,,,,,1,2
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,45,,period,,,,,,,HT,,1,2
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,45,,injuryTime,,,,,,,,2,,
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,49,,goal,C. Palmer,False,,,,,,,1,3
+inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,5,,card,L. Colwill,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,54,,goal,G. García,True,,,,,,,2,3
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,65,,substitution,,False,,,J. Chavarría,J. Hato,,,,
 inglaterra_premier_league_2026_2027,2026-08-24,1,Fulham,Chelsea,2,3,65,,substitution,,False,,,E. Fernández,R. Lavia,,,,

@@ -77,10 +77,10 @@ italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,,period,,,,,,,FT,,1,1
 italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,3,card,U. Gómez,True,yellow,,,,,,,
 italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,,substitution,,True,,,O. Zarraga,N. Zaniolo,,,,
 italia_serie_a_2026_2027,2026-08-22,1,Udinese,Como,1,1,90,,injuryTime,,,,,,,,5,,
-italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,6,,goal,G. Raspadori,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,45,,period,,,,,,,HT,,1,0
 italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,45,,injuryTime,,,,,,,,1,,
 italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,55,,goal,C. Odenthal,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,6,,goal,G. Raspadori,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,60,,substitution,,True,,,L. Samardžić,M. Pašalić,,,,
 italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,60,,substitution,,True,,,N. Krstović,G. Scamacca,,,,
 italia_serie_a_2026_2027,2026-08-23,1,Atalanta,Sassuolo,2,1,60,,substitution,,True,,,C. De Ketelaere,N. Zalewski,,,,
@@ -215,7 +215,6 @@ italia_serie_a_2026_2027,2026-08-28,2,AC Milan,Venezia,2,0,87,,substitution,,Tru
 italia_serie_a_2026_2027,2026-08-28,2,AC Milan,Venezia,2,0,89,,goal,R. Halhal,True,,,,,,,2,0
 italia_serie_a_2026_2027,2026-08-28,2,AC Milan,Venezia,2,0,90,,period,,,,,,,FT,,2,0
 italia_serie_a_2026_2027,2026-08-28,2,AC Milan,Venezia,2,0,90,,injuryTime,,,,,,,,4,,
-italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,8,,card,A. Raimondo,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,24,,card,G. Bracaglia,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,24,,card,A. Jiménez,True,yellow,Argument,,,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,26,,goal,A. Raimondo,False,,,,,,,0,1
@@ -233,6 +232,7 @@ italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,71,,substitution,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,71,,substitution,,True,,,R. Mandragora,A. Guðmundsson,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,74,,substitution,,False,,,G. Cittadini,G. Calvani,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,74,,substitution,,False,,,A. Terzić,G. Bracaglia,,,,
+italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,8,,card,A. Raimondo,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,82,,substitution,,False,,,F. Grillitsch,G. Calò,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,84,,substitution,,True,,,J. Mário,A. Jiménez,,,,
 italia_serie_a_2026_2027,2026-08-29,2,Fiorentina,Frosinone,0,3,89,,substitution,,False,,,D. Bîrligea,A. Raimondo,,,,

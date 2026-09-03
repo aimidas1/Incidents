@@ -650,3 +650,26 @@ belgica_pro_league_2026_2027,2026-08-30,4,Royale Union Saint-Gilloise,RSC Anderl
 belgica_pro_league_2026_2027,2026-08-30,4,Royale Union Saint-Gilloise,RSC Anderlecht,3,0,87,,substitution,,True,,,N. Havenaar,B. Zeneli,,,,
 belgica_pro_league_2026_2027,2026-08-30,4,Royale Union Saint-Gilloise,RSC Anderlecht,3,0,90,,period,,,,,,,FT,,3,0
 belgica_pro_league_2026_2027,2026-08-30,4,Royale Union Saint-Gilloise,RSC Anderlecht,3,0,90,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,21,,card,K. Mac Allister,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,23,,goal,L. Patris,False,,,,,,,0,1
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,45,,period,,,,,,,HT,,0,1
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,45,,injuryTime,,,,,,,,1,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,47,,card,A. Sissako,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,49,,card,R. Vanwesemael,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,54,,card,N. Ishiwatari,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,55,,goal,K. Mac Allister,False,,,,,,,0,2
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,55,,varDecision,K. Mac Allister,False,,,,,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,57,,substitution,,True,,,S. Baždar,O. Diouf,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,57,,substitution,,True,,,R. Merlen,N. Ishiwatari,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,61,,card,K. V. D. Perre,False,yellow,Persistent fouling,,,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,63,,goal,R. Mofokeng,False,,,,,,,0,3
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,65,,substitution,,True,,,K. Matsuzawa,R. Araki,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,65,,substitution,,False,,,D. Olaru,R. Mofokeng,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,65,,substitution,,False,,,D. D. Roeve,G. Smith,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,71,,substitution,,False,,,S. Keita,M. Biondic,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,72,,substitution,,True,,,T. Hata,R. Vanwesemael,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,72,,substitution,,True,,,S. Shinkawa,A. Muja,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,72,,substitution,,False,,,R. Schoofs,K. V. D. Perre,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,79,,substitution,,False,,,R. Florucz,B. Zeneli,,,,
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,90,,period,,,,,,,FT,,0,3
+belgica_pro_league_2026_2027,2026-09-02,3,Sint-Truidense VV,Royale Union Saint-Gilloise,0,3,90,,injuryTime,,,,,,,,3,,

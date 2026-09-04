@@ -783,7 +783,6 @@ japao_j1_league_2026_2027,2026-08-29,4,Vissel Kobe,Cerezo Osaka,1,0,87,,substitu
 japao_j1_league_2026_2027,2026-08-29,4,Vissel Kobe,Cerezo Osaka,1,0,90,,period,,,,,,,FT,,1,0
 japao_j1_league_2026_2027,2026-08-29,4,Vissel Kobe,Cerezo Osaka,1,0,90,2,substitution,,True,,,I. Takahashi,K. Nagato,,,,
 japao_j1_league_2026_2027,2026-08-29,4,Vissel Kobe,Cerezo Osaka,1,0,90,,injuryTime,,,,,,,,7,,
-japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,7,,goal,M. Sávio,False,,,,,,,0,1
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,10,,card,D. Boza,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,24,,goal,S. Usui,True,,,,,,,1,1
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,34,,goal,S. Morooka,True,,,,,,,2,1
@@ -798,6 +797,7 @@ japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,64,
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,65,,card,Y. Tsujioka,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,67,,substitution,,False,,,A. Onaiwu,H. Komori,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,67,,substitution,,False,,,H. Ueki,K. Yasui,,,,
+japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,7,,goal,M. Sávio,False,,,,,,,0,1
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,80,,substitution,,True,,,K. Okuno,S. Usui,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,80,,substitution,,True,,,D. Fukazawa,M. Yota,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Avispa Fukuoka,Urawa Red Diamonds,2,3,83,,goal,K. Hayashi,False,,,,,,,2,2
@@ -858,8 +858,6 @@ japao_j1_league_2026_2027,2026-09-02,5,Machida Zelvia,Kawasaki Frontale,2,1,88,,
 japao_j1_league_2026_2027,2026-09-02,5,Machida Zelvia,Kawasaki Frontale,2,1,88,,substitution,,False,,,S. Kawahara,K. Tachibanada,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Machida Zelvia,Kawasaki Frontale,2,1,90,,period,,,,,,,FT,,2,1
 japao_j1_league_2026_2027,2026-09-02,5,Machida Zelvia,Kawasaki Frontale,2,1,90,,injuryTime,,,,,,,,6,,
-japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,5,,card,T. Hayakawa,False,yellow,Foul,,,,,,
-japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,8,,goal,A. Watanabe,True,,,,,,,1,0
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,21,,goal,A. Watanabe,True,,,,,,,2,0
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,45,,period,,,,,,,HT,,2,0
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,45,,injuryTime,,,,,,,,5,,
@@ -867,12 +865,14 @@ japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,46,,su
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,46,,substitution,,False,,,K. Misao,M. Bueno,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,46,,substitution,,False,,,T. H. Kim,N. Ueda,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,48,,goal,A. Watanabe,True,,,,,,,3,0
+japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,5,,card,T. Hayakawa,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,53,,goal,L. Ceará,False,,,,,,,3,1
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,55,,goal,A. Watanabe,True,,,,,,,4,1
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,62,,substitution,,True,,,K. Uchino,R. Nemoto,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,62,,substitution,,True,,,C. Kato,Y. Torikai,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,68,,substitution,,False,,,K. Tagawa,R. Hirose,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,70,,card,K. Uchino,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,8,,goal,A. Watanabe,True,,,,,,,1,0
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,80,,substitution,,True,,,H. Yamamoto,K. Taniguchi,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,80,,substitution,,True,,,M. Leiria,A. Watanabe,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Mito Hollyhock,Kashima Antlers,4,2,81,,substitution,,False,,,K. Tsukui,G. Shibasaki,,,,
@@ -953,7 +953,6 @@ japao_j1_league_2026_2027,2026-09-02,5,V-Varen Nagasaki,Gamba Osaka,2,2,90,,peri
 japao_j1_league_2026_2027,2026-09-02,5,V-Varen Nagasaki,Gamba Osaka,2,2,90,4,goal,I. Jebali,False,,,,,,,2,2
 japao_j1_league_2026_2027,2026-09-02,5,V-Varen Nagasaki,Gamba Osaka,2,2,90,,goal,D. Hümmet,False,,,,,,,2,1
 japao_j1_league_2026_2027,2026-09-02,5,V-Varen Nagasaki,Gamba Osaka,2,2,90,,injuryTime,,,,,,,,5,,
-japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,9,,card,J. Quiñónes,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,45,,period,,,,,,,HT,,0,0
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,45,,injuryTime,,,,,,,,4,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,55,,substitution,,True,,,T. Suzuki,S. Miidera,,,,
@@ -966,6 +965,7 @@ japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,75
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,83,,card,K. Suwama,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,84,,substitution,,False,,,S. Nagasawa,R. Nakano,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,84,,substitution,,False,,,R. Kato,Y. Ishida,,,,
+japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,9,,card,J. Quiñónes,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90,,period,,,,,,,FT,,1,1
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90,6,substitution,,False,,,K. Nagata,K. Sato,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90,6,substitution,,False,,,F. Honda,Rafael Elias,,,,

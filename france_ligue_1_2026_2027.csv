@@ -368,3 +368,20 @@ france_ligue_1_2026_2027,2026-08-30,2,Stade Rennais,Le Mans,3,2,90,6,card,E. Lep
 france_ligue_1_2026_2027,2026-08-30,2,Stade Rennais,Le Mans,3,2,90,6,goal,E. Lepaul,True,,,,,,,3,2
 france_ligue_1_2026_2027,2026-08-30,2,Stade Rennais,Le Mans,3,2,90,2,varDecision,A. Nordin,True,,,,,,,,
 france_ligue_1_2026_2027,2026-08-30,2,Stade Rennais,Le Mans,3,2,90,,injuryTime,,,,,,,,10,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,20,,card,S. Hidalgo,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,34,,varDecision,T. Jørgensen,True,,,,,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,45,,injuryTime,,,,,,,,3,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,46,,substitution,,False,,,R. Perraud,C. Verdonk,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,46,,substitution,,False,,,D. Bakwa,O. Sahraoui,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,57,,substitution,,False,,,N. Mukau,E. Mbappé,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,57,,substitution,,False,,,A. Ueda,O. Giroud,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,57,,substitution,,True,,,J. Vignolo,S. Hidalgo,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,65,,substitution,,True,,,C. Tengstedt,J. Russell Rowe,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,66,,substitution,,True,,,I. Diallo,R. Messali,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,71,,substitution,,True,,,M. Niflore,G. Restes,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,71,,substitution,,False,,,B. Önal,N. Bentaleb,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,72,,substitution,,True,,,N. Schmidt,A. Vossah,,,,
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,73,,goal,A. Ueda,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,90,,period,,,,,,,FT,,0,1
+france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,90,,injuryTime,,,,,,,,4,,

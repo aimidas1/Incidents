@@ -948,3 +948,45 @@ polonia_ekstraklasa_2026_2027,2026-08-30,6,Widzew Łódź,Lech Poznań,2,3,90,,p
 polonia_ekstraklasa_2026_2027,2026-08-30,6,Widzew Łódź,Lech Poznań,2,3,90,7,card,L. Palma,False,yellow,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-08-30,6,Widzew Łódź,Lech Poznań,2,3,90,6,goal,L. Palma,False,,,,,,,2,3
 polonia_ekstraklasa_2026_2027,2026-08-30,6,Widzew Łódź,Lech Poznań,2,3,90,1,varDecision,M. Żyro,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,43,,goal,P. Rodríguez,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,45,,period,,,,,,,HT,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,45,4,goal,Y. Kobayashi,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,45,,injuryTime,,,,,,,,7,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,46,,substitution,,False,,,G. Montóia,Y. Kobayashi,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,59,,substitution,,False,,,F. Klynge,S. Lozano,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,59,,substitution,,False,,,K. Szmyt,O. Sow,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,63,,substitution,,True,,,F. Jagiełło,G. Berggren,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,64,,substitution,,True,,,Y. Agnero,A. Sayyad,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,68,,substitution,,False,,,H. Finndell,E. Kozlowski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,72,,substitution,,True,,,L. Bengtsson,L. Palma,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,73,,substitution,,True,,,M. Ishak,P. Rodríguez,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,80,,card,R. Conceição,False,yellow,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,80,,card,P. Wålemark,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,82,,substitution,,False,,,Y. Sylla,N. Prelec,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,83,,substitution,,True,,,R. Gumny,P. Wålemark,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,87,,goal,R. Gumny,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,87,,varDecision,W. Mońka,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,90,,period,,,,,,,FT,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,90,2,card,H. Finndell,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,90,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,6,,goal,J. Antiste,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,34,,goal,R. Janicki,False,,,,,,,0,2
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,36,,substitution,,True,,,J. Silva,M. Perović,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,36,,card,K. Urbański,False,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,45,,period,,,,,,,HT,,0,2
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,46,,substitution,,True,,,M. Diaby,J. Jendryka,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,46,,substitution,,True,,,S. Svarnas,Didí Gaucho,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,52,,substitution,,True,,,K. Struski,A. Ojo,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,61,,substitution,,True,,,A. Basse,W. Kocherhin,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,65,,card,F. Tudor,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,79,,substitution,,False,,,B. Durdov,Y. I. Dimi,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,79,,substitution,,False,,,L. Sadílek,J. Kubicki,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,79,,goal,M. Emreli,True,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,84,,substitution,,False,,,E. Prekop,J. Antiste,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,84,,substitution,,False,,,B. Donio,P. Bernardo,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,89,,substitution,,False,,,O. Zmrzlý,M. Khlan,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,,period,,,,,,,FT,,1,2
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,4,card,M. Diaby,True,red,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,3,varDecision,M. Diaby,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,,injuryTime,,,,,,,,6,,

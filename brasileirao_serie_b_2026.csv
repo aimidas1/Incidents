@@ -5357,3 +5357,19 @@ brasileirao_serie_b_2026,2026-09-01,25,Londrina,Juventude,0,0,90,,period,,,,,,,F
 brasileirao_serie_b_2026,2026-09-01,25,Londrina,Juventude,0,0,90,2,substitution,,True,,,N. Paraíba,Kevyn,,,,
 brasileirao_serie_b_2026,2026-09-01,25,Londrina,Juventude,0,0,90,2,substitution,,True,,,Heron,K. Leonardo,,,,
 brasileirao_serie_b_2026,2026-09-01,25,Londrina,Juventude,0,0,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,55,,substitution,,True,,,Todinho,J. Carlos,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,55,,substitution,,True,,,K. Maranhão,B. Borasi,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,63,,substitution,,False,,,Z. Hugo,W. Pinheiro,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,63,,substitution,,False,,,Kelvin,Arthur Caíke,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,69,,substitution,,True,,,L. Claudio,Derek,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,69,,substitution,,True,,,Reginaldo,Arnaldo,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,69,,card,Arnaldo,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,75,,card,P. Brey,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,76,,goal,L. Claudio,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,79,,substitution,,True,,,Auremir,Wenderson,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,81,,substitution,,False,,,L. Maciel,E. d. Silva,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,81,,substitution,,False,,,Thiaguinho,R. Gava,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,81,,substitution,,False,,,G. Queiróz,Hygor,,,,
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,90,,card,K. Maranhão,True,yellow,Foul,,,,,,

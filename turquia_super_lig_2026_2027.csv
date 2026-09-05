@@ -544,3 +544,32 @@ turquia_super_lig_2026_2027,2026-08-31,3,Beşiktaş JK,Çorum FK,6,2,88,,varDeci
 turquia_super_lig_2026_2027,2026-08-31,3,Beşiktaş JK,Çorum FK,6,2,9,,goal,V. Černý,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-08-31,3,Beşiktaş JK,Çorum FK,6,2,90,,period,,,,,,,FT,,6,2
 turquia_super_lig_2026_2027,2026-08-31,3,Beşiktaş JK,Çorum FK,6,2,90,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,16,,goal,V. Osimhen,False,,,,,,,0,1
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,17,,varDecision,V. Osimhen,False,,,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,33,,substitution,,False,,,B. A. Yılmaz,V. Osimhen,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,37,,card,C. Operi,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,45,,period,,,,,,,HT,,0,1
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,46,,substitution,,False,,,A. Bardakcı,M. Lemina,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,63,,card,R. Sallai,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,63,,substitution,,True,,,S. Kharebashvili,C. Operi,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,66,,goal,E. Shomurodov,True,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,67,,card,D. Sánchez,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,67,,card,O. Buruk,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,68,,substitution,,False,,,R. Leão,A. Batrakov,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,71,,goal,L. Torreira,False,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,74,,substitution,,True,,,U. Bozok,J. Kałuziński,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,74,,substitution,,True,,,I. Brnić,A. Fayzullaev,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,76,,goal,D. Sánchez,True,,,,,,,2,2
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,78,,card,R. Leão,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,79,,card,U. Bozok,True,red,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,83,,substitution,,False,,,D. Gül,L. Sané,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,83,,substitution,,False,,,E. Elmalı,I. Jakobs,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,83,,substitution,,True,,,M. Karbownik,Ö. A. Şahiner,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,83,,substitution,,True,,,O. Ba,A. Skov Olsen,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,83,,varDecision,D. Sánchez,False,,,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,89,,card,S. Kharebashvili,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,period,,,,,,,FT,,2,3
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,goal,G. Sara,False,,,,,,,2,3
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,injuryTime,,,,,,,,7,,
+turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,card,N. Şahin,True,red,Argument,,,,,,

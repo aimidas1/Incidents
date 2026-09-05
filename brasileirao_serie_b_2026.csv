@@ -5373,3 +5373,70 @@ brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,81,,substitution
 brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,81,,substitution,,False,,,G. Queiróz,Hygor,,,,
 brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_b_2026,2026-09-03,26,Náutico,Botafogo-SP,1,0,90,,card,K. Maranhão,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,19,,goal,Y. Santos,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,32,,card,A. Luís,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,39,,card,Nathan Camargo,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,40,,goal,Carlinhos,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,42,,card,Alex,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,45,,period,,,,,,,HT,,3,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,45,,goal,D. Vera,True,,,,,,,3,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,46,,substitution,,False,,,J. Costa,I. Cariús,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,46,,substitution,,False,,,R. Lima,Everton Galdino,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,46,,substitution,,True,,,Jota,Y. Santos,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,46,,substitution,,False,,,Dodô,Nathan Camargo,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,63,,substitution,,True,,,W. Aponzá,Carlinhos,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,63,,substitution,,True,,,Assis,K. Lindes,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,64,,card,D. Vera,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,65,,substitution,,True,,,Bruninho,D. Vera,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,72,,card,T. Pagnussat,False,red,Violent conduct,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,72,,varDecision,W. Aponzá,True,,,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,74,,goal,W. Aponzá,True,,,,,,,4,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,75,,substitution,,False,,,R. E. C. Junior,Marquinhos Gabriel,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,79,,card,Yarlen,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,82,,substitution,,False,,,G. P. P. Lemos,A. Luís,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,86,,substitution,,True,,,P. Sampaio,F. Negrucci,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,88,,card,W. Aponzá,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,90,,period,,,,,,,FT,,5,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,90,1,goal,Bruninho,True,,,,,,,5,0
+brasileirao_serie_b_2026,2026-09-04,26,Athletic Club,Vila Nova FC,5,0,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,19,,goal,W. Lepo,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,29,,card,B. Alves,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,46,,substitution,,False,,,K. Cristtyan,Eliel,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,46,,substitution,,False,,,R. Rodrigues,Fábio Gomes,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,53,,goal,J. Basso,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,62,,substitution,,False,,,Ramon,Igor,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,62,,substitution,,False,,,V. Peixoto,J. Dias,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,62,,substitution,,True,,,E. Biasi,R. Otero,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,72,,substitution,,False,,,Weverson,A. Empereur,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,75,,substitution,,True,,,Yuri,Waguininho,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,75,,substitution,,True,,,Romarinho,G. Lobo,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,81,,card,E. Biasi,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,84,,substitution,,True,,,T. R. S. Modesto,Ronald,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,84,,substitution,,True,,,João Carlos,Diego Gonçalves,,,,
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_b_2026,2026-09-04,26,Criciúma,Cuiabá,2,0,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,18,,goal,Crystopher,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,45,2,card,Barreto,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,46,,substitution,,False,,,Fábio,A. Silva,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,52,,goal,Mikael,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,54,,card,Reverson,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,63,,substitution,,False,,,F. Elizari,J. César,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,63,,substitution,,False,,,R. Piñeiro,G. Parede,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,66,,substitution,,True,,,João Neto,V. Barata,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,67,,substitution,,True,,,D. Baggio,Mikael,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,69,,goal,Kevin,True,,,,,,,3,0
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,72,,substitution,,False,,,L. Sosa,R. Barcelos,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,75,,card,O. Gonçalves,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,76,,substitution,,True,,,D. Hereda,Kevin,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,76,,substitution,,True,,,Geovane,P. Castro,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,79,,substitution,,False,,,J. R. Jiménez,O. Gonçalves,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,79,,card,T. Ostchega,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,81,,goal,W. Bigode,False,,,,,,,3,1
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,88,,substitution,,True,,,Estêvão,Danielzinho,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,90,,period,,,,,,,FT,,3,1
+brasileirao_serie_b_2026,2026-09-05,26,Clube De Regatas Brasil,América Mineiro,3,1,90,,injuryTime,,,,,,,,6,,

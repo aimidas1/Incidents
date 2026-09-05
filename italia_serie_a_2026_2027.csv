@@ -392,3 +392,25 @@ italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,9,,card,D. Malen,False,y
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,90,,period,,,,,,,FT,,0,4
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,90,,card,I. Ilić,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-08-31,2,Lecce,AS Roma,0,4,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,19,,goal,M. Osmajić,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,25,,goal,M. Baturina,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,30,,goal,A. Diao,False,,,,,,,1,2
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,36,,card,D. Sow,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,40,,goal,N. Paz,False,,,,,,,1,3
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,45,,period,,,,,,,HT,,1,3
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,46,,substitution,,True,,,Vitinha,S. Sabelli,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,60,,card,M. Baturina,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,62,,card,L. Østigård,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,66,,substitution,,True,,,J. Messias,L. Colombo,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,66,,substitution,,True,,,K. Ehizibue,T. Baldanzi,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,66,,substitution,,False,,,M. Caqueret,M. Baturina,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,66,,substitution,,False,,,M. Kean,A. Douvikas,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,75,,substitution,,True,,,Amorim,D. Sow,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,78,,goal,A. Diao,False,,,,,,,1,4
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,79,,substitution,,False,,,S. Ricci,L. Da Cunha,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,80,,substitution,,False,,,L. Milla,N. Paz,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,81,,substitution,,True,,,F. Meichtry,A. Marcandalli,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,84,,substitution,,False,,,M. Liberali,A. Diao,,,,
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,90,,period,,,,,,,FT,,1,4
+italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,90,,injuryTime,,,,,,,,2,,

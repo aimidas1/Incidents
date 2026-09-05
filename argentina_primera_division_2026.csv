@@ -7548,3 +7548,61 @@ argentina_primera_division_2026,2026-09-01,7,Tigre,Barracas Central,0,0,90,,peri
 argentina_primera_division_2026,2026-09-01,7,Tigre,Barracas Central,0,0,90,4,card,I. Subiabre,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-01,7,Tigre,Barracas Central,0,0,90,4,card,G. Maroni,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-01,7,Tigre,Barracas Central,0,0,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,24,,card,E. Rigoni,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,29,,varDecision,M. Palazzo,True,,,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,34,,card,L. López,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,45,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,57,,substitution,,False,,,J. Bisanz,F. Waller,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,58,,substitution,,True,,,R. Hernandes,J. M. Velázquez,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,61,,goal,N. Fernández,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,68,,substitution,,False,,,E. Ojeda,F. Kalinger,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,68,,substitution,,False,,,B. Barticciotto,L. Gil,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,73,,substitution,,True,,,F. G. Metilli,F. Vázquez,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,74,,substitution,,True,,,L. Passerini,N. Fernández,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,79,,substitution,,True,,,S. Longo,A. Sánchez,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,83,,card,C. Ibáñez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,84,,goal,J. Caicedo,False,,,,,,,1,1
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,86,,substitution,,False,,,L. Lescano,C. Ibáñez,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,86,,substitution,,False,,,T. Peralta,O. Cortés,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,90,4,card,J. Caicedo,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Belgrano,Huracán,1,1,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,16,,goal,G. Lencina,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,21,,substitution,,False,,,P. Ramírez,I. Gariglio,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,34,,card,M. Celiz,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,41,,card,C. Paz,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,45,1,card,F. Miño,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,59,,substitution,,False,,,A. Díaz,N. Benegas,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,65,,substitution,,True,,,C. Ingenthron,T. A. Silva,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,65,,substitution,,True,,,M. Amarfil,M. Barrios,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,69,,card,M. Bracamonte,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,69,,card,G. Duro,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,71,,goal,A. Díaz,False,,,,,,,1,1
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,73,,substitution,,True,,,A. Lotti,G. Lencina,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,73,,substitution,,True,,,G. Mainero,N. Retamar,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,81,,card,M. Amarfil,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,85,,substitution,,True,,,A. Lagos,J. I. Saborido,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,87,,substitution,,False,,,G. Obredor,T. Gonzalez,,,,
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-09-04,8,Club Atlético Platense,Deportivo Riestra,1,1,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,6,,goal,G. Maffini,False,,,,,,,0,1
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,14,,card,G. Maffini,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,42,,substitution,,False,,,G. González,U. Giménez,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,46,,substitution,,True,,,R. Lozano,G. Gonzalez,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,49,,substitution,,False,,,G. Díaz,L. Suárez,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,62,,card,F. Rodríguez,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,62,,substitution,,True,,,T. González,S. Rosane,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,67,,substitution,,True,,,M. Bajamich,M. Valiente,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,71,,goal,J. Marabel,False,,,,,,,0,2
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,81,,substitution,,False,,,T. Santamaría,J. Herrera,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,82,,substitution,,False,,,E. Giménez,J. Mavilla,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,82,,substitution,,True,,,F. L. Celso,G. Alanis,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,82,,substitution,,True,,,M. Garnerone,F. Rodríguez,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,82,,substitution,,False,,,G. Arturia,S. Salle,,,,
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,90,,period,,,,,,,FT,,0,2
+argentina_primera_division_2026,2026-09-04,8,Estudiantes de Río Cuarto,Sarmiento,0,2,90,,injuryTime,,,,,,,,4,,

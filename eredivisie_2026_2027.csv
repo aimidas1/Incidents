@@ -663,3 +663,21 @@ eredivisie_2026_2027,2026-08-30,4,Willem II Tilburg,SC Heerenveen,2,2,85,,substi
 eredivisie_2026_2027,2026-08-30,4,Willem II Tilburg,SC Heerenveen,2,2,87,,substitution,,True,,,T. Verheydt,K. Boogaard,,,,
 eredivisie_2026_2027,2026-08-30,4,Willem II Tilburg,SC Heerenveen,2,2,90,,period,,,,,,,FT,,2,2
 eredivisie_2026_2027,2026-08-30,4,Willem II Tilburg,SC Heerenveen,2,2,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,21,,goal,I. Cissoko,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,24,,goal,M. Zonneveld,True,,,,,,,1,1
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,45,,period,,,,,,,HT,,1,1
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,63,,card,S. Floranus,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,63,,substitution,,False,,,O. Velanas,T. Oosting,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,68,,substitution,,True,,,I. Babadi,C. Terho,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,69,,goal,I. Babadi,True,,,,,,,2,1
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,75,,substitution,,False,,,D. v. d. Haar,S. Floranus,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,75,,substitution,,False,,,S. v. Hooijdonk,I. Cissoko,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,79,,substitution,,True,,,A. Roaldsøy,J. Baas,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,79,,substitution,,True,,,J. Toornstra,C. Hatenboer,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,80,,goal,K. Kostons,False,,,,,,,2,2
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,86,,substitution,,True,,,N. Verschuren,B. Martins Indi,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,86,,substitution,,True,,,A. Kostić,M. Zonneveld,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,86,,card,T. Sommer,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,88,,substitution,,False,,,E. Sørensen,T. Sommer,,,,
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,90,,period,,,,,,,FT,,2,2
+eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,90,,injuryTime,,,,,,,,3,,

@@ -969,7 +969,6 @@ polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,90,,period,,,,,,,FT,,2,1
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,90,2,card,H. Finndell,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Lech Poznań,Jagiellonia Białystok,2,1,90,,injuryTime,,,,,,,,5,,
-polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,6,,goal,J. Antiste,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,34,,goal,R. Janicki,False,,,,,,,0,2
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,36,,substitution,,True,,,J. Silva,M. Perović,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,36,,card,K. Urbański,False,yellow,Time wasting,,,,,,
@@ -978,6 +977,7 @@ polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,46,,substitution,,True,,,M. Diaby,J. Jendryka,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,46,,substitution,,True,,,S. Svarnas,Didí Gaucho,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,52,,substitution,,True,,,K. Struski,A. Ojo,,,,
+polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,6,,goal,J. Antiste,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,61,,substitution,,True,,,A. Basse,W. Kocherhin,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,65,,card,F. Tudor,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,79,,substitution,,False,,,B. Durdov,Y. I. Dimi,,,,
@@ -990,3 +990,27 @@ polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,4,card,M. Diaby,True,red,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,3,varDecision,M. Diaby,True,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-03,5,Raków Częstochowa,Górnik Zabrze,1,2,90,,injuryTime,,,,,,,,6,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,5,,goal,L. Sanca,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,9,,card,E. Jirka,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,13,,card,E. Marković,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,27,,card,M. Kowalczyk,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,35,,card,J. Łabojko,True,yellow,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,35,,goal,J. Rivas,True,,,,,,,2,0
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,40,,card,M. Wdowiak,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,45,,period,,,,,,,HT,,2,0
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,45,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,46,,substitution,,False,,,M. Wasielewski,E. Jirka,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,52,,substitution,,True,,,O. Lesniak,J. Łabojko,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,59,,substitution,,False,,,S. Bartlewicz,E. Marković,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,65,,substitution,,True,,,S. Mucha,I. Lima,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,65,,substitution,,True,,,A. Katsantonis,S. N. Ndimba,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,68,,card,Q. Boisgard,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,75,,substitution,,False,,,A. Czerwiński,M. Wdowiak,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,82,,substitution,,True,,,M. Kucharski,L. Sanca,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,82,,substitution,,True,,,O. Maziarz,Q. Boisgard,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,83,,substitution,,False,,,J. Kokosinski,M. Kowalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,85,,goal,H. Vallejo,True,,,,,,,3,0
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,87,,card,L. Klemenz,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,90,,period,,,,,,,FT,,3,0
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,90,1,card,A. Czerwiński,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-04,7,Piast Gliwice,GKS Katowice,3,0,90,,injuryTime,,,,,,,,3,,

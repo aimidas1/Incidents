@@ -709,3 +709,20 @@ belgica_pro_league_2026_2027,2026-09-03,3,RSC Anderlecht,KV Kortrijk,1,0,86,,car
 belgica_pro_league_2026_2027,2026-09-03,3,RSC Anderlecht,KV Kortrijk,1,0,89,,substitution,,True,,,N. Kalonji,M. Kana,,,,
 belgica_pro_league_2026_2027,2026-09-03,3,RSC Anderlecht,KV Kortrijk,1,0,90,,period,,,,,,,FT,,1,0
 belgica_pro_league_2026_2027,2026-09-03,3,RSC Anderlecht,KV Kortrijk,1,0,90,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,36,,card,H. Lee,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,45,,period,,,,,,,HT,,0,1
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,45,,goal,T. Eyoma,False,,,,,,,0,1
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,45,,injuryTime,,,,,,,,1,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,47,,card,J. Talvitie,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,60,,substitution,,False,,,J. Virgili,M. Diakhon,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,64,,substitution,,True,,,S. D. Grand,S. Adewoye,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,74,,varDecision,N. Tresoldi,False,,,,,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,81,,substitution,,False,,,A. Vasovic,R. Vermant,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,81,,substitution,,False,,,C. Tsawa,H. Vetlesen,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,81,,substitution,,True,,,N. Corthouts,S. Appuah,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,82,,card,F. Potts,False,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,88,,substitution,,False,,,F. Lemaréchal,N. Tresoldi,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,88,,substitution,,False,,,H. Siquet,K. Sabbe,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,90,,period,,,,,,,FT,,0,1
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,90,2,substitution,,True,,,L. Beirinckx,D. Konadu,,,,
+belgica_pro_league_2026_2027,2026-09-04,5,Lommel SK,Club Brugge KV,0,1,90,,injuryTime,,,,,,,,4,,

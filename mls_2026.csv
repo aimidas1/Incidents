@@ -6467,3 +6467,19 @@ mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,7,goal,L. Farrington,False,,,,,,,3,3
 mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,7,card,L. MacNaughton,True,yellow,Time wasting,,,,,,
 mls_2026,2026-08-30,,St.Louis City,FC Dallas,3,3,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,13,,card,A. Najar,False,yellow,,,,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,49,,card,P. Yazbek,False,yellow,Foul,,,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,53,,card,H. Mukhtar,False,yellow,Foul,,,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,66,,substitution,,False,,,M. Corcoran,P. Yazbek,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,68,,card,K. O'Toole,True,yellow,Foul,,,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,70,,substitution,,True,,,A. O'Neill,J. Sands,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,76,,substitution,,True,,,M. Jones,Luighi,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,81,,substitution,,False,,,A. Qasem,E. Saad,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,81,,substitution,,False,,,S. Mohammed,C. Espinoza,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,89,,substitution,,False,,,D. Lovitz,A. Najar,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,89,,substitution,,False,,,B. Acosta,E. Tagseth,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,,period,,,,,,,FT,,0,0
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,2,card,B. Acosta,False,yellow,Foul,,,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,,card,M. Jones,True,yellow,Foul,,,,,,
+mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,,injuryTime,,,,,,,,2,,

@@ -385,3 +385,46 @@ france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,72,,substitution,,True,
 france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,73,,goal,A. Ueda,False,,,,,,,0,1
 france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,90,,period,,,,,,,FT,,0,1
 france_ligue_1_2026_2027,2026-09-03,3,Toulouse,Lille,0,1,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,18,,varDecision,L. Openda,True,,,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,22,,varDecision,C. Archer,False,,,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,26,,card,A. Piedfort,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,28,,goal,F. Bacher,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,31,,goal,Z. Athekame,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,42,,goal,C. Archer,False,,,,,,,2,1
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,45,,period,,,,,,,HT,,2,1
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,45,,injuryTime,,,,,,,,6,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,53,,goal,E. Nuamah,True,,,,,,,3,1
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,62,,card,F. Bacher,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,66,,substitution,,False,,,A. Zossou,R. Lascary,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,66,,substitution,,False,,,P. Ekwah,N. Ahamada,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,66,,substitution,,False,,,R. Mandengue,E. Legros,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,67,,substitution,,True,,,K. Merah,P. Šulc,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,67,,substitution,,True,,,K. Boudache,E. Nuamah,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,68,,card,R. Mandengue,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,76,,substitution,,True,,,T. Tessmann,M. Bidstrup,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,77,,substitution,,False,,,R. Faivre,C. Archer,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,77,,card,T. Morton,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,86,,substitution,,True,,,R. Kluivert,F. Bacher,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,86,,substitution,,True,,,N. Nartey,T. Morton,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,90,,period,,,,,,,FT,,3,1
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,90,3,substitution,,False,,,L. Dioubaté,L. Sy,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Olympique Lyonnais,Auxerre,3,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,31,,goal,Marquinhos,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,52,,substitution,,False,,,J. Teze,Vanderson,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,58,,goal,F. Nazinho,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,63,,substitution,,True,,,F. Torres,D. Doué,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,64,,substitution,,True,,,L. Hernández,W. Zaïre-Emery,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,68,,substitution,,True,,,M. Godts,K. Kvaratskhelia,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,68,,card,J. Teze,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,68,,card,L. Hernández,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,69,,substitution,,True,,,O. Dembélé,M. Akliouche,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,72,,goal,S. I. Muzambo,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,73,,substitution,,False,,,M. Abline,P. Brunner,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,73,,substitution,,False,,,A. Soubeir,M. Coulibaly,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,76,,substitution,,True,,,D. Fernández,F. Ruiz,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,87,,substitution,,False,,,C. Mawissa,S. I. Muzambo,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,87,,substitution,,False,,,S. Benzahra,A. Golovin,,,,
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,90,,period,,,,,,,FT,,1,2
+france_ligue_1_2026_2027,2026-09-04,3,Paris Saint-Germain,AS Monaco,1,2,90,,injuryTime,,,,,,,,5,,

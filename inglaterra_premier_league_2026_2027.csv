@@ -403,3 +403,22 @@ inglaterra_premier_league_2026_2027,2026-08-31,2,Aston Villa,Arsenal,0,1,85,,sub
 inglaterra_premier_league_2026_2027,2026-08-31,2,Aston Villa,Arsenal,0,1,90,,period,,,,,,,FT,,0,1
 inglaterra_premier_league_2026_2027,2026-08-31,2,Aston Villa,Arsenal,0,1,90,6,card,I. Maatsen,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-08-31,2,Aston Villa,Arsenal,0,1,90,,injuryTime,,,,,,,,8,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,6,,goal,A. Isak,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,9,,goal,A. Isak,False,,,,,,,0,2
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,10,,card,A. Mac Allister,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,41,,card,J. Enciso,True,yellow,,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,45,,period,,,,,,,HT,,0,2
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,45,,injuryTime,,,,,,,,2,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,52,,card,J. Jacquet,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,57,,card,M. Kerkez,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,64,,substitution,,False,,,B. Barcola,V. Muñoz,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,64,,substitution,,False,,,R. Gravenberch,A. Isak,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,66,,substitution,,True,,,Z. Flemming,Emersonn,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,66,,substitution,,True,,,J. Clarke,D. Maeda,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,69,,varDecision,D. Szoboszlai,False,,,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,78,,substitution,,True,,,A. Ouattara,E. Palacios,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,79,,substitution,,True,,,K. McAteer,A. F. Issahaku,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,84,,substitution,,False,,,T. Nyoni,A. Mac Allister,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,90,,period,,,,,,,FT,,0,2
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,90,1,substitution,,False,,,L. Koumas,F. Wirtz,,,,
+inglaterra_premier_league_2026_2027,2026-09-04,3,Ipswich Town,Liverpool FC,0,2,90,,injuryTime,,,,,,,,5,,

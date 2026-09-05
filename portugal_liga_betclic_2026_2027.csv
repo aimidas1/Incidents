@@ -675,3 +675,27 @@ portugal_liga_betclic_2026_2027,2026-08-31,4,Sporting Braga,Vitória SC,1,0,86,,
 portugal_liga_betclic_2026_2027,2026-08-31,4,Sporting Braga,Vitória SC,1,0,86,,substitution,,True,,,A. Bajrami,Gabriel Silva,,,,
 portugal_liga_betclic_2026_2027,2026-08-31,4,Sporting Braga,Vitória SC,1,0,90,,period,,,,,,,FT,,1,0
 portugal_liga_betclic_2026_2027,2026-08-31,4,Sporting Braga,Vitória SC,1,0,90,,injuryTime,,,,,,,,7,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,20,,goal,D. Pinto,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,37,,goal,J. Bednarek,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,44,,card,J. Veloso,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,45,,period,,,,,,,HT,,1,1
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,45,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,58,,goal,W. Gomes,True,,,,,,,2,1
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,63,,card,F. Moura,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,64,,substitution,,True,,,H. In-beom,G. Veiga,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,64,,substitution,,True,,,M. Fernandes,F. Moura,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,67,,substitution,,False,,,M. Stjepanović,N. John,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,67,,substitution,,False,,,R. Alonso,M. Mendonça,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,68,,card,D. Pinto,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,75,,substitution,,True,,,S. Giménez,A. Silva,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,75,,substitution,,True,,,B. Sainz,W. Gomes,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,75,,substitution,,False,,,K. Bondoso,J. Veloso,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,75,,substitution,,False,,,T. Andrade,Landerson,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,79,,substitution,,False,,,Y. Maranhão,A. Parsemain,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,88,,varDecision,G. Liberato,False,,,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,90,,period,,,,,,,FT,,2,1
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,90,3,substitution,,False,,,L. Santos,D. Pinto,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,90,1,substitution,,True,,,N. Pérez,A. Costa,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,90,,substitution,,True,,,S. Fofana,V. Froholdt,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,90,,card,G. Liberato,False,red,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-04,5,FC Porto,Moreirense,2,1,90,,injuryTime,,,,,,,,8,,

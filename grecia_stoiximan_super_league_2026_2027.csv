@@ -293,3 +293,49 @@ grecia_stoiximan_super_league_2026_2027,2026-08-31,2,APO Levadiakos,Panathinaiko
 grecia_stoiximan_super_league_2026_2027,2026-08-31,2,APO Levadiakos,Panathinaikos FC,0,2,87,,card,I. Louza,False,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-08-31,2,APO Levadiakos,Panathinaikos FC,0,2,90,,period,,,,,,,FT,,0,2
 grecia_stoiximan_super_league_2026_2027,2026-08-31,2,APO Levadiakos,Panathinaikos FC,0,2,90,,injuryTime,,,,,,,,4,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,11,,goal,B. Varga,True,,,,,,,1,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,27,,card,L. Majer,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,40,,card,L. Rota,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,45,,period,,,,,,,HT,,1,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,45,,injuryTime,,,,,,,,1,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,46,,substitution,,False,,,C. Kouamé,M. García,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,46,,substitution,,False,,,S. Palacios,G. Gianniotas,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,62,,goal,B. Varga,True,,,,,,,2,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,64,,substitution,,False,,,R. Mir,T. Kadewere,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,64,,substitution,,False,,,M. Hongla,T. Dele-Bashiru,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,66,,goal,R. Marin,True,,,,,,,3,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,68,,substitution,,True,,,A. Koita,M. Gaćinović,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,68,,substitution,,True,,,Zini,L. Jović,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,72,,varDecision,B. Varga,True,,,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,75,,goal,A. Koita,True,,,,,,,4,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,80,,substitution,,True,,,K. Arriaga,R. Marin,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,80,,substitution,,True,,,P. Mantalos,B. Varga,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,82,,substitution,,False,,,O. Boussaid,B. Garré,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,82,,varDecision,P. Mantalos,True,,,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,83,,substitution,,True,,,O. Zubkov,L. Majer,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,90,,period,,,,,,,FT,,5,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,90,,goal,Zini,True,,,,,,,5,0
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,AEK Athens,Aris Thessaloniki,5,0,90,,injuryTime,,,,,,,,3,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,8,,card,Joca,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,17,,substitution,,True,,,X. Regis,J. Hurtado,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,39,,card,G. Mygas,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,45,,period,,,,,,,HT,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,45,3,substitution,,False,,,D. Carmo,L. Pirola,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,45,3,substitution,,False,,,A. González,A. E. Kaabi,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,45,3,goal,J. Silva,False,,,,,,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,45,1,card,M. Siampanis,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,45,,injuryTime,,,,,,,,5,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,46,,substitution,,True,,,G. Furtado,Joca,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,50,,card,G. Kargas,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,57,,card,M. Comba,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,61,,substitution,,False,,,G. Martins,J. Roca,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,66,,substitution,,True,,,V. Grosdis,K. Bare,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,72,,substitution,,True,,,K. Lykourinos,H. Mendyl,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,72,,substitution,,True,,,G. Charalampoglou,G. Mygas,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,76,,goal,M. Comba,True,,,,,,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,77,,substitution,,False,,,G. Sá,J. Silva,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,77,,substitution,,False,,,R. Freuler,D. García,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,90,,period,,,,,,,FT,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,90,9,card,G. Furtado,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,90,2,card,P. Retsos,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-05,3,NPS Volos,Olympiacos FC,1,1,90,,injuryTime,,,,,,,,6,,

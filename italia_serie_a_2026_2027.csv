@@ -414,3 +414,63 @@ italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,81,,substitution,,True,,,F.
 italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,84,,substitution,,False,,,M. Liberali,A. Diao,,,,
 italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,90,,period,,,,,,,FT,,1,4
 italia_serie_a_2026_2027,2026-09-04,3,Genoa,Como,1,4,90,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,40,,card,G. P. Gasperini,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,46,,substitution,,False,,,N. Krstović,G. Scamacca,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,47,,goal,Éderson,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,54,,substitution,,True,,,M. Soulé,R. Mora,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,54,,substitution,,True,,,N. Molina,E. Lulli,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,55,,card,M. Sarri,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,62,,substitution,,True,,,D. Ghilardi,G. Mancini,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,63,,substitution,,True,,,S. Castro,D. Malen,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,66,,substitution,,False,,,M. Pašalić,L. Samardžić,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,66,,substitution,,False,,,N. Zalewski,E. Elmas,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,67,,substitution,,True,,,L. Balerdi,E. Ndicka,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,73,,substitution,,False,,,D. Zappacosta,S. Kolašinac,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,79,,substitution,,False,,,F. Kessié,Éderson,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,84,,card,R. Bellanova,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,89,,goal,M. Hermoso,True,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,90,7,card,G. Gaetano,False,red,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,90,3,goal,M. Soulé,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-09-05,3,AS Roma,Atalanta,2,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,24,,substitution,,True,,,C. Ndour,C. I. Oulaï,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,40,,substitution,,False,,,A. Ismajli,S. Coco,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,45,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,46,,substitution,,True,,,A. Atta,M. Brescianini,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,46,,substitution,,True,,,W. Gnonto,F. Mastantuono,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,47,,goal,M. Pellegrino,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,56,,substitution,,False,,,R. Belghali,A. Cacciamani,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,56,,substitution,,False,,,N. Patterson,N. Fortini,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,70,,substitution,,False,,,D. Bragança,P. Comuzzo,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,70,,substitution,,False,,,G. Simeone,G. Gineitis,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,74,,goal,R. Mandragora,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,76,,substitution,,True,,,Beto,M. Pellegrino,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,79,,substitution,,True,,,P. Gonçalves,A. Njie,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,82,,goal,C. Adams,False,,,,,,,1,2
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,90,,period,,,,,,,FT,,1,2
+italia_serie_a_2026_2027,2026-09-05,3,Fiorentina,Torino,1,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,35,,card,A. Vergara,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,45,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,46,,substitution,,True,,,C. Jones,P. Sučić,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,46,,substitution,,True,,,M. Thuram,F. P. Esposito,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,50,,goal,M. Politano,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,53,,goal,R. Højlund,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,56,,goal,L. Martínez,True,,,,,,,1,2
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,62,,substitution,,True,,,C. Augusto,F. Dimarco,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,62,,substitution,,False,,,D. Neres,M. Politano,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,62,,substitution,,False,,,K. De Bruyne,A. Vergara,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,68,,card,L. Martínez,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,72,,substitution,,False,,,L. Lucca,R. Højlund,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,72,,substitution,,True,,,H. Çalhanoğlu,P. Zieliński,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,77,,card,R. Marín,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,79,,substitution,,False,,,B. Gilmour,S. Lobotka,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,79,,substitution,,True,,,A. Bonny,A. Bastoni,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,80,,substitution,,False,,,B. Badiashile,A. Santos,,,,
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,82,,goal,M. Thuram,True,,,,,,,2,2
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,90,,period,,,,,,,FT,,3,2
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,90,1,goal,L. Martínez,True,,,,,,,3,2
+italia_serie_a_2026_2027,2026-09-05,3,Inter,SSC Napoli,3,2,90,,injuryTime,,,,,,,,5,,

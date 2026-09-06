@@ -681,3 +681,71 @@ eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,86,,card,T. So
 eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,88,,substitution,,False,,,E. Sørensen,T. Sommer,,,,
 eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,90,,period,,,,,,,FT,,2,2
 eredivisie_2026_2027,2026-09-04,5,Sparta Rotterdam,PEC Zwolle,2,2,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,5,,goal,R. Pepi,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,16,,card,K. Sano,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,23,,goal,T. Arokodare,True,,,,,,,1,1
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,37,,card,N. Fernandez,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,45,,period,,,,,,,HT,,1,2
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,45,1,goal,L. Geertruida,False,,,,,,,1,2
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,46,,substitution,,False,,,P. Wanner,N. Fernandez,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,54,,substitution,,True,,,S. Amrabat,O. Gloukh,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,54,,substitution,,True,,,M. Leonardo,D. Klaassen,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,61,,substitution,,True,,,V. Tsygankov,S. Berghuis,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,61,,substitution,,True,,,K. Dolberg,T. Arokodare,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,63,,substitution,,False,,,E. Bajraktarević,I. Perišić,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,63,,substitution,,False,,,S. Mijnans,R. Pepi,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,73,,substitution,,False,,,R. Flamingo,L. Geertruida,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,73,,substitution,,True,,,A. Ouazane,J. Mokio,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,73,,substitution,,False,,,F. Kostić,M. Júnior,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,74,,card,F. Kostić,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,80,,card,D. Klaassen,True,yellow,Unallowed field entering,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,81,,card,R. van Bommel,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,81,,card,Y. Baas,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,81,,card,I. Perišić,False,yellow,Unallowed field entering,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,84,,substitution,,True,,,T. Kehrer,A. Bouwman,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,84,,card,L. Geertruida,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,88,,substitution,,False,,,Y. Gasiorowski,A. Obispo,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,90,,period,,,,,,,FT,,1,3
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,90,6,card,A. Gaaei,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,90,2,goal,E. Bajraktarević,False,,,,,,,1,3
+eredivisie_2026_2027,2026-09-05,5,AFC Ajax,PSV Eindhoven,1,3,90,,injuryTime,,,,,,,,7,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,45,,period,,,,,,,HT,,0,0
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,45,3,card,N. Lebreton,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,45,3,card,G. Zechiël,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,50,,card,O. Targhalline,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,52,,goal,G. Zechiël,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,55,,goal,D. Nejašmić,True,,,,,,,1,1
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,59,,substitution,,False,,,S. v. Persie,N. Ferri,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,59,,substitution,,False,,,J. Schaken,G. Diarra,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,61,,goal,L. Valente,False,,,,,,,1,2
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,64,,goal,J. Schaken,False,,,,,,,1,3
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,72,,substitution,,True,,,G. Brás,A. Kabar,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,72,,substitution,,True,,,A. Thomas,C. Bischoff,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,72,,substitution,,True,,,D. Geiger,K. Sierhuis,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,80,,substitution,,True,,,P. Schuurs,B. Nuytinck,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,80,,substitution,,True,,,A. Tahaui,D. Tadić,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,80,,substitution,,False,,,M. Deijl,G. Read,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,80,,substitution,,False,,,T. v. d. Elshout,G. Zechiël,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,85,,substitution,,False,,,T. Kraaijeveld,O. Targhalline,,,,
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,90,,period,,,,,,,FT,,1,3
+eredivisie_2026_2027,2026-09-05,5,NEC Nijmegen,Feyenoord,1,3,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,8,,goal,D. Garden,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,34,,goal,R. Meissen,False,,,,,,,0,2
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,45,,period,,,,,,,HT,,0,2
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,46,,substitution,,True,,,M. Dekker,M. Lemmens,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,46,,substitution,,True,,,T. Vilhena,E. Gürbüz,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,51,,card,K. Boogaard,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,63,,substitution,,True,,,T. Verheydt,K. Boogaard,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,64,,substitution,,False,,,I. S. Timas,A. Sliti,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,65,,substitution,,False,,,D. v. Vianen,E. d. S. Moreira,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,71,,substitution,,False,,,N. Groen,Á. O. Thorsteinsson,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,81,,card,J. Slory,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,82,,substitution,,True,,,C. O. Martin,J. Slory,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,82,,substitution,,False,,,G. Cairo,D. Garden,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,85,,goal,I. Yegoian,False,,,,,,,0,3
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,87,,card,N. Groen,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,90,,period,,,,,,,FT,,0,3
+eredivisie_2026_2027,2026-09-05,5,Willem II Tilburg,Excelsior,0,3,90,,injuryTime,,,,,,,,3,,

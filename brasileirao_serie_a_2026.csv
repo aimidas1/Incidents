@@ -5067,3 +5067,67 @@ brasileirao_serie_a_2026,2026-09-02,4,Flamengo,Mirassol,2,0,81,,card,Denilson,Fa
 brasileirao_serie_a_2026,2026-09-02,4,Flamengo,Mirassol,2,0,82,,substitution,,True,,,Everton,S. Lino,,,,
 brasileirao_serie_a_2026,2026-09-02,4,Flamengo,Mirassol,2,0,90,,period,,,,,,,FT,,2,0
 brasileirao_serie_a_2026,2026-09-02,4,Flamengo,Mirassol,2,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,14,,goal,L. Barbosa,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,34,,goal,L. Juba,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,38,,goal,A. Véliz,False,,,,,,,1,2
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,43,,card,Fernando,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,45,,period,,,,,,,HT,,2,2
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,45,1,goal,S. R. Mingo,True,,,,,,,2,2
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,45,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,50,,goal,Erick,False,,,,,,,2,3
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,51,,card,Erick,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,62,,card,L. Juba,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,68,,substitution,,True,,,H. Mosquera,J. Herrera,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,68,,substitution,,False,,,Ademir,E. Pulga,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,68,,substitution,,False,,,J. Lucas,Erick,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,78,,substitution,,False,,,C. Alexandre,N. Acevedo,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,78,,substitution,,False,,,M. Araújo,R. Nestor,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,82,,substitution,,True,,,Vinicinho,Wallace,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,82,,substitution,,True,,,R. Augusto,J. A. Hurtado,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,82,,substitution,,True,,,J. N. Coelho,L. Barbosa,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,82,,substitution,,False,,,W. José,A. Véliz,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,90,,period,,,,,,,FT,,2,3
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,90,12,card,A. Vinicius,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,90,4,substitution,,True,,,G. Neves,Rodriguinho,,,,
+brasileirao_serie_a_2026,2026-09-05,26,Red Bull Bragantino,Bahia,2,3,90,,injuryTime,,,,,,,,9,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,35,,varDecision,G. Santana,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,46,,substitution,,False,,,V. Hugo,K. Castaño,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,46,,substitution,,False,,,Fred,Bernard,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,46,,substitution,,False,,,M. Cassierra,Reinier,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,63,,substitution,,True,,,J. Calleri,G. Santana,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,63,,substitution,,True,,,P. Maia,Danielzinho,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,64,,substitution,,True,,,I. Borduchi,Wendell,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,67,,goal,Luciano,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,69,,goal,I. Borduchi,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,70,,substitution,,False,,,A. Minda,Alexsander,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,81,,substitution,,False,,,G. Scarpa,V. Hugo,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,81,,substitution,,True,,,D. Ferreira,Artur,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,85,,substitution,,True,,,Ferreira,Luciano,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,4,card,T. Cuello,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,1,card,D. Ferreira,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,9,,card,A. Gómez,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,21,,card,D. Fuzato,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,21,,card,J. Freytes,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,40,,card,P. Henrique,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,45,6,card,Y. Soteldo,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,45,6,card,Hulk,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,45,5,card,Ignácio,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,54,,card,F. Colidio,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,58,,substitution,,True,,,L. Acosta,Ganso,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,60,,substitution,,False,,,Adson,B. Duarte,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,61,,goal,L. Acosta,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,74,,substitution,,False,,,P. Rodríguez,P. Henrique,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,74,,substitution,,False,,,C. Spinelli,Tchê Tchê,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,74,,substitution,,True,,,K. Serna,Y. Soteldo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,84,,substitution,,False,,,M. Hinestroza,Adson,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,84,,substitution,,False,,,R. Rique,C. Cuesta,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,85,,substitution,,True,,,J. Fidelis,Guga,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,85,,substitution,,True,,,G. Arana,Hulk,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,90,,injuryTime,,,,,,,,6,,

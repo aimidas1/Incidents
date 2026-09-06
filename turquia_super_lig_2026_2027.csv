@@ -573,3 +573,45 @@ turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,per
 turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,goal,G. Sara,False,,,,,,,2,3
 turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,injuryTime,,,,,,,,7,,
 turquia_super_lig_2026_2027,2026-09-04,4,Başakşehir FK,Galatasaray,2,3,90,,card,N. Şahin,True,red,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,17,,goal,E. Tozlu,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,26,,card,R. Baniya,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,45,2,card,J. Muleka,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,45,2,card,M. Jevtović,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,46,,substitution,,False,,,D. Türüç,E. Colley,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,46,,substitution,,False,,,M. Mohamed,E. Destan,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,46,,substitution,,False,,,R. Tóth,A. Masuaku,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,58,,substitution,,True,,,S. Akgün,E. Owusu,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,59,,substitution,,True,,,I. Diabaté,M. Fettahoglu,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,64,,substitution,,True,,,M. Cardoso,E. Tozlu,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,71,,substitution,,False,,,J. Dompé,R. Baniya,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,72,,card,A. Demirbağ,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,75,,card,M. Rodríguez,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,86,,substitution,,False,,,E. Bars,M. Ibrahimoglu,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,87,,substitution,,True,,,Y. Kırtay,M. Rodríguez,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,90,,period,,,,,,,FT,,1,0
+turquia_super_lig_2026_2027,2026-09-05,4,Erzurumspor FK,Konyaspor,1,0,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,26,,goal,M. Škriniar,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,38,,goal,R. Yılmaz,False,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,45,,period,,,,,,,HT,,1,1
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,45,1,card,M. Greenwood,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,45,,card,E. Topçu,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,46,,substitution,,True,,,K. Aktürkoğlu,İ. C. Kahveci,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,46,,substitution,,False,,,K. Ouattara,R. Yılmaz,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,52,,card,Ederson,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,52,,card,M. Škriniar,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,53,,card,D. Vlahović,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,59,,card,V. Černý,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,64,,substitution,,False,,,I. Fakili,V. Černý,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,68,,substitution,,True,,,R. Lukaku,V. Muriqi,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,68,,substitution,,True,,,D. Nene,O. Aydın,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,73,,goal,D. Vlahović,False,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,76,,substitution,,False,,,W. Ndidi,J. Olaitan,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,76,,card,M. Guendouzi,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,77,,substitution,,False,,,T. Djaló,E. Topçu,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,84,,substitution,,True,,,İ. Yüksek,M. Guendouzi,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,85,,substitution,,False,,,H. Oh,D. Vlahović,,,,
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,90,,period,,,,,,,FT,,1,2
+turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,90,,injuryTime,,,,,,,,7,,

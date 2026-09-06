@@ -750,3 +750,23 @@ dinamarca_danish_superliga_2026_2027,2026-09-04,7,Viborg FF,Lyngby,0,2,88,,subst
 dinamarca_danish_superliga_2026_2027,2026-09-04,7,Viborg FF,Lyngby,0,2,90,,period,,,,,,,FT,,0,2
 dinamarca_danish_superliga_2026_2027,2026-09-04,7,Viborg FF,Lyngby,0,2,90,1,card,R. Alte,True,yellow,Argument,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-09-04,7,Viborg FF,Lyngby,0,2,90,,injuryTime,,,,,,,,4,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,26,,varDecision,R. Al Hajj,False,,,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,29,,goal,R. Al Hajj,False,,,,,,,0,1
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,39,,goal,L. Riisgaard,False,,,,,,,0,2
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,45,,period,,,,,,,HT,,0,2
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,45,,injuryTime,,,,,,,,2,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,46,,substitution,,True,,,J. Serra,J. Bogere,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,46,,substitution,,True,,,F. Emmery,R. Carstensen,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,63,,substitution,,True,,,C. McCowatt,T. Bech,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,67,,substitution,,False,,,K. Kirkegaard,R. Al Hajj,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,71,,substitution,,False,,,M. Hansen,O. Ross,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,71,,substitution,,False,,,A. Poulsen,W. Kirk,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,71,,substitution,,True,,,J. Andersen,C. Rösler,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,79,,substitution,,True,,,S. Tchamche,M. Knudsen,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,82,,substitution,,False,,,M. d. Gevigney,V. Westh,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,82,,substitution,,False,,,J. L. Nielsen,L. Riisgaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,88,,goal,J. Serra,True,,,,,,,1,2
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,90,,period,,,,,,,FT,,2,2
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,90,3,goal,J. Serra,True,,,,,,,2,2
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,90,1,card,M. Anderson,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-05,7,AGF,Silkeborg IF,2,2,90,,injuryTime,,,,,,,,3,,

@@ -970,3 +970,24 @@ japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90,6,substitution,,False,,,K. Nagata,K. Sato,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90,6,substitution,,False,,,F. Honda,Rafael Elias,,,,
 japao_j1_league_2026_2027,2026-09-02,5,Yokohama F. Marinos,Kyoto Sanga FC,1,1,90,,injuryTime,,,,,,,,7,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,45,,period,,,,,,,HT,,0,0
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,45,1,card,A. Watanabe,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,45,,injuryTime,,,,,,,,2,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,50,,card,K. Maeda,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,53,,goal,S. Morooka,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,54,,substitution,,False,,,K. Osaki,Y. Funabashi,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,57,,card,S. Morooka,True,yellow,Argument,,,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,62,,substitution,,True,,,N. Shintaro,Werik Popó,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,63,,substitution,,True,,,M. Yota,T. Oka,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,63,,substitution,,True,,,K. Shiihashi,K. Maeda,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,69,,substitution,,False,,,H. Yamamoto,K. Taniguchi,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,69,,substitution,,False,,,C. Kato,A. Watanabe,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,69,,substitution,,False,,,P. Ferreira,K. Uchino,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,70,,card,Y. Torikai,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,77,,substitution,,True,,,D. Miya,Y. Tsujioka,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,82,,card,Y. Kimoto,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,85,,substitution,,False,,,R. Nemoto,Y. Torikai,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,86,,goal,Y. Kimoto,False,,,,,,,1,1
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,89,,substitution,,True,,,K. Fujimoto,Y. Hashimoto,,,,
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,90,,period,,,,,,,FT,,1,1
+japao_j1_league_2026_2027,2026-09-05,6,Avispa Fukuoka,Mito Hollyhock,1,1,90,,injuryTime,,,,,,,,8,,

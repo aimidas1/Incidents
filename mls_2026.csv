@@ -6483,7 +6483,6 @@ mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,,period,,,,,,,FT,,0,0
 mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,2,card,B. Acosta,False,yellow,Foul,,,,,,
 mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,,card,M. Jones,True,yellow,Foul,,,,,,
 mls_2026,2026-09-04,,New York City FC,Nashville SC,0,0,90,,injuryTime,,,,,,,,2,,
-mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,8,,card,F. Andrade,False,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,45,,period,,,,,,,HT,,0,0
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,45,3,card,T. Ream,True,yellow,Argument,,,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,45,,injuryTime,,,,,,,,6,,
@@ -6497,6 +6496,7 @@ mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,71,,card,A. Westwood,True,y
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,75,,substitution,,True,,,B. Bronico,I. Toklomati,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,78,,card,Artur,False,yellow,Argument,,,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,79,,substitution,,False,,,M. Arana,A. Bouzat,,,,
+mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,8,,card,F. Andrade,False,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,83,,card,A. Saint-Maximin,True,yellow,Time wasting,,,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,85,,substitution,,True,,,A. Goodwin,A. Saint-Maximin,,,,
 mls_2026,2026-09-05,,Charlotte FC,Houston Dynamo,0,0,90,,period,,,,,,,FT,,0,0
@@ -6543,16 +6543,16 @@ mls_2026,2026-09-05,,Orlando City SC,San Diego FC,1,0,90,8,card,D. Brekalo,True,
 mls_2026,2026-09-05,,Orlando City SC,San Diego FC,1,0,90,4,card,K. Sargeant,False,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Orlando City SC,San Diego FC,1,0,90,2,substitution,,False,,,B. Duke,Gabriel Pirani,,,,
 mls_2026,2026-09-05,,Orlando City SC,San Diego FC,1,0,90,,injuryTime,,,,,,,,9,,
-mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,3,,varDecision,N. Pierre,False,,,,,,,,
-mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,6,,card,J. Lukić,True,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,14,,card,H. Synchuk,False,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,24,,card,B. Damiani,True,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,29,,card,S. Piette,False,yellow,Foul,,,,,,
+mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,3,,varDecision,N. Pierre,False,,,,,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,45,,period,,,,,,,HT,,0,0
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,45,,injuryTime,,,,,,,,3,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,46,,substitution,,False,,,B. Craig,J. Neal,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,56,,card,D. Bugaj,False,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,57,,goal,D. Jean Jacques,True,,,,,,,1,0
+mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,6,,card,J. Lukić,True,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,69,,substitution,,True,,,Q. Sullivan,I. Vassilev,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,69,,substitution,,True,,,J. Bueno,J. Lukić,,,,
 mls_2026,2026-09-05,,Philadelphia Union,CF Montréal,2,0,69,,substitution,,False,,,W. Carmona,H. Synchuk,,,,
@@ -6593,7 +6593,6 @@ mls_2026,2026-09-05,,Toronto FC,Chicago Fire,4,4,90,,period,,,,,,,FT,,4,4
 mls_2026,2026-09-05,,Toronto FC,Chicago Fire,4,4,90,2,goal,D. Etienne,True,,,,,,,4,4
 mls_2026,2026-09-05,,Toronto FC,Chicago Fire,4,4,90,,card,B. Kuscevic,True,yellow,Foul,,,,,,
 mls_2026,2026-09-05,,Toronto FC,Chicago Fire,4,4,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,8,,goal,B. Leroux,False,,,,,,,0,1
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,12,,varDecision,B. Sabović,True,,,,,,,,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,45,,period,,,,,,,HT,,0,1
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,45,,injuryTime,,,,,,,,6,,
@@ -6604,6 +6603,7 @@ mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,69,,substitution,,False,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,70,,substitution,,True,,,P. Płacheta,J. Rosales,,,,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,70,,substitution,,True,,,C. Ramirez,J. Alastuey,,,,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,75,,substitution,,True,,,B. Hines-Ike,M. Desler,,,,
+mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,8,,goal,B. Leroux,False,,,,,,,0,1
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,81,,substitution,,False,,,I. Harkes,N. Tsakiris,,,,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,81,,substitution,,False,,,V. Costa,J. Ricketts,,,,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,81,,substitution,,False,,,J. Jasinski,B. Kikanović,,,,
@@ -6612,10 +6612,10 @@ mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,88,,substitution,,False,
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,90,,period,,,,,,,FT,,1,1
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,90,6,goal,Guilherme Biro,True,,,,,,,1,1
 mls_2026,2026-09-06,,Austin FC,San Jose Earthquakes,1,1,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,4,,goal,T. Calheira,False,,,,,,,0,1
 mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,19,,goal,S. Afrifa,False,,,,,,,0,2
 mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,27,,goal,L. Farrington,True,,,,,,,1,2
 mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,30,,goal,P. Musa,True,,,,,,,2,2
+mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,4,,goal,T. Calheira,False,,,,,,,0,1
 mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,45,,period,,,,,,,HT,,3,2
 mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,45,,goal,Kaick,True,,,,,,,3,2
 mls_2026,2026-09-06,,FC Dallas,Sporting Kansas City,5,3,45,,injuryTime,,,,,,,,6,,

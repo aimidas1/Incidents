@@ -5484,7 +5484,6 @@ brasileirao_serie_b_2026,2026-09-05,26,Goiás,Fortaleza,0,1,89,,card,M. Viníciu
 brasileirao_serie_b_2026,2026-09-05,26,Goiás,Fortaleza,0,1,90,,period,,,,,,,FT,,0,1
 brasileirao_serie_b_2026,2026-09-05,26,Goiás,Fortaleza,0,1,90,1,card,L. R. M. Costa,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Goiás,Fortaleza,0,1,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,9,,goal,Madson,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,24,,goal,Allyson,False,,,,,,,1,1
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,33,,card,D. Teixeira,False,yellow,Handball,,,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,39,,goal,Robson,True,,,,,,,2,1
@@ -5503,9 +5502,9 @@ brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,74,,subst
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,74,,substitution,,True,,,D. Galo,N. Careca,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,79,,substitution,,True,,,A. Alvariño,Madson,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,79,,substitution,,True,,,Juninho,Rômulo,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,9,,goal,Madson,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,90,,period,,,,,,,FT,,3,1
 brasileirao_serie_b_2026,2026-09-05,26,Grêmio Novorizontino,Avaí,3,1,90,,injuryTime,,,,,,,,4,,
-brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,9,,card,Warley,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,18,,goal,Gustavo Coutinho,False,,,,,,,0,1
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,36,,goal,A. Safira,True,,,,,,,1,1
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,45,,period,,,,,,,HT,,2,1
@@ -5527,7 +5526,57 @@ brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,78,,ca
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,84,,substitution,,True,,,Nathan,A. Safira,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,88,,goal,J. P. Silva,False,,,,,,,2,2
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,89,,card,J. P. Silva,False,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,9,,card,Warley,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,90,,period,,,,,,,FT,,2,2
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,90,7,card,M. Paulo,True,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,90,3,card,Marrony,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-05,26,Juventude,Atlético Goianiense,2,2,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,4,,goal,H. Pereira,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,22,,card,H. Pereira,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,22,,card,Gilberto,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,22,,card,Maguinho,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,29,,card,V. D. D. Antonia,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,40,,card,Kevyn,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,46,,substitution,,True,,,W. Chumbinho,J. Tavares,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,46,,substitution,,True,,,Herbert,William Pottker,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,46,,substitution,,True,,,T. Cantanhede,C. Rodrigues,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,59,,card,J. Coni,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,61,,substitution,,True,,,Heron,Kevyn,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,64,,card,Joseph,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,69,,card,Á. Torres,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,69,,card,T. Cantanhede,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,77,,substitution,,False,,,G. Feliciano,Moraes Júnior,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,77,,substitution,,False,,,C. Dantas,Pablo,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,77,,substitution,,False,,,Aylon,H. Pereira,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,77,,substitution,,True,,,Fellipinho,J. Coni,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,78,,goal,Gilberto,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,84,,substitution,,False,,,Maxwell,Á. Torres,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,84,,card,G. Portuga,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,85,,card,G. Boschilia,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,87,,card,Aylon,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,87,,substitution,,False,,,N. Paraíba,V. D. D. Antonia,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,90,1,goal,G. Boschilia,False,,,,,,,1,2
+brasileirao_serie_b_2026,2026-09-06,26,Londrina,Operário-PR,1,2,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,45,,goal,R. Ferreira,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,63,,substitution,,True,,,M. Souza,G. Almeida,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,66,,card,Jemerson,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,66,,card,S. Palacios,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,69,,substitution,,False,,,Lucas Fernandes,Romisson,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,69,,substitution,,False,,,M. Sergio,Pará,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,76,,card,S. Palacios,True,yellowRed,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,79,,goal,M. Sergio,False,,,,,,,0,2
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,80,,card,David,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,80,,substitution,,False,,,L. Rian,P. Vitor,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,80,,substitution,,False,,,L. Jabá,F. Garcia,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,82,,substitution,,True,,,J. R. Leopoldino,Murilo,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,82,,substitution,,True,,,J. Damião,Miguel,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,84,,card,L. Jabá,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,84,,substitution,,False,,,Marcão Silva,D. Miraíma,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,87,,substitution,,True,,,N. Silva,D. Barcelos,,,,
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,90,,period,,,,,,,FT,,0,2
+brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,90,,injuryTime,,,,,,,,7,,

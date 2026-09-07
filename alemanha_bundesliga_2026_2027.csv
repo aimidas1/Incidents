@@ -212,8 +212,8 @@ alemanha_bundesliga_2026_2027,2026-09-04,2,VfB Stuttgart,1. FC Köln,4,1,90,,goa
 alemanha_bundesliga_2026_2027,2026-09-04,2,VfB Stuttgart,1. FC Köln,4,1,90,,substitution,,False,,,I. Rondić,T. Krauß,,,,
 alemanha_bundesliga_2026_2027,2026-09-04,2,VfB Stuttgart,1. FC Köln,4,1,90,,injuryTime,,,,,,,,3,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,1,,goal,E. Fernández,True,,,,,,,1,0
-alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,4,,card,F. Uduokhai,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,28,,goal,F. Medina,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,4,,card,F. Uduokhai,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,45,,period,,,,,,,HT,,2,0
 alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,45,,injuryTime,,,,,,,,1,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,47,,card,Z. Van Den Bosch,False,yellow,Foul,,,,,,
@@ -297,9 +297,9 @@ alemanha_bundesliga_2026_2027,2026-09-05,2,SC Paderborn 07,SC Freiburg,0,1,89,,s
 alemanha_bundesliga_2026_2027,2026-09-05,2,SC Paderborn 07,SC Freiburg,0,1,90,,period,,,,,,,FT,,0,1
 alemanha_bundesliga_2026_2027,2026-09-05,2,SC Paderborn 07,SC Freiburg,0,1,90,3,card,T. L. Scheller,True,yellow,Argument,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,SC Paderborn 07,SC Freiburg,0,1,90,,injuryTime,,,,,,,,4,,
-alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,4,,goal,E. Dinkçi,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,23,,card,Chuky,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,24,,varDecision,C. Nkunku,False,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,4,,goal,E. Dinkçi,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,45,,period,,,,,,,HT,,1,0
 alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,45,,injuryTime,,,,,,,,3,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,SV Werder Bremen,RB Leipzig,3,1,63,,substitution,,False,,,T. Gomis,J. Bakayoko,,,,
@@ -341,3 +341,46 @@ alemanha_bundesliga_2026_2027,2026-09-05,2,TSG Hoffenheim,Borussia Dortmund,2,3,
 alemanha_bundesliga_2026_2027,2026-09-05,2,TSG Hoffenheim,Borussia Dortmund,2,3,87,,substitution,,False,,,M. Sabitzer,S. Guirassy,,,,
 alemanha_bundesliga_2026_2027,2026-09-05,2,TSG Hoffenheim,Borussia Dortmund,2,3,90,,period,,,,,,,FT,,2,3
 alemanha_bundesliga_2026_2027,2026-09-05,2,TSG Hoffenheim,Borussia Dortmund,2,3,90,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,6,,goal,J. Burkardt,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,36,,card,N. Banks,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,45,,period,,,,,,,HT,,1,0
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,45,,card,K. Kosugi,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,46,,goal,E. Baum,False,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,47,,goal,R. Fellhauer,False,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,61,,substitution,,False,,,A. Claude-Maurice,R. Fellhauer,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,62,,substitution,,False,,,M. Kömür,A. Ibrahimović,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,65,,goal,A. Claude-Maurice,False,,,,,,,1,3
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,69,,substitution,,True,,,T. Chandler,E. Baum,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,69,,substitution,,True,,,A. Amaimouni Echghouyab,C. Uzun,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,69,,substitution,,True,,,F. Chaïbi,M. Götze,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,72,,substitution,,False,,,Y. W. Seol,M. Wolf,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,72,,substitution,,False,,,R. Ribeiro,M. Gregoritsch,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,84,,substitution,,False,,,J. Gouweleeuw,C. Brackelmann,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,87,,substitution,,True,,,M. Pimpong,R. Doan,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,89,,goal,F. Rieder,False,,,,,,,1,4
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,90,,period,,,,,,,FT,,1,4
+alemanha_bundesliga_2026_2027,2026-09-06,2,Eintracht Frankfurt,FC Augsburg,1,4,90,,injuryTime,,,,,,,,3,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,19,,goal,S. Becker,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,31,,card,A. Caci,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,36,,card,Z. E. Ouahdi,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,41,,goal,P. Mwene,False,,,,,,,0,2
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,45,,period,,,,,,,HT,,0,2
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,46,,substitution,,True,,,S. Nandja,J. Torunarigha,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,46,,substitution,,True,,,P. Daka,M. Adeline,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,46,,substitution,,True,,,F. Vieira,B. Nadir,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,48,,goal,P. Tietz,False,,,,,,,0,3
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,64,,substitution,,True,,,O. Stange,T. Moffi,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,68,,substitution,,False,,,R. Y. Königsdörffer,S. Becker,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,81,,substitution,,False,,,D. Costa,A. Caci,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,83,,goal,P. Tietz,False,,,,,,,0,4
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,84,,substitution,,True,,,L. Lemke,D. M. Wolfe,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,85,,card,P. Mwene,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,88,,substitution,,False,,,L. Maloney,K. Sano,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,88,,substitution,,False,,,O. Ruoppi,J. Lee,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,88,,substitution,,False,,,R. Nakuzola,S. Posch,,,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,,period,,,,,,,FT,,0,5
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,1,goal,R. Y. Königsdörffer,False,,,,,,,0,5
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,,card,S. Becker,False,yellow,Argument,,,,,,

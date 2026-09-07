@@ -615,3 +615,86 @@ turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,84,,subst
 turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,85,,substitution,,False,,,H. Oh,D. Vlahović,,,,
 turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,90,,period,,,,,,,FT,,1,2
 turquia_super_lig_2026_2027,2026-09-05,4,Fenerbahçe,Beşiktaş JK,1,2,90,,injuryTime,,,,,,,,7,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,20,,goal,G. Yalçın,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,46,,substitution,,False,,,F. Soyalp,G. Gül,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,46,,substitution,,False,,,G. Orban,M. Diagne,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,52,,goal,A. Benedyczak,True,,,,,,,2,0
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,58,,card,D. Saba,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,59,,goal,G. Orban,False,,,,,,,2,1
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,66,,substitution,,False,,,R. Lutin,S. Ballet,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,67,,substitution,,True,,,E. Mendes,M. Rafferty,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,72,,substitution,,True,,,E. Boz,A. Baldursson,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,76,,card,K. Demirbay,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,77,,substitution,,False,,,M. Khalil,A. Cissé,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,82,,substitution,,True,,,A. Mujde,K. Demirbay,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,82,,substitution,,True,,,J. Rak-Sakyi,A. Benedyczak,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,83,,goal,G. Orban,False,,,,,,,2,2
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,86,,substitution,,False,,,M. Yeşil,D. Saba,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,,period,,,,,,,FT,,2,2
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,5,card,A. Kol,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,4,card,G. Yalçın,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,4,card,D. Bates,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,3,card,E. Boz,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,1,card,J. Rak-Sakyi,True,yellow,Simulation,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kasımpaşa,Amed Sportif Faaliyetler,2,2,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,26,,goal,F. Ayé,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,28,,card,M. Haïdara,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,46,,substitution,,True,,,M. Baku,D. Agyei,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,46,,substitution,,True,,,M. Susoho,U. K. Yıldız,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,68,,substitution,,True,,,T. Gulliksen,B. Kutlu,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,69,,substitution,,False,,,E. Albak,S. Onur,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,77,,substitution,,False,,,I. Drapiński,Y. Kayan,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,82,,substitution,,True,,,M. Altunbaş,F. Ayé,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,88,,substitution,,False,,,S. Eraković,A. Sekongo,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,90,,period,,,,,,,FT,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,90,,substitution,,True,,,E. Ortakaya,G. Sousa,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Kocaelispor,Samsunspor,1,0,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,3,,card,O. Diabate,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,5,,goal,P. Onuachu,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,12,,varDecision,C. Nwaiwu,True,,,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,14,,goal,M. Salah,True,,,,,,,2,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,19,,card,Fabinho,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,22,,goal,P. Onuachu,True,,,,,,,3,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,35,,card,E. Muçi,True,yellow,Other reason,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,44,,substitution,,True,,,F. Djú,P. Onuachu,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,45,,period,,,,,,,HT,,3,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,46,,substitution,,False,,,P. Mendes,S. Koita,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,46,,substitution,,False,,,A. Dursun,F. Üzüm,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,59,,goal,E. Muçi,True,,,,,,,4,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,63,,substitution,,True,,,M. Kabasakal,E. Muçi,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,63,,substitution,,True,,,M. Mimaroğlu,A. Şimşir,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,65,,substitution,,False,,,R. Luís,O. Ülgün,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,72,,card,C. Nwaiwu,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,75,,substitution,,False,,,S. Uçan,O. Diabate,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,78,,goal,F. Djú,True,,,,,,,5,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,82,,substitution,,False,,,V. Orakpo,T. Gouveia,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,83,,substitution,,True,,,S. L. Cabral,O. Tufan,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,83,,substitution,,True,,,S. Akaydın,C. Nwaiwu,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,90,,period,,,,,,,FT,,5,0
+turquia_super_lig_2026_2027,2026-09-06,4,Trabzonspor,Gençlerbirliği,5,0,90,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,6,,goal,A. Kyziridis,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,27,,goal,A. Borza,True,,,,,,,2,0
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,45,,period,,,,,,,HT,,2,0
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,45,2,card,D. Costa,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,45,,card,C. Ünder,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,45,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,46,,substitution,,False,,,Y. Barası,B. Boutobba,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,46,,substitution,,False,,,S. A. Yaşar,J. El Yamiq,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,58,,card,S. A. Yaşar,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,63,,substitution,,False,,,H. Akman,D. Costa,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,63,,substitution,,False,,,L. Pintor,A. Abdullahi,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,66,,substitution,,True,,,E. Mahmić,M. Diomande,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,72,,substitution,,True,,,G. Gürpüz,C. Ünder,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,72,,substitution,,True,,,B. Özdemir,Fredy,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,76,,substitution,,False,,,A. Yavuz,S. Giordano,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,81,,substitution,,True,,,Y. Moukoko,J. Ramírez,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,82,,substitution,,True,,,A. Sengul,H. Smolčić,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,88,,goal,E. Mahmić,True,,,,,,,3,0
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,88,,varDecision,E. Mahmić,True,,,,,,,,
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,90,,period,,,,,,,FT,,3,0
+turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,90,,injuryTime,,,,,,,,3,,

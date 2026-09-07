@@ -488,3 +488,68 @@ france_ligue_1_2026_2027,2026-09-05,3,RC Lens,Lorient,0,1,85,,card,S. Sagnan,Tru
 france_ligue_1_2026_2027,2026-09-05,3,RC Lens,Lorient,0,1,90,,period,,,,,,,FT,,0,1
 france_ligue_1_2026_2027,2026-09-05,3,RC Lens,Lorient,0,1,90,2,card,S. Sagnan,True,yellowRed,Foul,,,,,,
 france_ligue_1_2026_2027,2026-09-05,3,RC Lens,Lorient,0,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,9,,goal,P. Frankowski,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,17,,goal,J. Lefort,False,,,,,,,0,2
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,35,,goal,C. Arcus,True,,,,,,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,45,,period,,,,,,,HT,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,45,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,46,,substitution,,True,,,B. Diatta,A. Bermont,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,58,,card,C. Cresswell,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,68,,substitution,,False,,,M. Nagida,Q. Merlin,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,68,,substitution,,False,,,I. Soumaré,M. Tamari,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,76,,substitution,,True,,,P. Peter,A. E. Ouazzani,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,76,,substitution,,True,,,D. Harouna,J. Allevinah,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,77,,substitution,,False,,,E. Mayenda,L. Blas,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,77,,substitution,,False,,,A. Thomasson,S. Szymański,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,83,,substitution,,True,,,L. Raolisoa,C. Arcus,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,83,,substitution,,True,,,M. U. Simbakoli,A. Sbai,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,89,,substitution,,False,,,B. Dia,E. Lepaul,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,90,,period,,,,,,,FT,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,90,3,card,J. Kalulu,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Angers,Stade Rennais,1,2,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,1,,goal,L. Sinayoko,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,8,,goal,A. Gouiri,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,19,,goal,L. Sinayoko,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,45,,period,,,,,,,HT,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,53,,goal,A. Gouiri,True,,,,,,,2,2
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,64,,substitution,,False,,,R. Matondo,P. Pagis,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,65,,card,R. Matondo,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,72,,substitution,,True,,,T. Mmadi,I. Paixão,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,73,,substitution,,True,,,D. Cornelius,N. Aguerd,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,73,,substitution,,True,,,K. Abdallah,A. Gomes,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,78,,substitution,,False,,,Zabi,I. Kebbal,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,78,,substitution,,False,,,M. Simon,L. Koleosho,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,83,,varDecision,M. Simon,False,,,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,86,,goal,L. Sinayoko,False,,,,,,,2,3
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,87,,card,L. Sinayoko,False,yellow,,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,90,,period,,,,,,,FT,,2,3
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,90,1,substitution,,True,,,F. P. Moumbagna,H. Abdelli,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,90,1,substitution,,True,,,U. Garcia,Emerson,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,90,1,substitution,,False,,,O. Sissoko,L. Sinayoko,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,90,1,substitution,,False,,,M. Mbow,M. López,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Olympique de Marseille,Paris FC,2,3,90,,injuryTime,,,,,,,,6,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,9,,goal,A. Mille,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,37,,card,M. Diaz,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,40,,goal,J. Ortega,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,42,,goal,D. Lobao,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,45,,period,,,,,,,HT,,1,2
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,45,2,card,P. Diop,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,45,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,56,,substitution,,True,,,J. Le Douaron,H. Picard,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,56,,substitution,,True,,,K. Diawara,M. Ifnaoui,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,57,,goal,G. Reyna,False,,,,,,,1,3
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,63,,substitution,,False,,,S. Amo-Ameyaw,S. Nanasi,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,63,,substitution,,False,,,D. Essugo,G. Reyna,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,70,,substitution,,False,,,K. Coulibaly,I. Doukouré,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,70,,substitution,,True,,,T. Nkada,R. Ripart,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,71,,substitution,,False,,,C. Harder,J. Ortega,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,79,,substitution,,False,,,L. Høgsberg,G. Yassine,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,84,,substitution,,True,,,I. Gomis,L. Maronnier,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,84,,substitution,,True,,,Y. Koné,K. Dermane,,,,
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,85,,goal,S. Amo-Ameyaw,False,,,,,,,1,4
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,88,,goal,S. Amo-Ameyaw,False,,,,,,,1,5
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,,period,,,,,,,FT,,2,6
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,5,goal,J. Le Douaron,True,,,,,,,2,6
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,2,goal,C. Harder,False,,,,,,,1,6
+france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,,injuryTime,,,,,,,,6,,

@@ -1125,7 +1125,6 @@ liga_mx_apertura_2026,2026-08-31,6,CF Monterrey,Atlético San Luis,1,3,79,,goal,
 liga_mx_apertura_2026,2026-08-31,6,CF Monterrey,Atlético San Luis,1,3,84,,substitution,,False,,,S. P. Bouquet,O. Macías,,,,
 liga_mx_apertura_2026,2026-08-31,6,CF Monterrey,Atlético San Luis,1,3,90,,period,,,,,,,FT,,1,3
 liga_mx_apertura_2026,2026-08-31,6,CF Monterrey,Atlético San Luis,1,3,90,,injuryTime,,,,,,,,6,,
-liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,6,,goal,A. Sánchez,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,10,,goal,R. Marín,False,,,,,,,0,2
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,30,,substitution,,True,,,L. Esteves,A. Duarte,,,,
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,33,,substitution,,True,,,G. Lajud,A. Sánchez,,,,
@@ -1133,6 +1132,7 @@ liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,45,,per
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,45,3,card,J. Caicedo,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,45,,injuryTime,,,,,,,,6,,
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,46,,substitution,,True,,,L. Flores,J. Caicedo,,,,
+liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,6,,goal,A. Sánchez,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,61,,substitution,,False,,,E. Alvarez,Á. Sepúlveda,,,,
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,61,,substitution,,False,,,R. Ledezma,H. Camberos,,,,
 liga_mx_apertura_2026,2026-09-05,7,Atlético San Luis,CD Guadalajara,0,3,71,,substitution,,False,,,K. Castañeda,D. Aguirre,,,,
@@ -1169,7 +1169,6 @@ liga_mx_apertura_2026,2026-09-05,7,FC Juárez,CF Pachuca,0,2,90,,period,,,,,,,FT
 liga_mx_apertura_2026,2026-09-05,7,FC Juárez,CF Pachuca,0,2,90,10,goal,A. Bautista,False,,,,,,,0,2
 liga_mx_apertura_2026,2026-09-05,7,FC Juárez,CF Pachuca,0,2,90,5,card,F. Venegas,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-05,7,FC Juárez,CF Pachuca,0,2,90,,injuryTime,,,,,,,,8,,
-liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,7,,goal,L. Esteves,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,14,,card,E. Pizzuto,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,32,,varDecision,L. Puente,False,,,,,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,45,,period,,,,,,,HT,,1,0
@@ -1179,6 +1178,7 @@ liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,48,,goal,M. Sarrafior
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,51,,varDecision,J. Julio,False,,,,,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,57,,substitution,,True,,,S. Hernandez,R. Mmaee,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,58,,substitution,,True,,,M. Valenzuela,J. Rodríguez,,,,
+liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,7,,goal,L. Esteves,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,70,,substitution,,False,,,J. Moxica,L. Puente,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,70,,substitution,,False,,,D. Bagüí,A. Quirós,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,75,,card,E. Tercero,False,yellow,Foul,,,,,,
@@ -1191,7 +1191,22 @@ liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,90,,period,,,,,,,FT,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,90,3,substitution,,False,,,G. Adame,C. Alfaro,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,90,,substitution,,False,,,N. Carrera,W. Portales,,,,
 liga_mx_apertura_2026,2026-09-06,7,Atlas FC,Atlante FC,1,1,90,,injuryTime,,,,,,,,6,,
-liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,5,,card,F. Ordóñez,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,50,,card,A. Lopez Vargas,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,61,,substitution,,False,,,E. Lozano,L. Gómez,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,61,,substitution,,True,,,A. Mozo,R. González,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,61,,substitution,,True,,,J. Paradela,L. Romero,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,79,,substitution,,True,,,E. Lira,J. Márquez,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,79,,substitution,,True,,,G. Fernández,N. Ibáñez,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,84,,substitution,,False,,,F. Villalba,A. Lopez Vargas,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,84,,substitution,,False,,,E. Aguirre,E. Bullaude,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,84,,substitution,,False,,,E. Echeverría,D. González,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,87,,substitution,,True,,,A. Montaño,C. Rodríguez,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,87,,substitution,,False,,,R. Sordo,K. Palacios,,,,
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,89,,goal,J. Paradela,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,90,,period,,,,,,,FT,,1,0
+liga_mx_apertura_2026,2026-09-06,7,Cruz Azul,Santos Laguna,1,0,90,,injuryTime,,,,,,,,5,,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,12,,goal,O. González,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,19,,card,R. Monreal,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,21,,card,O. González,False,yellow,Foul,,,,,,
@@ -1201,6 +1216,7 @@ liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,35,,substitution,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,40,,goal,R. Aguirre,True,,,,,,,1,1
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,45,,period,,,,,,,HT,,1,1
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,5,,card,F. Ordóñez,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,58,,substitution,,False,,,K. Rosero,O. González,,,,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,59,,substitution,,True,,,C. Araújo,H. S. Koifman,,,,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,59,,substitution,,True,,,D. Sánchez,R. Monreal,,,,

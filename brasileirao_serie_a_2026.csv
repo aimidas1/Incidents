@@ -5109,7 +5109,96 @@ brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,,peri
 brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,4,card,T. Cuello,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,1,card,D. Ferreira,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-05,26,São Paulo,Atlético Mineiro,2,0,90,,injuryTime,,,,,,,,6,,
-brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,9,,card,A. Gómez,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,19,,card,A. Barboza,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,20,,card,A. Cabral,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,24,,card,Marçal,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,63,,substitution,,False,,,V. Roque,L. Evangelista,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,63,,substitution,,False,,,J. Arias,Mauricio,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,68,,substitution,,True,,,M. Ponte,Vitinho,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,68,,substitution,,True,,,J. Santos,L. Villalba,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,73,,substitution,,True,,,K. Barría,A. Cabral,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,76,,card,Á. Montoro,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,77,,card,M. Freitas,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,78,,substitution,,True,,,Edenilson,D. Santos,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,78,,substitution,,True,,,C. Medina,Á. Montoro,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,80,,substitution,,False,,,Khellven,A. Giay,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,80,,substitution,,False,,,E. Martínez,F. Anderson,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,88,,substitution,,False,,,Larson,A. Pereira,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,90,,period,,,,,,,FT,,0,0
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,90,3,card,A. Barboza,False,yellowRed,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Botafogo,Palmeiras,0,0,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,1,,card,Y. Felipe,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,2,,goal,M. Bidu,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,40,,goal,Marcinho,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,45,4,card,T. E. S. d. Oliveira,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,45,1,varDecision,B. Bidon,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,57,,card,G. Augusto,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,61,,substitution,,False,,,M. Carvalho,G. Augusto,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,61,,substitution,,False,,,Y. Bolasie,T. E. S. d. Oliveira,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,66,,substitution,,True,,,J. Lingard,Allan,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,66,,substitution,,True,,,G. Negão,M. Depay,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,73,,card,Kauan,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,74,,substitution,,False,,,B. Matias,Heitor,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,74,,substitution,,False,,,Everton,Y. Felipe,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,77,,goal,Marcinho,False,,,,,,,1,2
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,82,,substitution,,False,,,D. Antunes,Marcinho,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,84,,substitution,,True,,,M. Pereira,A. Carrillo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,84,,substitution,,True,,,P. Raul,R. Garro,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,90,,substitution,,True,,,Dieguinho,Kaio César,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Corinthians,Chapecoense,1,2,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,27,,card,Denilson,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,27,,card,D. Borges,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,34,,card,J. Victor,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,34,,card,T. Santos,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,58,,substitution,,True,,,V. G. Tissi,T. Santos,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,59,,substitution,,True,,,Maicon,J. Maranhão,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,59,,substitution,,True,,,P. Roberto,B. Lopes,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,61,,goal,P. Rocha,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,63,,card,J.P. Chermont,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,64,,goal,G. Silva,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,73,,substitution,,True,,,F. Jonatan,J.P. Chermont,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,76,,substitution,,False,,,Fernandinho,G. Silva,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,77,,substitution,,False,,,Shaylon,Alesson,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,79,,substitution,,True,,,Josué,Fabinho,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,82,,substitution,,False,,,G. Cazonatti,Wallisson Luiz,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,82,,substitution,,False,,,Chico,Denilson,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,84,,goal,B. Santos,False,,,,,,,1,2
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,87,,substitution,,False,,,Gabriel,Eduardo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,90,8,varDecision,R. Moledo,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,90,2,card,Shaylon,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Coritiba,Mirassol,1,2,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,30,,goal,M. Pereira,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,33,,card,G. Rojas,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,45,6,varDecision,M. Pereira,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,45,1,goal,J. Cruz,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,45,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,45,,varDecision,M. Henrique,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,46,,substitution,,False,,,J. Portilla,Jádson,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,46,,substitution,,False,,,L. Esquivel,A. Dias,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,46,,substitution,,True,,,L. Villalba,G. Rojas,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,62,,card,J. F. Aguirre,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,64,,card,F. Bruno,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,65,,substitution,,False,,,Bruno Zapelli,J. Cruz,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,65,,substitution,,False,,,K. C. Vargas,Leozinho,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,70,,substitution,,True,,,Wesley,K. Arroyo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,71,,goal,L. Romero,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,79,,card,Mycael,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,81,,substitution,,False,,,R. P. Nepomuceno,K. Viveros,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,82,,goal,K. Jorge,True,,,,,,,3,1
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,87,,substitution,,True,,,J. Costa,Gerson,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,90,,period,,,,,,,FT,,3,1
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,90,2,substitution,,True,,,Zé Lucas,M. Henrique,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,90,2,substitution,,True,,,L. Rodríguez,K. Jorge,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Cruzeiro,Athletico,3,1,90,,injuryTime,,,,,,,,6,,
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,21,,card,D. Fuzato,False,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,21,,card,J. Freytes,True,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,40,,card,P. Henrique,False,yellow,Argument,,,,,,
@@ -5129,5 +5218,55 @@ brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,84,,substitu
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,84,,substitution,,False,,,R. Rique,C. Cuesta,,,,
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,85,,substitution,,True,,,J. Fidelis,Guga,,,,
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,85,,substitution,,True,,,G. Arana,Hulk,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,9,,card,A. Gómez,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_a_2026,2026-09-06,26,Fluminense,Vasco da Gama,1,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,5,,card,B. Rollheiser,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,8,,goal,G. Barbosa,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,27,,varDecision,M. Bahia,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,28,,card,M. Bahia,True,red,Professional foul last man,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,29,,goal,G. Barbosa,False,,,,,,,0,2
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,39,,goal,C. Oliva,False,,,,,,,0,3
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,45,,period,,,,,,,HT,,0,3
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,45,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,46,,substitution,,True,,,B. Aguirre,A. Sanabria,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,48,,goal,B. Aguirre,True,,,,,,,1,3
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,55,,substitution,,False,,,Arthur,G. Caballero,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,59,,card,G. Barbosa,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,62,,substitution,,True,,,P. Paula,T. Maia,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,65,,card,Ronaldo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,69,,card,Vitinho,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,69,,card,Gustavinho,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,69,,card,G. Escobar,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,69,,card,P. Paula,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,75,,substitution,,True,,,R. Villagra,Ronaldo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,75,,substitution,,True,,,B. Henrique,A. Patrick,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,78,,substitution,,False,,,Lima,G. Bontempo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,78,,substitution,,False,,,Thaciano,G. Barbosa,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,78,,card,B. Aguirre,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,83,,substitution,,False,,,Miguelito,B. Rollheiser,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,83,,substitution,,False,,,J. Schmidt,Gustavinho,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,85,,substitution,,True,,,N. Eliasson,J. Carbonero,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,88,,varDecision,Vitinho,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,90,,period,,,,,,,FT,,2,3
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,90,1,goal,B. Henrique,True,,,,,,,2,3
+brasileirao_serie_a_2026,2026-09-06,26,Internacional,Santos,2,3,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,39,,card,A. Galeano,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,41,,card,G. de Arrascaeta,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,48,,card,J. Carrascal,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,60,,substitution,,True,,,Jajá,Y. Pikachu,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,64,,substitution,,False,,,B. Henrique,J. Carrascal,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,65,,goal,S. Lino,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,69,,substitution,,True,,,A. Manga,G. Taliari,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,69,,substitution,,True,,,V. Bueno,Zé Ricardo,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,76,,card,Marcelinho,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,76,,substitution,,False,,,J. Freitas,Pedro,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,76,,substitution,,False,,,E. Pulgar,G. de Arrascaeta,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,84,,substitution,,True,,,G. Poveda,Patrick,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,84,,substitution,,True,,,Edson Fernando,A. Galeano,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,84,,substitution,,False,,,A. Valencia,S. Lino,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,84,,substitution,,False,,,S. Ñíguez,L. Paquetá,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,90,,period,,,,,,,FT,,0,1
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,90,5,card,Edson Fernando,True,red,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-06,26,Remo,Flamengo,0,1,90,,injuryTime,,,,,,,,5,,

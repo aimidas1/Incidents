@@ -1115,7 +1115,6 @@ polonia_ekstraklasa_2026_2027,2026-09-06,7,KS Cracovia,Górnik Zabrze,0,1,86,,su
 polonia_ekstraklasa_2026_2027,2026-09-06,7,KS Cracovia,Górnik Zabrze,0,1,90,,period,,,,,,,FT,,0,1
 polonia_ekstraklasa_2026_2027,2026-09-06,7,KS Cracovia,Górnik Zabrze,0,1,90,,substitution,,False,,,E. Prekop,K. Urbański,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,KS Cracovia,Górnik Zabrze,0,1,90,,injuryTime,,,,,,,,4,,
-polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,9,,card,F. Tudor,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,25,,card,M. Skrzypczak,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,32,,card,M. Gurgul,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,40,,card,T. Pieńko,False,yellow,Time wasting,,,,,,
@@ -1132,7 +1131,46 @@ polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,79,,substitution,,False,,,J. Jendryka,F. Tudor,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,79,,substitution,,False,,,Á. Molnár,P. Makuch,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,79,,substitution,,False,,,M. Perović,T. Pieńko,,,,
+polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,9,,card,F. Tudor,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,90,,period,,,,,,,FT,,1,0
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,90,4,card,M. Emreli,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,90,3,card,W. Mońka,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-06,7,Lech Poznań,Raków Częstochowa,1,0,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,31,,substitution,,False,,,O. Kobacki,Jime,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,45,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,52,,goal,J. Biegański,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,59,,substitution,,True,,,J. Nsamé,N. Lawa,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,60,,goal,M. Haglind Sangre,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,70,,substitution,,False,,,M. Kościelecki,Ł. Sekulski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,71,,card,P. Dziczek,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,73,,substitution,,True,,,J. Czaplinski,M. Wojciechowski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,74,,substitution,,True,,,K. Acosta,J. Biegański,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,78,,card,S. Tavares,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,83,,card,V. Cojocaru,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,84,,card,M. Haglind Sangre,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,85,,substitution,,True,,,A. Szalai,H. Ali,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,85,,substitution,,True,,,M. Juwara,D. Churlinov,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,90,,period,,,,,,,FT,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,90,4,card,L. Willen,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,90,,card,P. Kun,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Pogoń Szczecin,Wisła Płock,1,1,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,39,,substitution,,False,,,J. Ćorluka,M. Grzybek,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,46,,substitution,,False,,,M. Kosidis,S. Kerk,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,46,,substitution,,False,,,J. Sypek,M. Mlinarić,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,60,,card,D. Michalski,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,64,,substitution,,True,,,Miki,C. Lungoyi,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,70,,substitution,,False,,,D. Čolina,D. Michalski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,71,,substitution,,True,,,D. Dujmović,A. Milić,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,71,,substitution,,True,,,P. Pušić,E. Koulouris,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,80,,card,M. Maigaard,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,85,,substitution,,True,,,B. Białek,L. Piazón,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,85,,substitution,,True,,,J. A. d. l. Rosa,L. Semedo,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,86,,substitution,,False,,,D. Dąbrowski,J. Kolan,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,87,,goal,A. Ławniczak,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,90,,period,,,,,,,FT,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,90,2,card,D. Čolina,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,90,1,goal,D. Dujmović,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-07,7,Wieczysta Kraków,Zagłębie Lubin,1,1,90,,injuryTime,,,,,,,,4,,

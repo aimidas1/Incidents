@@ -563,3 +563,44 @@ italia_serie_a_2026_2027,2026-09-06,3,Parma,Monza,1,1,81,,substitution,,False,,,
 italia_serie_a_2026_2027,2026-09-06,3,Parma,Monza,1,1,83,,card,P. Almqvist,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-06,3,Parma,Monza,1,1,90,,period,,,,,,,FT,,1,1
 italia_serie_a_2026_2027,2026-09-06,3,Parma,Monza,1,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,29,,goal,D. Maldini,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,37,,card,K. Gaspar,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,46,,substitution,,False,,,A. Ahmed,O. Ngom,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,61,,substitution,,True,,,M. Felici,J. Fazzini,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,66,,substitution,,False,,,N. Konan,J. Monteiro,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,66,,substitution,,False,,,Y. Maleh,I. Ilić,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,66,,substitution,,False,,,J. Siebert,K. Gaspar,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,66,,substitution,,True,,,A. Fadera,D. Maldini,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,66,,substitution,,True,,,R. Kofler,J. Rodríguez,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,74,,substitution,,True,,,A. Sugamele,P. Mendy,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,74,,substitution,,True,,,R. Gagliardini,M. Felici,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,82,,substitution,,False,,,M. Berisha,S. Pierotti,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,90,,period,,,,,,,FT,,1,0
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,90,7,card,W. Falcone,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,90,5,card,J. Siebert,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,90,5,card,A. Deiola,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Cagliari,Lecce,1,0,90,,injuryTime,,,,,,,,6,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,13,,card,J. Piotrowski,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,15,,substitution,,True,,,L. Miller,J. Piotrowski,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,23,,card,L. Miller,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,25,,card,G. Isaksen,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,38,,substitution,,True,,,C. Kabasele,O. Solet,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,45,3,card,J. Karlström,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,45,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,46,,substitution,,True,,,V. Bayo,U. Gómez,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,49,,goal,J. Karlström,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,53,,substitution,,False,,,M. Cancellieri,G. Isaksen,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,53,,substitution,,False,,,T. Noslin,A. Pinamonti,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,67,,card,V. Bayo,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,75,,goal,D. Frattesi,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,76,,substitution,,True,,,N. Bertola,J. Abankwah,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,76,,substitution,,True,,,O. Zarraga,K. Davis,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,80,,substitution,,False,,,A. Guðmundsson,D. Frattesi,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,84,,card,N. Bertola,True,yellow,Handball,,,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,88,,goal,A. Guðmundsson,False,,,,,,,1,2
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,90,,period,,,,,,,FT,,1,2
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,90,1,substitution,,False,,,A. Pedraza,M. Zaccagni,,,,
+italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,90,,injuryTime,,,,,,,,5,,

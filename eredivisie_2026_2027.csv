@@ -770,26 +770,25 @@ eredivisie_2026_2027,2026-09-06,5,ADO Den Haag,Fortuna Sittard,2,3,90,5,card,P. 
 eredivisie_2026_2027,2026-09-06,5,ADO Den Haag,Fortuna Sittard,2,3,90,2,card,J. Hubner,False,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-09-06,5,ADO Den Haag,Fortuna Sittard,2,3,90,1,goal,J. Bal,True,,,,,,,2,3
 eredivisie_2026_2027,2026-09-06,5,ADO Den Haag,Fortuna Sittard,2,3,90,,injuryTime,,,,,,,,7,,
-eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,6,,goal,M. Pjaca,False,,,,,,,0,1
-eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,8,,card,R. Zerrouki,False,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,18,,goal,T. v. Bergen,True,,,,,,,1,1
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,29,,goal,T. Land,True,,,,,,,2,1
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,40,,goal,W. Weghorst,False,,,,,,,2,2
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,45,,period,,,,,,,HT,,2,2
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,45,,injuryTime,,,,,,,,1,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,55,,card,M. Csinger,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,6,,goal,M. Pjaca,False,,,,,,,0,1
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,60,,substitution,,True,,,J. Ondrejka,P. Clement,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,60,,substitution,,True,,,E. V. D. Laan,M. Csinger,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,60,,substitution,,True,,,O. Zawada,B. Darri Willumsson,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,61,,substitution,,False,,,D. Rots,M. Pjaca,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,75,,substitution,,False,,,T. V. d. Belt,D. Weidmann,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,75,,substitution,,False,,,F. Thorvaldsen,S. Ørjasæter,,,,
+eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,8,,card,R. Zerrouki,False,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,80,,substitution,,True,,,T. Hernes,T. Land,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,83,,substitution,,True,,,N. Brandis,W. Prins,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,88,,substitution,,False,,,L. V. o. Hesselink,Y. Taha,,,,
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,90,,period,,,,,,,FT,,2,2
 eredivisie_2026_2027,2026-09-06,5,FC Groningen,FC Twente,2,2,90,,injuryTime,,,,,,,,2,,
-eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,7,,goal,R. Daal,False,,,,,,,0,1
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,21,,goal,N. Courtens,True,,,,,,,1,1
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,28,,card,N. Courtens,True,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,30,,goal,R. Meerveld,True,,,,,,,2,1
@@ -803,6 +802,7 @@ eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,68,,substitution,
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,68,,substitution,,True,,,L. Oyen,M. Rivera,,,,
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,68,,substitution,,True,,,R. Uldriķis,D. Vente,,,,
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,69,,goal,M. Meerdink,False,,,,,,,2,2
+eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,7,,goal,R. Daal,False,,,,,,,0,1
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,74,,substitution,,True,,,L. Smans,D. Proper,,,,
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,82,,substitution,,False,,,A. Oufkir,R. Daal,,,,
 eredivisie_2026_2027,2026-09-06,5,SC Heerenveen,AZ Alkmaar,2,3,83,,goal,A. Oufkir,False,,,,,,,2,3

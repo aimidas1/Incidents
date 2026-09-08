@@ -784,8 +784,8 @@ portugal_liga_betclic_2026_2027,2026-09-05,5,Sporting CP,CD Nacional,2,0,80,,sub
 portugal_liga_betclic_2026_2027,2026-09-05,5,Sporting CP,CD Nacional,2,0,87,,substitution,,True,,,S. Andersen,S. Altimira,,,,
 portugal_liga_betclic_2026_2027,2026-09-05,5,Sporting CP,CD Nacional,2,0,90,,period,,,,,,,FT,,2,0
 portugal_liga_betclic_2026_2027,2026-09-05,5,Sporting CP,CD Nacional,2,0,90,,injuryTime,,,,,,,,2,,
-portugal_liga_betclic_2026_2027,2026-09-06,5,Gil Vicente,Académico Viseu FC,0,1,4,,goal,J. Guilherme,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-09-06,5,Gil Vicente,Académico Viseu FC,0,1,24,,substitution,,True,,,D. Moreira,Weverson,,,,
+portugal_liga_betclic_2026_2027,2026-09-06,5,Gil Vicente,Académico Viseu FC,0,1,4,,goal,J. Guilherme,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-09-06,5,Gil Vicente,Académico Viseu FC,0,1,45,,period,,,,,,,HT,,0,1
 portugal_liga_betclic_2026_2027,2026-09-06,5,Gil Vicente,Académico Viseu FC,0,1,45,,injuryTime,,,,,,,,2,,
 portugal_liga_betclic_2026_2027,2026-09-06,5,Gil Vicente,Académico Viseu FC,0,1,46,,substitution,,True,,,M. S. Kaba,G. Martins,,,,
@@ -840,3 +840,21 @@ portugal_liga_betclic_2026_2027,2026-09-06,5,Vitória SC,Casa Pia,0,0,87,,substi
 portugal_liga_betclic_2026_2027,2026-09-06,5,Vitória SC,Casa Pia,0,0,87,,substitution,,True,,,P. Ouotro,L. Doucet,,,,
 portugal_liga_betclic_2026_2027,2026-09-06,5,Vitória SC,Casa Pia,0,0,90,,period,,,,,,,FT,,0,0
 portugal_liga_betclic_2026_2027,2026-09-06,5,Vitória SC,Casa Pia,0,0,90,,injuryTime,,,,,,,,6,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,30,,card,A. Tsoungui,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,45,,card,Ferro,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,45,,injuryTime,,,,,,,,1,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,46,,substitution,,True,,,J. Arnolin,A. Tsoungui,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,46,,substitution,,False,,,P. S. Carvalho,E. v. Ee,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,71,,card,J. Arnolin,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,72,,card,J. Carvalho,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,75,,substitution,,False,,,D. Nandín,I. Barbero,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,75,,substitution,,False,,,M. Flores,P. Gozálbez,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,75,,substitution,,True,,,Peixinho,F. Garcia,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,79,,substitution,,True,,,R. Guitane,A. Lacximicant,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,79,,substitution,,True,,,P. Carvalho,R. Sánchez,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,85,,substitution,,True,,,T. Brito,J. Holsgrove,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,85,,substitution,,False,,,B. Mansilla,A. Trezza,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,86,,card,B. Mansilla,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,90,,period,,,,,,,FT,,0,0
+portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,90,,injuryTime,,,,,,,,3,,

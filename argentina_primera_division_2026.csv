@@ -7755,12 +7755,12 @@ argentina_primera_division_2026,2026-09-06,8,River Plate,Independiente Rivadavia
 argentina_primera_division_2026,2026-09-06,8,River Plate,Independiente Rivadavia,3,1,90,,period,,,,,,,FT,,3,1
 argentina_primera_division_2026,2026-09-06,8,River Plate,Independiente Rivadavia,3,1,90,,injuryTime,,,,,,,,4,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,2,,card,F. Ibarra,True,yellow,Foul,,,,,,
-argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,6,,card,F. Escobar,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,24,,card,M. Cóccaro,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,45,,period,,,,,,,HT,,1,0
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,45,1,goal,G. Ávila,True,,,,,,,1,0
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,45,,injuryTime,,,,,,,,1,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,59,,substitution,,False,,,J. G. Mattar,R. Herrera,,,,
+argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,6,,card,F. Escobar,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,60,,substitution,,False,,,J. Russo,F. Escobar,,,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,60,,substitution,,False,,,M. García,F. Gauch,,,,
 argentina_primera_division_2026,2026-09-06,8,Rosario Central,Newell's Old Boys,1,1,61,,card,A. Sández,True,yellow,Foul,,,,,,
@@ -7802,6 +7802,25 @@ argentina_primera_division_2026,2026-09-06,8,Vélez Sarsfield,Estudiantes de La 
 argentina_primera_division_2026,2026-09-06,8,Vélez Sarsfield,Estudiantes de La Plata,1,0,90,5,card,J. Correa,False,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-09-06,8,Vélez Sarsfield,Estudiantes de La Plata,1,0,90,,substitution,,True,,,M. Arias,M. Pellegrini,,,,
 argentina_primera_division_2026,2026-09-06,8,Vélez Sarsfield,Estudiantes de La Plata,1,0,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,25,,card,N. Briasco,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,33,,card,S. Prieto,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,36,,card,F. Álvarez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,37,,card,D. Martínez,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,58,,card,I. Tapia,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,59,,card,D. Miloc,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,67,,substitution,,False,,,M. Giménez Rojas,E. Viveros,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,68,,substitution,,False,,,G. Florentín,H. López Muñoz,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,72,,substitution,,True,,,E. Rolón,I. Tapia,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,72,,substitution,,True,,,F. Bruera,N. Briasco,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,77,,substitution,,False,,,F. Jainikoski,K. Gutiérrez,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,80,,card,G. Maroni,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,81,,substitution,,True,,,E. Taborda,G. Maroni,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,84,,substitution,,False,,,D. Porcel,T. Molina,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,90,,period,,,,,,,FT,,0,0
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,90,3,substitution,,True,,,N. Capraro,D. Martínez,,,,
+argentina_primera_division_2026,2026-09-07,8,Barracas Central,Argentinos Juniors,0,0,90,,injuryTime,,,,,,,,3,,
 argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,11,,varDecision,L. Di Plácido,False,,,,,,,,
 argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,13,,card,U. Ortegoza,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,24,,goal,L. A. Godoy,False,,,,,,,0,1
@@ -7823,3 +7842,30 @@ argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,
 argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,90,4,varDecision,R. R. Rodríguez,False,,,,,,,,
 argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,90,3,goal,R. R. Rodríguez,False,,,,,,,1,2
 argentina_primera_division_2026,2026-09-07,8,Racing Club,Atlético Tucumán,1,2,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,13,,goal,L. Mosevich,False,,,,,,,0,1
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,25,,goal,B. Cuello,True,,,,,,,1,1
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,28,,card,E. Giaccone,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,37,,card,F. Alarcón,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,44,,card,M. Gallardo,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,45,,period,,,,,,,HT,,1,1
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,48,,goal,C. Tarragona,True,,,,,,,2,1
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,58,,substitution,,False,,,N. Guerra,M. Tissera,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,58,,substitution,,False,,,J. Lázaro,J. Córdoba,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,62,,substitution,,True,,,J. Mosqueira,E. Giaccone,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,70,,substitution,,True,,,E. Ramírez,M. Estigarribia,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,70,,substitution,,True,,,M. Aguirre,B. Cuello,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,73,,substitution,,False,,,F. Suárez,G. Cerato,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,73,,substitution,,False,,,I. Méndez,G. Abregú,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,73,,substitution,,False,,,H. De La Fuente,J. Galván,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,74,,goal,M. Aguirre,True,,,,,,,3,1
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,83,,card,A. Luna,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,87,,goal,H. De La Fuente,False,,,,,,,3,2
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,89,,varDecision,C. Tarragona,True,,,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,,period,,,,,,,FT,,3,2
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,8,card,F. Suárez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,6,card,M. Gallardo,False,yellowRed,Argument,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,1,substitution,,True,,,M. Peresutti,L. Menossi,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,1,substitution,,True,,,N. Fazzi,J. Pintado,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,,card,C. Tarragona,True,red,Foul,,,,,,
+argentina_primera_division_2026,2026-09-08,8,Club Atlético Unión de Santa Fe,Instituto De Córdoba,3,2,90,,injuryTime,,,,,,,,7,,

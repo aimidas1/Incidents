@@ -698,7 +698,6 @@ turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,88,,goal,E. Mah
 turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,88,,varDecision,E. Mahmić,True,,,,,,,,
 turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,90,,period,,,,,,,FT,,3,0
 turquia_super_lig_2026_2027,2026-09-06,4,Çorum FK,Eyüpspor,3,0,90,,injuryTime,,,,,,,,3,,
-turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,5,,goal,H. Dervişoğlu,False,,,,,,,0,1
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,10,,goal,M. Abena,False,,,,,,,0,2
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,28,,varDecision,Rhaldney,True,,,,,,,,
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,34,,goal,K. Kozłowski,False,,,,,,,0,3
@@ -708,6 +707,7 @@ turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,45,,injuryTim
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,46,,substitution,,True,,,A. Antunes,A. Henrique,,,,
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,46,,substitution,,True,,,O. Bayrak,E. Yildirim,,,,
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,46,,substitution,,True,,,A. Özçimen,L. Gugeshashvili,,,,
+turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,5,,goal,H. Dervişoğlu,False,,,,,,,0,1
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,51,,goal,Juan,True,,,,,,,1,4
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,55,,card,A. Kurtulan,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-07,4,Göztepe,Gaziantep FK,2,4,62,,substitution,,False,,,D. Camara,A. Maxim,,,,

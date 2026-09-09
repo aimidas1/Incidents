@@ -838,3 +838,43 @@ eredivisie_2026_2027,2026-09-06,5,SC Telstar,SC Cambuur,2,2,90,7,card,R. E. Argu
 eredivisie_2026_2027,2026-09-06,5,SC Telstar,SC Cambuur,2,2,90,,card,S. Bouhoudane,False,yellow,Argument,,,,,,
 eredivisie_2026_2027,2026-09-06,5,SC Telstar,SC Cambuur,2,2,90,,injuryTime,,,,,,,,8,,
 eredivisie_2026_2027,2026-09-06,5,SC Telstar,SC Cambuur,2,2,90,,varDecision,M. Peersman,True,,,,,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,18,,goal,M. Suray,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,44,,card,D. v. d. Berg,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,45,,period,,,,,,,HT,,0,1
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,46,,substitution,,True,,,A. Blake,Y. Cathline,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,49,,goal,S. Tengstedt,False,,,,,,,0,2
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,58,,goal,V. Edvardsen,False,,,,,,,0,3
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,61,,substitution,,True,,,S. v. Duijn,S. Horemans,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,61,,substitution,,True,,,J. Medić,G. Offerhaus,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,61,,substitution,,True,,,M. Broholm,A. Zagre,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,63,,goal,D. De Wit,True,,,,,,,1,3
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,65,,card,J. Kramer,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,65,,card,A. Stepanov,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,76,,goal,M. Didden,True,,,,,,,2,3
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,85,,substitution,,False,,,T. Baeten,S. I. Sigurðarson,,,,
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,90,,period,,,,,,,FT,,3,3
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,90,,goal,A. Stepanov,True,,,,,,,3,3
+eredivisie_2026_2027,2026-09-08,5,FC Utrecht,Go Ahead Eagles,3,3,90,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,4,,card,J. Monteiro,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,10,,goal,A. Tahaui,True,,,,,,,1,0
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,43,,goal,D. Garden,False,,,,,,,1,1
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,45,,period,,,,,,,HT,,1,1
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,46,,substitution,,False,,,K. Bos,S. Janssen,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,46,,substitution,,True,,,P. Sandler,B. Nuytinck,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,46,,substitution,,True,,,P. Schuurs,J. Monteiro,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,52,,card,L. Hartjes,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,63,,substitution,,True,,,K. Kers,I. H. Aarøen,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,63,,substitution,,True,,,N. Lebreton,D. Geiger,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,67,,substitution,,False,,,A. Sliti,Á. O. Thorsteinsson,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,67,,substitution,,False,,,N. Groen,D. Garden,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,70,,card,R. Meissen,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,71,,substitution,,False,,,V. Sulzbacher,E. d. S. Moreira,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,73,,goal,V. Sulzbacher,False,,,,,,,1,2
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,81,,substitution,,False,,,A. Jahanbakhsh,I. S. Timas,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,87,,substitution,,True,,,C. Bischoff,G. Brás,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,90,,period,,,,,,,FT,,2,2
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,90,5,card,V. Sulzbacher,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,90,2,goal,N. Lebreton,True,,,,,,,2,2
+eredivisie_2026_2027,2026-09-08,3,NEC Nijmegen,Excelsior,2,2,90,,injuryTime,,,,,,,,4,,

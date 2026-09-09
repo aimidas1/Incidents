@@ -5580,3 +5580,44 @@ brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,84,,substit
 brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,87,,substitution,,True,,,N. Silva,D. Barcelos,,,,
 brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,90,,period,,,,,,,FT,,0,2
 brasileirao_serie_b_2026,2026-09-06,26,Ponte Preta,São Bernardo,0,2,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,37,,goal,Fábio Gomes,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,45,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,59,,substitution,,True,,,Eliel,K. Cristtyan,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,59,,substitution,,True,,,Wesley,D. M. d. S. Arcanjo,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,62,,goal,Jhonathan,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,65,,substitution,,False,,,G. Cabezas,K. Lindes,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,65,,substitution,,False,,,Bruninho,Enzo,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,65,,substitution,,False,,,Assis,Y. Santos,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,69,,goal,J. Dias,True,,,,,,,3,0
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,70,,substitution,,False,,,J. P. Torres,Max,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,70,,substitution,,True,,,Ramon,J. Dias,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,70,,substitution,,True,,,V. Peixoto,Fábio Gomes,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,73,,substitution,,False,,,Yarlen,Carlinhos,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,84,,card,Igor,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,86,,substitution,,True,,,Railan,Igor,,,,
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,90,,period,,,,,,,FT,,3,0
+brasileirao_serie_b_2026,2026-09-08,27,Cuiabá,Athletic Club,3,0,90,,injuryTime,,,,,,,,9,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,31,,card,L. Mandaca,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,55,,card,Ronald,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,60,,substitution,,False,,,Alan Kardec,F. Lima,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,60,,substitution,,False,,,M. Paulo,L. Mandaca,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,61,,card,A. Safira,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,61,,card,Luciano Castan,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,65,,goal,Alan Kardec,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,68,,substitution,,True,,,F. Mateus,G. Lobo,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,68,,substitution,,True,,,Yuri,Diego Gonçalves,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,76,,goal,M. Paulo,False,,,,,,,0,2
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,78,,substitution,,False,,,G. Pires,A. Safira,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,78,,substitution,,True,,,Cauê,Waguininho,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,81,,card,Aderlan,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,83,,substitution,,True,,,Marcinho,W. Lepo,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,84,,substitution,,True,,,Romarinho,R. Otero,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,85,,substitution,,False,,,Titi,Raí,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,85,,substitution,,False,,,Wadson,Aderlan,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,89,,card,Wadson,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,90,,period,,,,,,,FT,,0,2
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,90,5,card,F. Mateus,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-09,27,Criciúma,Juventude,0,2,90,,injuryTime,,,,,,,,7,,

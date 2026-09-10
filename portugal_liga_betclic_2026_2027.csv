@@ -858,3 +858,28 @@ portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,85,,sub
 portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,86,,card,B. Mansilla,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,90,,period,,,,,,,FT,,0,0
 portugal_liga_betclic_2026_2027,2026-09-07,5,Estoril Praia,FC Arouca,0,0,90,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,42,,card,G. Batista,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,45,,period,,,,,,,HT,,0,1
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,45,4,goal,V. Pavlidis,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,45,3,card,A. Parsemain,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,45,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,45,,varDecision,C. Lenglet,False,,,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,52,,card,Landerson,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,55,,goal,A. Schjelderup,False,,,,,,,0,2
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,56,,substitution,,True,,,T. Andrade,Landerson,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,56,,substitution,,True,,,Y. Maranhão,A. Parsemain,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,59,,goal,G. Prestianni,False,,,,,,,0,3
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,66,,substitution,,False,,,D. Lukebakio,G. Prestianni,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,66,,substitution,,False,,,F. Aursnes,L. Barreiro,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,66,,substitution,,False,,,J. Durán,V. Pavlidis,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,66,,substitution,,True,,,K. Bondoso,N. John,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,66,,substitution,,True,,,L. Santos,D. Pinto,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,72,,goal,F. Aursnes,False,,,,,,,0,4
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,75,,card,J. Palhinha,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,78,,substitution,,False,,,S. El Karouani,S. Dahl,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,79,,substitution,,True,,,K. Monteiro,Maracás,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,86,,substitution,,False,,,G. Sudakov,R. Silva,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,87,,card,M. Stjepanović,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,90,,period,,,,,,,FT,,0,4
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,90,1,card,J. Durán,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-09,3,Moreirense,Benfica,0,4,90,,injuryTime,,,,,,,,4,,

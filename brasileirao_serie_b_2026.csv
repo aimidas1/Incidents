@@ -5705,7 +5705,6 @@ brasileirao_serie_b_2026,2026-09-09,27,Operário-PR,Clube De Regatas Brasil,3,0,
 brasileirao_serie_b_2026,2026-09-09,27,Operário-PR,Clube De Regatas Brasil,3,0,86,,card,J. Cuenú,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-09,27,Operário-PR,Clube De Regatas Brasil,3,0,90,,period,,,,,,,FT,,3,0
 brasileirao_serie_b_2026,2026-09-09,27,Operário-PR,Clube De Regatas Brasil,3,0,90,,injuryTime,,,,,,,,2,,
-brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,7,,goal,Guilherme Marques,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,12,,goal,G. Soares,True,,,,,,,2,0
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,22,,card,J. P. Silva,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,25,,substitution,,False,,,N. Ferreira,G. Pavani,,,,
@@ -5723,8 +5722,75 @@ brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,62,,subst
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,62,,substitution,,False,,,Wendel,B. Borges,,,,
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,67,,substitution,,True,,,Gustavo Coutinho,J. P. Silva,,,,
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,68,,substitution,,True,,,Klebert,Peixoto,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,7,,goal,Guilherme Marques,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,73,,substitution,,False,,,L. Mugni,Sávio,,,,
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,73,,substitution,,False,,,L. Holanda,Melk,,,,
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,89,,card,L. Otávio,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_b_2026,2026-09-10,27,Atlético Goianiense,Ceará,2,1,90,,injuryTime,,,,,,,,9,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,11,,card,L. Ribeiro,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,14,,card,J. Vieira,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,21,,card,L. Fellipe,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,36,,card,Hayner,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,45,4,card,D. D. Santos,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,45,,card,D. Mendes,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,46,,substitution,,True,,,Everton Galdino,R. Lima,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,46,,card,B. Xavier,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,64,,substitution,,False,,,L. Lima,W. Rato,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,64,,substitution,,False,,,Cadu,F. Clemente,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,67,,goal,Hayner,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,68,,card,A. Luís,True,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,71,,substitution,,False,,,Juninho,Lourenço,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,72,,substitution,,False,,,M. Vinícius,R. Menezes,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,76,,goal,A. Luís,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,78,,substitution,,True,,,Willian Maranhão,D. D. Santos,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,78,,substitution,,True,,,Dodô,Marquinhos Gabriel,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,78,,substitution,,False,,,J. Carlos,L. R. M. Costa,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,83,,substitution,,True,,,H. Meritão,J. Vieira,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,85,,substitution,,True,,,Emerson Urso,A. Luís,,,,
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_b_2026,2026-09-10,27,Vila Nova FC,Goiás,2,0,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,12,,substitution,,True,,,Carlos De Pena,J. Alano,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,24,,card,M. Souza,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,25,,goal,D. Leão,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,27,,card,L. Cunha,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,32,,varDecision,B. Fonseca,True,,,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,35,,goal,C. Barletta,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,45,,period,,,,,,,HT,,2,0
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,45,5,varDecision,D. Leão,False,,,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,45,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,46,,substitution,,False,,,G. Telles,J. d. Oliveira,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,57,,card,E. Lucas,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,64,,substitution,,True,,,W. Oliveira,Zé Gabriel,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,64,,substitution,,True,,,P. de Paula,B. Fonseca,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,66,,substitution,,False,,,J. Damião,Murilo,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,74,,substitution,,True,,,F. Sobral,Diego Hernández,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,74,,substitution,,True,,,Dudu,Perotti,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,83,,substitution,,False,,,J. R. Leopoldino,D. Barcelos,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,83,,substitution,,False,,,T. D. A. Souza,Miguel,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,84,,card,W. Oliveira,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,90,1,substitution,,False,,,V. Ribeiro,David,,,,
+brasileirao_serie_b_2026,2026-09-11,27,Sport Recife,Ponte Preta,2,0,90,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,10,,goal,C. Rodrigues,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,16,,substitution,,True,,,M. Sergio,Pará,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,43,,goal,Foguinho,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,46,,card,I. Bahia,False,yellow,Off the ball foul,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,46,,substitution,,False,,,J. Coni,William Pottker,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,60,,substitution,,True,,,D. Amorim,P. Vitor,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,60,,substitution,,True,,,L. Jabá,Pedrinho,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,65,,card,C. Rodrigues,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,68,,substitution,,False,,,K. Leonardo,N. Paraíba,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,68,,substitution,,False,,,Tarik,C. Rodrigues,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,74,,goal,Tarik,False,,,,,,,1,2
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,75,,substitution,,True,,,Fabrício Daniel,Foguinho,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,75,,substitution,,True,,,L. Lima,F. Garcia,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,82,,substitution,,False,,,J. Tavares,G. Portuga,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,82,,substitution,,False,,,Artur,Heron,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,89,,card,L. Jabá,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_b_2026,2026-09-11,27,São Bernardo,Londrina,1,2,90,,injuryTime,,,,,,,,4,,

@@ -1002,8 +1002,8 @@ arabia_saudita_pro_league_2026_2027,2026-09-08,6,Al-Qadsiah,Al-Ahli,3,2,88,,subs
 arabia_saudita_pro_league_2026_2027,2026-09-08,6,Al-Qadsiah,Al-Ahli,3,2,90,,period,,,,,,,FT,,3,2
 arabia_saudita_pro_league_2026_2027,2026-09-08,6,Al-Qadsiah,Al-Ahli,3,2,90,1,substitution,,False,,,A. H. Radif,V. A. Edoa,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-08,6,Al-Qadsiah,Al-Ahli,3,2,90,,injuryTime,,,,,,,,6,,
-arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,3,,card,A. A. Khaibari,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,28,,goal,D. Núñez,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,3,,card,A. A. Khaibari,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,35,,goal,F. A. Abdulwahed,True,,,,,,,1,1
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,45,,period,,,,,,,HT,,1,2
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,45,6,goal,A. Boulbina,False,,,,,,,1,2
@@ -1024,7 +1024,6 @@ arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,90,4,card,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,90,1,substitution,,False,,,H. Bahebri,C. Diandy,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,90,1,substitution,,False,,,M. Hameran,A. Boulbina,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Fateh,Diriyah,1,2,90,,injuryTime,,,,,,,,5,,
-arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,6,,goal,R. Martínez,False,,,,,,,0,1
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,22,,card,M. Camara,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,22,,card,D. Podence,False,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,28,,card,D. Al-Enezi,False,yellow,Foul,,,,,,
@@ -1033,6 +1032,7 @@ arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,41,,ca
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,45,,period,,,,,,,HT,,1,1
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,45,,injuryTime,,,,,,,,3,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,46,,substitution,,False,,,A. Matuq,D. Podence,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,6,,goal,R. Martínez,False,,,,,,,0,1
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,64,,substitution,,True,,,M. Sawan,A. L. Essomba,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,73,,card,I. Kortajarena,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-09,6,Al-Kholood,Al-Shabab,2,1,78,,substitution,,False,,,A. Al-Bulaihi,D. Al-Enezi,,,,

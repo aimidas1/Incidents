@@ -604,3 +604,26 @@ italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,88,,goal,A. Guðmundsson
 italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,90,,period,,,,,,,FT,,1,2
 italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,90,1,substitution,,False,,,A. Pedraza,M. Zaccagni,,,,
 italia_serie_a_2026_2027,2026-09-07,3,Udinese,Lazio,1,2,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,22,,goal,A. Adams,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,29,,goal,F. Mastantuono,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,30,,goal,F. Mastantuono,False,,,,,,,1,2
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,38,,card,J. Schingtienne,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,44,,substitution,,True,,,T. Helgason,G. Busio,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,45,,period,,,,,,,HT,,1,2
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,60,,substitution,,False,,,W. Gnonto,A. Atta,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,60,,substitution,,False,,,M. Pellegrino,Beto,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,66,,goal,M. Pellegrino,False,,,,,,,1,3
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,69,,substitution,,True,,,J. Jesus,M. Moreno,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,69,,substitution,,True,,,T. Correia,R. Sagrado,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,72,,card,A. Njie,False,yellow,,,,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,73,,card,S. Sohm,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,80,,substitution,,False,,,P. Gonçalves,A. Njie,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,80,,substitution,,True,,,L. Lauberbach,S. Sohm,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,80,,substitution,,True,,,T. Fernández,J. Yeboah,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,84,,goal,F. Mastantuono,False,,,,,,,1,4
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,86,,goal,A. Hainaut,True,,,,,,,2,4
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,89,,substitution,,False,,,M. Brescianini,F. Mastantuono,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,89,,substitution,,False,,,M. Pongračić,L. Ranieri,,,,
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,90,,period,,,,,,,FT,,2,4
+italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,90,,injuryTime,,,,,,,,4,,

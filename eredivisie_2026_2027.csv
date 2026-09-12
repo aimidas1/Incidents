@@ -896,3 +896,20 @@ eredivisie_2026_2027,2026-09-09,3,FC Twente,SC Telstar,1,0,79,,substitution,,Tru
 eredivisie_2026_2027,2026-09-09,3,FC Twente,SC Telstar,1,0,82,,substitution,,False,,,A. Martha,R. Mendes,,,,
 eredivisie_2026_2027,2026-09-09,3,FC Twente,SC Telstar,1,0,90,,period,,,,,,,FT,,1,0
 eredivisie_2026_2027,2026-09-09,3,FC Twente,SC Telstar,1,0,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,29,,card,T. Vilhena,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,32,,goal,J. Clasie,True,,,,,,,1,0
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,45,,period,,,,,,,HT,,1,0
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,64,,substitution,,True,,,V. Byskov,J. Clasie,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,64,,substitution,,True,,,W. Patati,C. Stengs,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,70,,substitution,,False,,,A. Ciranni,P. v. Loon,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,70,,substitution,,False,,,K. Boogaard,T. Vilhena,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,78,,substitution,,True,,,J. Hornkamp,M. Meerdink,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,81,,goal,D. Haen,False,,,,,,,1,1
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,87,,substitution,,True,,,A. Oufkir,R. Daal,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,87,,substitution,,True,,,B. Kovács,D. Kwakman,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,88,,substitution,,False,,,T. Verheydt,J. Slory,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,90,,period,,,,,,,FT,,1,1
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,90,3,substitution,,True,,,,M. Chávez,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,90,3,substitution,,False,,,M. Lemmens,M. Dekker,,,,
+eredivisie_2026_2027,2026-09-11,6,AZ Alkmaar,Willem II Tilburg,1,1,90,,injuryTime,,,,,,,,4,,

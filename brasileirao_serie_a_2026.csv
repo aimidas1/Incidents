@@ -5292,3 +5292,33 @@ brasileirao_serie_a_2026,2026-09-07,26,Vitória,Grêmio,1,0,82,,substitution,,Tr
 brasileirao_serie_a_2026,2026-09-07,26,Vitória,Grêmio,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_a_2026,2026-09-07,26,Vitória,Grêmio,1,0,90,,substitution,,True,,,R. Kayzer,Renê,,,,
 brasileirao_serie_a_2026,2026-09-07,26,Vitória,Grêmio,1,0,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,14,,goal,L. Gustavo,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,28,,card,J. Lavega,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,30,,goal,A. Dias,False,,,,,,,0,2
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,34,,card,K. Viveros,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,34,,card,J. Maranhão,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,43,,card,J. Cruz,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,44,,varDecision,B. Lopes,True,,,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,,period,,,,,,,HT,,1,2
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,12,card,P. Rocha,True,yellow,Handball,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,9,card,J.P. Chermont,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,5,card,Dantas,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,2,goal,T. Cóser,True,,,,,,,1,2
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,1,card,B. Lopes,True,red,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,45,,injuryTime,,,,,,,,12,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,False,,,Felipinho,Dantas,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,True,,,R. Moledo,J.P. Chermont,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,True,,,P. Roberto,J. Lavega,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,True,,,R. Rodrigues,P. Rocha,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,False,,,C. Terán,J. Cruz,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,True,,,Richard,Bruno Melo,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,46,,substitution,,False,,,Gilberto,G. Benavídez,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,63,,goal,K. Viveros,False,,,,,,,1,3
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,67,,substitution,,False,,,R. P. Nepomuceno,K. Viveros,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,74,,substitution,,True,,,R. Gelado,T. Santos,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,90,,period,,,,,,,FT,,3,3
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,90,7,goal,R. Moledo,True,,,,,,,3,3
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,90,4,substitution,,False,,,J. Portilla,S. Mendoza,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,90,3,card,L. Gustavo,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,90,1,goal,R. Moledo,True,,,,,,,2,3
+brasileirao_serie_a_2026,2026-09-12,27,Coritiba,Athletico,3,3,90,,injuryTime,,,,,,,,6,,

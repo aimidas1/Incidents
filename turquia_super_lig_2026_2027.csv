@@ -741,3 +741,24 @@ turquia_super_lig_2026_2027,2026-09-07,4,Çaykur Rizespor,Alanyaspor,0,1,83,,sub
 turquia_super_lig_2026_2027,2026-09-07,4,Çaykur Rizespor,Alanyaspor,0,1,87,,card,M. Elia,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-07,4,Çaykur Rizespor,Alanyaspor,0,1,90,,period,,,,,,,FT,,0,1
 turquia_super_lig_2026_2027,2026-09-07,4,Çaykur Rizespor,Alanyaspor,0,1,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,15,,card,O. Kökçü,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,21,,goal,E. Topçu,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,26,,card,K. Ouattara,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,27,,goal,L. Trossard,True,,,,,,,2,0
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,45,,period,,,,,,,HT,,2,0
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,51,,varDecision,L. Trossard,True,,,,,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,57,,substitution,,False,,,I. Diabaté,M. Cardoso,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,66,,card,S. Özcan,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,67,,substitution,,False,,,Y. Kırtay,N. Mujakić,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,67,,substitution,,False,,,M. Fettahoglu,M. Rodríguez,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,70,,substitution,,True,,,K. K. Yılmaz,O. Kökçü,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,71,,substitution,,True,,,I. Fakili,V. Černý,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,71,,substitution,,True,,,W. Ndidi,S. Özcan,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,73,,substitution,,False,,,F. Ebosele,O. Ovacıklı,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,74,,substitution,,False,,,G. Kerk,E. Tozlu,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,81,,goal,I. Fakili,True,,,,,,,3,0
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,83,,substitution,,True,,,E. Poku,L. Trossard,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,83,,substitution,,True,,,T. Bulut,A. Murillo,,,,
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,90,,period,,,,,,,FT,,3,0
+turquia_super_lig_2026_2027,2026-09-11,5,Beşiktaş JK,Erzurumspor FK,3,0,90,,injuryTime,,,,,,,,3,,

@@ -384,3 +384,26 @@ alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,,
 alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,1,goal,R. Y. Königsdörffer,False,,,,,,,0,5
 alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,,injuryTime,,,,,,,,2,,
 alemanha_bundesliga_2026_2027,2026-09-06,2,Hamburger SV,1. FSV Mainz 05,0,5,90,,card,S. Becker,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,21,,substitution,,False,,,E. Ebimbe,D. Ljubičić,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,25,,goal,R. Gosens,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,45,,period,,,,,,,HT,,0,1
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,45,,card,A. Kemlein,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,45,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,46,,goal,A. Aouchiche,False,,,,,,,0,2
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,46,,substitution,,True,,,M. Ljubičić,L. Burcu,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,46,,substitution,,True,,,A. Schäfer,A. Kemlein,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,46,,varDecision,A. Aouchiche,False,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,74,,card,M. Ljubičić,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,76,,substitution,,True,,,T. Skarke,E. Latte Lath,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,78,,card,F. Uduokhai,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,80,,substitution,,False,,,H. Hee-chan,J. Adamu,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,80,,substitution,,False,,,E. Džeko,K. Karaman,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,80,,substitution,,False,,,M. Wöber,R. Gosens,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,85,,substitution,,True,,,J. Haberer,M. Aebischer,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,,period,,,,,,,FT,,1,3
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,13,goal,M. Wöber,False,,,,,,,1,3
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,9,card,L. Karius,False,yellow,Time wasting,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,6,goal,T. Skarke,True,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,4,substitution,,False,,,J. Bachmann,A. Aouchiche,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,1,substitution,,True,,,R. Skov,W. Jeong,,,,
+alemanha_bundesliga_2026_2027,2026-09-11,3,1. FC Union Berlin,FC Schalke 04,1,3,90,,injuryTime,,,,,,,,12,,

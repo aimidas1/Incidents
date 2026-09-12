@@ -860,3 +860,23 @@ dinamarca_danish_superliga_2026_2027,2026-09-07,7,FC Midtjylland,FC Nordsjællan
 dinamarca_danish_superliga_2026_2027,2026-09-07,7,FC Midtjylland,FC Nordsjælland,2,2,86,,goal,M. Erlić,True,,,,,,,2,2
 dinamarca_danish_superliga_2026_2027,2026-09-07,7,FC Midtjylland,FC Nordsjælland,2,2,90,,period,,,,,,,FT,,2,2
 dinamarca_danish_superliga_2026_2027,2026-09-07,7,FC Midtjylland,FC Nordsjælland,2,2,90,,injuryTime,,,,,,,,6,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,7,,goal,F. Beijmo,True,,,,,,,1,0
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,37,,card,J. Tauriainen,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,45,,period,,,,,,,HT,,1,0
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,45,,injuryTime,,,,,,,,1,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,46,,substitution,,False,,,A. Justinussen,J. Tauriainen,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,46,,substitution,,True,,,M. Nasnas,Robert,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,49,,goal,V. B. Dadason,True,,,,,,,2,0
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,66,,substitution,,True,,,J. Suzuki,T. Maseko,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,73,,substitution,,False,,,A. Herdonsson,O. Kolskogen,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,73,,substitution,,False,,,J. Batigi,Y. Ouorou,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,73,,substitution,,True,,,G. Vianney,V. B. Dadason,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,73,,substitution,,True,,,M. Carrizo,M. Elyounoussi,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,79,,substitution,,True,,,H. Németh,B. Meling,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,81,,substitution,,False,,,I. Ceesay,A. Moro,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,84,,card,I. Ceesay,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,85,,card,Á. Markgráf,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,90,,period,,,,,,,FT,,2,0
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,90,2,card,J. Batigi,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,90,1,substitution,,False,,,J. Körkkö,M. Kupijbida,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-11,8,FC København,AC Horsens,2,0,90,,injuryTime,,,,,,,,3,,

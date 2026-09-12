@@ -553,3 +553,23 @@ france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,,period,,,,,,,
 france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,5,goal,J. Le Douaron,True,,,,,,,2,6
 france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,2,goal,C. Harder,False,,,,,,,1,6
 france_ligue_1_2026_2027,2026-09-06,3,Troyes,RC Strasbourg,2,6,90,,injuryTime,,,,,,,,6,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,33,,card,H. Abdelli,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,43,,card,I. Paixão,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,43,,card,P. Frankowski,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,46,,substitution,,True,,,M. Tamari,I. Soumaré,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,52,,goal,A. Thomasson,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,65,,substitution,,False,,,K. Abdallah,A. Gomes,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,68,,substitution,,True,,,B. Reynolds,P. Frankowski,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,78,,substitution,,False,,,N. Maupay,H. Abdelli,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,78,,substitution,,True,,,S. Szymański,L. Blas,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,78,,substitution,,True,,,B. Dia,E. Lepaul,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,85,,card,A. Harit,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,86,,substitution,,True,,,E. Mayenda,M. Tamari,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,88,,substitution,,False,,,D. Cornelius,N. Aguerd,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,88,,substitution,,False,,,T. Mmadi,A. Gouiri,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,88,,substitution,,False,,,F. P. Moumbagna,I. Paixão,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,90,,period,,,,,,,FT,,1,0
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,90,4,card,T. Weah,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-11,4,Stade Rennais,Olympique de Marseille,1,0,90,,injuryTime,,,,,,,,4,,

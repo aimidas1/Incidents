@@ -1228,3 +1228,66 @@ liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,79,,substitution,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,90,,period,,,,,,,FT,,1,1
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,90,,substitution,,True,,,I. Galván,D. Lainez,,,,
 liga_mx_apertura_2026,2026-09-06,7,Tigres UANL,Club Necaxa,1,1,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,22,,substitution,,True,,,A. Azuaje,C. Calderón,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,23,,card,A. Azuaje,True,yellow,Unallowed field entering,,,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,43,,card,J. Domínguez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,45,,goal,Juninho,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,46,,substitution,,False,,,D. Cambindo,J. Domínguez,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,53,,goal,A. Alvarado,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,61,,substitution,,False,,,R. Echeverría,J. Rodríguez,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,65,,substitution,,True,,,A. Medina,U. Antuna,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,70,,goal,R. Morales,True,,,,,,,2,1
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,71,,substitution,,False,,,S. Reyes,C. Mora,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,71,,substitution,,False,,,F. Beltrán,A. Alvarado,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,74,,substitution,,True,,,J. Rivas,R. Lopez,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,74,,substitution,,True,,,A. Carrasquilla,Juninho,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,74,,substitution,,True,,,I. Luna,V. Arteaga,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,87,,goal,P. Vite,True,,,,,,,3,1
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,90,,period,,,,,,,FT,,3,1
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,90,4,card,L. Herrera,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-11,7,Pumas UNAM,Club León,3,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,6,,card,C. Rivera,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,12,,card,E. Tercero,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,13,,goal,S. Rondón,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,15,,card,Kenedy,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,20,,goal,Kenedy,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,26,,card,M. Fernández,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,37,,substitution,,False,,,R. Pizarro,Kenedy,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,38,,goal,O. Idrissi,False,,,,,,,0,3
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,45,,period,,,,,,,HT,,0,3
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,45,,card,S. Rodríguez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,46,,substitution,,True,,,N. Carrera,C. Alfaro,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,46,,substitution,,True,,,L. Puente,E. Pizzuto,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,46,,substitution,,True,,,J. González,M. Fernández,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,65,,substitution,,True,,,J. Charcopa,J. Moxica,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,66,,substitution,,False,,,J. Vallejo,S. Rodríguez,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,66,,substitution,,False,,,A. Alcaraz,S. Rondón,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,77,,substitution,,False,,,M. Isais,O. Idrissi,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,78,,substitution,,True,,,A. Escobar,E. Tercero,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,78,,substitution,,False,,,U. Martínez,A. Bautista,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,82,,card,C. Sánchez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,90,,period,,,,,,,FT,,0,3
+liga_mx_apertura_2026,2026-09-12,8,Atlante FC,CF Pachuca,0,3,90,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,45,1,card,F. Monarrez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,45,1,card,R. Martínez,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,45,1,card,J. Vargas,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,46,,substitution,,False,,,Ó. Villa,F. Monarrez,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,46,,substitution,,False,,,I. Maestro Puch,O. M. Villegas,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,46,,substitution,,True,,,E. Rodriguez,M. Zaleta,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,46,,substitution,,True,,,K. Rosero,O. González,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,49,,card,C. Baltazar,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,62,,substitution,,False,,,M. Tomás,K. Velasco,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,68,,substitution,,True,,,J. Torres,M. Espíndola,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,75,,substitution,,True,,,D. Leyva,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,81,,substitution,,False,,,L. Camilo,B. Garnica,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,86,,substitution,,True,,,J. Valencia,P. Pedraza,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,89,,substitution,,False,,,J. Pachuca,C. Baltazar,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,90,,period,,,,,,,FT,,0,1
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,90,7,card,L. Jimenez,True,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,90,3,goal,M. Tomás,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-09-12,8,Club Necaxa,Club Puebla,0,1,90,,injuryTime,,,,,,,,6,,

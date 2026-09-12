@@ -885,3 +885,23 @@ belgica_pro_league_2026_2027,2026-09-06,5,SK Beveren,Oud-Heverlee Leuven,3,0,89,
 belgica_pro_league_2026_2027,2026-09-06,5,SK Beveren,Oud-Heverlee Leuven,3,0,90,,period,,,,,,,FT,,3,0
 belgica_pro_league_2026_2027,2026-09-06,5,SK Beveren,Oud-Heverlee Leuven,3,0,90,1,goal,M. Kaboré,True,,,,,,,3,0
 belgica_pro_league_2026_2027,2026-09-06,5,SK Beveren,Oud-Heverlee Leuven,3,0,90,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,5,,card,G. Biancone,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,37,,substitution,,False,,,A. Omobamidele,G. Biancone,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,40,,card,A. Omobamidele,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,43,,goal,T. Bentayeb,False,,,,,,,0,1
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,45,,period,,,,,,,HT,,0,1
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,45,,injuryTime,,,,,,,,1,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,60,,card,I. Koutsoupias,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,72,,substitution,,False,,,T. Aasgaard,O. Antman,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,72,,substitution,,False,,,R. Amane,I. Koutsoupias,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,72,,substitution,,False,,,T. Degreef,D. Sikan,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,74,,substitution,,True,,,B. Raman,M. Decherf,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,75,,substitution,,True,,,B. Antonio,S. Michez,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,80,,card,F. Hammar,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,81,,substitution,,True,,,C. J. V. Meirvenne,M. Eerdhuijzen,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,82,,card,L. Pétrot,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,82,,substitution,,True,,,M. Lohunanu-Mbasi,B. Boersma,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,88,,substitution,,True,,,B. Bafdili,D. Praet,,,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,90,,period,,,,,,,FT,,0,1
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,90,,injuryTime,,,,,,,,4,,
+belgica_pro_league_2026_2027,2026-09-11,6,KV Mechelen,RSC Anderlecht,0,1,90,,card,F. Vanderbiest,True,yellow,Argument,,,,,,

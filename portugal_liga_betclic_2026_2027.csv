@@ -902,3 +902,71 @@ portugal_liga_betclic_2026_2027,2026-09-10,3,CF Estrela Amadora,Sporting Braga,2
 portugal_liga_betclic_2026_2027,2026-09-10,3,CF Estrela Amadora,Sporting Braga,2,1,90,,period,,,,,,,FT,,2,1
 portugal_liga_betclic_2026_2027,2026-09-10,3,CF Estrela Amadora,Sporting Braga,2,1,90,,substitution,,True,,,K. Jansson,L. Zvonarek,,,,
 portugal_liga_betclic_2026_2027,2026-09-10,3,CF Estrela Amadora,Sporting Braga,2,1,90,,injuryTime,,,,,,,,4,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,28,,card,L. Doucet,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,46,,substitution,,False,,,G. Nogueira,L. Doucet,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,53,,goal,L. Gohi,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,60,,substitution,,False,,,Alan,B. Mukendi,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,67,,goal,G. Nogueira,False,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,68,,substitution,,True,,,N. Mortimer,L. Gohi,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,68,,substitution,,True,,,A. Mestanza,C. Kahraman,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,75,,card,A. Jakupović,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,76,,card,A. Clóvis,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,77,,substitution,,False,,,M. Nogueira,O. Camara,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,77,,substitution,,False,,,A. Ndoye,A. Jakupović,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,80,,card,A. Mestanza,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,84,,substitution,,False,,,T. Borevković,F. A. Sidibé,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,86,,card,L. Silva,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,88,,card,T. Borevković,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,,period,,,,,,,FT,,2,1
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,5,card,N. Mortimer,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,5,card,A. Ndoye,False,red,Violent conduct,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,4,substitution,,True,,,P. Barcelos,G. Costa,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,3,goal,M. Bouldini,True,,,,,,,2,1
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,,substitution,,True,,,M. Bouldini,A. Clóvis,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,,substitution,,True,,,T. Domingos,Robinho,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Académico Viseu FC,Vitória SC,2,1,90,,injuryTime,,,,,,,,4,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,18,,card,Y. Bojang,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,34,,goal,F. Chissumba,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,36,,goal,D. Camara,False,,,,,,,0,2
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,42,,goal,D. Camara,False,,,,,,,0,3
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,45,,period,,,,,,,HT,,0,3
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,46,,substitution,,True,,,M. Song,M. Jensen,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,46,,substitution,,True,,,M. Djaló,D. Júnior,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,48,,card,D. Camara,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,54,,substitution,,True,,,C. Labidi,Matheus Dias,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,65,,substitution,,False,,,Matheus França,Chiquinho,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,66,,substitution,,False,,,A. Vidigal,Figueiredo,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,69,,substitution,,True,,,A. Obando,S. Gavriel,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,72,,substitution,,False,,,V. Semedo,D. Camara,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,73,,card,D. Spencer,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,78,,substitution,,True,,,F. Nava,P. Messias Cardozo,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,79,,substitution,,False,,,C. Nuozzi,I. James,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,79,,substitution,,False,,,R. Lucas,D. Gui,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,81,,goal,M. Djaló,True,,,,,,,1,3
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,90,,period,,,,,,,FT,,1,3
+portugal_liga_betclic_2026_2027,2026-09-12,6,CD Nacional,FC Alverca,1,3,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,43,,goal,H. Araújo,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,45,,period,,,,,,,HT,,1,1
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,45,3,goal,A. Silva,False,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,45,,card,J. Kiwior,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,53,,card,Kaly,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,54,,card,A. Geraldes,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,60,,goal,J. Kiwior,False,,,,,,,1,2
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,62,,substitution,,False,,,S. Giménez,A. Silva,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,62,,substitution,,False,,,B. Sainz,W. Gomes,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,66,,goal,B. Sainz,False,,,,,,,1,3
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,68,,substitution,,True,,,E. F. Maurin,B. Pauwels,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,70,,substitution,,False,,,A. Varela,H. In-beom,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,74,,substitution,,True,,,Cassiano,H. Araújo,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,74,,substitution,,True,,,JP,M. S. E. Boukammiri,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,80,,substitution,,False,,,M. Fernandes,A. Costa,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,80,,substitution,,False,,,S. Fofana,G. Veiga,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,87,,card,David Sousa,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,88,,substitution,,True,,,A. Zouin,J. Rêgo,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,period,,,,,,,FT,,1,4
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,1,goal,S. Giménez,False,,,,,,,1,4
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,card,I. Mandić,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,injuryTime,,,,,,,,4,,

@@ -627,3 +627,63 @@ italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,89,,substitution,,F
 italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,89,,substitution,,False,,,M. Pongračić,L. Ranieri,,,,
 italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,90,,period,,,,,,,FT,,2,4
 italia_serie_a_2026_2027,2026-09-11,4,Venezia,Fiorentina,2,4,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,19,,goal,P. Mendy,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,41,,goal,G. Scamacca,True,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,45,,period,,,,,,,HT,,1,1
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,57,,substitution,,False,,,A. Fadera,J. Fazzini,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,61,,goal,D. Maldini,False,,,,,,,1,2
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,68,,substitution,,True,,,L. Bernasconi,S. Kolašinac,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,68,,substitution,,True,,,N. Krstović,G. Scamacca,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,68,,substitution,,False,,,Y. Sugawara,Z. Pedro,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,76,,substitution,,True,,,G. Raspadori,L. Samardžić,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,79,,substitution,,False,,,R. Kofler,D. Maldini,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,79,,substitution,,False,,,K. Carlos,P. Mendy,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,86,,substitution,,True,,,M. Pašalić,F. Kessié,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,90,,period,,,,,,,FT,,1,2
+italia_serie_a_2026_2027,2026-09-12,4,Atalanta,Cagliari,1,2,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,14,,goal,G. Kvernadze,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,16,,card,G. Cittadini,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,44,,varDecision,T. Baldanzi,True,,,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,45,,period,,,,,,,HT,,0,1
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,46,,substitution,,False,,,I. Monterisi,G. Cittadini,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,46,,substitution,,True,,,J. Messias,T. Baldanzi,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,48,,card,K. Ehizibue,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,50,,goal,J. Vásquez,True,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,60,,substitution,,True,,,S. El Shaarawy,K. Ehizibue,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,61,,card,G. Bracaglia,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,66,,card,J. Vásquez,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,70,,substitution,,True,,,Vitinha,L. Colombo,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,71,,substitution,,False,,,T. Bobček,A. Raimondo,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,71,,substitution,,False,,,L. Hasa,R. Schmid,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,72,,substitution,,False,,,S. Fini,F. Ghedjemis,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,79,,substitution,,True,,,Amorim,D. Sow,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,80,,substitution,,True,,,F. Meichtry,M. Ellertsson,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,86,,card,J. Vásquez,True,yellowRed,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,87,,substitution,,False,,,A. Zerbin,G. Kvernadze,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,90,,period,,,,,,,FT,,1,1
+italia_serie_a_2026_2027,2026-09-12,4,Genoa,Frosinone,1,1,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,10,,goal,M. Cancellieri,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,39,,goal,T. Noslin,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,45,,period,,,,,,,HT,,2,0
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,46,,substitution,,False,,,Y. Musah,L. Modrić,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,46,,substitution,,False,,,D. Moreira,P. Estupiñán,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,46,,substitution,,False,,,C. Pulišić,R. Loftus-Cheek,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,58,,substitution,,True,,,A. Pinamonti,T. Noslin,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,58,,substitution,,True,,,G. Isaksen,M. Cancellieri,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,59,,card,C. Pulišić,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,63,,card,R. Belahyane,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,64,,card,S. Pavlović,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,65,,goal,D. Moreira,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,67,,goal,D. Moreira,False,,,,,,,2,2
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,74,,substitution,,True,,,A. Guðmundsson,K. Taylor,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,77,,substitution,,False,,,O. Hutchinson,A. Cissè,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,78,,card,M. Zaccagni,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,84,,substitution,,True,,,M. Lazzari,R. F. Mussolini,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,84,,substitution,,True,,,D. Leite,J. Šutalo,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,85,,substitution,,False,,,F. Camarda,G. Ramos,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,86,,card,M. Gila,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,90,,period,,,,,,,FT,,2,2
+italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,90,,injuryTime,,,,,,,,4,,

@@ -471,3 +471,39 @@ grecia_stoiximan_super_league_2026_2027,2026-09-10,1,Panathinaikos FC,AE Kifisia
 grecia_stoiximan_super_league_2026_2027,2026-09-10,1,Panathinaikos FC,AE Kifisia,3,1,90,2,substitution,,True,,,G. M. Katris,G. Kyriakopoulos,,,,
 grecia_stoiximan_super_league_2026_2027,2026-09-10,1,Panathinaikos FC,AE Kifisia,3,1,90,2,substitution,,True,,,P. Biniaris,E. Camara,,,,
 grecia_stoiximan_super_league_2026_2027,2026-09-10,1,Panathinaikos FC,AE Kifisia,3,1,90,1,goal,E. Rastoder,True,,,,,,,3,1
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,13,,substitution,,False,,,K. Krizmanić,D. Nikolaou,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,45,,period,,,,,,,HT,,0,0
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,45,,injuryTime,,,,,,,,3,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,60,,card,L. Pirola,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,66,,goal,K. Kodro,False,,,,,,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,67,,substitution,,True,,,R. Yaremchuk,A. González,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,67,,substitution,,True,,,S. Hezze,R. Freuler,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,69,,substitution,,False,,,G. Kanellopoulos,A. Androutsos,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,70,,substitution,,False,,,T. Chatzigiovanis,K. Kodro,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,75,,substitution,,True,,,G. Sá,G. Puerta,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,75,,substitution,,True,,,L. Bailey,K. Fortounis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,77,,substitution,,False,,,Z. Karachalios,A. Bouchalakis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,78,,substitution,,False,,,G. Theodosoulakis,T. Fountas,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,83,,substitution,,True,,,G. Martins,Chiquinho,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,90,,period,,,,,,,FT,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,Olympiacos FC,OFI Crete,0,1,90,,injuryTime,,,,,,,,6,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,10,,card,K. Kaiboue,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,19,,card,V. Meer,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,24,,goal,S. Tsiloulis,False,,,,,,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,31,,card,S. Tsiloulis,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,38,,card,J. Perea,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,45,,period,,,,,,,HT,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,46,,substitution,,True,,,I. López,V. Meer,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,46,,substitution,,True,,,N. Radoja,K. Kaiboue,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,56,,substitution,,False,,,S. Pnevmonidis,S. Tsiloulis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,57,,substitution,,True,,,P. Marques,Nanú,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,57,,substitution,,False,,,P. Tsantilas,J. Perea,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,60,,card,S. Pnevmonidis,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,71,,substitution,,False,,,A. Karamanis,M. Mountes,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,73,,goal,P. Marques,True,,,,,,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,77,,card,I. López,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,82,,substitution,,False,,,Serginho,L. Lyratzis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,82,,substitution,,True,,,M. Krainz,V. Sourlis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,85,,card,D. Stavropoulos,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,86,,substitution,,True,,,K. Kushta,E. Koljić,,,,
+grecia_stoiximan_super_league_2026_2027,2026-09-12,4,POT Iraklis,APS Atromitos Athinon,1,1,90,,period,,,,,,,FT,,1,1

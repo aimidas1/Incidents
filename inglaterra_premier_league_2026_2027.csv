@@ -647,7 +647,6 @@ inglaterra_premier_league_2026_2027,2026-09-12,4,Bournemouth,Brentford,2,2,89,,c
 inglaterra_premier_league_2026_2027,2026-09-12,4,Bournemouth,Brentford,2,2,90,,period,,,,,,,FT,,2,2
 inglaterra_premier_league_2026_2027,2026-09-12,4,Bournemouth,Brentford,2,2,90,1,substitution,,True,,,Á. Rodriguez,Evanilson,,,,
 inglaterra_premier_league_2026_2027,2026-09-12,4,Bournemouth,Brentford,2,2,90,,injuryTime,,,,,,,,5,,
-inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,7,,goal,M. Rogers,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,17,,card,O. McBurnie,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,28,,goal,M. Belloumi,False,,,,,,,1,1
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,34,,goal,M. Belloumi,False,,,,,,,1,2
@@ -661,6 +660,7 @@ inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,60,,subst
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,60,,substitution,,False,,,M. Cho,M. Belloumi,,,,
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,66,,goal,J. Pedro,True,,,,,,,2,2
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,69,,substitution,,False,,,T. Iroegbunam,M. Crooks,,,,
+inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,7,,goal,M. Rogers,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,70,,substitution,,True,,,V. Barco,R. Lavia,,,,
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,78,,substitution,,True,,,D. Welbeck,M. Gusto,,,,
 inglaterra_premier_league_2026_2027,2026-09-12,4,Chelsea,Hull City,2,2,80,,card,V. Barco,True,yellow,Foul,,,,,,
@@ -748,3 +748,37 @@ inglaterra_premier_league_2026_2027,2026-09-12,4,Tottenham Hotspur,Everton,0,0,8
 inglaterra_premier_league_2026_2027,2026-09-12,4,Tottenham Hotspur,Everton,0,0,87,,card,R. D. Zerbi,True,yellow,Argument,,,,,,
 inglaterra_premier_league_2026_2027,2026-09-12,4,Tottenham Hotspur,Everton,0,0,90,,period,,,,,,,FT,,0,0
 inglaterra_premier_league_2026_2027,2026-09-12,4,Tottenham Hotspur,Everton,0,0,90,,injuryTime,,,,,,,,3,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,35,,goal,C. Kostoulas,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,45,,period,,,,,,,HT,,0,1
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,45,,injuryTime,,,,,,,,1,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,51,,goal,M. Yalcouyé,False,,,,,,,0,2
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,53,,card,T. Awoniyi,True,red,Violent conduct,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,60,,substitution,,True,,,S. Cherif,M. Ephron,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,65,,substitution,,False,,,C. Andrés,M. Yalcouyé,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,70,,goal,P. Groß,False,,,,,,,0,3
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,73,,substitution,,True,,,C. Yirenkyi,F. Onyeka,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,73,,substitution,,True,,,B. Thomas-Asante,J. Rudoni,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,78,,substitution,,False,,,P. Struijk,L. Vušković,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,78,,substitution,,False,,,I. Osman,O. Boscagli,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,83,,goal,L. Dunk,False,,,,,,,0,4
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,84,,substitution,,False,,,Costinha,D. Gómez,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,84,,substitution,,False,,,M. O'Riley,C. Kostoulas,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,84,,substitution,,True,,,V. Torp,M. Grimes,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,90,,period,,,,,,,FT,,0,5
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,90,4,goal,Y. Ayari,False,,,,,,,0,5
+inglaterra_premier_league_2026_2027,2026-09-13,4,Coventry City,Brighton & Hove Albion,0,5,90,,injuryTime,,,,,,,,6,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,23,,card,P. Foden,False,red,Violent conduct,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,45,,period,,,,,,,HT,,0,0
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,45,,injuryTime,,,,,,,,2,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,45,,card,E. Maresca,False,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,46,,substitution,,False,,,I. Ndiaye,R. Cherki,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,60,,goal,E. Haaland,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,60,,varDecision,E. Haaland,False,,,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,67,,substitution,,True,,,B. Šeško,Y. Tielemans,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,79,,card,J. Gvardiol,False,yellow,Time wasting,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,80,,card,E. Fernández,False,yellow,Simulation,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,81,,card,H. Maguire,True,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,82,,substitution,,False,,,N. O’Reilly,E. Fernández,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,83,,substitution,,True,,,J. Zirkzee,M. Rashford,,,,
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,90,,period,,,,,,,FT,,0,1
+inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,90,,injuryTime,,,,,,,,5,,

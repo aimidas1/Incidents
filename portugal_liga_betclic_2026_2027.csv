@@ -970,3 +970,75 @@ portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,period,,,
 portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,1,goal,S. Giménez,False,,,,,,,1,4
 portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,card,I. Mandić,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,injuryTime,,,,,,,,4,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,7,,goal,H. Hernández,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,12,,card,E. Barrenechea,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,26,,card,H. Hernández,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,29,,goal,V. Pavlidis,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,45,,period,,,,,,,HT,,1,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,56,,substitution,,False,,,M. S. Kaba,H. Hernández,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,56,,substitution,,False,,,S. García,A. Moreira,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,58,,substitution,,True,,,F. Aursnes,L. Barreiro,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,58,,substitution,,True,,,J. Palhinha,E. Barrenechea,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,63,,card,J. Palhinha,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,70,,card,Lucão,False,yellow,Time wasting,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,72,,substitution,,True,,,D. Lukebakio,R. Silva,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,72,,substitution,,True,,,C. Echeverri,A. Schjelderup,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,81,,substitution,,True,,,J. Durán,D. Banjaqui,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,81,,substitution,,False,,,J. Silva,D. Moreira,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,81,,substitution,,False,,,T. Touré,G. Martins,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,87,,goal,V. Pavlidis,True,,,,,,,2,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,88,,substitution,,False,,,A. Espigares,M. Elimbi Gilbert,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,90,,period,,,,,,,FT,,3,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,90,5,card,R. Esgaio,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,90,3,goal,G. Prestianni,True,,,,,,,3,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,90,,injuryTime,,,,,,,,6,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,22,,goal,G. Paciência,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,23,,substitution,,True,,,M. Flores,P. Gozálbez,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,33,,card,E. Fernandes,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,36,,goal,J. Tavares,False,,,,,,,0,2
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,45,,period,,,,,,,HT,,0,2
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,45,,injuryTime,,,,,,,,1,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,46,,goal,I. Barbero,True,,,,,,,1,2
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,54,,card,N. Djouahra,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,62,,substitution,,False,,,D. Borges,J. Tavares,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,64,,card,V. Seabra,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,65,,card,E. v. Ee,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,65,,card,T. Ribeiro,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,68,,substitution,,True,,,G. Rukavina,N. Djouahra,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,68,,substitution,,True,,,P. S. Carvalho,E. v. Ee,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,72,,card,P. Ferreira,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,73,,substitution,,False,,,L. Fernando,G. Paciência,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,73,,substitution,,False,,,W. Torrao,Brenner,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,73,,substitution,,False,,,H. Silva,T. Ribeiro,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,81,,substitution,,True,,,F. Mayulu,O. Lebedenko,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,81,,substitution,,True,,,B. Mansilla,A. Trezza,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,82,,substitution,,False,,,Sorriso,V. Lopes,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,84,,card,Sorriso,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,85,,card,Sorriso,False,yellowRed,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,87,,card,G. Rukavina,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,90,,period,,,,,,,FT,,1,2
+portugal_liga_betclic_2026_2027,2026-09-13,6,FC Arouca,Santa Clara,1,2,90,,injuryTime,,,,,,,,6,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,27,,varDecision,F. Gonçalves,False,,,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,45,1,card,G. Dias,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,46,,substitution,,True,,,R. Beney,G. Dias,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,60,,substitution,,True,,,U. Abubakar,G. Koutsias,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,64,,substitution,,False,,,F. Ioannidis,F. Gonçalves,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,64,,substitution,,False,,,R. Zalazar,L. Guilherme,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,73,,card,G. Catamo,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,75,,substitution,,False,,,N. Irankunda,G. Catamo,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,75,,substitution,,False,,,S. Andersen,I. Doumbia,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,78,,card,Sorriso,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,80,,card,C. Carvalhal,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,81,,goal,L. J. Suárez ,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,82,,substitution,,True,,,P. Salas,M. Peña,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,83,,substitution,,True,,,Ó. Aranda,Sorriso,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,86,,card,L. J. Suárez ,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,87,,card,R. Beney,True,red,Violent conduct,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,,period,,,,,,,FT,,1,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,7,card,I. Fresneda,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,1,goal,G. Inácio,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,,card,N. Irankunda,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,,injuryTime,,,,,,,,5,,

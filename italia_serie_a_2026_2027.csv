@@ -687,3 +687,63 @@ italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,85,,substitution,,False
 italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,86,,card,M. Gila,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,90,,period,,,,,,,FT,,2,2
 italia_serie_a_2026_2027,2026-09-12,4,Lazio,AC Milan,2,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,3,,goal,L. Coulibaly,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,10,,goal,T. Gabriel,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,20,,goal,R. Mangas,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,21,,goal,L. Coulibaly,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,38,,card,N. Konan,True,yellow,Persistent fouling,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,45,,period,,,,,,,HT,,3,1
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,46,,substitution,,True,,,S. Pierotti,N. Konan,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,46,,substitution,,False,,,A. Bakoune,R. Mangas,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,64,,substitution,,False,,,E. Zeballos,A. Colpani,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,64,,substitution,,False,,,P. Cutrone,J. Robinson,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,66,,substitution,,True,,,O. Ngom,I. Ilić,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,74,,substitution,,True,,,P. Esteban,N. Štulić,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,74,,substitution,,True,,,A. Fatah,J. Monteiro,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,75,,substitution,,False,,,O. Forson,G. Varela,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,84,,substitution,,False,,,M. Mout,E. Akinsanmiro,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,85,,substitution,,True,,,M. Kaba,Y. Maleh,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,89,,goal,E. Zeballos,False,,,,,,,3,2
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,90,,period,,,,,,,FT,,3,2
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,90,,card,D. Veiga,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Lecce,Monza,3,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,8,,varDecision,A. Theate,False,,,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,31,,card,M. Amondarain,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,46,,substitution,,True,,,C. Favasuli,M. Politano,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,46,,substitution,,True,,,N. Lang,A. Vergara,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,58,,substitution,,False,,,J. Odgaard,R. Piccoli,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,58,,substitution,,False,,,M. Libra,T. Pobega,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,66,,goal,S. Lobotka,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,66,,substitution,,False,,,N. Moro,M. Amondarain,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,75,,substitution,,True,,,L. Lucca,R. Højlund,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,82,,substitution,,False,,,J. Enem,F. Bernardeschi,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,82,,substitution,,False,,,S. Mbangula,N. Cambiaghi,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,88,,substitution,,True,,,M. Olivera,K. De Bruyne,,,,
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,90,,period,,,,,,,FT,,1,0
+italia_serie_a_2026_2027,2026-09-13,4,SSC Napoli,Bologna,1,0,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,20,,card,J. Lucumí,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,46,,substitution,,False,,,L. Kelly,J. Lucumí,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,48,,card,L. Lipani,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,55,,substitution,,True,,,D. Bakola,L. Lipani,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,60,,substitution,,False,,,N. Woltemade,N. González,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,60,,substitution,,False,,,E. Zhegrova,F. Conceição,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,65,,goal,S. Esposito,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,70,,substitution,,True,,,B. Domínguez,S. Esposito,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,71,,substitution,,False,,,P. Sarr,T. Koopmeiners,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,71,,substitution,,True,,,V. Adžić,K. Thorstvedt,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,71,,substitution,,True,,,K. Bowie,D. Berardi,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,76,,card,D. Luiz,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,81,,substitution,,True,,,D. Ćaleta-Car,J. Idzes,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,82,,goal,E. Zhegrova,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,87,,substitution,,False,,,J. Oboavwoduo,K. Alajbegović,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,89,,goal,K. Bowie,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,90,,period,,,,,,,FT,,3,2
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,90,4,goal,V. Adžić,True,,,,,,,3,2
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,90,3,card,F. Leysen,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,90,1,goal,E. Zhegrova,False,,,,,,,2,2
+italia_serie_a_2026_2027,2026-09-13,4,Sassuolo,Juventus,3,2,90,,injuryTime,,,,,,,,4,,

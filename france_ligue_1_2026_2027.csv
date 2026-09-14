@@ -650,3 +650,62 @@ france_ligue_1_2026_2027,2026-09-12,4,RC Strasbourg,AS Monaco,1,1,90,,period,,,,
 france_ligue_1_2026_2027,2026-09-12,4,RC Strasbourg,AS Monaco,1,1,90,2,substitution,,True,,,K. Coulibaly,G. Yassine,,,,
 france_ligue_1_2026_2027,2026-09-12,4,RC Strasbourg,AS Monaco,1,1,90,,card,A. Golovin,False,yellow,Argument,,,,,,
 france_ligue_1_2026_2027,2026-09-12,4,RC Strasbourg,AS Monaco,1,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,15,,card,N. Boissé,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,20,,card,M. Cuisance,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,28,,card,J. Vercruysse,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,32,,goal,A. Bourabaa,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,38,,card,A. Bulatović,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,44,,goal,L. Calodat,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,45,,period,,,,,,,HT,,2,1
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,45,2,goal,A.Sima,False,,,,,,,2,1
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,46,,substitution,,False,,,M. Mesloub,M. Skóraś,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,46,,substitution,,False,,,F. Ivanović,O. Édouard,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,46,,substitution,,True,,,D. Sidibé,N. Boissé,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,46,,substitution,,False,,,A. Haidara,M. Cuisance,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,51,,goal,F. Ivanović,False,,,,,,,2,2
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,53,,card,F. Thauvin,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,55,,substitution,,False,,,J. Todibo,J. Gradit,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,65,,substitution,,True,,,H. Diallo,D. Gueye,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,65,,substitution,,True,,,D. Traore,J. Vercruysse,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,65,,substitution,,True,,,A. Lauray,L. Bretelle,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,76,,substitution,,False,,,T. Hazard,A.Sima,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,77,,substitution,,True,,,R. Torrente,S. Yohou,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,78,,varDecision,T. Hazard,False,,,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,90,,period,,,,,,,FT,,2,2
+france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,3,,varDecision,H. Haraldsson,True,,,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,18,,goal,T. Santos,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,45,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,46,,substitution,,False,,,N. Donkor,L. Maronnier,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,61,,substitution,,True,,,M. Kjaergaard,H. Haraldsson,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,71,,substitution,,True,,,G. Perrin,B. Önal,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,71,,substitution,,True,,,O. Giroud,A. Ueda,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,71,,substitution,,True,,,E. Mbappé,D. Bakwa,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,75,,substitution,,False,,,I. Gomis,M. Diop,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,75,,substitution,,False,,,T. Nkada,K. Diawara,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,80,,substitution,,False,,,Y. Koné,A. Mille,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,80,,substitution,,False,,,R. Ripart,H. Picard,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,82,,card,O. Giroud,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,86,,substitution,,True,,,B. André,N. Mukau,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,90,,period,,,,,,,FT,,2,0
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,90,3,goal,E. Mbappé,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,5,,goal,F. Torres,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,30,,card,K. Doumbia,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,39,,substitution,,False,,,F. Ruiz,A. Hakimi,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,45,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,66,,substitution,,True,,,J. Nonge,G. Versini,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,66,,substitution,,False,,,D. Doué,K. Kvaratskhelia,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,66,,substitution,,False,,,M. Akliouche,O. Dembélé,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,77,,substitution,,False,,,M. Godts,F. Torres,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,77,,substitution,,False,,,D. Fernández,W. Zaïre-Emery,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,78,,substitution,,True,,,D. N'Guessan,K. Doumbia,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,78,,substitution,,True,,,L. Tousart,J. Chotard,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,84,,card,Vitinha,False,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,87,,card,D. Fernández,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,88,,substitution,,True,,,J. Bourgault,B. Locko,,,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,90,,period,,,,,,,FT,,0,1
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,90,,injuryTime,,,,,,,,3,,

@@ -1326,3 +1326,22 @@ polonia_ekstraklasa_2026_2027,2026-09-13,8,Wisła Płock,KS Cracovia,3,1,82,,sub
 polonia_ekstraklasa_2026_2027,2026-09-13,8,Wisła Płock,KS Cracovia,3,1,90,,period,,,,,,,FT,,3,1
 polonia_ekstraklasa_2026_2027,2026-09-13,8,Wisła Płock,KS Cracovia,3,1,90,1,card,D. Piła,False,yellow,Argument,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-13,8,Wisła Płock,KS Cracovia,3,1,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,13,,card,J. Lewicki,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,45,,period,,,,,,,HT,,0,1
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,45,1,goal,H. Vallejo,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,45,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,46,,card,J. Czerwiński,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,46,,substitution,,True,,,I. Camará,R. Wolski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,46,,substitution,,False,,,F. Borowski,J. Lewicki,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,55,,card,F. Koperski,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,59,,substitution,,True,,,C. Nunnely,A. Tapsoba,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,67,,goal,J. Łabojko,False,,,,,,,0,2
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,70,,substitution,,False,,,S. Mucha,I. Lima,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,70,,substitution,,False,,,O. Lesniak,J. Łabojko,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,72,,substitution,,True,,,F. Gouré,C. Donis,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,83,,substitution,,True,,,Manu,R. Lumungo,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,83,,substitution,,True,,,K. Karasek,Luquinhas,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,84,,substitution,,False,,,O. Maziarz,Q. Boisgard,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,89,,substitution,,False,,,A. Katsantonis,S. N. Ndimba,,,,
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,90,,period,,,,,,,FT,,0,2
+polonia_ekstraklasa_2026_2027,2026-09-14,8,Radomiak Radom,Piast Gliwice,0,2,90,,injuryTime,,,,,,,,4,,

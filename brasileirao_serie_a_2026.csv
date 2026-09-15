@@ -5463,10 +5463,10 @@ brasileirao_serie_a_2026,2026-09-13,27,Flamengo,Corinthians,2,1,90,7,card,Jorgin
 brasileirao_serie_a_2026,2026-09-13,27,Flamengo,Corinthians,2,1,90,5,card,R. Garro,False,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-09-13,27,Flamengo,Corinthians,2,1,90,2,card,E. Pulgar,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-13,27,Flamengo,Corinthians,2,1,90,,injuryTime,,,,,,,,7,,
-brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,3,,goal,Renê,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,12,,goal,Renê,False,,,,,,,0,2
 brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,18,,card,E. Brítez,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,29,,card,Alesson,True,yellow,Persistent fouling,,,,,,
+brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,3,,goal,Renê,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,42,,substitution,,True,,,E. Carioca,G. Silva,,,,
 brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,45,,period,,,,,,,HT,,0,2
 brasileirao_serie_a_2026,2026-09-13,27,Mirassol,Vitória,2,2,45,,card,Caique,False,yellow,Foul,,,,,,
@@ -5513,3 +5513,23 @@ brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,,period,,,,,,,FT,,
 brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,4,card,F. Bruno,False,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,,goal,M. Pereira,False,,,,,,,2,1
 brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,8,,card,N. Acevedo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,20,,goal,J. Lucas,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,46,,substitution,,False,,,Zé Welison,L. Picco,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,46,,substitution,,False,,,G. Taliari,D. Tchamba,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,46,,substitution,,False,,,V. Bueno,Zé Ricardo,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,50,,substitution,,False,,,A. Manga,Jajá,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,70,,card,M. Felipe,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,72,,substitution,,True,,,R. Gómez,M. Victor,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,79,,substitution,,True,,,C. Alexandre,N. Acevedo,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,79,,substitution,,True,,,E. Ribeiro,J. Lucas,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,79,,substitution,,True,,,Ademir,E. Pulga,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,84,,substitution,,False,,,G. Poveda,A. Galeano,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,7,card,C. Olivera,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,7,substitution,,True,,,Everaldo,A. Véliz,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,6,goal,V. Bueno,False,,,,,,,2,1
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,1,goal,L. Juba,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,,injuryTime,,,,,,,,7,,

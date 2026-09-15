@@ -846,7 +846,6 @@ turquia_super_lig_2026_2027,2026-09-12,5,Samsunspor,Çorum FK,1,5,89,,substituti
 turquia_super_lig_2026_2027,2026-09-12,5,Samsunspor,Çorum FK,1,5,90,,period,,,,,,,FT,,1,5
 turquia_super_lig_2026_2027,2026-09-12,5,Samsunspor,Çorum FK,1,5,90,,card,A. Borza,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-12,5,Samsunspor,Çorum FK,1,5,90,,injuryTime,,,,,,,,2,,
-turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,6,,card,C. Operi,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,45,,period,,,,,,,HT,,1,0
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,45,1,goal,E. Bayram,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,45,,injuryTime,,,,,,,,1,,
@@ -856,6 +855,7 @@ turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir F
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,52,,goal,G. Orban,True,,,,,,,2,0
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,54,,card,U. Güneş,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,56,,goal,G. Orban,True,,,,,,,3,0
+turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,6,,card,C. Operi,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,60,,card,E. Krasniqi,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,63,,substitution,,True,,,A. Cissé,M. Khalil,,,,
 turquia_super_lig_2026_2027,2026-09-13,5,Amed Sportif Faaliyetler,Başakşehir FK,5,0,64,,substitution,,False,,,I. Brnić,A. Fayzullaev,,,,
@@ -912,3 +912,23 @@ turquia_super_lig_2026_2027,2026-09-13,5,Gençlerbirliği,Kasımpaşa,1,2,90,5,c
 turquia_super_lig_2026_2027,2026-09-13,5,Gençlerbirliği,Kasımpaşa,1,2,90,4,goal,G. Yalçın,False,,,,,,,1,2
 turquia_super_lig_2026_2027,2026-09-13,5,Gençlerbirliği,Kasımpaşa,1,2,90,,substitution,,False,,,A. Arous,M. Ilie,,,,
 turquia_super_lig_2026_2027,2026-09-13,5,Gençlerbirliği,Kasımpaşa,1,2,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,4,,card,U. Meleke,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,45,,period,,,,,,,HT,,0,0
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,60,,substitution,,True,,,S. Dursun,H. Dervişoğlu,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,61,,substitution,,True,,,D. Camara,A. Maxim,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,64,,substitution,,False,,,O. Aydın,K. Aktürkoğlu,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,64,,substitution,,False,,,V. Muriqi,R. Lukaku,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,64,,substitution,,False,,,İ. C. Kahveci,M. Guendouzi,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,69,,substitution,,True,,,K. Gassama,D. Sorescu,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,77,,substitution,,False,,,N. Semedo,M. Müldür,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,82,,substitution,,True,,,A. Sylla,K. Çalhanoğlu,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,82,,substitution,,True,,,S. Hansen,K. Kozłowski,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,83,,card,V. Muriqi,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,83,,card,A. Kızıldağ,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,83,,card,İ. C. Kahveci,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,84,,card,O. Aydın,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,84,,card,M. Abena,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,87,,substitution,,False,,,B. Elmaz,İ. Yüksek,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,90,,period,,,,,,,FT,,0,0
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,90,2,card,S. Hansen,True,yellow,Time wasting,,,,,,
+turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,90,,injuryTime,,,,,,,,3,,

@@ -1204,7 +1204,6 @@ arabia_saudita_pro_league_2026_2027,2026-09-13,7,Al-Riyadh,Al-Kholood,2,0,88,,ca
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Al-Riyadh,Al-Kholood,2,0,89,,goal,R. Abascal,True,,,,,,,2,0
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Al-Riyadh,Al-Kholood,2,0,90,,period,,,,,,,FT,,2,0
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Al-Riyadh,Al-Kholood,2,0,90,,injuryTime,,,,,,,,8,,
-arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,8,,card,A. Al-Malki,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,24,,card,J. Gaari,False,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,39,,card,N. Fekir,False,yellow,Argument,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,45,,period,,,,,,,HT,,0,0
@@ -1215,6 +1214,7 @@ arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,67,,substituti
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,71,,substitution,,True,,,M. Hameran,H. Alsebyani,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,74,,substitution,,False,,,S. Aljohani,K. A. Shamrani,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,74,,substitution,,False,,,N. Al-Daajani,N. Fekir,,,,
+arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,8,,card,A. Al-Malki,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,81,,substitution,,True,,,M. F. Al-Nemer,A. Boulbina,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,87,,substitution,,True,,,H. Al-Qahtani,I. Gueye,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,89,,card,A. Al-Faraj,True,yellow,Argument,,,,,,
@@ -1223,7 +1223,6 @@ arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,90,,period,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,90,4,card,A. Hindi,False,yellow,Argument,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,90,3,card,M. F. Al-Nemer,True,yellow,Argument,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Diriyah,Abha,0,0,90,,injuryTime,,,,,,,,4,,
-arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,6,,card,K. Al-Absi,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,16,,goal,A. Lacazette,True,,,,,,,1,0
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,39,,card,A. Kone,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,41,,goal,M. Batna,False,,,,,,,1,1
@@ -1233,6 +1232,7 @@ arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,45,,injury
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,45,,card,C. Galtier,True,red,Argument,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,45,,card,C. Galtier,True,yellow,Argument,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,51,,goal,A. Kone,True,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,6,,card,K. Al-Absi,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,64,,goal,W. Kanga,False,,,,,,,2,2
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,65,,substitution,,True,,,G. Masouras,K. Al-Absi,,,,
 arabia_saudita_pro_league_2026_2027,2026-09-13,7,Neom SC,Al-Fateh,4,2,70,,goal,A. Lacazette,True,,,,,,,3,2

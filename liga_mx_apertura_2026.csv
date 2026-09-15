@@ -1431,3 +1431,22 @@ liga_mx_apertura_2026,2026-09-14,8,Santos Laguna,FC Juárez,2,1,88,,card,J. Muri
 liga_mx_apertura_2026,2026-09-14,8,Santos Laguna,FC Juárez,2,1,90,,period,,,,,,,FT,,2,1
 liga_mx_apertura_2026,2026-09-14,8,Santos Laguna,FC Juárez,2,1,90,1,card,D. Garcia,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-14,8,Santos Laguna,FC Juárez,2,1,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,45,,injuryTime,,,,,,,,1,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,46,,substitution,,False,,,L. Flores,S. P. Bouquet,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,49,,goal,D. Cambindo,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,49,,card,J. Lara,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,67,,substitution,,True,,,B. Colula,I. Moreno,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,68,,substitution,,False,,,R. Nájera,D. Rodriguez,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,68,,substitution,,False,,,B. Galdames,R. Torres,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,68,,substitution,,True,,,F. Beltrán,J. Rodríguez,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,68,,substitution,,True,,,A. Alvarado,J. Cortizo,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,71,,goal,D. Cambindo,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,77,,substitution,,False,,,R. Meraz,S. Salles-Lamonge,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,77,,substitution,,False,,,F. Mora,R. Llorente,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,80,,substitution,,True,,,I. Díaz,D. Cambindo,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,81,,card,R. Meraz,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,88,,substitution,,True,,,E. Guerra,D. Arcila,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,90,,period,,,,,,,FT,,2,0
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,90,1,card,B. Galindo,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,90,,injuryTime,,,,,,,,5,,

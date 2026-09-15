@@ -530,7 +530,6 @@ alemanha_bundesliga_2026_2027,2026-09-12,3,TSG Hoffenheim,VfB Stuttgart,2,1,82,,
 alemanha_bundesliga_2026_2027,2026-09-12,3,TSG Hoffenheim,VfB Stuttgart,2,1,82,,substitution,,True,,,A. Kramarić,A. Hložek,,,,
 alemanha_bundesliga_2026_2027,2026-09-12,3,TSG Hoffenheim,VfB Stuttgart,2,1,90,,period,,,,,,,FT,,2,1
 alemanha_bundesliga_2026_2027,2026-09-12,3,TSG Hoffenheim,VfB Stuttgart,2,1,90,,injuryTime,,,,,,,,4,,
-alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,6,,card,N. Capaldo,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,17,,goal,T. Gomis,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,28,,goal,A. Nusa,True,,,,,,,2,0
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,35,,substitution,,True,,,C. Nkunku,A. Ouédraogo,,,,
@@ -538,6 +537,7 @@ alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,45,,perio
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,45,,injuryTime,,,,,,,,2,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,46,,substitution,,False,,,T. Moffi,Y. Poulsen,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,48,,card,C. Lukeba,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,6,,card,N. Capaldo,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,71,,card,S. Nandja,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,72,,goal,W. Orbán,True,,,,,,,3,0
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,73,,substitution,,False,,,W. Omari,S. Nandja,,,,
@@ -552,7 +552,6 @@ alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,78,,subst
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,89,,substitution,,False,,,B. Jatta,Z. E. Ouahdi,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,90,,period,,,,,,,FT,,5,0
 alemanha_bundesliga_2026_2027,2026-09-13,3,RB Leipzig,Hamburger SV,5,0,90,,injuryTime,,,,,,,,3,,
-alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,7,,card,F. Onyeka,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,11,,substitution,,True,,,N. Darvich,F. Onyeka,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,26,,goal,L. Karl,False,,,,,,,0,1
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,45,,period,,,,,,,HT,,0,1
@@ -564,6 +563,7 @@ alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,65,,substitution,,False,,,L. Díaz,I. Saibari,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,65,,substitution,,False,,,J. Kimmich,T. Bischof,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,65,,substitution,,False,,,A. Davies,N. Brown,,,,
+alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,7,,card,F. Onyeka,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,72,,goal,H. Kane,False,,,,,,,1,2
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,73,,substitution,,True,,,N. Futkeu,D. Mokwa,,,,
 alemanha_bundesliga_2026_2027,2026-09-13,3,SV 07 Elversberg,FC Bayern München,1,2,73,,substitution,,True,,,A. Condé,F. Keidel,,,,

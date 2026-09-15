@@ -674,8 +674,8 @@ france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,77,,substitution,,True
 france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,78,,varDecision,T. Hazard,False,,,,,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,90,,period,,,,,,,FT,,2,2
 france_ligue_1_2026_2027,2026-09-13,4,Le Mans,RC Lens,2,2,90,,injuryTime,,,,,,,,5,,
-france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,3,,varDecision,H. Haraldsson,True,,,,,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,18,,goal,T. Santos,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,3,,varDecision,H. Haraldsson,True,,,,,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,45,,period,,,,,,,HT,,1,0
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,45,,injuryTime,,,,,,,,4,,
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,46,,substitution,,False,,,N. Donkor,L. Maronnier,,,,
@@ -692,11 +692,11 @@ france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,86,,substitution,,True,,,
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,90,,period,,,,,,,FT,,2,0
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,90,3,goal,E. Mbappé,True,,,,,,,2,0
 france_ligue_1_2026_2027,2026-09-13,4,Lille,Troyes,2,0,90,,injuryTime,,,,,,,,4,,
-france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,5,,goal,F. Torres,False,,,,,,,0,1
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,30,,card,K. Doumbia,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,39,,substitution,,False,,,F. Ruiz,A. Hakimi,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,45,,period,,,,,,,HT,,0,1
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,45,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,5,,goal,F. Torres,False,,,,,,,0,1
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,66,,substitution,,True,,,J. Nonge,G. Versini,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,66,,substitution,,False,,,D. Doué,K. Kvaratskhelia,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,66,,substitution,,False,,,M. Akliouche,O. Dembélé,,,,

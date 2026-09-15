@@ -782,3 +782,26 @@ inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester Ci
 inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,83,,substitution,,True,,,J. Zirkzee,M. Rashford,,,,
 inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,90,,period,,,,,,,FT,,0,1
 inglaterra_premier_league_2026_2027,2026-09-13,4,Manchester United,Manchester City,0,1,90,,injuryTime,,,,,,,,5,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,19,,substitution,,False,,,S. Steur,N. González,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,32,,goal,L. Miley,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,34,,goal,J. Bogle,True,,,,,,,2,0
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,44,,card,D. Calvert-Lewin,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,45,,period,,,,,,,HT,,3,0
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,45,1,goal,D. Calvert-Lewin,True,,,,,,,3,0
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,45,,injuryTime,,,,,,,,2,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,54,,card,J. Murphy,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,57,,substitution,,False,,,J. Willock,M. Fernández-Pardo,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,57,,substitution,,False,,,B. Touré,J. Murphy,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,58,,substitution,,False,,,T. Livramento,A. Dedić,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,59,,goal,N. Okafor,True,,,,,,,4,0
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,72,,substitution,,True,,,M. Bard,G. Gudmundsson,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,72,,substitution,,True,,,B. Aaronson,A. Tanaka,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,72,,substitution,,True,,,H. Wilson,N. Okafor,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,78,,substitution,,True,,,L. Nmecha,D. Calvert-Lewin,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,80,,substitution,,False,,,A. Bamba,L. Miley,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,83,,substitution,,True,,,D. James,J. Bogle,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,88,,substitution,,True,,,S. Longstaff,A. Stach,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,,period,,,,,,,FT,,4,1
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,1,card,T. Livramento,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,,goal,B. Touré,False,,,,,,,4,1
+inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,,injuryTime,,,,,,,,4,,

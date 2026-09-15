@@ -970,7 +970,6 @@ portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,period,,,
 portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,1,goal,S. Giménez,False,,,,,,,1,4
 portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,card,I. Mandić,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-12,6,Casa Pia,FC Porto,1,4,90,,injuryTime,,,,,,,,4,,
-portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,7,,goal,H. Hernández,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,12,,card,E. Barrenechea,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,26,,card,H. Hernández,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,29,,goal,V. Pavlidis,True,,,,,,,1,1
@@ -981,6 +980,7 @@ portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,56,,substit
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,58,,substitution,,True,,,F. Aursnes,L. Barreiro,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,58,,substitution,,True,,,J. Palhinha,E. Barrenechea,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,63,,card,J. Palhinha,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,7,,goal,H. Hernández,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,70,,card,Lucão,False,yellow,Time wasting,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,72,,substitution,,True,,,D. Lukebakio,R. Silva,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Benfica,Gil Vicente,3,1,72,,substitution,,True,,,C. Echeverri,A. Schjelderup,,,,
@@ -1042,3 +1042,70 @@ portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,7,car
 portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,1,goal,G. Inácio,True,,,,,,,1,1
 portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,,card,N. Irankunda,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-13,6,Famalicão,Sporting CP,1,1,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,8,,card,R. Andrade,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,11,,card,K. Bondoso,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,17,,goal,M. Mendonça,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,28,,goal,L. Vonić,True,,,,,,,2,0
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,45,,period,,,,,,,HT,,2,0
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,45,,injuryTime,,,,,,,,1,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,46,,substitution,,False,,,I. Ayuma,B. Limbombe,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,46,,substitution,,False,,,M. Dominguez,R. Andrade,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,59,,card,M. Dominguez,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,61,,substitution,,True,,,Landerson,K. Bondoso,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,61,,substitution,,True,,,A. Parsemain,L. Vonić,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,69,,substitution,,True,,,R. Alonso,N. John,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,71,,substitution,,False,,,S. Bamba,V. Danilović,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,79,,goal,R. Correia,False,,,,,,,2,1
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,81,,substitution,,False,,,M. Boakye,M. Tejón,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,81,,substitution,,False,,,M. Bassouamina,R. Guzzo,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,81,,substitution,,True,,,S. Chipyoka,M. Mendonça,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,81,,substitution,,True,,,K. Monteiro,Maracás,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,86,,goal,A. Parsemain,True,,,,,,,3,1
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,90,,period,,,,,,,FT,,3,1
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,90,3,card,I. Ayuma,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Moreirense,CS Marítimo,3,1,90,,injuryTime,,,,,,,,4,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,21,,goal,I. Stoica,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,26,,card,M. Scholze,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,44,,card,F. Petrasso,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,45,,period,,,,,,,HT,,1,1
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,45,3,goal,F. Petrasso,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,53,,goal,A. Marcus,False,,,,,,,1,2
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,54,,substitution,,True,,,R. Galčík,S. Clemmensen,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,56,,goal,R. Galčík,True,,,,,,,2,2
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,58,,card,E. Doué,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,61,,goal,A. Marcus,False,,,,,,,2,3
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,63,,substitution,,False,,,J. Jordán,E. Doué,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,63,,substitution,,True,,,T. Monteiro,M. Patricío,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,68,,substitution,,True,,,M. Vrousai,P. Amaral,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,68,,substitution,,True,,,M. Sellouki,T. Nikitscher,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,68,,substitution,,True,,,N. Abbey,J. Tomé,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,69,,substitution,,True,,,,N. Abbey,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,71,,substitution,,False,,,K. Jansson,M. Scholze,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,72,,substitution,,False,,,J. Encada,S. Serra,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,76,,card,S. Leković,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,78,,goal,J. Blesa,True,,,,,,,3,3
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,84,,substitution,,False,,,A. S. d. Jesus,I. Stoica,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,84,,substitution,,False,,,B. Souza,A. Marcus,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,90,,period,,,,,,,FT,,3,3
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,90,1,card,T. Monteiro,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Rio Ave,CF Estrela Amadora,3,3,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,10,,substitution,,False,,,Peixinho,F. Garcia,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,34,,card,Ferro,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,45,,injuryTime,,,,,,,,1,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,46,,substitution,,True,,,A. Bajrami,B. Arrey-Mbi,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,58,,substitution,,True,,,V. Carvalho,A. L. Barišić,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,58,,substitution,,True,,,R. Horta,Gabriel Silva,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,63,,card,Ferro,False,yellowRed,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,64,,substitution,,True,,,J. Gorby,D. E. Tıknaz,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,65,,substitution,,False,,,S. Amissah,Peixinho,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,77,,substitution,,False,,,A. Lacximicant,N. Omerović,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,77,,substitution,,False,,,J. Arnolin,J. Holsgrove,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,77,,substitution,,False,,,P. Carvalho,R. Sánchez,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,81,,substitution,,True,,,J. Wind,G. Lagerbielke,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,83,,goal,J. Wind,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,85,,card,J. Carvalho,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,88,,card,P. Carvalho,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,90,,period,,,,,,,FT,,1,0
+portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,90,,injuryTime,,,,,,,,5,,

@@ -5513,7 +5513,6 @@ brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,,period,,,,,,,FT,,
 brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,4,card,F. Bruno,False,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,,goal,M. Pereira,False,,,,,,,2,1
 brasileirao_serie_a_2026,2026-09-13,27,Santos,Cruzeiro,2,1,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,8,,card,N. Acevedo,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,20,,goal,J. Lucas,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,45,,period,,,,,,,HT,,1,0
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,45,,injuryTime,,,,,,,,4,,
@@ -5526,6 +5525,7 @@ brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,72,,substitution,,True,,,R
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,79,,substitution,,True,,,C. Alexandre,N. Acevedo,,,,
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,79,,substitution,,True,,,E. Ribeiro,J. Lucas,,,,
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,79,,substitution,,True,,,Ademir,E. Pulga,,,,
+brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,8,,card,N. Acevedo,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,84,,substitution,,False,,,G. Poveda,A. Galeano,,,,
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,7,card,C. Olivera,True,yellow,Argument,,,,,,

@@ -5945,3 +5945,75 @@ brasileirao_serie_b_2026,2026-09-15,28,Avaí,Vila Nova FC,1,1,87,,substitution,,
 brasileirao_serie_b_2026,2026-09-15,28,Avaí,Vila Nova FC,1,1,87,,substitution,,False,,,Willian Maranhão,D. Mendes,,,,
 brasileirao_serie_b_2026,2026-09-15,28,Avaí,Vila Nova FC,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_b_2026,2026-09-15,28,Avaí,Vila Nova FC,1,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,22,,card,André,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,23,,goal,Herbert,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,30,,card,K. Leonardo,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,42,,goal,G. Portuga,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,45,,period,,,,,,,HT,,3,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,45,,goal,I. Bahia,True,,,,,,,3,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,46,,substitution,,True,,,N. Paraíba,K. Leonardo,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,55,,substitution,,False,,,E. Ferreira,Murilo,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,55,,substitution,,False,,,J. d. Oliveira,Miguel,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,59,,goal,Herbert,True,,,,,,,4,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,64,,card,C. Rodrigues,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,65,,substitution,,True,,,G. Cachoeira,J. Coni,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,65,,substitution,,True,,,L. Marques,Tarik,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,66,,substitution,,False,,,Denis,David,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,66,,substitution,,False,,,R. de Souza,D. Barcelos,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,66,,substitution,,True,,,Artur,Heron,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,75,,substitution,,True,,,Vitinho,Herbert,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,81,,goal,Vitinho,True,,,,,,,5,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,85,,goal,J. Vitor,True,,,,,,,6,0
+brasileirao_serie_b_2026,2026-09-15,28,Londrina,Ponte Preta,6,0,90,,period,,,,,,,FT,,6,0
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,1,,goal,Vinícius,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,28,,card,G. Boschilia,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,45,2,goal,V. D. D. Antonia,False,,,,,,,1,1
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,45,1,substitution,,False,,,G. Feliciano,Moraes Júnior,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,57,,card,S. F. Rodrigues,True,yellow,Persistent fouling,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,67,,substitution,,True,,,Derek,B. Borasi,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,67,,substitution,,True,,,L. Claudio,K. Maranhão,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,74,,substitution,,False,,,Aylon,C. Dantas,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,74,,substitution,,False,,,J. Zuluaga,Índio,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,74,,substitution,,False,,,N. Paraíba,Maxwell,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,81,,card,Aylon,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,83,,goal,J. Carlos,True,,,,,,,2,1
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,84,,substitution,,False,,,H. Pereira,Á. Torres,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,87,,substitution,,True,,,P. Núñez,Wenderson,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,87,,substitution,,True,,,Danielzinho,J. Carlos,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,88,,goal,Danielzinho,True,,,,,,,3,1
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,,period,,,,,,,FT,,3,3
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,8,card,P. Núñez,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,5,goal,J. Cuenú,False,,,,,,,3,3
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,4,goal,G. Boschilia,False,,,,,,,3,2
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,,substitution,,True,,,G. Henrique,I. Fernandes,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,,card,V. D. D. Antonia,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,,card,Moraes Júnior,False,yellow,Unallowed field entering,,,,,,
+brasileirao_serie_b_2026,2026-09-15,28,Náutico,Operário-PR,3,3,90,,card,H. D. Anjos,True,red,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,7,,card,Bressan,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,16,,goal,Crystopher,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,30,,card,Carlos De Pena,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,30,,card,Danielzinho,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,46,,substitution,,False,,,A. Pucci,M. Ajul,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,46,,substitution,,False,,,F. Sobral,B. Fonseca,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,46,,substitution,,False,,,Dudu,Diego Hernández,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,46,,substitution,,True,,,D. Hereda,Kevin,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,50,,varDecision,Carlos De Pena,False,,,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,54,,card,Crystopher,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,62,,substitution,,True,,,Thiaguinho,V. Barata,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,62,,substitution,,True,,,João Neto,Mikael,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,66,,substitution,,False,,,P. de Paula,E. Lucas,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,76,,substitution,,True,,,Geovane,Danielzinho,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,81,,substitution,,True,,,Luizão,P. Castro,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,83,,substitution,,False,,,N. Pessoa,Zé Gabriel,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,84,,card,Geovane,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,86,,card,F. Sobral,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,89,,goal,D. Hereda,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,90,2,goal,P. de Paula,False,,,,,,,2,1
+brasileirao_serie_b_2026,2026-09-16,28,Clube De Regatas Brasil,Sport Recife,2,1,90,,injuryTime,,,,,,,,5,,

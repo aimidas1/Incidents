@@ -765,7 +765,6 @@ italia_serie_a_2026_2027,2026-09-14,4,Como,Parma,2,1,83,,goal,Kaiki,True,,,,,,,2
 italia_serie_a_2026_2027,2026-09-14,4,Como,Parma,2,1,90,,period,,,,,,,FT,,2,1
 italia_serie_a_2026_2027,2026-09-14,4,Como,Parma,2,1,90,2,goal,D. Romero,False,,,,,,,2,1
 italia_serie_a_2026_2027,2026-09-14,4,Como,Parma,2,1,90,,injuryTime,,,,,,,,3,,
-italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,9,,goal,J. Abankwah,False,,,,,,,0,1
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,16,,goal,J. Ekkelenkamp,False,,,,,,,0,2
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,26,,goal,C. Augusto,True,,,,,,,1,2
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,35,,goal,N. Barella,True,,,,,,,2,2
@@ -786,6 +785,7 @@ italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,79,,goal,A. Bonny,True,,
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,80,,substitution,,False,,,V. Bayo,K. Davis,,,,
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,80,,substitution,,False,,,S. Lovrić,J. Ekkelenkamp,,,,
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,82,,substitution,,True,,,A. Stanković,P. Zieliński,,,,
+italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,9,,goal,J. Abankwah,False,,,,,,,0,1
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,90,,period,,,,,,,FT,,5,3
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,90,,goal,I. Gueye,False,,,,,,,5,3
 italia_serie_a_2026_2027,2026-09-14,4,Inter,Udinese,5,3,90,,injuryTime,,,,,,,,4,,

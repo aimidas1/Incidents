@@ -1450,3 +1450,21 @@ liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,88,,substit
 liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,90,,period,,,,,,,FT,,2,0
 liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,90,1,card,B. Galindo,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-15,8,Club León,Atlético San Luis,2,0,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,46,,substitution,,False,,,V. Guzmán,F. Romero,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,57,,card,I. Maestro Puch,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,59,,substitution,,False,,,J. Díaz,J. R. Angulo,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,59,,substitution,,False,,,Helinho,E. López,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,69,,goal,J. Pachuca,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,72,,substitution,,True,,,H. Jurado,C. Baltazar,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,75,,substitution,,True,,,O. M. Villegas,B. Garnica,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,77,,substitution,,False,,,Luan,F. Viñas,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,period,,,,,,,FT,,0,1
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,6,substitution,,False,,,O. Virgen,Paulinho,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,4,substitution,,True,,,A. Herrera,A. Organista,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,4,substitution,,True,,,I. Moreno,J. Pachuca,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,4,substitution,,True,,,Ó. Villa,F. Monarrez,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,card,Bruno Méndez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,varDecision,M. Tomás,True,,,,,,,,

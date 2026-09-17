@@ -5533,3 +5533,25 @@ brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,7,substitution,,True,,,
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,6,goal,V. Bueno,False,,,,,,,2,1
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,1,goal,L. Juba,True,,,,,,,2,0
 brasileirao_serie_a_2026,2026-09-14,27,Bahia,Remo,2,1,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,30,,goal,D. Santos,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,36,,goal,J. Cabral,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,45,,injuryTime,,,,,,,,1,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,46,,substitution,,True,,,G. Justino,L. Monzón,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,46,,substitution,,True,,,D. Pereira,Edenilson,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,52,,goal,Á. Montoro,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,59,,substitution,,False,,,J. Enamorado,J. Cabral,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,66,,substitution,,False,,,M. Braithwaite,F. Krovinović,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,73,,substitution,,True,,,Marçal,J. Santos,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,78,,substitution,,False,,,Tetê,C. Pavón,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,78,,substitution,,False,,,M. Nascimento,E. Noriega,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,78,,card,M. Villasanti,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,79,,substitution,,True,,,Allan,Á. Montoro,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,79,,goal,D. Santos,True,,,,,,,3,1
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,86,,substitution,,True,,,T. Soares,A. Cabral,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,88,,goal,G. Martins,False,,,,,,,3,2
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,90,,period,,,,,,,FT,,3,2
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,90,7,varDecision,M. Nascimento,False,,,,,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,90,4,card,D. Santos,True,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,90,3,varDecision,C. Vinícius,False,,,,,,,,
+brasileirao_serie_a_2026,2026-09-16,21,Botafogo,Grêmio,3,2,90,,injuryTime,,,,,,,,7,,

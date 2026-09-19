@@ -932,3 +932,22 @@ turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,87,,substi
 turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,90,,period,,,,,,,FT,,0,0
 turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,90,2,card,S. Hansen,True,yellow,Time wasting,,,,,,
 turquia_super_lig_2026_2027,2026-09-14,5,Gaziantep FK,Fenerbahçe,0,0,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,24,,card,M. Ilie,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,30,,card,C. Winck,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,33,,card,E. Belözoğlu,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,40,,card,A. Demirbağ,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,45,,period,,,,,,,HT,,0,0
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,53,,card,M. Jevtović,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,58,,substitution,,False,,,E. Bardhi,M. Jevtović,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,58,,card,R. Baniya,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,61,,substitution,,True,,,H. Hajradinović,M. Rafferty,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,68,,card,M. Ibrahimoglu,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,71,,substitution,,True,,,T. Diarra,A. Kol,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,71,,substitution,,True,,,A. Karapo,J. Jessen,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,74,,substitution,,False,,,M. Mohamed,J. Muleka,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,74,,substitution,,False,,,J. Dompé,D. Gonçalves,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,85,,card,A. Karapo,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,88,,substitution,,True,,,A. Arous,A. Benedyczak,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,89,,substitution,,False,,,E. Colley,D. Türüç,,,,
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,90,,period,,,,,,,FT,,0,0
+turquia_super_lig_2026_2027,2026-09-18,6,Kasımpaşa,Konyaspor,0,0,90,,injuryTime,,,,,,,,3,,

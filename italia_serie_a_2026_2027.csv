@@ -807,3 +807,25 @@ italia_serie_a_2026_2027,2026-09-14,4,Torino,AS Roma,0,2,88,,substitution,,False
 italia_serie_a_2026_2027,2026-09-14,4,Torino,AS Roma,0,2,90,,period,,,,,,,FT,,0,2
 italia_serie_a_2026_2027,2026-09-14,4,Torino,AS Roma,0,2,90,3,goal,N. Pisilli,False,,,,,,,0,2
 italia_serie_a_2026_2027,2026-09-14,4,Torino,AS Roma,0,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,30,,card,E. Kouadio,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,51,,goal,G. Varela,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,56,,substitution,,True,,,A. Bakoune,R. Mangas,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,56,,substitution,,True,,,D. Mota,P. Cutrone,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,56,,substitution,,True,,,M. F. Ondoa,E. Akinsanmiro,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,63,,goal,G. Varela,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,64,,substitution,,False,,,K. Bowie,K. Thorstvedt,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,64,,substitution,,False,,,L. Lipani,N. Matić,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,72,,substitution,,False,,,V. Adžić,S. Esposito,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,72,,substitution,,False,,,B. Domínguez,D. Berardi,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,74,,card,M. Folorunsho,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,82,,substitution,,False,,,L. Skjellerup,D. Bakola,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,82,,substitution,,True,,,M. Mout,J. Robinson,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,85,,card,S. Birindelli,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,85,,card,L. Lipani,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,88,,goal,V. Adžić,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,3,substitution,,True,,,Y. Maye,S. Birindelli,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,2,card,G. Varela,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,,injuryTime,,,,,,,,5,,

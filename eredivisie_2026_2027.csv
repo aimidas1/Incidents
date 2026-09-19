@@ -1091,3 +1091,22 @@ eredivisie_2026_2027,2026-09-15,3,AFC Ajax,Willem II Tilburg,5,1,84,,substitutio
 eredivisie_2026_2027,2026-09-15,3,AFC Ajax,Willem II Tilburg,5,1,87,,goal,K. Dolberg,True,,,,,,,5,1
 eredivisie_2026_2027,2026-09-15,3,AFC Ajax,Willem II Tilburg,5,1,90,,period,,,,,,,FT,,5,1
 eredivisie_2026_2027,2026-09-15,3,AFC Ajax,Willem II Tilburg,5,1,90,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,20,,goal,T. v. Bergen,True,,,,,,,1,0
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,28,,substitution,,False,,,E. Sørensen,I. Cissoko,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,43,,goal,J. Schreuders,True,,,,,,,2,0
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,45,,period,,,,,,,HT,,2,0
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,61,,substitution,,False,,,S. v. Hooijdonk,T. Oosting,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,61,,substitution,,False,,,G. Reiziger,D. Mbayo,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,66,,substitution,,True,,,H. Hateboer,M. Rente,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,66,,substitution,,True,,,T. Land,J. Ondrejka,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,68,,goal,T. Land,True,,,,,,,3,0
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,79,,card,K. Kostons,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,79,,card,S. Floranus,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,80,,substitution,,False,,,J. Bürger,O. Aertssen,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,80,,substitution,,False,,,G. v. d. Wal,K. Kostons,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,85,,substitution,,True,,,N. Eggens,D. v. d. Werff,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,85,,substitution,,True,,,A. Nordin,B. Darri Willumsson,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,90,,period,,,,,,,FT,,3,0
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,90,,substitution,,True,,,J. Mosselaar,M. Csinger,,,,
+eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,90,,injuryTime,,,,,,,,3,,

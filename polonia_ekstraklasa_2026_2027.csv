@@ -1392,3 +1392,44 @@ polonia_ekstraklasa_2026_2027,2026-09-15,3,Raków Częstochowa,Zagłębie Lubin,
 polonia_ekstraklasa_2026_2027,2026-09-15,3,Raków Częstochowa,Zagłębie Lubin,2,3,90,,card,F. Kocaba,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-15,3,Raków Częstochowa,Zagłębie Lubin,2,3,90,,injuryTime,,,,,,,,11,,
 polonia_ekstraklasa_2026_2027,2026-09-15,3,Raków Częstochowa,Zagłębie Lubin,2,3,90,,card,T. Kaczmarek,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,19,,goal,A. Milić,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,37,,goal,L. Piazón,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,45,,period,,,,,,,HT,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,47,,card,L. Piazón,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,54,,card,A. Đermanović,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,60,,substitution,,False,,,M. Vojtko,K. Pestka,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,60,,substitution,,False,,,P. Pušić,J. A. d. l. Rosa,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,63,,substitution,,True,,,D. Silva,F. Álvarez,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,63,,substitution,,True,,,S. Bergier,K. Świderski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,65,,goal,M. García,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,74,,substitution,,True,,,A. Klukowski,S. Biuk,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,74,,substitution,,False,,,Miki,D. Dujmović,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,74,,substitution,,False,,,L. Semedo,T. Christensen,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,80,,goal,A. Milić,False,,,,,,,2,2
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,84,,substitution,,False,,,T. Mras,E. Koulouris,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,86,,substitution,,True,,,L. Selahi,G. Papanikolaou,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,86,,substitution,,True,,,M. Żyro,M. Fornalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,88,,card,M. Krajewski,True,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,90,,period,,,,,,,FT,,2,2
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,90,,injuryTime,,,,,,,,7,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Widzew Łódź,Wieczysta Kraków,2,2,90,,card,Ž. Kopić,False,red,Unallowed field entering,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,16,,goal,Á. Rodado,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,35,,card,R. Giger,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,45,,period,,,,,,,HT,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,49,,card,E. Youan,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,60,,substitution,,False,,,M. Llinares,A. T. Andersson,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,60,,substitution,,False,,,A. Ciucka,D. Markowski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,69,,substitution,,False,,,E. Shabani,J. Yriarte,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,69,,substitution,,True,,,F. Duarte,E. Youan,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,71,,card,E. Shabani,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,76,,goal,A. Ciucka,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,83,,substitution,,True,,,R. Mikulec,M. Božić,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,83,,substitution,,False,,,P. Banaszak,I. Camoes,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,83,,substitution,,False,,,L. Marjanac,M. Dembélé,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,84,,card,M. Llinares,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,88,,card,M. Jop,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,,period,,,,,,,FT,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,3,goal,A. Uryga,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,1,card,L. Marjanac,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,,injuryTime,,,,,,,,2,,

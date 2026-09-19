@@ -709,3 +709,22 @@ france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,87,
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,88,,substitution,,True,,,J. Bourgault,B. Locko,,,,
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,90,,period,,,,,,,FT,,0,1
 france_ligue_1_2026_2027,2026-09-13,4,Stade Brestois,Paris Saint-Germain,0,1,90,,injuryTime,,,,,,,,3,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,20,,varDecision,M. Cuisance,False,,,,,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,32,,goal,P. Brunner,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,45,,injuryTime,,,,,,,,3,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,46,,substitution,,False,,,J. Gradit,J. Todibo,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,53,,card,F. Thauvin,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,57,,goal,M. Udol,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,58,,substitution,,False,,,O. Édouard,A.Sima,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,58,,substitution,,False,,,T. Hazard,M. Mesloub,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,62,,substitution,,True,,,M. Detourbet,E. Diop,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,69,,substitution,,False,,,M. Skóraś,J. Kadile,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,71,,card,L. Camara,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,72,,substitution,,False,,,A. Bulatović,A. Haidara,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,76,,substitution,,True,,,P. Cabral,D. Zakaria,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,76,,substitution,,True,,,F. Balogun,M. Abline,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,84,,goal,J. Gradit,True,,,,,,,2,1
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,90,,period,,,,,,,FT,,2,1
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,90,2,substitution,,True,,,M. Salisu,P. Brunner,,,,
+france_ligue_1_2026_2027,2026-09-18,5,AS Monaco,RC Lens,2,1,90,,injuryTime,,,,,,,,5,,

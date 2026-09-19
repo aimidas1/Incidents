@@ -805,3 +805,21 @@ inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4
 inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,1,card,T. Livramento,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,,goal,B. Touré,False,,,,,,,4,1
 inglaterra_premier_league_2026_2027,2026-09-14,4,Leeds United,Newcastle United,4,1,90,,injuryTime,,,,,,,,4,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,45,,period,,,,,,,HT,,0,0
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,45,,injuryTime,,,,,,,,1,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,61,,goal,J. Anthony,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,69,,substitution,,True,,,M. Sangare,Y. Yarmoliuk,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,69,,substitution,,True,,,A. Hickey,M. Kayode,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,71,,substitution,,False,,,J. Acheampong,W. Fofana,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,71,,substitution,,False,,,G. Quenda,D. Welbeck,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,81,,substitution,,True,,,E. H. M. Diouf,K. Lewis-Potter,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,81,,substitution,,True,,,D. Ouattara,J. Anthony,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,83,,goal,I. Thiago,True,,,,,,,2,0
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,84,,card,I. Thiago,True,yellow,,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,85,,card,M. Sangare,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,87,,substitution,,True,,,F. Carvalho,M. Damsgaard,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,87,,substitution,,False,,,Estêvão,P. Neto,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,87,,substitution,,False,,,M. Nicoll-Jazuli,V. Barco,,,,
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,90,,period,,,,,,,FT,,3,0
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,90,4,goal,F. Carvalho,True,,,,,,,3,0
+inglaterra_premier_league_2026_2027,2026-09-18,5,Brentford,Chelsea,3,0,90,,injuryTime,,,,,,,,5,,

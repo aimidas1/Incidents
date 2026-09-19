@@ -7370,3 +7370,20 @@ mls_2026,2026-09-14,,San Diego FC,Philadelphia Union,0,5,90,,period,,,,,,,FT,,0,
 mls_2026,2026-09-14,,San Diego FC,Philadelphia Union,0,5,90,4,goal,M. Jakupovic,False,,,,,,,0,5
 mls_2026,2026-09-14,,San Diego FC,Philadelphia Union,0,5,90,1,card,O. Verhoeven,True,yellow,Foul,,,,,,
 mls_2026,2026-09-14,,San Diego FC,Philadelphia Union,0,5,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,6,,card,A. Mehmeti,False,yellow,Foul,,,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,22,,card,C. Cowell,False,yellow,Foul,,,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,30,,card,N. Cavallo,True,yellow,Foul,,,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,40,,card,M. Sofo,False,yellow,Foul,,,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,45,,injuryTime,,,,,,,,3,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,55,,card,A. O'Neill,True,yellow,Foul,,,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,57,,goal,J. Hall,False,,,,,,,0,1
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,62,,substitution,,True,,,A. Martínez,Luighi,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,62,,substitution,,True,,,B. Traore,H. Wolf,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,62,,substitution,,False,,,D. Padelford,M. D. Santos,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,75,,substitution,,True,,,M. Jones,A. Ojeda,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,84,,substitution,,False,,,D. Ruíz,A. Mehmeti,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,84,,substitution,,False,,,E. M. Choupo-Moting,J. Hall,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,84,,substitution,,False,,,J. Ruvalcaba,C. Cowell,,,,
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,90,,period,,,,,,,FT,,0,1
+mls_2026,2026-09-18,,New York City FC,New York Red Bulls,0,1,90,,injuryTime,,,,,,,,4,,

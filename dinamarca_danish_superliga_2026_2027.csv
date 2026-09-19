@@ -982,3 +982,27 @@ dinamarca_danish_superliga_2026_2027,2026-09-14,8,FC Midtjylland,Brøndby IF,4,2
 dinamarca_danish_superliga_2026_2027,2026-09-14,8,FC Midtjylland,Brøndby IF,4,2,90,,period,,,,,,,FT,,4,2
 dinamarca_danish_superliga_2026_2027,2026-09-14,8,FC Midtjylland,Brøndby IF,4,2,90,2,goal,O. Hyseni,False,,,,,,,4,2
 dinamarca_danish_superliga_2026_2027,2026-09-14,8,FC Midtjylland,Brøndby IF,4,2,90,,injuryTime,,,,,,,,6,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,7,,card,J. J. Thomasen,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,36,,card,S. Colyn,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,39,,goal,A. Priesborg,False,,,,,,,0,1
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,45,,period,,,,,,,HT,,0,1
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,45,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,46,,substitution,,False,,,M. Freundlich,W. Kirk,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,52,,goal,O. Ross,False,,,,,,,0,2
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,56,,substitution,,True,,,M. H. Rasmussen,J. J. Thomasen,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,57,,substitution,,True,,,F. Gytkjær,D. Kristjansson,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,69,,card,S. Colyn,True,yellowRed,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,72,,goal,V. Westh,False,,,,,,,0,3
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,76,,substitution,,False,,,S. Berger,O. Ross,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,78,,substitution,,True,,,D. H. Aronsson,O. Buur,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,78,,substitution,,True,,,M. Anderson,Í. S. Þorvaldsson,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,83,,substitution,,False,,,J. L. Nielsen,R. Al Hajj,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,83,,substitution,,False,,,M. Hansen,L. Riisgaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,85,,goal,M. Hansen,False,,,,,,,0,4
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,86,,substitution,,True,,,W. Steindorsson,R. Tytens,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,89,,substitution,,False,,,M. Øxenberg,M. Larsen,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,89,,card,J. Gammelby,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,90,,period,,,,,,,FT,,0,4
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,90,2,card,M. H. Rasmussen,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,90,2,card,M. Freundlich,False,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-09-18,9,Lyngby,Silkeborg IF,0,4,90,,injuryTime,,,,,,,,5,,

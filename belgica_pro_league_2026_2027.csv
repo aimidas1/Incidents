@@ -1067,3 +1067,19 @@ belgica_pro_league_2026_2027,2026-09-13,6,SV Zulte Waregem,RC Sporting Charleroi
 belgica_pro_league_2026_2027,2026-09-13,6,SV Zulte Waregem,RC Sporting Charleroi,0,1,90,,period,,,,,,,FT,,0,1
 belgica_pro_league_2026_2027,2026-09-13,6,SV Zulte Waregem,RC Sporting Charleroi,0,1,90,3,card,A. Bojang,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-09-13,6,SV Zulte Waregem,RC Sporting Charleroi,0,1,90,,injuryTime,,,,,,,,4,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,27,,substitution,,True,,,M. Paskotsi,M. Ngom,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,31,,goal,J. Vergara,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,45,,period,,,,,,,HT,,1,1
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,45,3,goal,C. Nielsen,False,,,,,,,1,1
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,45,,injuryTime,,,,,,,,2,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,71,,substitution,,False,,,B. Nsimba,D. Eckert Ayensa,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,71,,substitution,,True,,,L. Lopes,M. Delorge,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,71,,substitution,,True,,,H. Goore,M. Volckaert,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,76,,card,S. Van Der Heyden,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,83,,goal,C. Burgess,True,,,,,,,2,1
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,87,,substitution,,False,,,T. Mohr,M. Fossey,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,87,,substitution,,False,,,B. Nguene,A. Trouillet,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,90,,period,,,,,,,FT,,2,1
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,90,1,substitution,,True,,,A. Ayinde,M. Sonko,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,90,1,substitution,,True,,,I. Cisse,J. Vergara,,,,
+belgica_pro_league_2026_2027,2026-09-18,7,KAA Gent,Standard Liège,2,1,90,,injuryTime,,,,,,,,3,,

@@ -1468,3 +1468,36 @@ liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,4,substitution,,
 liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,card,Bruno Méndez,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,injuryTime,,,,,,,,6,,
 liga_mx_apertura_2026,2026-09-16,7,Club Puebla,CD Toluca,0,1,90,,varDecision,M. Tomás,True,,,,,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,41,,goal,W. Portales,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,46,,substitution,,True,,,Ó. Villa,F. Monarrez,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,46,,substitution,,True,,,O. M. Villegas,B. Garnica,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,46,,substitution,,True,,,I. Moreno,J. Pachuca,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,47,,card,Ó. Villa,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,53,,goal,M. Tomás,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,63,,varDecision,M. Tomás,True,,,,,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,72,,substitution,,False,,,L. Puente,J. Julio,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,72,,substitution,,False,,,A. Escobar,W. Clar,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,73,,substitution,,True,,,L. Hernández,I. Maestro Puch,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,78,,substitution,,False,,,C. Bermúdez,J. González,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,85,,substitution,,True,,,H. Jurado,M. Tomás,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,90,2,substitution,,False,,,J. Moxica,M. Sarrafiore,,,,
+liga_mx_apertura_2026,2026-09-19,9,Club Puebla,Atlante FC,1,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,45,,card,D. Garcia,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,46,,substitution,,True,,,G. Castilho,R. Dourado,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,60,,substitution,,True,,,A. Mayorga,J. Aquino,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,62,,substitution,,False,,,G. Martínez,D. Sánchez,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,63,,substitution,,False,,,O. Herrera,R. Monreal,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,66,,goal,Ó. Estupiñán,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,76,,substitution,,True,,,L. Silva,D. Garcia,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,79,,goal,Ó. Estupiñán,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,83,,substitution,,False,,,R. Guerrero,M. Laínez,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,83,,substitution,,False,,,E. Gómez,Joaquim,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,89,,substitution,,True,,,M. d. S. Silva,Ó. Estupiñán,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,89,,substitution,,True,,,Ricardinho,Monchu,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,90,,period,,,,,,,Second half,,2,0
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,90,4,card,G. Martínez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-19,9,FC Juárez,Tigres UANL,2,0,90,,injuryTime,,,,,,,,5,,

@@ -829,3 +829,84 @@ italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,,period,,,,,,,FT,,2,
 italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,3,substitution,,True,,,Y. Maye,S. Birindelli,,,,
 italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,2,card,G. Varela,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-18,5,Monza,Sassuolo,2,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,6,,goal,M. Koné,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,11,,card,N. Barella,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,37,,goal,M. Koné,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,37,,varDecision,M. Koné,True,,,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,45,,period,,,,,,,HT,,2,0
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,45,4,card,M. Akanji,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,46,,goal,L. Martínez,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,54,,substitution,,False,,,C. Augusto,F. Dimarco,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,54,,substitution,,False,,,P. Sučić,C. Jones,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,57,,card,A. Bastoni,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,60,,substitution,,True,,,D. Rensch,N. Molina,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,60,,substitution,,True,,,N. Pisilli,M. Koné,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,60,,substitution,,True,,,E. Ndicka,G. Mancini,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,63,,substitution,,False,,,L. Henrique,A. Bastoni,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,66,,substitution,,True,,,D. Ghilardi,L. Balerdi,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,73,,card,E. Ndicka,True,yellow,Time wasting,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,79,,goal,L. Martínez,False,,,,,,,2,2
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,81,,substitution,,True,,,K. Koulierakis,M. Hermoso,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,82,,card,K. Koulierakis,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,89,,card,D. Ghilardi,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,90,,period,,,,,,,FT,,2,2
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,90,,substitution,,False,,,F. P. Esposito,L. Martínez,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,90,,substitution,,False,,,A. Bonny,M. Thuram,,,,
+italia_serie_a_2026_2027,2026-09-19,5,AS Roma,Inter,2,2,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,14,,goal,F. Bernardeschi,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,30,,card,D. Bragança,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,45,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,46,,substitution,,False,,,N. Patterson,N. Fortini,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,55,,substitution,,False,,,S. Kulenović,K. Fitz-Jim,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,58,,substitution,,True,,,L. De Silvestri,E. Helland,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,58,,substitution,,True,,,J. Odgaard,N. Cambiaghi,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,68,,substitution,,False,,,G. Oristanio,N. Vlašić,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,68,,substitution,,False,,,R. Belghali,E. Cömert,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,68,,substitution,,False,,,E. İlkhan,D. Bragança,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,74,,card,R. Belghali,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,76,,substitution,,True,,,R. Orsolini,F. Bernardeschi,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,77,,goal,S. Kulenović,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,77,,substitution,,True,,,N. Moro,T. Pobega,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,78,,card,N. Patterson,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,84,,substitution,,True,,,E. Holm,N. Zortea,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,90,,period,,,,,,,FT,,1,1
+italia_serie_a_2026_2027,2026-09-19,5,Bologna,Torino,1,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,4,,card,N. Zaniolo,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,22,,card,J. Karlström,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,37,,substitution,,True,,,I. Gueye,K. Davis,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,46,,substitution,,True,,,G. Chakvetadze,N. Zaniolo,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,54,,goal,D. Maldini,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,57,,substitution,,True,,,U. Gómez,L. Miller,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,59,,substitution,,False,,,K. Carlos,D. Maldini,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,59,,substitution,,False,,,Y. Sugawara,J. Rodríguez,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,71,,substitution,,True,,,V. Bayo,C. Kabasele,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,71,,substitution,,True,,,A. Zanoli,H. Kamara,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,85,,substitution,,False,,,A. Fadera,P. Mendy,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,85,,substitution,,False,,,R. Gagliardini,A. Romano,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,90,,period,,,,,,,FT,,0,1
+italia_serie_a_2026_2027,2026-09-19,5,Udinese,Cagliari,0,1,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,29,,card,K. Pérez,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,51,,goal,M. Zaccagni,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,59,,card,J. Jesus,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,60,,goal,T. Noslin,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,73,,substitution,,True,,,L. Dabo,T. Helgason,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,73,,substitution,,True,,,A. Rrahmani,A. Adams,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,74,,card,T. Correia,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,76,,substitution,,True,,,R. Sagrado,T. Correia,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,77,,substitution,,False,,,A. Pinamonti,T. Noslin,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,77,,substitution,,False,,,A. Guðmundsson,K. Taylor,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,78,,substitution,,False,,,M. Lazzari,R. F. Mussolini,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,84,,substitution,,False,,,A. Pedraza,N. Tavares,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,87,,substitution,,True,,,T. Fernández,J. Yeboah,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,87,,substitution,,False,,,G. Isaksen,M. Zaccagni,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,90,,period,,,,,,,FT,,0,2
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,90,2,card,M. Moreno,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,90,1,card,J. Schingtienne,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,90,,card,T. Fernández,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-09-19,5,Venezia,Lazio,0,2,90,,injuryTime,,,,,,,,3,,

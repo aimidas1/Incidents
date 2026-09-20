@@ -1433,3 +1433,66 @@ polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,9
 polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,3,goal,A. Uryga,True,,,,,,,2,1
 polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,1,card,L. Marjanac,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-09-18,9,Wisła Kraków,Śląsk Wrocław,2,1,90,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,46,,goal,M. Minchev,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,46,,substitution,,False,,,V. Burlet,M. Perković,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,53,,varDecision,M. Wasielewski,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,54,,goal,B. Nowak,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,55,,card,M. Berte,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,62,,goal,M. Wdowiak,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,62,,substitution,,True,,,M. Wedrychowski,S. Bartlewicz,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,63,,substitution,,False,,,D. Baumgartner,M. Klich,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,63,,substitution,,False,,,L. S. Nordås,M. Berte,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,70,,substitution,,False,,,S. Ltaief,G. Henriksson,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,72,,goal,L. S. Nordås,False,,,,,,,2,2
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,74,,card,M. Wedrychowski,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,76,,substitution,,True,,,E. Jirka,M. Wasielewski,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,76,,substitution,,True,,,B. Wolski,M. Kowalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,77,,card,S. Ltaief,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,79,,substitution,,False,,,Kakabadze,A. Hasić,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,85,,substitution,,True,,,B. Galán,M. Wdowiak,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,85,,substitution,,True,,,M. Olsen,A. Czerwiński,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,90,,period,,,,,,,FT,,3,2
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,90,,goal,I. Shkurin,True,,,,,,,3,2
+polonia_ekstraklasa_2026_2027,2026-09-19,9,GKS Katowice,KS Cracovia,3,2,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,7,,card,K. Jakubczyk,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,18,,varDecision,W. Długosz,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,20,,goal,M. Stępiński,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,33,,goal,C. Mena,True,,,,,,,2,0
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,45,,period,,,,,,,HT,,2,0
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,56,,card,T. Pieńko,False,yellow,Handball,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,58,,goal,M. Diaby,False,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,62,,goal,M. Stępiński,True,,,,,,,3,1
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,67,,substitution,,False,,,A. Basse,P. Makuch,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,67,,substitution,,False,,,B. Mirčetić,A. Brorsson,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,68,,substitution,,False,,,M. Perović,T. Pieńko,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,70,,substitution,,True,,,M. Fassbender,C. Mena,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,70,,substitution,,True,,,N. Barczak,W. Długosz,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,80,,substitution,,False,,,Á. Molnár,M. Bulat,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,80,,substitution,,False,,,I. Brusberg,M. Emreli,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,80,,substitution,,True,,,D. Bąk,M. Stępiński,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,82,,goal,B. Mirčetić,False,,,,,,,3,2
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,90,,period,,,,,,,FT,,3,2
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,90,4,card,B. Mirčetić,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,90,2,substitution,,True,,,S. Gustafson,O. Lingr,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,90,1,card,M. Fassbender,True,yellow,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,MKS Korona Kielce,Raków Częstochowa,3,2,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,22,,card,I. Rodrigues,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,34,,substitution,,True,,,M. Łęgowski,I. Rodrigues,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,35,,card,M. Misiura,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,48,,card,R. Janicki,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,53,,card,J. Antiste,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,63,,substitution,,False,,,E. Prekop,J. Antiste,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,71,,substitution,,False,,,P. Bernardo,K. Urbański,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,72,,substitution,,True,,,F. Ronaldo,M. Aïko,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,72,,substitution,,True,,,R. Lopes,M. Ndiaye,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,82,,substitution,,False,,,Z. Inoussa,M. Khlan,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,83,,substitution,,False,,,Y. I. Dimi,P. González,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,90,,period,,,,,,,FT,,0,0
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,90,8,substitution,,True,,,P. Meyer,K. Lukoszek,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,90,3,card,M. K. Bartoš,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,90,1,card,Y. I. Dimi,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-09-19,9,Motor Lublin,Górnik Zabrze,0,0,90,,injuryTime,,,,,,,,7,,

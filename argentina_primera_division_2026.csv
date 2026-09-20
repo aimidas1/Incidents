@@ -8215,6 +8215,72 @@ argentina_primera_division_2026,2026-09-18,10,Central Córdoba,Defensa y Justici
 argentina_primera_division_2026,2026-09-18,10,Central Córdoba,Defensa y Justicia,2,2,90,4,varDecision,L. Sequeira,True,,,,,,,,
 argentina_primera_division_2026,2026-09-18,10,Central Córdoba,Defensa y Justicia,2,2,90,3,card,C. Pérez,False,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-09-18,10,Central Córdoba,Defensa y Justicia,2,2,90,,injuryTime,,,,,,,,16,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,15,,card,L. Menossi,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,21,,substitution,,False,,,I. Morales,C. Ávila,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,37,,card,L. Godoy,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,45,9,varDecision,J. Mosqueira,True,,,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,45,2,substitution,,False,,,M. Abaldo,J. Palais,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,45,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,46,,substitution,,False,,,R. Martino,F. Zabala,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,49,,goal,M. Estigarribia,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,51,,goal,S. Montiel,False,,,,,,,1,1
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,57,,goal,M. Meza,False,,,,,,,1,2
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,59,,substitution,,True,,,I. Malcorra,J. Mosqueira,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,59,,substitution,,True,,,M. Luna,B. Cuello,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,65,,card,C. Tarragona,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,68,,substitution,,True,,,E. Ramírez,M. Estigarribia,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,70,,card,I. Marcone,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,71,,card,J. M. Arrayago,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,75,,card,M. Abaldo,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,79,,substitution,,False,,,D. Martínez,M. Pérez,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,80,,substitution,,True,,,B. Pittón,L. Ayala,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,80,,substitution,,True,,,M. Aguirre,J. Palacios,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,80,,substitution,,False,,,L. Millán,S. Montiel,,,,
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,90,,period,,,,,,,FT,,1,2
+argentina_primera_division_2026,2026-09-19,10,Club Atlético Unión de Santa Fe,CA Independiente,1,2,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,20,,goal,A. Auzmendi,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,38,,goal,L. Gómez,False,,,,,,,1,1
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,45,,period,,,,,,,HT,,1,1
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,46,,substitution,,False,,,M. Hernández,A. Machado,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,46,,substitution,,False,,,R. Malanca,B. Oviedo,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,46,,substitution,,False,,,S. L. Garcia,M. López,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,61,,substitution,,True,,,A. Colazo,B. B. Schelotto,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,61,,substitution,,True,,,A. Steimbach,N. Barros Schelotto,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,62,,goal,P. S. Torrejón,True,,,,,,,2,1
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,65,,card,L. Gómez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,67,,substitution,,True,,,M. Panaro,L. Janson,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,69,,substitution,,False,,,D. Zalazar,L. Gómez,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,72,,substitution,,True,,,M. Torres,A. Auzmendi,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,72,,substitution,,True,,,R. Giampaoli,M. Zalazar,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,75,,substitution,,False,,,L. Piñero,S. Daniele,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,82,,card,F. Álvarez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,90,,period,,,,,,,FT,,2,2
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,90,,goal,D. Zalazar,False,,,,,,,2,2
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima,Banfield,2,2,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,45,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,46,,substitution,,True,,,I. Sabatini,N. Barboza,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,46,,substitution,,False,,,P. Ramírez,Á. Stringa,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,46,,substitution,,True,,,M. Vargas,B. Andrada,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,48,,card,P. Ramírez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,51,,card,A. Modica,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,57,,substitution,,False,,,T. Gonzalez,M. A. Graneros,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,60,,card,L. Cingolani,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,68,,varDecision,I. Sabatini,True,,,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,69,,card,I. Sabatini,True,red,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,70,,substitution,,True,,,B. Armoa,L. Cingolani,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,70,,substitution,,True,,,T. Ortiz,U. Sánchez,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,71,,substitution,,False,,,M. Aiello,F. Miño,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,80,,substitution,,True,,,J. Franco,L. Paredes,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,84,,substitution,,False,,,A. Alonso,A. Díaz,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,84,,substitution,,False,,,N. Watson,Y. Goitia,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,86,,card,M. Aiello,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,90,,period,,,,,,,FT,,0,0
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,90,9,card,J. Franco,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,90,7,varDecision,A. Alonso,False,,,,,,,,
+argentina_primera_division_2026,2026-09-19,10,Gimnasia y Esgrima Mendoza,Deportivo Riestra,0,0,90,,injuryTime,,,,,,,,5,,
 argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,23,,goal,G. Escudero,True,,,,,,,1,0
 argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,26,,goal,J. Marabel,False,,,,,,,1,1
 argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,39,,card,J. M. Insaurralde,False,yellow,Foul,,,,,,
@@ -8238,3 +8304,48 @@ argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,90,,peri
 argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,90,1,substitution,,True,,,D. Vergara,L. Díaz,,,,
 argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,90,1,substitution,,True,,,E. Torres,A. Martínez,,,,
 argentina_primera_division_2026,2026-09-19,10,Racing Club,Sarmiento,3,1,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,6,,substitution,,True,,,L. Beltrán,T. Almada,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,9,,goal,O. Cortés,False,,,,,,,0,1
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,36,,substitution,,True,,,M. Arambarri,T. Andrada,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,36,,card,M. Palazzo,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,62,,substitution,,False,,,J. Bisanz,F. Kalinger,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,65,,goal,T. Galván,True,,,,,,,1,1
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,67,,card,C. Ibáñez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,75,,substitution,,False,,,L. Mora,L. Gil,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,80,,goal,L. Blondel,False,,,,,,,1,2
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,81,,substitution,,True,,,F. Ortega,M. Acuña,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,86,,card,J. Bisanz,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,88,,substitution,,False,,,H. Nervo,F. Waller,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,88,,substitution,,False,,,L. Lescano,J. Caicedo,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,88,,substitution,,False,,,E. Ojeda,O. Cortés,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,90,,period,,,,,,,FT,,1,2
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,90,5,card,G. Montiel,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-19,10,River Plate,Huracán,1,2,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,18,,card,L. Mosevich,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,26,,card,A. Luna,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,30,,card,V. Fascendini,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,45,3,card,F. Alarcón,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,45,3,card,A. Álvarez,False,red,Violent conduct,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,45,2,varDecision,A. Álvarez,False,,,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,45,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,46,,substitution,,False,,,M. Galarza,F. Cristaldo,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,46,,substitution,,True,,,F. Suárez,M. Tissera,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,50,,goal,G. Cerato,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,58,,goal,F. Alarcón,True,,,,,,,2,0
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,65,,substitution,,False,,,V. Depietri,V. Fascendini,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,65,,substitution,,False,,,A. Maidana,G. Báez,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,65,,substitution,,False,,,G. Baroni,F. Fattori,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,65,,substitution,,True,,,J. Córdoba,A. Luna,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,66,,goal,A. Maidana,False,,,,,,,2,1
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,74,,card,A. Maidana,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,80,,card,J. Lázaro,True,yellow,,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,80,,goal,E. Unsaín,True,,,,,,,3,1
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,84,,substitution,,True,,,I. Méndez,G. Abregú,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,84,,substitution,,True,,,J. Acevedo,J. Galván,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,84,,substitution,,True,,,A. Massaccesi,J. Lázaro,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,88,,card,V. Depietri,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,90,,period,,,,,,,FT,,3,1
+argentina_primera_division_2026,2026-09-20,10,Instituto De Córdoba,CA Talleres,3,1,90,,injuryTime,,,,,,,,4,,

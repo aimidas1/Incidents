@@ -1110,3 +1110,81 @@ eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,85,,substitution,,
 eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,90,,period,,,,,,,FT,,3,0
 eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,90,,substitution,,True,,,J. Mosselaar,M. Csinger,,,,
 eredivisie_2026_2027,2026-09-18,7,FC Groningen,PEC Zwolle,3,0,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,21,,card,N. Thomas,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,28,,substitution,,True,,,D. van Mieghem,N. Thomas,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,44,,goal,F. Kvam,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,45,,period,,,,,,,HT,,0,1
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,45,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,58,,substitution,,False,,,W. Kooistra,S. Bouhoudane,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,69,,substitution,,True,,,D. Bárány,M. Šín,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,69,,substitution,,True,,,O. Raterink,J. Jensen-Abbew,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,69,,substitution,,True,,,J. Bal,J. Hawkins,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,71,,card,M. Maertens,False,yellow,Off the ball foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,73,,substitution,,False,,,J. Amofa,M. Maertens,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,73,,substitution,,False,,,S. Vink,F. Kvam,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,73,,substitution,,False,,,I. Henstra,I. Hamache,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,74,,goal,D. Bárány,True,,,,,,,1,1
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,81,,substitution,,True,,,S. Sylla,M. Hokke,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,83,,substitution,,False,,,E. Apkakou,D. E. Bouah,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,83,,card,M. Waem,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,90,,period,,,,,,,FT,,1,1
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,90,,card,S. Sylla,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,90,,card,W. Kooistra,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-19,7,ADO Den Haag,SC Cambuur,1,1,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,23,,substitution,,True,,,O. Wijndal,C. Henrique,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,32,,goal,J. Brandt,True,,,,,,,1,0
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,35,,card,J. Plug,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,45,,period,,,,,,,HT,,1,1
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,45,1,goal,L. Hartjes,False,,,,,,,1,1
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,61,,substitution,,True,,,O. Edvardsen,V. Tsygankov,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,62,,goal,A. Sliti,False,,,,,,,1,2
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,62,,substitution,,True,,,T. Arokodare,K. Dolberg,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,64,,goal,T. Arokodare,True,,,,,,,2,2
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,65,,substitution,,False,,,K. Bos,E. d. S. Moreira,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,71,,substitution,,False,,,A. Jahanbakhsh,A. Sliti,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,71,,substitution,,False,,,I. S. Timas,Á. O. Thorsteinsson,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,76,,substitution,,True,,,S. Amrabat,J. Mokio,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,77,,substitution,,True,,,A. Ouazane,D. Klaassen,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,85,,substitution,,False,,,M. Domínguez,D. Garden,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,85,,card,I. Yegoian,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,85,,card,O. Gloukh,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,90,,period,,,,,,,FT,,2,2
+eredivisie_2026_2027,2026-09-19,7,AFC Ajax,Excelsior,2,2,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,24,,card,J. Baas,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,28,,goal,N. Courtens,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,43,,goal,J. Trenskow,False,,,,,,,0,2
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,45,,period,,,,,,,HT,,0,2
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,56,,goal,M. Rivera,False,,,,,,,0,3
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,61,,card,M. Young,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,62,,substitution,,True,,,A. Kostić,J. Baas,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,62,,substitution,,True,,,N. Verschuren,I. Babadi,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,62,,substitution,,True,,,T. Q. León,J. Ideho,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,62,,substitution,,True,,,R. van Cruijsen,B. Martins Indi,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,72,,substitution,,True,,,B. Reith,L. E. Martes,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,73,,substitution,,False,,,L. Oyen,L. Smans,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,73,,substitution,,False,,,M. Farji,J. Trenskow,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,75,,goal,M. Farji,False,,,,,,,0,4
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,80,,substitution,,False,,,R. Meerveld,M. Linday,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,80,,substitution,,False,,,R. Uldriķis,D. Vente,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,85,,substitution,,False,,,A. Bouziane,N. Courtens,,,,
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,90,,period,,,,,,,FT,,0,4
+eredivisie_2026_2027,2026-09-19,7,Sparta Rotterdam,SC Heerenveen,0,4,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,2,,varDecision,I. Pinto,False,,,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,19,,card,N. Tjoe-A-On,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,45,,period,,,,,,,HT,,0,0
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,45,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,59,,substitution,,False,,,L. Zeefuik,O. Romeny,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,64,,card,U. v. Aalst,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,70,,substitution,,True,,,P. v. Loon,N. Tjoe-A-On,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,71,,substitution,,True,,,V. van Crooij,E. Gürbüz,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,72,,card,V. van Crooij,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,79,,goal,P. Brittijn,False,,,,,,,0,1
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,82,,substitution,,True,,,T. Verheydt,T. Vilhena,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,82,,substitution,,True,,,C. O. Martin,J. Slory,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,83,,substitution,,False,,,K. Peterson,A. Descotte,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,83,,substitution,,False,,,S. Van Ottele,S. '. Zand,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,89,,substitution,,True,,,M. Lemmens,C. Twigt,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,90,,period,,,,,,,FT,,0,1
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,90,3,card,I. Pinto,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-19,7,Willem II Tilburg,Fortuna Sittard,0,1,90,,injuryTime,,,,,,,,3,,

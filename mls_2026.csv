@@ -7407,8 +7407,8 @@ mls_2026,2026-09-19,,CF Montréal,Columbus Crew,0,2,84,,card,S. Piette,True,yell
 mls_2026,2026-09-19,,CF Montréal,Columbus Crew,0,2,90,,period,,,,,,,FT,,0,2
 mls_2026,2026-09-19,,CF Montréal,Columbus Crew,0,2,90,,substitution,,False,,,C. Ruvalcaba,M. Farsi,,,,
 mls_2026,2026-09-19,,CF Montréal,Columbus Crew,0,2,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-09-19,,DC United,Charlotte FC,1,2,3,,card,Peglow,True,yellow,Foul,,,,,,
 mls_2026,2026-09-19,,DC United,Charlotte FC,1,2,22,,goal,A. Westwood,False,,,,,,,0,1
+mls_2026,2026-09-19,,DC United,Charlotte FC,1,2,3,,card,Peglow,True,yellow,Foul,,,,,,
 mls_2026,2026-09-19,,DC United,Charlotte FC,1,2,45,,period,,,,,,,HT,,0,1
 mls_2026,2026-09-19,,DC United,Charlotte FC,1,2,45,,injuryTime,,,,,,,,1,,
 mls_2026,2026-09-19,,DC United,Charlotte FC,1,2,46,,card,D. Schnegg,False,yellow,Foul,,,,,,
@@ -7526,6 +7526,24 @@ mls_2026,2026-09-20,,Houston Dynamo,FC Cincinnati,2,2,90,,period,,,,,,,FT,,2,2
 mls_2026,2026-09-20,,Houston Dynamo,FC Cincinnati,2,2,90,7,goal,K. Denkey,False,,,,,,,2,2
 mls_2026,2026-09-20,,Houston Dynamo,FC Cincinnati,2,2,90,4,substitution,,True,,,D. McGuire,Guilherme,,,,
 mls_2026,2026-09-20,,Houston Dynamo,FC Cincinnati,2,2,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,12,,goal,A. Dreyer,False,,,,,,,0,1
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,24,,goal,L. Messi,True,,,,,,,1,1
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,33,,card,I. Murphy,False,yellow,Foul,,,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,45,,period,,,,,,,HT,,1,1
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,45,,injuryTime,,,,,,,,5,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,62,,substitution,,False,,,C. Bakambu,M. Ingvartsen,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,64,,card,Y. Bright,True,yellow,Foul,,,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,69,,substitution,,True,,,Shaw,M. Galarza,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,69,,substitution,,True,,,S. Reguilón,F. Caicedo,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,73,,substitution,,False,,,A. Alvarado Jr,A. Godoy,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,73,,substitution,,False,,,C. McVey,I. Murphy,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,74,,goal,L. Suárez,True,,,,,,,2,1
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,81,,card,Shaw,True,yellow,Foul,,,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,82,,goal,A. Dreyer,False,,,,,,,2,2
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,87,,substitution,,True,,,D. Pinter,G. Berterame,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,90,,period,,,,,,,FT,,2,2
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,90,,substitution,,False,,,S. Vines,D. D. Þórhallsson,,,,
+mls_2026,2026-09-20,,Inter Miami CF,San Diego FC,2,2,90,,injuryTime,,,,,,,,5,,
 mls_2026,2026-09-20,,Minnesota United,LA Galaxy,2,3,12,,goal,P. Ruiz,False,,,,,,,0,1
 mls_2026,2026-09-20,,Minnesota United,LA Galaxy,2,3,23,,goal,M. Caldeira,True,,,,,,,1,1
 mls_2026,2026-09-20,,Minnesota United,LA Galaxy,2,3,26,,card,R. Taylor,False,yellow,Foul,,,,,,
@@ -7583,7 +7601,6 @@ mls_2026,2026-09-20,,Portland Timbers,Atlanta United,0,1,82,,substitution,,False
 mls_2026,2026-09-20,,Portland Timbers,Atlanta United,0,1,85,,substitution,,True,,,G. Guerra,R. Hernández,,,,
 mls_2026,2026-09-20,,Portland Timbers,Atlanta United,0,1,90,,period,,,,,,,FT,,0,1
 mls_2026,2026-09-20,,Portland Timbers,Atlanta United,0,1,90,,injuryTime,,,,,,,,4,,
-mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,9,,goal,B. White,False,,,,,,,0,1
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,29,,goal,T. Müller,False,,,,,,,0,2
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,45,,period,,,,,,,HT,,0,2
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,45,,injuryTime,,,,,,,,3,,
@@ -7604,10 +7621,10 @@ mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,80,,substitution,,Fa
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,81,,card,Y. Diaby,False,yellow,Foul,,,,,,
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,81,,substitution,,False,,,R. Elloumi,B. White,,,,
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,87,,substitution,,False,,,B. Quiñonez,Y. Diaby,,,,
+mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,9,,goal,B. White,False,,,,,,,0,1
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,90,,period,,,,,,,FT,,0,3
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,90,1,card,É. Ocampo,False,yellow,Foul,,,,,,
 mls_2026,2026-09-20,,Real Salt Lake,Vancouver Whitecaps,0,3,90,,injuryTime,,,,,,,,5,,
-mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,5,,goal,André Luiz,True,,,,,,,1,0
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,10,,goal,André Luiz,True,,,,,,,2,0
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,16,,goal,W. Meyer,True,,,,,,,3,0
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,45,,period,,,,,,,HT,,3,0
@@ -7616,6 +7633,7 @@ mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,45,,injuryTime,
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,45,,card,J. Bueno,False,yellow,Argument,,,,,,
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,46,,substitution,,False,,,Q. Sullivan,I. Vassilev,,,,
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,46,,substitution,,True,,,J. Bartlett,K. Agyabeng,,,,
+mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,5,,goal,André Luiz,True,,,,,,,1,0
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,53,,card,L. B. Johnsen,True,yellow,Foul,,,,,,
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,64,,goal,B. Damiani,False,,,,,,,3,1
 mls_2026,2026-09-20,,Sporting Kansas City,Philadelphia Union,3,4,66,,goal,C. Sullivan,False,,,,,,,3,2

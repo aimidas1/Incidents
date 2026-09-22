@@ -984,7 +984,6 @@ italia_serie_a_2026_2027,2026-09-20,5,Juventus,Atalanta,2,0,86,,substitution,,Tr
 italia_serie_a_2026_2027,2026-09-20,5,Juventus,Atalanta,2,0,89,,substitution,,True,,,L. Kelly,R. Kolo Muani,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Juventus,Atalanta,2,0,90,,period,,,,,,,FT,,2,0
 italia_serie_a_2026_2027,2026-09-20,5,Juventus,Atalanta,2,0,90,,injuryTime,,,,,,,,3,,
-italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,9,,card,D. Drobnic ,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,14,,card,S. Otoa,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,38,,goal,D. Romero,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,44,,card,A. Marcandalli,False,yellow,Argument,,,,,,
@@ -1003,6 +1002,7 @@ italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,81,,substitution,,True,,,C
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,85,,card,E. Delprato,True,yellow,Argument,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,85,,substitution,,False,,,H. J. Traorè,J. Messias,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,85,,substitution,,False,,,Vitinha,D. Sow,,,,
+italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,9,,card,D. Drobnic ,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,,period,,,,,,,FT,,2,1
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,3,card,M. Troilo,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,2,card,M. Ellertsson,False,yellow,Foul,,,,,,

@@ -8430,6 +8430,44 @@ argentina_primera_division_2026,2026-09-20,10,San Lorenzo,Boca Juniors,0,2,83,,s
 argentina_primera_division_2026,2026-09-20,10,San Lorenzo,Boca Juniors,0,2,83,,substitution,,False,,,S. Villa,M. Merentiel,,,,
 argentina_primera_division_2026,2026-09-20,10,San Lorenzo,Boca Juniors,0,2,90,,period,,,,,,,FT,,0,2
 argentina_primera_division_2026,2026-09-20,10,San Lorenzo,Boca Juniors,0,2,90,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,25,,substitution,,True,,,L. Sigali,N. Breitenbruch,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,45,,substitution,,True,,,S. Moya,E. López,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,46,,substitution,,True,,,B. Palavecino,N. Cordero,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,56,,goal,T. Fernández,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,59,,substitution,,False,,,R. R. Rodríguez,R. Tesuri,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,60,,substitution,,False,,,A. Canelo,N. Laméndola,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,73,,substitution,,True,,,F. Anso,T. Fernández,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,73,,substitution,,True,,,F. Perruzzi,L. Castro,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,75,,substitution,,False,,,R. Granillo,J. Fernández,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,75,,substitution,,False,,,J. Infante,I. Galván,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,84,,varDecision,L. Sigali,True,,,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,90,,period,,,,,,,FT,,1,0
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,90,3,card,F. Perruzzi,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Aldosivi,Atlético Tucumán,1,0,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,12,,goal,J. Florentín,False,,,,,,,0,1
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,45,2,card,E. Pereyra,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,53,,substitution,,True,,,G. Maroni,E. Rolón,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,60,,card,N. Demartini,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,61,,substitution,,True,,,R. Insúa,E. Pereyra,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,61,,substitution,,True,,,E. Taborda,R. Bogarín,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,68,,substitution,,False,,,L. Bucca,M. Salas,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,68,,substitution,,False,,,T. Bottari,L. Sequeira,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,77,,substitution,,True,,,F. Bruera,N. Briasco,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,77,,substitution,,True,,,D. Martínez,R. Barrios,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,77,,substitution,,False,,,L. Díaz,F. Sartori,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,81,,card,R. Insúa,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,89,,card,L. Gómez,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,89,,card,E. Taborda,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,90,,period,,,,,,,FT,,0,1
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,90,4,card,M. A. Miño,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,90,3,card,G. Maroni,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,90,,substitution,,False,,,A. Vigo,L. Gómez,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,90,,substitution,,False,,,G. Ríos,M. Fernández,,,,
+argentina_primera_division_2026,2026-09-21,10,Barracas Central,Independiente Rivadavia,0,1,90,,injuryTime,,,,,,,,5,,
 argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,14,,goal,R. Martinez,True,,,,,,,1,0
 argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,45,,period,,,,,,,HT,,1,0
 argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,45,,injuryTime,,,,,,,,1,,
@@ -8447,3 +8485,24 @@ argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,89,,goa
 argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,90,,period,,,,,,,FT,,3,2
 argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,90,1,substitution,,True,,,D. Godoy,R. Martinez,,,,
 argentina_primera_division_2026,2026-09-21,10,Vélez Sarsfield,Tigre,3,2,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,13,,goal,G. Lobos,True,,,,,,,1,0
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,25,,card,L. G. Pírez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,31,,substitution,,True,,,A. Medina,F. P. Biafore,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,60,,substitution,,False,,,B. Rodriguez,A. Castro,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,60,,substitution,,False,,,E. Cetré,J. Tobio Burgos,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,60,,goal,E. Salvio,True,,,,,,,2,0
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,64,,substitution,,True,,,Y. Valois,A. Wlk,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,64,,substitution,,True,,,G. Perez,L. Besozzi,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,73,,substitution,,False,,,J. Elias,E. Piovi,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,73,,substitution,,False,,,G. Carrillo,F. Pérez,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,80,,substitution,,True,,,T. Laplace,E. Salvio,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,80,,substitution,,True,,,M. Moreno,G. Lobos,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,83,,card,S. Marcich,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,84,,goal,L. G. Pírez,False,,,,,,,2,1
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,86,,substitution,,False,,,B. Aguirre,G. Benedetti,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,,period,,,,,,,FT,,2,1
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,5,card,Y. Valois,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,4,card,E. Meza,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,,injuryTime,,,,,,,,6,,

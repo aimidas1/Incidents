@@ -1109,7 +1109,6 @@ portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,85
 portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,88,,card,P. Carvalho,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,90,,period,,,,,,,FT,,1,0
 portugal_liga_betclic_2026_2027,2026-09-14,6,Sporting Braga,Estoril Praia,1,0,90,,injuryTime,,,,,,,,5,,
-portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,7,,goal,G. Koutsias,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,13,,goal,Sorriso,False,,,,,,,0,2
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,28,,card,V. Rofino,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,40,,goal,G. Koutsias,False,,,,,,,0,3
@@ -1121,6 +1120,7 @@ portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,46,,subs
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,61,,substitution,,True,,,P. Messias Cardozo,M. Djaló,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,63,,card,P. Bondo,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,67,,goal,Sorriso,False,,,,,,,0,4
+portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,7,,goal,G. Koutsias,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,71,,card,W. Kokolo,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,72,,substitution,,True,,,Wesley Gasolina,D. d. L. Cruz,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,CD Nacional,Famalicão,0,4,73,,substitution,,False,,,P. Santos,G. Dias,,,,
@@ -1152,7 +1152,6 @@ portugal_liga_betclic_2026_2027,2026-09-19,7,FC Alverca,Rio Ave,1,0,90,,period,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,FC Alverca,Rio Ave,1,0,90,5,card,F. Petrasso,False,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,FC Alverca,Rio Ave,1,0,90,3,card,A. Vidigal,True,yellow,Time wasting,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,FC Alverca,Rio Ave,1,0,90,,injuryTime,,,,,,,,4,,
-portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,7,,goal,Murilo,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,45,,period,,,,,,,HT,,1,0
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,45,,injuryTime,,,,,,,,2,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,46,,substitution,,False,,,N. Varela,V. Danilović,,,,
@@ -1160,6 +1159,7 @@ portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,54,,ca
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,56,,card,R. Andrade,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,67,,substitution,,False,,,I. Ayuma,M. Dominguez,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,67,,substitution,,False,,,M. Boakye,A. Butzke,,,,
+portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,7,,goal,Murilo,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,71,,substitution,,True,,,M. S. Kaba,H. Hernández,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,78,,substitution,,False,,,I. Alani,R. Andrade,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,78,,substitution,,False,,,M. Bassouamina,M. Tejón,,,,
@@ -1169,8 +1169,8 @@ portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,88,,su
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,90,,period,,,,,,,FT,,1,1
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,90,3,goal,I. Ayuma,False,,,,,,,1,1
 portugal_liga_betclic_2026_2027,2026-09-19,7,Gil Vicente,CS Marítimo,1,1,90,,injuryTime,,,,,,,,5,,
-portugal_liga_betclic_2026_2027,2026-09-19,7,Sporting CP,FC Arouca,2,2,3,,goal,G. Inácio,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-09-19,7,Sporting CP,FC Arouca,2,2,17,,goal,L. J. Suárez ,True,,,,,,,2,0
+portugal_liga_betclic_2026_2027,2026-09-19,7,Sporting CP,FC Arouca,2,2,3,,goal,G. Inácio,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-09-19,7,Sporting CP,FC Arouca,2,2,36,,card,E. v. Ee,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Sporting CP,FC Arouca,2,2,44,,card,J. Sánchez,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-19,7,Sporting CP,FC Arouca,2,2,45,,period,,,,,,,HT,,2,0
@@ -1240,7 +1240,6 @@ portugal_liga_betclic_2026_2027,2026-09-20,7,Estoril Praia,Casa Pia,1,2,89,,goal
 portugal_liga_betclic_2026_2027,2026-09-20,7,Estoril Praia,Casa Pia,1,2,90,,period,,,,,,,FT,,1,2
 portugal_liga_betclic_2026_2027,2026-09-20,7,Estoril Praia,Casa Pia,1,2,90,5,card,A. Jatta,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-20,7,Estoril Praia,Casa Pia,1,2,90,,injuryTime,,,,,,,,7,,
-portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,5,,card,G. Veiga,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,25,,card,C. Lenglet,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,31,,goal,G. Veiga,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,34,,card,G. Prestianni,False,yellow,Argument,,,,,,
@@ -1249,6 +1248,7 @@ portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,38,,substituti
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,38,,substitution,,True,,,H. In-beom,G. Veiga,,,,
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,45,,period,,,,,,,HT,,1,0
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,5,,card,G. Veiga,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,51,,goal,A. Bah,False,,,,,,,1,1
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,54,,goal,V. Froholdt,True,,,,,,,2,1
 portugal_liga_betclic_2026_2027,2026-09-20,7,FC Porto,Benfica,3,1,60,,goal,H. In-beom,True,,,,,,,3,1

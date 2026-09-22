@@ -1091,10 +1091,9 @@ turquia_super_lig_2026_2027,2026-09-20,6,Erzurumspor FK,Samsunspor,1,0,86,,card,
 turquia_super_lig_2026_2027,2026-09-20,6,Erzurumspor FK,Samsunspor,1,0,90,,period,,,,,,,FT,,1,0
 turquia_super_lig_2026_2027,2026-09-20,6,Erzurumspor FK,Samsunspor,1,0,90,,injuryTime,,,,,,,,3,,
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,1,,varDecision,V. Muriqi,True,,,,,,,,
-turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,4,,goal,M. Greenwood,True,,,,,,,1,0
-turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,7,,goal,V. Muriqi,True,,,,,,,2,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,21,,goal,V. Muriqi,True,,,,,,,3,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,38,,goal,M. Guendouzi,True,,,,,,,4,0
+turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,4,,goal,M. Greenwood,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,45,,period,,,,,,,HT,,5,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,45,1,goal,İ. C. Kahveci,True,,,,,,,5,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,45,,injuryTime,,,,,,,,2,,
@@ -1105,6 +1104,7 @@ turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,47,,goal,V. M
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,55,,goal,V. Muriqi,True,,,,,,,7,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,58,,substitution,,False,,,Y. Barası,B. Boutobba,,,,
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,69,,substitution,,True,,,R. Lukaku,V. Muriqi,,,,
+turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,7,,goal,V. Muriqi,True,,,,,,,2,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,70,,substitution,,True,,,O. Aydın,K. Aktürkoğlu,,,,
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,70,,substitution,,True,,,K. P. Oppong,M. Škriniar,,,,
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,80,,goal,M. Greenwood,True,,,,,,,8,0
@@ -1115,9 +1115,9 @@ turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,89,,card,S. A
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,89,,card,R. Lukaku,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,90,,period,,,,,,,FT,,8,0
 turquia_super_lig_2026_2027,2026-09-20,6,Fenerbahçe,Eyüpspor,8,0,90,,injuryTime,,,,,,,,3,,
-turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,2,,goal,A. Kurtulan,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,16,,card,A. Kurtulan,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,18,,card,A. Matos,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,2,,goal,A. Kurtulan,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,45,,period,,,,,,,HT,,1,0
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,45,,injuryTime,,,,,,,,4,,
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,58,,substitution,,False,,,Z. Ariss,T. Şahin,,,,

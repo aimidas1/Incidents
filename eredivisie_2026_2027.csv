@@ -1224,8 +1224,6 @@ eredivisie_2026_2027,2026-09-20,7,FC Twente,PSV Eindhoven,3,2,83,,goal,D. Weidma
 eredivisie_2026_2027,2026-09-20,7,FC Twente,PSV Eindhoven,3,2,86,,substitution,,True,,,T. V. d. Belt,Y. Taha,,,,
 eredivisie_2026_2027,2026-09-20,7,FC Twente,PSV Eindhoven,3,2,90,,period,,,,,,,FT,,3,2
 eredivisie_2026_2027,2026-09-20,7,FC Twente,PSV Eindhoven,3,2,90,,injuryTime,,,,,,,,3,,
-eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,6,,goal,A. H. Moussa,True,,,,,,,1,0
-eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,9,,goal,N. Ferri,True,,,,,,,2,0
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,31,,substitution,,False,,,J. Overeem,A. Stepanov,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,33,,goal,A. H. Moussa,True,,,,,,,3,0
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,45,,period,,,,,,,HT,,3,0
@@ -1234,6 +1232,7 @@ eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,46,,substitution,,Fal
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,46,,substitution,,False,,,M. Broholm,D. v. d. Berg,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,46,,substitution,,False,,,Y. Cathline,Á. Alarcón,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,53,,goal,L. Valente,True,,,,,,,4,0
+eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,6,,goal,A. H. Moussa,True,,,,,,,1,0
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,61,,substitution,,True,,,G. Diarra,N. Ferri,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,61,,substitution,,True,,,J. López,M. Mármol,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,62,,card,M. Broholm,False,yellow,Foul,,,,,,
@@ -1245,10 +1244,11 @@ eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,70,,card,J. López,Tr
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,73,,card,G. Diarra,True,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,78,,substitution,,True,,,R. Nelson,O. Targhalline,,,,
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,80,,card,N. Panagiotou,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,9,,goal,N. Ferri,True,,,,,,,2,0
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,90,,period,,,,,,,FT,,5,0
 eredivisie_2026_2027,2026-09-20,7,Feyenoord,FC Utrecht,5,0,90,,injuryTime,,,,,,,,3,,
-eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,2,,goal,P. Schuurs,True,,,,,,,1,0
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,10,,goal,S. I. Sigurðarson,False,,,,,,,1,1
+eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,2,,goal,P. Schuurs,True,,,,,,,1,0
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,31,,card,S. Tengstedt,False,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,45,,period,,,,,,,HT,,1,1
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,46,,substitution,,True,,,B. Nuytinck,P. Schuurs,,,,

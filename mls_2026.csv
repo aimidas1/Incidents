@@ -7675,3 +7675,24 @@ mls_2026,2026-09-20,,St.Louis City,Toronto FC,3,1,90,,period,,,,,,,FT,,3,1
 mls_2026,2026-09-20,,St.Louis City,Toronto FC,3,1,90,7,goal,T. Corbeanu,False,,,,,,,3,1
 mls_2026,2026-09-20,,St.Louis City,Toronto FC,3,1,90,3,varDecision,D. Downs,True,,,,,,,,
 mls_2026,2026-09-20,,St.Louis City,Toronto FC,3,1,90,2,substitution,,True,,,T. Ostrák,C. Holse,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,10,,card,K. Kossa-Rienzi,True,yellow,Persistent fouling,,,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,41,,card,P. Arriola,True,yellow,Foul,,,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,46,,substitution,,True,,,P. Kingston,K. Kossa-Rienzi,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,46,,substitution,,True,,,S. Hawkins,A. Roldán,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,48,,goal,D. Musovski,True,,,,,,,1,0
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,50,,card,P. Kingston,True,yellow,Foul,,,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,55,,card,S. Brunell,True,yellow,Foul,,,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,57,,card,K. Henry,False,yellow,Foul,,,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,63,,substitution,,True,,,J. Morris,D. Musovski,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,63,,substitution,,True,,,H. Dotson,S. Brunell,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,71,,substitution,,False,,,S. Lobzhanidze,L. Moisa,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,73,,goal,A. Rusnák,True,,,,,,,2,0
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,78,,substitution,,False,,,C. Guske,S. Spierings,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,78,,substitution,,False,,,L. Rodrigues,S. Solans,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,78,,substitution,,False,,,T. Booth,M. Guilavogui,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,82,,substitution,,True,,,C. Clark,P. Arriola,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,87,,card,D. Yedlin,False,yellow,Foul,,,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,88,,substitution,,False,,,L. O’Gara,N. Caliskan,,,,
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,90,,period,,,,,,,FT,,2,0
+mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,90,,injuryTime,,,,,,,,6,,

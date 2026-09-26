@@ -6235,3 +6235,39 @@ brasileirao_serie_b_2026,2026-09-22,29,Cuiabá,Náutico,3,0,80,,card,Wanderson,F
 brasileirao_serie_b_2026,2026-09-22,29,Cuiabá,Náutico,3,0,85,,substitution,,True,,,R. Rodrigues,Igor,,,,
 brasileirao_serie_b_2026,2026-09-22,29,Cuiabá,Náutico,3,0,90,,period,,,,,,,FT,,3,0
 brasileirao_serie_b_2026,2026-09-22,29,Cuiabá,Náutico,3,0,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,38,,card,H. Maciel,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,45,,injuryTime,,,,,,,,1,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,52,,varDecision,Robson,True,,,,,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,58,,card,Augusto,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,60,,substitution,,True,,,Vinicius Paiva,N. Careca,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,60,,substitution,,True,,,Juninho,Reidiney,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,60,,substitution,,False,,,Fabrício Daniel,F. Garcia,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,70,,substitution,,True,,,Carlão,L. Naldi,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,74,,substitution,,False,,,D. D. S. Roque,Pedrinho,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,74,,substitution,,False,,,L. Lima,Foguinho,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,85,,substitution,,True,,,D. Galo,Robson,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,85,,substitution,,True,,,L. O. Maria,Rômulo,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,85,,substitution,,False,,,Echaporã,P. Vitor,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,85,,substitution,,False,,,Pará,M. Sergio,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,90,,period,,,,,,,FT,,0,0
+brasileirao_serie_b_2026,2026-09-25,30,Grêmio Novorizontino,São Bernardo,0,0,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,29,,card,K. Leonardo,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,33,,card,C. Rodrigues,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,45,2,goal,Everton Galdino,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,50,,goal,J. Costa,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,54,,substitution,,False,,,N. Paraíba,K. Leonardo,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,54,,substitution,,False,,,G. Cachoeira,Tarik,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,54,,substitution,,False,,,L. Marques,J. Coni,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,60,,substitution,,False,,,Juninho,G. Portuga,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,61,,substitution,,True,,,Nathan Camargo,Hayner,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,66,,substitution,,False,,,J. Tavares,N. Paraíba,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,68,,card,J. Vitor,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,72,,substitution,,True,,,B. Xavier,Everton Galdino,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,72,,substitution,,True,,,Lincoln,A. Luís,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,83,,substitution,,True,,,Willian Maranhão,D. D. Santos,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,83,,substitution,,True,,,Emerson Urso,Janderson,,,,
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,90,,injuryTime,,,,,,,,4,,

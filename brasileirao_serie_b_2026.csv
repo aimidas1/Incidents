@@ -6271,3 +6271,65 @@ brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,83,,substitutio
 brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,83,,substitution,,True,,,Emerson Urso,Janderson,,,,
 brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,90,,period,,,,,,,FT,,2,0
 brasileirao_serie_b_2026,2026-09-25,30,Vila Nova FC,Londrina,2,0,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,33,,goal,G. Lopes,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,33,,substitution,,False,,,Ewerthon,Warley,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,46,,substitution,,True,,,F. Clemente,Pedrinho,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,48,,card,Lourenço,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,50,,card,Netinho,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,62,,substitution,,False,,,Cristiano,Netinho,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,62,,substitution,,False,,,H. Freitas,Marrony,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,65,,substitution,,True,,,Cadu,L. Lima,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,65,,substitution,,True,,,Nicolas,R. Soares,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,74,,substitution,,True,,,Gegê,Lourenço,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,78,,substitution,,False,,,Tito,G. Soares,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,78,,substitution,,False,,,B. José,G. Maia,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,80,,card,Luiz Felipe,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,84,,substitution,,True,,,W. Rato,J. Carlos,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,87,,card,Nicolas,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,90,,period,,,,,,,FT,,0,1
+brasileirao_serie_b_2026,2026-09-26,30,Goiás,Atlético Goianiense,0,1,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,26,,card,Wenderson,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,45,2,goal,Vinícius,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,46,,substitution,,False,,,J. Alano,F. Sobral,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,46,,substitution,,True,,,Reginaldo,Arnaldo,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,46,,substitution,,False,,,Claudinho,A. Pucci,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,48,,goal,J. Carlos,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,57,,substitution,,True,,,G. Henrique,Ryan,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,58,,substitution,,True,,,B. Borasi,Derek,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,61,,substitution,,False,,,P. de Paula,Diego Hernández,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,67,,substitution,,True,,,P. Sérgio,Todinho,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,71,,substitution,,False,,,N. Pessoa,Perotti,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,71,,substitution,,False,,,K. Andrade,Marlon,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,72,,goal,G. Henrique,True,,,,,,,3,0
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,74,,substitution,,True,,,K. Maranhão,J. Carlos,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,83,,card,R. Lopes,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,90,,period,,,,,,,FT,,3,1
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,90,1,goal,N. Pessoa,False,,,,,,,3,1
+brasileirao_serie_b_2026,2026-09-26,30,Náutico,Sport Recife,3,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,9,,goal,G. Boschilia,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,42,,substitution,,True,,,Aylon,Maxwell,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,45,2,card,Júlio César,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,45,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,46,,substitution,,False,,,M. Araújo,E. Lodovico,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,60,,goal,C. Dantas,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,61,,substitution,,False,,,Vina,R. Santana,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,64,,substitution,,True,,,N. Paraíba,G. Boschilia,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,65,,substitution,,True,,,Moraes Júnior,C. Dantas,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,69,,goal,M. Araújo,False,,,,,,,2,1
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,77,,goal,Vina,False,,,,,,,2,2
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,77,,varDecision,L. Otávio,False,,,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,81,,substitution,,True,,,Vinicius Mingotti,H. Pereira,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,82,,substitution,,True,,,Índio,M. Trindade,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,86,,card,Sánchez,False,yellow,Time wasting,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,89,,card,B. Borges,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,90,,period,,,,,,,FT,,2,2
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,90,6,substitution,,False,,,Éder,B. Borges,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,90,6,substitution,,False,,,G. Pavani,J. Gabriel,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,90,5,card,Moraes Júnior,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,90,,substitution,,False,,,L. Mugni,Melk,,,,
+brasileirao_serie_b_2026,2026-09-26,30,Operário-PR,Ceará,2,2,90,,injuryTime,,,,,,,,8,,

@@ -7696,11 +7696,11 @@ mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,87,,card,D. Yedlin,F
 mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,88,,substitution,,False,,,L. O’Gara,N. Caliskan,,,,
 mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,90,,period,,,,,,,FT,,2,0
 mls_2026,2026-09-24,,Seattle Sounders FC,Real Salt Lake,2,0,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,5,,goal,M. Edwards,False,,,,,,,0,1
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,10,,goal,G. Galoppo,True,,,,,,,1,1
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,43,,card,L. Brennan,True,yellow,Persistent fouling,,,,,,
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,45,,period,,,,,,,HT,,1,1
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,45,,injuryTime,,,,,,,,3,,
+mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,5,,goal,M. Edwards,False,,,,,,,0,1
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,55,,substitution,,True,,,D. Chica,T. Jacob,,,,
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,56,,goal,A. Perea,False,,,,,,,1,2
 mls_2026,2026-09-26,,Atlanta United,New York City FC,2,2,67,,substitution,,True,,,A. Fortune,C. Sanchez,,,,
@@ -7798,6 +7798,33 @@ mls_2026,2026-09-27,,Austin FC,San Diego FC,3,3,89,,substitution,,False,,,A. Alv
 mls_2026,2026-09-27,,Austin FC,San Diego FC,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-09-27,,Austin FC,San Diego FC,3,3,90,5,substitution,,False,,,B. Zamblé,A. Godoy,,,,
 mls_2026,2026-09-27,,Austin FC,San Diego FC,3,3,90,,injuryTime,,,,,,,,8,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,24,,varDecision,J. Martínez,True,,,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,27,,card,Casemiro,False,yellow,Argument,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,28,,goal,J. Martínez,True,,,,,,,1,0
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,33,,goal,L. Messi,False,,,,,,,1,1
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,38,,card,D. Chambost,True,yellow,,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,40,,substitution,,False,,,D. Ayala,Y. Bright,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,45,,period,,,,,,,HT,,1,1
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,45,,injuryTime,,,,,,,,7,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,67,,card,Micael,False,yellow,Foul,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,71,,substitution,,False,,,Riquelme,F. Mura,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,75,,card,B. Méndez,True,yellow,Time wasting,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,78,,card,E. Bailly,True,yellow,Argument,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,78,,substitution,,True,,,S. T. Bangoura,D. Chambost,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,80,,card,D. Pinter,False,yellow,Foul,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,83,,card,S. T. Bangoura,True,yellow,Foul,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,83,,substitution,,True,,,J. Thiaré,J. Martínez,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,83,,substitution,,True,,,A. Herrera,E. Bailly,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,86,,substitution,,False,,,E. Abadia-Reda,S. Reguilón,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,86,,substitution,,False,,,S. Morales,D. Pinter,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,,period,,,,,,,FT,,2,1
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,9,card,J. Thiaré,True,yellow,,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,8,goal,J. Thiaré,True,,,,,,,2,1
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,6,card,S. Morales,False,yellowRed,Time wasting,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,3,card,S. Morales,False,yellow,,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,2,card,G. Luján,False,yellow,Foul,,,,,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,,injuryTime,,,,,,,,9,,
+mls_2026,2026-09-27,,Columbus Crew,Inter Miami CF,2,1,90,,card,L. Barraza,False,yellow,Argument,,,,,,
 mls_2026,2026-09-27,,FC Dallas,Los Angeles FC,1,0,23,,card,A. Sieb,False,yellow,Foul,,,,,,
 mls_2026,2026-09-27,,FC Dallas,Los Angeles FC,1,0,34,,goal,O. Urhoghide,True,,,,,,,1,0
 mls_2026,2026-09-27,,FC Dallas,Los Angeles FC,1,0,44,,card,R. Porteous,False,yellow,Argument,,,,,,
@@ -7840,10 +7867,10 @@ mls_2026,2026-09-27,,Houston Dynamo,Sporting Kansas City,0,2,80,,substitution,,F
 mls_2026,2026-09-27,,Houston Dynamo,Sporting Kansas City,0,2,82,,substitution,,True,,,D. McGuire,M. Bogusz,,,,
 mls_2026,2026-09-27,,Houston Dynamo,Sporting Kansas City,0,2,90,,period,,,,,,,FT,,0,2
 mls_2026,2026-09-27,,Houston Dynamo,Sporting Kansas City,0,2,90,,injuryTime,,,,,,,,4,,
-mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,4,,goal,D. Phillip,False,,,,,,,0,1
 mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,10,,card,K. Rosenberry,False,yellow,Foul,,,,,,
 mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,31,,card,R. Holding,False,yellow,Foul,,,,,,
 mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,39,,goal,P. Aaronson,False,,,,,,,0,2
+mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,4,,goal,D. Phillip,False,,,,,,,0,1
 mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,45,,period,,,,,,,HT,,0,2
 mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,45,,injuryTime,,,,,,,,2,,
 mls_2026,2026-09-27,,LA Galaxy,Colorado Rapids,3,2,46,,card,P. Ruiz,True,yellow,Foul,,,,,,
@@ -7896,10 +7923,10 @@ mls_2026,2026-09-27,,Real Salt Lake,New England Revolution,3,0,86,,substitution,
 mls_2026,2026-09-27,,Real Salt Lake,New England Revolution,3,0,89,,substitution,,True,,,J. Shokalook,M. Guilavogui,,,,
 mls_2026,2026-09-27,,Real Salt Lake,New England Revolution,3,0,90,,period,,,,,,,FT,,3,0
 mls_2026,2026-09-27,,Real Salt Lake,New England Revolution,3,0,90,,injuryTime,,,,,,,,5,,
-mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,4,,goal,P. Judd,True,,,,,,,1,0
 mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,24,,goal,E. Löwen,True,,,,,,,2,0
 mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,29,,goal,P. Judd,True,,,,,,,3,0
 mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,30,,card,P. Judd,True,yellow,,,,,,,
+mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,4,,goal,P. Judd,True,,,,,,,1,0
 mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,40,,card,R. Roberts,True,yellow,Foul,,,,,,
 mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,45,,period,,,,,,,HT,,3,0
 mls_2026,2026-09-27,,San Jose Earthquakes,Portland Timbers,3,1,45,,injuryTime,,,,,,,,5,,

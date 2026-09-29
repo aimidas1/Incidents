@@ -1821,3 +1821,29 @@ liga_mx_apertura_2026,2026-09-28,10,Club León,FC Juárez,2,1,90,5,substitution,
 liga_mx_apertura_2026,2026-09-28,10,Club León,FC Juárez,2,1,90,4,goal,Ó. Estupiñán,False,,,,,,,1,1
 liga_mx_apertura_2026,2026-09-28,10,Club León,FC Juárez,2,1,90,1,varDecision,S. Jurado,False,,,,,,,,
 liga_mx_apertura_2026,2026-09-28,10,Club León,FC Juárez,2,1,90,,injuryTime,,,,,,,,9,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,33,,card,E. Sánchez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,37,,goal,O. González,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,39,,goal,H. Martín,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,43,,goal,J. Carranza,True,,,,,,,2,1
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,45,,period,,,,,,,HT,,2,2
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,45,10,goal,H. Martín,False,,,,,,,2,2
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,45,7,varDecision,H. Martín,False,,,,,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,56,,goal,M. Borja,False,,,,,,,2,3
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,62,,card,R. Martínez,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,63,,substitution,,True,,,J. Ruiz,O. González,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,63,,substitution,,True,,,M. Zaleta,C. A. V. Tenorio,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,72,,substitution,,True,,,K. Rosero,R. Martínez,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,72,,substitution,,True,,,J. Torres,M. Espíndola,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,75,,substitution,,False,,,I. Conceição,E. Cerrillo,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,75,,substitution,,False,,,A. Cardenas,M. Borja,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,75,,substitution,,False,,,A. Gutiérrez,C. Álvarez,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,75,,goal,H. Martín,False,,,,,,,2,4
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,82,,substitution,,False,,,K. Álvarez,D. Espinoza,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,82,,substitution,,False,,,D. Jiménez,A. Zendejas,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,82,,substitution,,True,,,J. Valencia,E. Rodriguez,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,87,,card,D. Ochoa,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,,period,,,,,,,FT,,2,4
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,5,card,C. Borja,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,,card,J. Ruiz,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,,injuryTime,,,,,,,,6,,

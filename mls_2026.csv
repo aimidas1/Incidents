@@ -7984,3 +7984,21 @@ mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,86,,substitution,,False,,
 mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,86,,substitution,,False,,,S. Nealis,N. Ordaz,,,,
 mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,90,,injuryTime,,,,,,,,6,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,5,,goal,R. Navarro,False,,,,,,,0,1
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,35,,card,T. Baumgartl,False,yellow,Foul,,,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,45,,injuryTime,,,,,,,,1,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,63,,substitution,,True,,,C. Faello,D. Padelford,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,64,,substitution,,True,,,P. Castro,J. Ruvalcaba,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,71,,substitution,,False,,,J. Sang-bin,C. Holse,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,71,,substitution,,False,,,S. Becher,A. Mățan,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,84,,substitution,,True,,,N. Worth,S. Kone,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,85,,substitution,,False,,,T. Ostrák,R. Navarro,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,85,,substitution,,False,,,L. MacNaughton,D. Edelman,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,86,,card,E. Forsberg,True,yellow,Argument,,,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,87,,goal,S. Becher,False,,,,,,,0,2
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,87,,substitution,,True,,,R. Voloder,T. Parker,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,87,,substitution,,True,,,A. Rojas,M. Sofo,,,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,90,,period,,,,,,,FT,,0,3
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,90,1,goal,T. Ostrák,False,,,,,,,0,3
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,90,,injuryTime,,,,,,,,6,,

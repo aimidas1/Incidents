@@ -7984,10 +7984,10 @@ mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,86,,substitution,,False,,
 mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,86,,substitution,,False,,,S. Nealis,N. Ordaz,,,,
 mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-09-27,,Vancouver Whitecaps,DC United,3,3,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,5,,goal,R. Navarro,False,,,,,,,0,1
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,35,,card,T. Baumgartl,False,yellow,Foul,,,,,,
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,45,,period,,,,,,,HT,,0,1
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,45,,injuryTime,,,,,,,,1,,
+mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,5,,goal,R. Navarro,False,,,,,,,0,1
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,63,,substitution,,True,,,C. Faello,D. Padelford,,,,
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,64,,substitution,,True,,,P. Castro,J. Ruvalcaba,,,,
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,71,,substitution,,False,,,J. Sang-bin,C. Holse,,,,
@@ -8002,3 +8002,20 @@ mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,87,,substitution,,True
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,90,,period,,,,,,,FT,,0,3
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,90,1,goal,T. Ostrák,False,,,,,,,0,3
 mls_2026,2026-09-30,,New York Red Bulls,St.Louis City,0,3,90,,injuryTime,,,,,,,,6,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,44,,goal,André Luiz,False,,,,,,,0,1
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,46,,substitution,,True,,,S. Gomez,D. Musovski,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,51,,goal,S. Gomez,True,,,,,,,1,1
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,61,,card,N. Tolo,True,yellow,Foul,,,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,63,,substitution,,True,,,C. Clark,P. Arriola,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,63,,substitution,,True,,,K. Kossa-Rienzi,S. Hawkins,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,76,,substitution,,False,,,S. Garfield-Reid,S. Afrifa,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,76,,substitution,,False,,,S. Suleymanov,André Luiz,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,76,,substitution,,False,,,Z. Bassong,C. Harris,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,79,,substitution,,False,,,J. Bartlett,L. B. Johnsen,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,89,,substitution,,True,,,M. Bronnik,P. Kingston,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,period,,,,,,,FT,,2,1
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,3,substitution,,True,,,Y. Gómez,A. Rusnák,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,1,card,J. Bartlett,False,yellow,Foul,,,,,,
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,goal,C. Roldán,True,,,,,,,2,1
+mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,injuryTime,,,,,,,,4,,

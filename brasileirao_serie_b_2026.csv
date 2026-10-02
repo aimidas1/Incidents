@@ -6437,3 +6437,45 @@ brasileirao_serie_b_2026,2026-09-29,30,Botafogo-SP,Ponte Preta,2,0,85,,substitut
 brasileirao_serie_b_2026,2026-09-29,30,Botafogo-SP,Ponte Preta,2,0,90,,period,,,,,,,FT,,2,0
 brasileirao_serie_b_2026,2026-09-29,30,Botafogo-SP,Ponte Preta,2,0,90,1,substitution,,True,,,Jonathan,Pedrinho,,,,
 brasileirao_serie_b_2026,2026-09-29,30,Botafogo-SP,Ponte Preta,2,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,14,,goal,N. Pessoa,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,20,,substitution,,False,,,Carlos De Pena,Marlon,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,24,,goal,K. Rodrigues,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,26,,card,Max,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,33,,goal,Carlos De Pena,False,,,,,,,1,2
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,42,,substitution,,True,,,W. Aponzá,P. Oliveira,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,45,,period,,,,,,,HT,,1,2
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,45,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,46,,substitution,,False,,,P. de Paula,J. Alano,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,59,,substitution,,True,,,Yarlen,Y. Santos,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,65,,card,Carlos De Pena,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,65,,card,B. Fonseca,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,70,,substitution,,False,,,Perotti,N. Pessoa,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,70,,substitution,,False,,,Zé Gabriel,B. Fonseca,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,73,,substitution,,True,,,Bruninho,Enzo,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,73,,substitution,,True,,,D. Vera,Douglas,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,73,,substitution,,True,,,F. Negrucci,J. Miguel,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,73,,card,K. Lindes,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,90,4,substitution,,False,,,E. Lucas,Carlos De Pena,,,,
+brasileirao_serie_b_2026,2026-10-01,31,Athletic Club,Sport Recife,1,2,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,20,,goal,Rômulo,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,58,,substitution,,False,,,D. C. d. Silva,Djalma,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,59,,substitution,,False,,,G. B. d. Camargo,Juninho,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,59,,substitution,,False,,,A. Ramon,Cadu,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,61,,goal,Robson,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,69,,substitution,,True,,,M. Jesus,N. Careca,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,70,,substitution,,False,,,Pedrinho,L. Lima,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,70,,substitution,,False,,,F. Clemente,J. Carlos,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,70,,substitution,,True,,,R. Barcellos,Reidiney,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,78,,substitution,,True,,,L. Naldi,M. Bianqui,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,78,,substitution,,True,,,Carlão,Robson,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,81,,card,Patrick,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,85,,card,Sander,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,86,,card,R. Barcellos,True,yellow,Time wasting,,,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,87,,substitution,,True,,,Juninho,Rômulo,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,90,,period,,,,,,,FT,,3,0
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,90,3,goal,Juninho,True,,,,,,,3,0
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,90,2,card,F. Clemente,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-02,31,Grêmio Novorizontino,Goiás,3,0,90,,injuryTime,,,,,,,,4,,

@@ -8506,3 +8506,74 @@ argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,
 argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,5,card,Y. Valois,True,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,4,card,E. Meza,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-09-22,10,CA Lanús,Estudiantes de La Plata,2,1,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,13,,card,M. Tissera,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,16,,goal,J. Lázaro,False,,,,,,,0,1
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,21,,card,L. Mosevich,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,22,,goal,M. Meza,True,,,,,,,1,1
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,23,,varDecision,M. Meza,True,,,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,29,,card,I. Marcone,True,yellow,Time wasting,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,40,,card,M. Ledesma,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,40,,card,M. Meza,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,44,,card,M. Meza,True,yellowRed,Foul,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,45,,period,,,,,,,HT,,1,1
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,46,,substitution,,False,,,H. De La Fuente,G. Cerato,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,51,,goal,H. De La Fuente,False,,,,,,,1,2
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,62,,substitution,,True,,,L. Millán,M. Abaldo,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,62,,substitution,,True,,,N. Banegas,R. Martino,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,65,,goal,M. Gallardo,False,,,,,,,1,3
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,66,,substitution,,False,,,F. Suárez,M. Tissera,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,73,,substitution,,True,,,F. Tempone,M. Pérez,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,80,,goal,A. Luna,False,,,,,,,1,4
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,81,,substitution,,False,,,I. Méndez,G. Abregú,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,81,,substitution,,False,,,L. Sanseviero,J. Lázaro,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,87,,substitution,,True,,,C. Ávila,I. Morales,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,87,,substitution,,False,,,J. Acevedo,M. Gallardo,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,88,,substitution,,True,,,S. Arias,L. Godoy,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,90,,period,,,,,,,FT,,1,4
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,90,2,card,S. Arias,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-02,11,CA Independiente,Instituto De Córdoba,1,4,90,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,7,,card,F. Herrera,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,17,,card,L. Paredes,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,21,,card,J. Mosqueira,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,22,,goal,L. D. Lollo,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,39,,card,C. Tarragona,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,45,,card,I. Malcorra,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,46,,substitution,,False,,,L. Menossi,J. Mosqueira,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,60,,substitution,,True,,,E. Valencia,M. Merentiel,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,61,,substitution,,True,,,L. Flores,A. Velasco,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,61,,substitution,,True,,,C. Palacios,S. Villa,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,64,,substitution,,False,,,M. Estigarribia,B. Cuello,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,66,,card,L. Ayala,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,72,,card,M. Luna,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,73,,substitution,,False,,,B. Pittón,L. Ayala,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,73,,substitution,,False,,,E. Ramírez,J. Palacios,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,83,,goal,L. Flores,True,,,,,,,2,0
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,84,,substitution,,True,,,Á. Romero,S. Ascacíbar,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,86,,substitution,,True,,,W. Alarcón,L. Paredes,,,,
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,90,,period,,,,,,,FT,,3,0
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,90,2,goal,L. Flores,True,,,,,,,3,0
+argentina_primera_division_2026,2026-10-03,11,Boca Juniors,Club Atlético Unión de Santa Fe,3,0,90,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,5,,goal,J. M. Elordi,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,23,,card,M. Fernández,True,yellow,Time wasting,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,46,,substitution,,True,,,E. Bonifacio,L. Gómez,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,51,,card,I. Miramón,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,62,,substitution,,True,,,I. Villalba,E. Bonifacio,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,66,,substitution,,False,,,A. Colazo,M. Seoane,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,66,,substitution,,False,,,F. Torres,M. Zalazar,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,70,,substitution,,False,,,M. Melluso,P. S. Torrejón,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,70,,substitution,,True,,,G. Ríos,L. Sequeira,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,80,,substitution,,False,,,A. Steimbach,B. B. Schelotto,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,80,,substitution,,False,,,M. Torres,L. Janson,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,81,,substitution,,True,,,A. Riep,F. Sartori,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,81,,substitution,,True,,,L. Bucca,M. Fernández,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,86,,goal,A. Colazo,False,,,,,,,1,1
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,86,,varDecision,A. Colazo,False,,,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,90,1,card,A. Auzmendi,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,90,1,card,S. Studer,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-03,11,Independiente Rivadavia,Gimnasia y Esgrima,1,1,90,,injuryTime,,,,,,,,6,,

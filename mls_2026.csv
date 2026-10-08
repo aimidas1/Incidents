@@ -8019,3 +8019,23 @@ mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,3,substitut
 mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,1,card,J. Bartlett,False,yellow,Foul,,,,,,
 mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,goal,C. Roldán,True,,,,,,,2,1
 mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,9,,goal,J. Bamba,True,,,,,,,1,0
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,19,,card,P. Zinckernagel,True,yellow,Foul,,,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,45,,period,,,,,,,HT,,1,0
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,45,,injuryTime,,,,,,,,4,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,46,,substitution,,True,,,M. Pineda,A. Salétros,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,46,,substitution,,False,,,T. Müller,A. Cvetković,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,50,,goal,P. Zinckernagel,True,,,,,,,2,0
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,55,,card,J. Dean,True,yellow,Foul,,,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,57,,substitution,,False,,,B. Quiñonez,E. Sabbi,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,58,,substitution,,False,,,Y. Diaby,C. T. Sabaly,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,61,,card,T. Johnson,False,yellow,Foul,,,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,73,,substitution,,False,,,S. Adekugbe,T. Johnson,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,73,,goal,M. Laborda,False,,,,,,,2,1
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,76,,substitution,,True,,,R. Lewandowski,J. Bamba,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,76,,substitution,,True,,,P. Dithejane,P. Zinckernagel,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,88,,goal,M. Haile-Selassie,True,,,,,,,3,1
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,89,,substitution,,False,,,R. Elloumi,O. Larraz,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,90,,period,,,,,,,FT,,3,1
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,90,3,substitution,,True,,,D. Poreba,J. A. Gomez,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,90,,injuryTime,,,,,,,,4,,

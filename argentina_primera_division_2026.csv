@@ -8700,14 +8700,14 @@ argentina_primera_division_2026,2026-10-04,11,Huracán,Aldosivi,1,0,87,,card,F. 
 argentina_primera_division_2026,2026-10-04,11,Huracán,Aldosivi,1,0,90,,period,,,,,,,FT,,1,0
 argentina_primera_division_2026,2026-10-04,11,Huracán,Aldosivi,1,0,90,,injuryTime,,,,,,,,4,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,1,,card,F. Aguilar,False,yellow,Foul,,,,,,
-argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,3,,goal,M. Celiz,True,,,,,,,1,0
-argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,5,,card,N. Sansotre,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,18,,substitution,,False,,,F. Martínez,S. Moyano,,,,
+argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,3,,goal,M. Celiz,True,,,,,,,1,0
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,38,,goal,M. Santos,False,,,,,,,1,1
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,45,,period,,,,,,,HT,,1,1
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,45,,injuryTime,,,,,,,,1,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,46,,substitution,,True,,,P. Ramírez,Y. Goitia,,,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,46,,substitution,,True,,,T. Gonzalez,M. A. Graneros,,,,
+argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,5,,card,N. Sansotre,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,51,,card,M. Iacobellis,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,58,,substitution,,False,,,L. Varaldo,M. Santos,,,,
 argentina_primera_division_2026,2026-10-05,11,Deportivo Riestra,Central Córdoba,1,1,58,,substitution,,False,,,N. Garrido,D. Barrera,,,,
@@ -8757,23 +8757,23 @@ argentina_primera_division_2026,2026-10-05,11,Estudiantes de Río Cuarto,Racing 
 argentina_primera_division_2026,2026-10-05,11,Estudiantes de Río Cuarto,Racing Club,1,2,90,5,card,A. Tello,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Estudiantes de Río Cuarto,Racing Club,1,2,90,3,substitution,,False,,,A. Tello,T. Conechny,,,,
 argentina_primera_division_2026,2026-10-05,11,Estudiantes de Río Cuarto,Racing Club,1,2,90,,injuryTime,,,,,,,,5,,
-argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,5,,goal,R. Martinez,True,,,,,,,1,0
-argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,7,,goal,B. Merlini,False,,,,,,,1,1
-argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,9,,substitution,,True,,,D. Valdés,M. Lanzini,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,14,,substitution,,True,,,S. Escobar,J. C. Policella,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,43,,varDecision,N. Retamar,False,,,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,45,,period,,,,,,,HT,,1,1
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,45,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,5,,goal,R. Martinez,True,,,,,,,1,0
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,54,,goal,R. Martinez,True,,,,,,,2,1
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,65,,substitution,,False,,,G. Togni,G. Mainero,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,65,,substitution,,False,,,F. Zapiola,B. Merlini,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,65,,substitution,,False,,,I. Gómez,M. Amarfil,,,,
+argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,7,,goal,B. Merlini,False,,,,,,,1,1
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,70,,substitution,,True,,,L. Feler,T. Aguirre,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,71,,substitution,,False,,,G. Lencina,B. Sepúlveda,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,79,,card,T. A. Silva,False,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,84,,card,I. Gómez,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,88,,goal,F. Zapiola,False,,,,,,,2,2
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,89,,substitution,,False,,,J. Gauto,N. Retamar,,,,
+argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,9,,substitution,,True,,,D. Valdés,M. Lanzini,,,,
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,90,,period,,,,,,,FT,,2,2
 argentina_primera_division_2026,2026-10-05,11,Vélez Sarsfield,Club Atlético Platense,2,2,90,,injuryTime,,,,,,,,5,,
 argentina_primera_division_2026,2026-10-06,11,Banfield,Rosario Central,1,1,12,,card,T. Adoryan,True,yellow,Foul,,,,,,

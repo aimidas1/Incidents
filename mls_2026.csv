@@ -8019,7 +8019,6 @@ mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,3,substitut
 mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,1,card,J. Bartlett,False,yellow,Foul,,,,,,
 mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,goal,C. Roldán,True,,,,,,,2,1
 mls_2026,2026-10-02,,Seattle Sounders FC,Sporting Kansas City,2,1,90,,injuryTime,,,,,,,,4,,
-mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,9,,goal,J. Bamba,True,,,,,,,1,0
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,19,,card,P. Zinckernagel,True,yellow,Foul,,,,,,
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,45,,period,,,,,,,HT,,1,0
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,45,,injuryTime,,,,,,,,4,,
@@ -8036,6 +8035,7 @@ mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,76,,substitution,,True
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,76,,substitution,,True,,,P. Dithejane,P. Zinckernagel,,,,
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,88,,goal,M. Haile-Selassie,True,,,,,,,3,1
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,89,,substitution,,False,,,R. Elloumi,O. Larraz,,,,
+mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,9,,goal,J. Bamba,True,,,,,,,1,0
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,90,,period,,,,,,,FT,,3,1
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,90,3,substitution,,True,,,D. Poreba,J. A. Gomez,,,,
 mls_2026,2026-10-07,,Chicago Fire,Vancouver Whitecaps,3,1,90,,injuryTime,,,,,,,,4,,

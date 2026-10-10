@@ -769,3 +769,23 @@ alemanha_bundesliga_2026_2027,2026-09-20,4,SC Paderborn 07,TSG Hoffenheim,3,1,80
 alemanha_bundesliga_2026_2027,2026-09-20,4,SC Paderborn 07,TSG Hoffenheim,3,1,80,,substitution,,False,,,A. Kramarić,A. Daghim,,,,
 alemanha_bundesliga_2026_2027,2026-09-20,4,SC Paderborn 07,TSG Hoffenheim,3,1,90,,period,,,,,,,FT,,3,1
 alemanha_bundesliga_2026_2027,2026-09-20,4,SC Paderborn 07,TSG Hoffenheim,3,1,90,,injuryTime,,,,,,,,3,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,19,,substitution,,False,,,O. Wojcik,A. Pieper,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,45,,period,,,,,,,HT,,0,0
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,45,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,63,,substitution,,True,,,F. Silva,E. Nwaneri,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,65,,substitution,,False,,,D. Stalmach,Y. Regeer,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,65,,substitution,,False,,,M. Weiser,Arthur,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,72,,substitution,,True,,,J. Veerman,J. Bellingham,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,72,,substitution,,True,,,K. Karetsas,M. Sabitzer,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,80,,goal,D. Svensson,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,81,,substitution,,False,,,M. Schmetgens,E. Dinkçi,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,81,,substitution,,False,,,P. Erevbenagie,Chuki,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,85,,goal,N. Schlotterbeck,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,88,,goal,L. Reis,False,,,,,,,2,1
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,,period,,,,,,,FT,,2,2
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,4,card,F. Nmecha,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,2,goal,N. Füllkrug,False,,,,,,,2,2
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,2,card,J. Veerman,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,,card,D. Stalmach,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,,injuryTime,,,,,,,,6,,
+alemanha_bundesliga_2026_2027,2026-10-09,5,Borussia Dortmund,SV Werder Bremen,2,2,90,,card,D. Thioune,False,yellow,Argument,,,,,,

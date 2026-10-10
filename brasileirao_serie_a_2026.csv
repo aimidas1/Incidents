@@ -5923,7 +5923,6 @@ brasileirao_serie_a_2026,2026-10-07,29,Vitória,Chapecoense,4,0,80,,substitution
 brasileirao_serie_a_2026,2026-10-07,29,Vitória,Chapecoense,4,0,90,,period,,,,,,,FT,,4,0
 brasileirao_serie_a_2026,2026-10-07,29,Vitória,Chapecoense,4,0,90,,card,Fernando,False,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-10-07,29,Vitória,Chapecoense,4,0,90,,injuryTime,,,,,,,,6,,
-brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,8,,goal,K. C. Vargas,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,27,,goal,Bernard,False,,,,,,,1,1
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,38,,substitution,,False,,,V. Hugo,Fred,,,,
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,45,,period,,,,,,,HT,,1,1
@@ -5939,6 +5938,7 @@ brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,73,,card,
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,74,,card,K. Castaño,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,76,,substitution,,False,,,I. Gomes,Bernard,,,,
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,76,,substitution,,False,,,T. Borbas,Reinier,,,,
+brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,8,,goal,K. C. Vargas,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,81,,substitution,,True,,,J. Rivaldo,C. Terán,,,,
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,81,,substitution,,True,,,Bruno Zapelli,L. Gustavo,,,,
 brasileirao_serie_a_2026,2026-10-08,29,Athletico,Atlético Mineiro,2,2,90,,period,,,,,,,FT,,2,2
@@ -6012,7 +6012,6 @@ brasileirao_serie_a_2026,2026-10-09,29,Fluminense,Coritiba,4,0,89,,substitution,
 brasileirao_serie_a_2026,2026-10-09,29,Fluminense,Coritiba,4,0,90,,period,,,,,,,FT,,4,0
 brasileirao_serie_a_2026,2026-10-09,29,Fluminense,Coritiba,4,0,90,3,goal,L. Acosta,True,,,,,,,4,0
 brasileirao_serie_a_2026,2026-10-09,29,Fluminense,Coritiba,4,0,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,7,,goal,J. López,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,45,,period,,,,,,,HT,,1,0
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,45,,injuryTime,,,,,,,,2,,
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,61,,card,N. Acevedo,False,yellow,Foul,,,,,,
@@ -6022,6 +6021,7 @@ brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,65,,substitution,,Fal
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,65,,substitution,,False,,,Ademir,E. Pulga,,,,
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,69,,substitution,,True,,,J. Arias,J. López,,,,
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,69,,substitution,,True,,,R. Sosa,V. Roque,,,,
+brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,7,,goal,J. López,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,82,,substitution,,False,,,W. José,A. Véliz,,,,
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,82,,substitution,,False,,,M. Sanabria,C. Olivera,,,,
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,87,,substitution,,True,,,F. Anderson,A. Pereira,,,,

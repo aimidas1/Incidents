@@ -1847,3 +1847,22 @@ liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,,period,,,,
 liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,5,card,C. Borja,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,,card,J. Ruiz,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-09-28,10,Club Necaxa,Club América,2,4,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,42,,goal,I. Díaz,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,46,,card,J. Lara,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,56,,substitution,,True,,,E. Mustre,L. Hernández,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,56,,substitution,,True,,,I. Maestro Puch,M. Tomás,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,57,,substitution,,False,,,R. Echeverría,J. Lara,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,57,,substitution,,False,,,D. Arcila,I. Díaz,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,57,,substitution,,False,,,J. Cortizo,F. Beltrán,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,66,,substitution,,True,,,H. Jurado,O. M. Villegas,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,70,,substitution,,False,,,J. Domínguez,E. Guerra,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,80,,substitution,,True,,,Ó. Villa,F. Monarrez,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,80,,card,H. Jurado,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,81,,substitution,,True,,,E. Armenta,A. Organista,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,85,,substitution,,False,,,A. Alvarado,D. Cambindo,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,87,,goal,E. Armenta,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,90,1,card,J. Cortizo,False,red,Violent conduct,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,90,,injuryTime,,,,,,,,5,,

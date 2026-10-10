@@ -1582,3 +1582,46 @@ japao_j1_league_2026_2027,2026-09-20,8,Machida Zelvia,Kashiwa Reysol,2,4,90,,per
 japao_j1_league_2026_2027,2026-09-20,8,Machida Zelvia,Kashiwa Reysol,2,4,90,2,goal,K. Ogawa,True,,,,,,,2,4
 japao_j1_league_2026_2027,2026-09-20,8,Machida Zelvia,Kashiwa Reysol,2,4,90,1,card,R. Harakawa,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-09-20,8,Machida Zelvia,Kashiwa Reysol,2,4,90,,injuryTime,,,,,,,,6,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,37,,varDecision,R. Mito,True,,,,,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,45,,period,,,,,,,HT,,1,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,45,7,goal,L. Ceará,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,45,,injuryTime,,,,,,,,6,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,55,,substitution,,True,,,A. Čavrić,M. Yoshida,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,55,,substitution,,True,,,K. Tsukui,R. Hirose,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,55,,card,Welton,False,yellow,Persistent fouling,,,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,57,,substitution,,False,,,I. Jebali,T. Usami,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,57,,substitution,,False,,,D. Hümmet,Y. Toshida,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,60,,goal,Y. Suzuki,True,,,,,,,2,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,64,,substitution,,False,,,K. Sumi,Welton,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,64,,substitution,,False,,,S. Nakano,R. Hatsuse,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,73,,substitution,,False,,,T. Kishimoto,R. Mito,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,76,,card,T. H. Kim,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,79,,substitution,,True,,,M. Bueno,G. Shibasaki,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,79,,substitution,,True,,,H. Hayashi,L. Ceará,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,84,,card,R. Ogawa,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,88,,substitution,,True,,,H. Tokuda,Y. Suzuki,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,90,,period,,,,,,,FT,,2,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashima Antlers,Gamba Osaka,2,0,90,,injuryTime,,,,,,,,5,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,18,,substitution,,True,,,S. Toshima,S. Baba,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,27,,goal,S. Fujio,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,45,,period,,,,,,,HT,,1,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,45,,injuryTime,,,,,,,,5,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,46,,substitution,,False,,,J. Patric,K. Nagato,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,53,,goal,H. Yamauchi,True,,,,,,,2,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,58,,substitution,,False,,,Caetano,T. Yamakawa,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,64,,goal,T. Kubo,True,,,,,,,3,0
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,71,,substitution,,True,,,Y. Segawa,H. Yamauchi,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,71,,substitution,,True,,,K. Yuba,K. Endo,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,71,,substitution,,True,,,K. Nagai,T. Wakahara,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,72,,substitution,,False,,,R. Komatsu,G. Sakai,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,72,,substitution,,False,,,Y. Iwamoto,Y. Muto,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,76,,substitution,,False,,,N. Iino,I. Takahashi,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,81,,goal,R. Komatsu,False,,,,,,,3,1
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,84,,goal,Y. Segawa,True,,,,,,,4,1
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,84,,substitution,,True,,,W. Harada,T. Kubo,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,84,,substitution,,True,,,M. Hosoya,S. Fujio,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,88,,goal,Diego,False,,,,,,,4,2
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,90,,period,,,,,,,FT,,4,2
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,90,1,card,W. Harada,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,90,,injuryTime,,,,,,,,10,,
+japao_j1_league_2026_2027,2026-10-09,9,Kashiwa Reysol,Vissel Kobe,4,2,90,,card,M. Skibbe,False,yellow,Argument,,,,,,

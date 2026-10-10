@@ -1302,3 +1302,44 @@ portugal_liga_betclic_2026_2027,2026-09-20,7,Vitória SC,Moreirense,1,1,89,,subs
 portugal_liga_betclic_2026_2027,2026-09-20,7,Vitória SC,Moreirense,1,1,90,,period,,,,,,,FT,,1,1
 portugal_liga_betclic_2026_2027,2026-09-20,7,Vitória SC,Moreirense,1,1,90,6,goal,T. Borevković,True,,,,,,,1,1
 portugal_liga_betclic_2026_2027,2026-09-20,7,Vitória SC,Moreirense,1,1,90,,injuryTime,,,,,,,,6,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,17,,card,R. Esgaio,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,56,,card,A. Lausen,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,60,,card,M. Mendonça,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,64,,substitution,,False,,,M. S. Kaba,A. Lausen,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,66,,substitution,,True,,,J. Veloso,K. Bondoso,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,66,,substitution,,True,,,R. Alonso,N. John,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,70,,card,G. Martins,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,71,,card,M. S. Kaba,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,72,,substitution,,False,,,Guilherme,H. Hernández,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,72,,substitution,,False,,,J. Fernandes,G. Martins,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,75,,card,G. Batista,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,77,,substitution,,True,,,Landerson,M. Mendonça,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,83,,substitution,,False,,,T. Touré,S. García,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,83,,substitution,,False,,,W. d. S. França,Murilo,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,86,,substitution,,True,,,Y. Maranhão,L. Vonić,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,88,,card,Maracás,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,90,,period,,,,,,,FT,,0,1
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,90,,goal,W. d. S. França,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-10-09,8,Moreirense,Gil Vicente,0,1,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,41,,goal,R. Silva,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,45,,period,,,,,,,HT,,1,0
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,58,,substitution,,False,,,R. Zalazar,S. Andersen,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,58,,substitution,,False,,,M. Araújo,G. Vagiannidis,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,59,,substitution,,False,,,L. J. Suárez ,F. Ioannidis,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,66,,substitution,,True,,,M. Dorgeles,D. Huseinbašić,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,66,,goal,L. J. Suárez ,False,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,67,,substitution,,True,,,G. Martínez,Gabriel Silva,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,71,,goal,B. Fontes,False,,,,,,,1,2
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,74,,substitution,,True,,,J. Wind,P. Víctor,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,74,,substitution,,True,,,T. Marqués,J. Moutinho,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,79,,substitution,,False,,,F. Gonçalves,N. Irankunda,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,82,,goal,R. Zalazar,False,,,,,,,1,3
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,84,,substitution,,False,,,J. Simões,R. Zalazar,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,84,,substitution,,True,,,F. Navarro,A. Bajrami,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,89,,card,F. Gonçalves,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,89,,card,S. Barcia,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,90,,period,,,,,,,FT,,1,3
+portugal_liga_betclic_2026_2027,2026-10-09,8,Sporting Braga,Sporting CP,1,3,90,,injuryTime,,,,,,,,5,,

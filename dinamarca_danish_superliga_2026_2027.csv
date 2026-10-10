@@ -1107,3 +1107,22 @@ dinamarca_danish_superliga_2026_2027,2026-09-20,9,Viborg FF,FC Nordsjælland,4,1
 dinamarca_danish_superliga_2026_2027,2026-09-20,9,Viborg FF,FC Nordsjælland,4,1,90,,period,,,,,,,FT,,4,1
 dinamarca_danish_superliga_2026_2027,2026-09-20,9,Viborg FF,FC Nordsjælland,4,1,90,,substitution,,True,,,E. Monrad,S. Jalal,,,,
 dinamarca_danish_superliga_2026_2027,2026-09-20,9,Viborg FF,FC Nordsjælland,4,1,90,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,4,,card,M. Brink,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,31,,card,J. Pauli,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,45,,period,,,,,,,HT,,0,0
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,45,,injuryTime,,,,,,,,2,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,46,,card,V. Nelsson,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,52,,varDecision,V. Berthelsen,True,,,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,62,,substitution,,True,,,J. Lähteenmäki,M. Walker,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,62,,substitution,,True,,,A. Lind,H. Rasmussen,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,62,,substitution,,False,,,N. Juul-Sandberg,F. Arp,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,62,,substitution,,False,,,I. Ouédraogo,R. Falk,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,62,,substitution,,False,,,T. Keskinen,A. Ahl Holmstrom,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,63,,substitution,,True,,,P. A. Junior,I. Adel,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,70,,substitution,,True,,,N. Røjkjær,V. Berthelsen,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,79,,substitution,,False,,,C. Gammelgaard,N. Ganaus,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,88,,substitution,,False,,,U. Jenssen,J. Gomez,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,88,,card,N. Røjkjær,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,90,,period,,,,,,,FT,,0,0
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,90,,substitution,,True,,,L. Sadio,M. Brink,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-09,10,FC Nordsjælland,Odense Boldklub,0,0,90,,injuryTime,,,,,,,,6,,

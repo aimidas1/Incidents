@@ -1263,3 +1263,22 @@ eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,89,,substitut
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,89,,substitution,,False,,,O. S. Sivertsen,M. Suray,,,,
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,90,,period,,,,,,,FT,,1,1
 eredivisie_2026_2027,2026-09-20,7,NEC Nijmegen,Go Ahead Eagles,1,1,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,29,,goal,G. Til,True,,,,,,,1,0
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,42,,card,A. Obispo,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,45,,period,,,,,,,HT,,1,0
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,60,,card,M. Linday,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,64,,substitution,,False,,,R. Meerveld,L. Smans,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,64,,substitution,,False,,,M. Farji,M. Rivera,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,65,,substitution,,True,,,Y. Gasiorowski,A. Obispo,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,65,,substitution,,True,,,F. Kostić,N. Fernandez,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,65,,substitution,,True,,,I. Perišić,E. Bajraktarević,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,68,,goal,M. Linday,True,,,,,,,2,0
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,74,,card,S. Kersten,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,75,,substitution,,False,,,L. Machine,D. Vente,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,75,,substitution,,False,,,M. Egbring,O. Braude,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,83,,substitution,,False,,,L. Oyen,N. Courtens,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,83,,substitution,,True,,,A. Santos,R. van Bommel,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,83,,substitution,,True,,,S. Cornecion,M. Júnior,,,,
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,90,,period,,,,,,,FT,,2,0
+eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,90,,injuryTime,,,,,,,,2,,

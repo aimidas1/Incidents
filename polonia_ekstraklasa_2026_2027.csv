@@ -1577,3 +1577,47 @@ polonia_ekstraklasa_2026_2027,2026-09-20,9,Zagłębie Lubin,Wisła Płock,0,2,89
 polonia_ekstraklasa_2026_2027,2026-09-20,9,Zagłębie Lubin,Wisła Płock,0,2,90,,period,,,,,,,FT,,0,2
 polonia_ekstraklasa_2026_2027,2026-09-20,9,Zagłębie Lubin,Wisła Płock,0,2,90,4,goal,S. Hamulić,False,,,,,,,0,2
 polonia_ekstraklasa_2026_2027,2026-09-20,9,Zagłębie Lubin,Wisła Płock,0,2,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,34,,goal,I. Shkurin,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,37,,goal,P. Makuch,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,45,,period,,,,,,,HT,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,48,,goal,B. Nowak,False,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,57,,goal,M. Kowalczyk,False,,,,,,,1,3
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,60,,card,L. Klemenz,False,yellow,Handball,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,61,,substitution,,True,,,I. Brusberg,J. Silva,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,61,,substitution,,True,,,A. Basse,M. Emreli,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,61,,substitution,,True,,,Á. Molnár,M. Bulat,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,68,,card,K. Struski,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,70,,substitution,,False,,,A. Jędrych,A. Czerwiński,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,70,,substitution,,False,,,B. Galán,M. Wedrychowski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,72,,substitution,,True,,,B. Mirčetić,K. Struski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,76,,substitution,,True,,,M. Diaby,P. Makuch,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,78,,substitution,,False,,,E. Marković,M. Wdowiak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,78,,substitution,,False,,,S. Milewski,M. Kowalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,82,,card,B. Galán,False,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,85,,card,G. Kobylak,False,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,87,,substitution,,False,,,A. Zreľák,I. Shkurin,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,90,,period,,,,,,,FT,,1,4
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,90,1,goal,B. Galán,False,,,,,,,1,4
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,90,,card,J. Napieraj,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Raków Częstochowa,GKS Katowice,1,4,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,34,,goal,L. Piazón,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,41,,card,T. Christensen,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,42,,substitution,,True,,,K. Dankowski,A. Milić,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,45,,period,,,,,,,HT,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,55,,substitution,,True,,,L. Semedo,E. Koulouris,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,58,,card,K. Pestka,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,59,,substitution,,False,,,S. Hamulić,Ł. Sekulski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,59,,substitution,,False,,,D. Gallapeni,J. Pršir,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,60,,substitution,,False,,,F. Hiszpański,O. Kobacki,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,64,,card,S. Tavares,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,68,,goal,L. Semedo,True,,,,,,,2,0
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,75,,substitution,,False,,,K. Pomorski,S. Tavares,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,75,,substitution,,False,,,D. Jurić,S. Akere,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,75,,substitution,,True,,,P. Pušić,T. Christensen,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,75,,substitution,,True,,,B. Białek,J. A. d. l. Rosa,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,76,,card,A. Đermanović,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,86,,varDecision,K. Fila,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,90,,period,,,,,,,FT,,3,0
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,90,6,goal,L. Semedo,True,,,,,,,3,0
+polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,90,,injuryTime,,,,,,,,7,,

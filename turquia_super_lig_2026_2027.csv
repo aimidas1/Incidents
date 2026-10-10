@@ -1139,3 +1139,28 @@ turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,89,,card,
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,90,,period,,,,,,,FT,,2,2
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,90,4,goal,E. Bekiroğlu,True,,,,,,,2,2
 turquia_super_lig_2026_2027,2026-09-20,6,Göztepe,Çaykur Rizespor,2,2,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,3,,card,R. Leão,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,24,,card,E. Mendes,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,28,,card,K. Demirbay,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,40,,card,D. Sánchez,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,45,,goal,A. Bardakcı,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,45,,injuryTime,,,,,,,,5,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,51,,card,A. Kol,False,yellow,Unallowed field entering,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,56,,card,A. Baldursson,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,57,,substitution,,False,,,T. Diarra,G. Yalçın,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,58,,substitution,,False,,,J. Rak-Sakyi,A. Kol,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,64,,varDecision,L. Torreira,True,,,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,65,,card,L. Torreira,True,red,Professional foul last man,,,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,67,,substitution,,True,,,M. Lemina,A. Batrakov,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,67,,substitution,,True,,,E. Elmalı,R. Leão,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,68,,goal,J. Rak-Sakyi,False,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,70,,substitution,,False,,,H. Hajradinović,K. Demirbay,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,77,,substitution,,True,,,L. Sané,A. Bardakcı,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,77,,substitution,,True,,,V. Osimhen,D. Gül,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,78,,substitution,,False,,,J. Jessen,A. Karapo,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,88,,substitution,,True,,,R. Nhaga,G. Sara,,,,
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,90,,period,,,,,,,FT,,3,1
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,90,6,goal,M. Lemina,True,,,,,,,3,1
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,90,,goal,B. A. Yılmaz,True,,,,,,,2,1
+turquia_super_lig_2026_2027,2026-10-09,7,Galatasaray,Kasımpaşa,3,1,90,,injuryTime,,,,,,,,5,,

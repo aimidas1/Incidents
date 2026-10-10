@@ -899,3 +899,23 @@ france_ligue_1_2026_2027,2026-09-20,5,Olympique de Marseille,Paris Saint-Germain
 france_ligue_1_2026_2027,2026-09-20,5,Olympique de Marseille,Paris Saint-Germain,1,2,90,,period,,,,,,,FT,,1,2
 france_ligue_1_2026_2027,2026-09-20,5,Olympique de Marseille,Paris Saint-Germain,1,2,90,,card,A. Gomes,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-09-20,5,Olympique de Marseille,Paris Saint-Germain,1,2,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,23,,card,Abner Vinícius,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,36,,goal,F. Sotoca,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,50,,card,J. Gradit,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,53,,substitution,,True,,,S. Baidoo,J. Gradit,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,54,,substitution,,True,,,A. Haidara,Y. Titraoui,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,60,,substitution,,False,,,N. Nartey,M. Bidstrup,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,60,,substitution,,False,,,K. Nakamura,L. Openda,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,69,,substitution,,True,,,J. Kadile,F. Sotoca,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,69,,substitution,,True,,,F. Ivanović,O. Édouard,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,71,,substitution,,False,,,K. Boudache,E. Nuamah,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,76,,goal,M. Udol,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,77,,substitution,,False,,,T. Tessmann,T. Morton,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,78,,substitution,,False,,,K. Merah,P. Šulc,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,83,,substitution,,True,,,A. Bulatović,M. Cuisance,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,84,,card,M. Udol,True,red,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,85,,goal,K. Merah,False,,,,,,,2,1
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,90,,period,,,,,,,FT,,2,1
+france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,90,,injuryTime,,,,,,,,5,,

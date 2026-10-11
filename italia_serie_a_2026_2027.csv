@@ -1007,3 +1007,66 @@ italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,,period,,,,,,,FT,,2,1
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,3,card,M. Troilo,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,2,card,M. Ellertsson,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-09-20,5,Parma,Genoa,2,1,90,,injuryTime,,,,,,,,6,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,7,,goal,M. Osmajić,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,15,,goal,J. Messias,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,15,,card,L. Ranieri,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,21,,card,C. Oulaï,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,45,,period,,,,,,,HT,,2,0
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,46,,substitution,,False,,,Viery,L. Ranieri,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,46,,substitution,,False,,,A. Njie,C. Oulaï,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,57,,substitution,,True,,,S. Wiafe,S. El Shaarawy,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,57,,substitution,,True,,,Vitinha,J. Messias,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,60,,card,Viery,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,65,,substitution,,False,,,M. Pellegrino,Beto,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,66,,substitution,,True,,,A. Marcandalli,S. Otoa,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,73,,goal,J. Vásquez,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,74,,card,H. J. Traorè,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,80,,substitution,,False,,,Dodô,A. Jiménez,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,81,,substitution,,True,,,D. Puczka,K. Ehizibue,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,81,,substitution,,False,,,P. Gonçalves,W. Gnonto,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,82,,substitution,,True,,,S. Sabelli,M. Ellertsson,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,84,,card,J. Vásquez,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,85,,card,S. Wiafe,True,yellow,Time wasting,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,90,5,card,S. Sabelli,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,90,1,card,Vitinha,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Genoa,Fiorentina,2,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,13,,goal,P. Sučić,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,15,,varDecision,F. P. Esposito,True,,,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,18,,goal,H. Çalhanoğlu,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,31,,goal,M. Thuram,True,,,,,,,3,0
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,45,,period,,,,,,,HT,,3,0
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,61,,substitution,,False,,,D. Romero,N. Elphege,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,61,,substitution,,True,,,A. Stanković,H. Çalhanoğlu,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,61,,substitution,,True,,,L. Martínez,M. Thuram,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,61,,substitution,,True,,,A. Bonny,F. P. Esposito,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,62,,substitution,,False,,,A. Bernabé,V. Sierro,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,62,,substitution,,False,,,S. Lontani,G. Fabbian,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,73,,substitution,,True,,,D. Spence,A. Diouf,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,73,,substitution,,True,,,L. Henrique,F. Dimarco,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,78,,substitution,,False,,,S. Britschgi,F. Carboni,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,84,,substitution,,False,,,M. Frigan,E. B. Touré,,,,
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,90,,period,,,,,,,FT,,3,0
+italia_serie_a_2026_2027,2026-10-10,6,Inter,Parma,3,0,90,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,28,,varDecision,R. Højlund,True,,,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,29,,goal,K. De Bruyne,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,32,,goal,N. Lang,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,45,,period,,,,,,,HT,,2,0
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,46,,substitution,,False,,,A. Terzić,P. Masini,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,61,,substitution,,True,,,L. Lucca,R. Højlund,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,61,,substitution,,True,,,S. McTominay,D. Neres,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,63,,substitution,,False,,,T. Bobček,A. Raimondo,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,63,,substitution,,False,,,S. Fini,F. Ghedjemis,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,71,,substitution,,True,,,B. Gilmour,S. Lobotka,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,72,,substitution,,True,,,Giovane,N. Lang,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,76,,substitution,,False,,,M. Cichella,G. Bracaglia,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,80,,card,A. Rrahmani,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,81,,substitution,,True,,,M. Politano,L. Spinazzola,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,83,,substitution,,False,,,A. Zerbin,R. Schmid,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,85,,card,B. Badiashile,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,90,,period,,,,,,,FT,,3,0
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,90,4,goal,K. De Bruyne,True,,,,,,,3,0
+italia_serie_a_2026_2027,2026-10-10,6,SSC Napoli,Frosinone,3,0,90,,injuryTime,,,,,,,,4,,

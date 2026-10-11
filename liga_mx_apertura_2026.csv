@@ -1866,3 +1866,96 @@ liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,87,,goal,E. Armen
 liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,90,,period,,,,,,,FT,,1,1
 liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,90,1,card,J. Cortizo,False,red,Violent conduct,,,,,,
 liga_mx_apertura_2026,2026-10-10,11,Club Puebla,Club León,1,1,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,28,,varDecision,A. Preciado,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,31,,goal,M. E. Ghezouani,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,45,2,card,Monchu,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,46,,substitution,,True,,,M. d. S. Silva,Monchu,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,56,,card,L. Silva,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,58,,substitution,,True,,,E. López,Ricardinho,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,59,,substitution,,True,,,L. M. Dupuy,J. Murillo,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,63,,substitution,,False,,,Á. Zapata,Y. Padilla,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,65,,card,Á. Zapata,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,65,,card,D. Garcia,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,67,,card,G. Sepúlveda,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,69,,substitution,,False,,,P. N. Ortíz,R. Árciga,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,69,,substitution,,False,,,D. Abreu,M. E. Ghezouani,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,71,,card,P. N. Ortíz,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,72,,card,I. Tona,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,72,,card,F. Nevarez,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,75,,substitution,,True,,,R. Dourado,L. Silva,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,75,,substitution,,True,,,J. Carmona,F. Nevarez,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,80,,card,J. Porozo,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,84,,goal,R. Dourado,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,86,,substitution,,False,,,F. González,J. Vega,,,,
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-10,11,FC Juárez,Club Tijuana,1,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,20,,card,E. Pizzuto,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,25,,goal,S. Homenchenko,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,35,,card,W. Clar,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,50,,goal,D. Munoz,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,54,,substitution,,False,,,E. Jiménez,W. Clar,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,57,,card,M.Herrera,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,64,,substitution,,True,,,B. Parra,D. Munoz,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,67,,substitution,,False,,,O. Vázquez,W. Portales,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,71,,card,N. Carrera,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,72,,substitution,,True,,,P. Victor,I. Benito,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,73,,substitution,,True,,,W. Madrid,M. Coronel,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,82,,substitution,,False,,,C. Bermúdez,A. Quirós,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,82,,substitution,,False,,,J. Moxica,N. Carrera,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,82,,substitution,,False,,,D. Bagüí,E. Pizzuto,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,84,,card,B. Parra,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,86,,substitution,,True,,,M. Martínez,C. A. García,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,86,,substitution,,True,,,E. Perez,A. Ávila,,,,
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,90,,period,,,,,,,FT,,2,0
+liga_mx_apertura_2026,2026-10-10,11,Querétaro FC,Atlante FC,2,0,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,6,,goal,J. Brunetta,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,33,,card,A. Vega,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,37,,goal,G. Martínez,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,42,,goal,Paulinho,False,,,,,,,2,1
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,43,,card,B. García,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,45,,period,,,,,,,HT,,2,1
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,45,,card,A. Mohamed,False,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,46,,substitution,,False,,,F. Viñas,É. Gutiérrez,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,54,,goal,F. Viñas,False,,,,,,,2,2
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,60,,goal,J. Brunetta,True,,,,,,,3,2
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,69,,substitution,,True,,,V. Loroña,A. Franco,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,69,,substitution,,True,,,D. Sánchez,E. Gómez,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,70,,substitution,,False,,,J. R. Angulo,A. Vega,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,71,,substitution,,False,,,J. Díaz,Helinho,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,71,,substitution,,False,,,S. Simón,B. García,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,77,,substitution,,True,,,O. Herrera,D. Lainez,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,77,,substitution,,True,,,R. Aguirre,G. Martínez,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,89,,substitution,,True,,,J. Garza,J. Brunetta,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,90,,period,,,,,,,FT,,3,2
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,90,3,card,F. Pereira,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,90,3,card,F. Romero,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,90,,card,V. Loroña,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,90,,substitution,,False,,,P. Pérez,N. Castro,,,,
+liga_mx_apertura_2026,2026-10-10,11,Tigres UANL,CD Toluca,3,2,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,26,,card,J. Purata,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,30,,card,R. Ledezma,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,41,,card,D. Aguirre,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,46,,substitution,,False,,,C. Hernández,D. Campillo,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,52,,goal,K. Zenón,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,63,,card,F. Monzón,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,65,,substitution,,True,,,E. Zaldívar,P. Ramírez,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,66,,substitution,,False,,,S. Sandoval,R. Ledezma,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,66,,substitution,,False,,,H. Camberos,R. Marín,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,66,,substitution,,False,,,K. Castañeda,L. Calderón,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,70,,varDecision,S. Sandoval,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,82,,substitution,,True,,,A. Rocha,E. Montiel,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,84,,card,K. Castañeda,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,86,,goal,Á. Sepúlveda,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,87,,substitution,,True,,,S. Hernandez,R. Mmaee,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,89,,card,S. Sandoval,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,90,8,card,K. Castañeda,False,yellowRed,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,90,1,substitution,,False,,,E. Alvarez,R. Alvarado,,,,
+liga_mx_apertura_2026,2026-10-11,11,Atlas FC,CD Guadalajara,1,1,90,,injuryTime,,,,,,,,9,,

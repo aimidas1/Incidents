@@ -919,3 +919,113 @@ france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,84,,card,M.
 france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,85,,goal,K. Merah,False,,,,,,,2,1
 france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,90,,period,,,,,,,FT,,2,1
 france_ligue_1_2026_2027,2026-10-09,6,RC Lens,Olympique Lyonnais,2,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,29,,goal,E. Diop,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,38,,goal,M. Abline,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,45,,period,,,,,,,HT,,2,0
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,46,,substitution,,False,,,S. Oppong,J. Russell Rowe,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,47,,card,F. Nazinho,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,48,,goal,C. Tengstedt,False,,,,,,,2,1
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,51,,substitution,,True,,,S. Benzahra,D. Zakaria,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,54,,card,A. Golovin,True,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,58,,substitution,,True,,,S. I. Muzambo,E. Diop,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,58,,substitution,,True,,,F. Balogun,M. Detourbet,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,59,,goal,S. Oppong,False,,,,,,,2,2
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,70,,card,C. Cásseres Jr.,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,71,,substitution,,False,,,N. Sigur,I. Azizi,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,75,,substitution,,True,,,A. Fati,M. Abline,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,75,,substitution,,True,,,J. Teze,Vanderson,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,77,,substitution,,False,,,I. Diallo,R. Messali,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,84,,substitution,,False,,,A. Dønnum,A. Vossah,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,84,,substitution,,False,,,S. Hidalgo,C. Tengstedt,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,90,,period,,,,,,,FT,,2,2
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,90,3,card,S. Oppong,False,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,AS Monaco,Toulouse,2,2,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,5,,goal,D. Bakwa,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,22,,substitution,,True,,,M. Goffi,T. Santos,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,45,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,57,,substitution,,True,,,A. Ueda,O. Giroud,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,57,,substitution,,True,,,H. Haraldsson,G. Perrin,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,61,,card,A. Seko,False,red,Professional foul last man,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,63,,card,R. Ndiaye,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,69,,substitution,,False,,,J. Mwanga,J. Maja,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,69,,substitution,,False,,,R. Fofana,S. Nakamura,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,73,,substitution,,True,,,O. Sahraoui,N. Mukau,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,73,,substitution,,True,,,C. Verdonk,R. Perraud,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,76,,card,D. Ouziad,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,82,,substitution,,False,,,K. Mizuta,A. Richardson,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,85,,card,M. Kjaergaard,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,90,,period,,,,,,,FT,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,90,2,card,M. Goffi,True,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lille,Le Havre,1,0,90,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,52,,card,L. Sinayoko,False,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,58,,card,H. Traoré,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,58,,card,S. S. Chergui,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,65,,substitution,,False,,,Zabi,I. Kebbal,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,65,,substitution,,False,,,R. Matondo,A. Camara,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,66,,substitution,,True,,,G. Bernardeau,I. S. Jensen,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,66,,substitution,,True,,,I. Baldé,M. Koné,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,66,,substitution,,False,,,Otávio,S. S. Chergui,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,68,,goal,G. Bernardeau,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,70,,card,M. Talbi,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,74,,card,Zabi,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,78,,substitution,,True,,,A. A. Ebong,A. Georgen,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,78,,substitution,,False,,,O. Sissoko,P. Lees Melou,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,86,,substitution,,False,,,J. Krasso,L. Sinayoko,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,87,,substitution,,True,,,N. E. Obaretin,S. I. Touré,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,90,,period,,,,,,,FT,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,90,2,card,M. López,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,90,,injuryTime,,,,,,,,6,,
+france_ligue_1_2026_2027,2026-10-10,6,Lorient,Paris FC,1,0,90,,card,A. Dujeux,True,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,16,,varDecision,A. Hakimi,True,,,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,19,,goal,L. Beraldo,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,45,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,46,,substitution,,False,,,D. Gueye,H. Diallo,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,47,,card,D. Gueye,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,54,,goal,L. Mafouta,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,54,,varDecision,L. Mafouta,False,,,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,58,,substitution,,True,,,F. Ruiz,D. Fernández,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,58,,substitution,,True,,,W. Zaïre-Emery,J. Neves,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,59,,substitution,,True,,,K. Kvaratskhelia,M. Godts,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,59,,substitution,,True,,,Vitinha,L. Beraldo,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,61,,goal,K. Kvaratskhelia,True,,,,,,,2,1
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,65,,card,L. Mafouta,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,66,,substitution,,False,,,B. Brahimi,J. Vercruysse,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,68,,goal,M. Akliouche,True,,,,,,,3,1
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,72,,substitution,,False,,,A. Rabillard,A. Lauray,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,72,,substitution,,False,,,W. Harhouz,L. Mafouta,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,72,,substitution,,True,,,D. Doué,A. Hakimi,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,77,,substitution,,False,,,Y. Larouci,L. Calodat,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,90,,period,,,,,,,FT,,3,1
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,90,5,varDecision,Vitinha,True,,,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,90,3,card,N. Boissé,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,90,2,card,B. Brahimi,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,90,2,card,R. Bamba,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Paris Saint-Germain,Le Mans,3,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,9,,goal,L. Ajorque,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,15,,card,L. Ajorque,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,17,,goal,L. Tousart,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,30,,goal,K. Lala,True,,,,,,,3,0
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,34,,substitution,,False,,,E. Biumla,O. Camara,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,45,,period,,,,,,,HT,,4,0
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,45,,goal,M. Baldé,True,,,,,,,4,0
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,45,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,46,,substitution,,False,,,L. Raolisoa,M. Louer,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,47,,goal,P. Peter,False,,,,,,,4,1
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,54,,goal,P. Mboup,True,,,,,,,5,1
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,58,,varDecision,J. Lefort,False,,,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,59,,card,J. Lefort,False,red,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,61,,substitution,,True,,,J. Nonge,M. Baldé,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,62,,substitution,,False,,,A. E. Ouazzani,P. Peter,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,62,,substitution,,False,,,M. Gernigon,Y. Belkhdim,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,79,,substitution,,True,,,M. Diambou,J. Chotard,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,79,,substitution,,True,,,N. Edjouma,K. Doumbia,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,85,,substitution,,True,,,I. Y. Kante,P. Mboup,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,85,,substitution,,False,,,L. Mouton,H. Belkebla,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,86,,substitution,,True,,,D. N'Guessan,L. Ajorque,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,87,,card,B. Van den Boomen,False,yellow,Persistent fouling,,,,,,
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,90,,period,,,,,,,FT,,5,1
+france_ligue_1_2026_2027,2026-10-10,6,Stade Brestois,Angers,5,1,90,,injuryTime,,,,,,,,5,,

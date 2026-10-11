@@ -1282,3 +1282,70 @@ eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,83,,substituti
 eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,83,,substitution,,True,,,S. Cornecion,M. Júnior,,,,
 eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,90,,period,,,,,,,FT,,2,0
 eredivisie_2026_2027,2026-10-09,8,PSV Eindhoven,SC Heerenveen,2,0,90,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,7,,goal,T. Arokodare,True,,,,,,,1,0
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,17,,card,J. Mokio,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,19,,goal,T. Chery,False,,,,,,,1,1
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,33,,card,B. Linssen,False,yellow,Persistent fouling,,,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,45,,period,,,,,,,HT,,1,1
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,54,,card,G. Brás,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,60,,substitution,,True,,,S. Adingra,V. Tsygankov,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,60,,substitution,,True,,,A. Ouazane,O. Gloukh,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,67,,card,A. Ouazane,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,72,,substitution,,False,,,A. Kaplan,P. Schuurs,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,73,,substitution,,True,,,A. Bouwman,L. Rosa,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,73,,substitution,,True,,,M. Leonardo,T. Arokodare,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,73,,substitution,,False,,,M. Bakker,B. Linssen,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,80,,substitution,,True,,,D. Klaassen,O. Wijndal,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,82,,substitution,,False,,,W. Willumsson,T. Chery,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,82,,substitution,,False,,,J. Monteiro,K. Kers,,,,
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,90,,period,,,,,,,FT,,1,1
+eredivisie_2026_2027,2026-10-10,8,AFC Ajax,NEC Nijmegen,1,1,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,11,,card,L. Schouten,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,13,,goal,N. Ferri,True,,,,,,,1,0
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,23,,card,R. Daal,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,43,,varDecision,M. Meerdink,False,,,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,45,,period,,,,,,,HT,,1,0
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,45,2,card,O. Targhalline,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,45,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,59,,goal,J. López,True,,,,,,,2,0
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,67,,card,W. Goes,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,68,,substitution,,False,,,D. Kasius,E. Dijkstra,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,68,,substitution,,False,,,W. Patati,R. Daal,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,77,,substitution,,True,,,T. v. d. Elshout,G. Zechiël,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,80,,substitution,,False,,,B. Kovács,J. Clasie,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,89,,substitution,,True,,,G. Diarra,N. Ferri,,,,
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,90,,period,,,,,,,FT,,2,0
+eredivisie_2026_2027,2026-10-10,8,Feyenoord,AZ Alkmaar,2,0,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,9,,goal,A. Descotte,True,,,,,,,1,0
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,34,,goal,R. Pröpper,False,,,,,,,1,1
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,45,,period,,,,,,,HT,,1,1
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,55,,substitution,,False,,,K. Hlynsson,M. Pjaca,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,67,,substitution,,False,,,T. V. d. Belt,D. Weidmann,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,74,,card,B. van Rooij,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,75,,substitution,,True,,,K. Peterson,L. Zeefuik,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,81,,substitution,,False,,,L. V. o. Hesselink,D. Rots,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,84,,substitution,,True,,,S. Wylin,I. Pinto,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,84,,substitution,,True,,,S. Simons,M. Ihattaren,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,90,,period,,,,,,,FT,,1,1
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,90,1,substitution,,True,,,D. Sinkgraven,S. '. Zand,,,,
+eredivisie_2026_2027,2026-10-10,8,Fortuna Sittard,FC Twente,1,1,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,23,,goal,M. Zonneveld,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,45,,period,,,,,,,HT,,0,1
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,46,,substitution,,True,,,Y. Rahmouni,E. Linthorst,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,49,,card,I. Babadi,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,50,,goal,M. Suray,True,,,,,,,1,1
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,57,,substitution,,True,,,T. Baeten,D. James,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,59,,card,C. Hatenboer,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,60,,goal,M. Zonneveld,True,,,,,,,2,1
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,61,,goal,L. E. Martes,False,,,,,,,2,2
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,62,,substitution,,False,,,T. Q. León,J. Toornstra,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,62,,substitution,,False,,,C. Terho,R. van Cruijsen,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,73,,substitution,,True,,,T. Jukić,A. Sampsted,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,74,,substitution,,True,,,O. S. Sivertsen,S. I. Sigurðarson,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,75,,goal,S. Tengstedt,True,,,,,,,3,2
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,79,,substitution,,False,,,A. Kostić,B. Martins Indi,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,81,,card,L. E. Martes,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,84,,goal,C. Terho,False,,,,,,,3,3
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,85,,substitution,,True,,,E. Flataker,S. Tengstedt,,,,
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,90,,period,,,,,,,FT,,3,3
+eredivisie_2026_2027,2026-10-10,8,Go Ahead Eagles,Sparta Rotterdam,3,3,90,,injuryTime,,,,,,,,4,,

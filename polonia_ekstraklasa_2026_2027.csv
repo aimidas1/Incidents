@@ -1621,3 +1621,75 @@ polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,
 polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,90,,period,,,,,,,FT,,3,0
 polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,90,6,goal,L. Semedo,True,,,,,,,3,0
 polonia_ekstraklasa_2026_2027,2026-10-09,10,Wieczysta Kraków,Wisła Płock,3,0,90,,injuryTime,,,,,,,,7,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,38,,card,R. Janicki,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,47,,card,O. Zmrzlý,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,51,,goal,J. Kubicki,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,58,,goal,S. Liseth,False,,,,,,,0,2
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,58,,substitution,,False,,,P. González,Y. I. Dimi,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,65,,substitution,,True,,,B. Wdowik,C. Polak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,65,,substitution,,True,,,F. Klynge,O. Sow,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,66,,substitution,,True,,,J. Agbonifo,S. Lozano,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,67,,goal,J. Imaz,True,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,71,,substitution,,False,,,Z. Inoussa,M. Khlan,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,71,,substitution,,False,,,E. Prekop,S. Liseth,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,71,,card,J. Agbonifo,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,73,,substitution,,True,,,A. Ćirković,K. Szmyt,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,75,,varDecision,J. Imaz,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,83,,card,J. Kubicki,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,84,,substitution,,True,,,K. Jóźwiak,R. Conceição,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,,period,,,,,,,FT,,1,3
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,14,goal,K. Urbański,False,,,,,,,1,3
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,9,substitution,,True,,,,N. Prelec,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,5,substitution,,False,,,K. Urbański,P. Bernardo,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,5,card,Y. Kobayashi,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,3,card,M. Højholt,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Jagiellonia Białystok,Górnik Zabrze,1,3,90,,injuryTime,,,,,,,,12,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,27,,goal,A. Ławniczak,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,29,,card,A. Al-Ammari,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,45,,period,,,,,,,HT,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,49,,varDecision,G. Henriksson,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,53,,card,Z. Alomerović,False,yellow,Other reason,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,54,,goal,A. Hasić,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,64,,substitution,,False,,,J. Ćorluka,M. Grzybek,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,68,,card,J. Ćorluka,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,70,,card,D. Čolina,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,71,,card,S. Ltaief,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,73,,substitution,,False,,,S. Kerk,J. Sypek,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,73,,substitution,,False,,,S. Łyczko,F. Szymczak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,73,,substitution,,False,,,D. Michalski,D. Čolina,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,74,,substitution,,True,,,M. Minchev,S. Ltaief,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,80,,substitution,,True,,,M. Berte,M. Klich,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,,period,,,,,,,FT,,3,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,18,goal,M. Berte,True,,,,,,,3,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,10,substitution,,True,,,K. Glik,A. Hasić,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,9,substitution,,False,,,M. Mlinarić,F. Kocaba,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,8,goal,A. Hasić,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,3,varDecision,A. Hasić,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,,injuryTime,,,,,,,,11,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,KS Cracovia,Zagłębie Lubin,3,1,90,,card,L. Ojrzynski,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,17,,card,F. Jagiełło,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,31,,goal,F. Jagiełło,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,45,,period,,,,,,,HT,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,45,1,card,M. Gurgul,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,45,,card,W. Mońka,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,50,,goal,P. Rodríguez,False,,,,,,,0,2
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,56,,card,K. Linetty,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,60,,substitution,,False,,,P. Wålemark,R. Gumny,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,60,,substitution,,False,,,A. Kozubal,F. Jagiełło,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,61,,substitution,,True,,,A. Ciucka,K. Linetty,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,61,,substitution,,True,,,M. Dembélé,L. Marjanac,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,70,,goal,P. Wålemark,False,,,,,,,0,3
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,72,,substitution,,False,,,Y. Agnero,M. Ishak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,72,,substitution,,False,,,D. Håkans,L. Bengtsson,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,73,,goal,P. Wålemark,False,,,,,,,0,4
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,75,,substitution,,True,,,E. Shabani,P. Samiec-Talar,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,75,,substitution,,True,,,I. Camoes,P. Banaszak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,76,,substitution,,False,,,G. Berggren,R. Murawski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,88,,card,M. Llinares,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,90,,period,,,,,,,FT,,1,4
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,90,5,card,P. Wålemark,False,yellow,Simulation,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,90,3,goal,G. Tomasiewicz,True,,,,,,,1,4
+polonia_ekstraklasa_2026_2027,2026-10-10,10,Śląsk Wrocław,Lech Poznań,1,4,90,,injuryTime,,,,,,,,7,,

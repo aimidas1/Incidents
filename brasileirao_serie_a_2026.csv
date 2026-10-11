@@ -6028,3 +6028,46 @@ brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,87,,substitution,,Tru
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,87,,card,J. Lucas,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_a_2026,2026-10-09,29,Palmeiras,Bahia,1,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,20,,card,Z. Ivaldo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,49,,card,A. Saldivia,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,51,,substitution,,True,,,N. Moreira,F. Colidio,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,59,,substitution,,False,,,Mayk,Marlon,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,59,,substitution,,False,,,D. Braga,Marcelinho,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,65,,substitution,,True,,,R. Rique,L. Piton,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,65,,substitution,,True,,,C. Spinelli,David,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,65,,substitution,,True,,,Cuiabano,A. Lescano,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,71,,substitution,,False,,,L. Picco,Zé Ricardo,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,71,,substitution,,False,,,Jajá,E. Melo,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,75,,card,Jair,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,80,,substitution,,True,,,S. Sosa,Jair,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,84,,substitution,,False,,,M. Alexandre,Y. Pikachu,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,90,,period,,,,,,,FT,,0,0
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,90,4,card,M. Rangel,False,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-10-10,30,Vasco da Gama,Remo,0,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,16,,card,Cacá,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,16,,card,Matheuzinho,False,yellow,Simulation,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,20,,goal,J. Calleri,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,24,,card,G. Santana,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,39,,goal,E. Martinez,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,44,,card,Djhordney,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,59,,substitution,,True,,,M. Antônio,L. Ramon,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,59,,substitution,,True,,,L. Moura,Djhordney,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,69,,substitution,,False,,,T. Pochettino,L. Silva,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,70,,goal,J. Calleri,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,75,,substitution,,True,,,P. Lima,G. Santana,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,75,,substitution,,True,,,P. Ferreira,Artur,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,77,,card,Sabino,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,78,,substitution,,False,,,A. Pato,Matheuzinho,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,78,,substitution,,False,,,Z. Vitor,Caique,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,78,,card,I. Borduchi,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,79,,substitution,,False,,,R. Kayzer,Renê,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,84,,substitution,,True,,,R. Tolói,D. Bobadilla,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,86,,card,R. Kayzer,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,90,2,card,M. Antônio,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,90,,substitution,,False,,,A. Bruno,E. Martinez,,,,
+brasileirao_serie_a_2026,2026-10-11,30,São Paulo,Vitória,2,1,90,,injuryTime,,,,,,,,7,,

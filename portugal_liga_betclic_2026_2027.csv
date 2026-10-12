@@ -1408,3 +1408,72 @@ portugal_liga_betclic_2026_2027,2026-10-10,8,Casa Pia,Santa Clara,0,1,90,5,card,
 portugal_liga_betclic_2026_2027,2026-10-10,8,Casa Pia,Santa Clara,0,1,90,3,card,J. Vasconcelos,False,yellow,,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-10,8,Casa Pia,Santa Clara,0,1,90,2,goal,J. Vasconcelos,False,,,,,,,0,1
 portugal_liga_betclic_2026_2027,2026-10-10,8,Casa Pia,Santa Clara,0,1,90,,injuryTime,,,,,,,,8,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,17,,card,T. Strata,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,24,,goal,S. Dahl,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,33,,card,G. Nogueira,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,45,,period,,,,,,,HT,,1,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,50,,card,T. Borevković,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,52,,card,L. Barreiro,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,55,,card,T. Araújo,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,57,,card,Samu,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,61,,substitution,,True,,,C. Echeverri,A. Schjelderup,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,61,,substitution,,True,,,F. Aursnes,L. Barreiro,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,66,,substitution,,False,,,B. Mukendi,L. Doucet,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,67,,substitution,,False,,,T. Arcanjo,M. Nogueira,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,72,,card,T. Balieiro,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,73,,substitution,,False,,,P. Ouotro,A. Jakupović,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,73,,substitution,,False,,,M. Mitrović,G. Nogueira,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,73,,substitution,,True,,,D. Lukebakio,R. Silva,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,73,,substitution,,True,,,G. Sudakov,A. Bah,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,75,,goal,G. Sudakov,True,,,,,,,2,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,81,,substitution,,False,,,M. Maga,T. Strata,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,82,,substitution,,True,,,J. Durán,V. Pavlidis,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,90,,period,,,,,,,FT,,2,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,90,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,5,,goal,I. Barbero,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,,period,,,,,,,HT,,1,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,8,card,A. Marcus,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,8,card,I. Barbero,True,yellow,,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,6,card,P. Gozálbez,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,50,,card,M. Scholze,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,57,,substitution,,True,,,P. S. Carvalho,P. Gozálbez,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,61,,substitution,,False,,,B. Souza,I. Stoica,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,62,,card,P. S. Carvalho,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,62,,substitution,,False,,,J. Encada,M. Scholze,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,65,,substitution,,True,,,G. Rukavina,N. Djouahra,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,65,,substitution,,True,,,D. Nandín,I. Barbero,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,79,,substitution,,True,,,H. Lee,T. Fukui,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,80,,substitution,,True,,,B. Mansilla,A. Trezza,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,81,,card,T. Fukui,True,yellow,Unallowed field entering,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,82,,substitution,,False,,,E. P. Vanga,E. Doué,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,88,,card,J. Fontán,True,yellow,Time wasting,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,90,,period,,,,,,,FT,,1,0
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,90,1,substitution,,False,,,K. Jansson,S. Serra,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,90,1,substitution,,False,,,A. S. d. Jesus,L. Zvonarek,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,32,,goal,A. K. Njoya,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,39,,goal,S. Clemmensen,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,45,,period,,,,,,,HT,,1,1
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,45,,injuryTime,,,,,,,,1,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,50,,card,J. Tomé,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,54,,card,J. Tomé,True,yellowRed,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,57,,goal,D. Bezerra,True,,,,,,,2,1
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,59,,goal,A. K. Njoya,False,,,,,,,2,2
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,63,,substitution,,True,,,F. Petrasso,M. Patricío,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,63,,substitution,,True,,,R. Galčík,S. Clemmensen,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,68,,substitution,,False,,,M. Baeza,C. Labidi,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,68,,substitution,,False,,,F. Nava,D. Júnior,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,69,,varDecision,J. Blesa,True,,,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,72,,goal,J. Blesa,True,,,,,,,3,2
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,73,,card,J. Blesa,True,yellow,,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,76,,substitution,,True,,,S. Garcia,M. Sellouki,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,76,,substitution,,True,,,D. Nascimento,D. Bezerra,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,78,,substitution,,False,,,A. Obando,M. Djaló,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,78,,substitution,,True,,,T. Monteiro,J. Blesa,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,81,,substitution,,False,,,S. Gavriel,M. Song,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,81,,substitution,,False,,,J. Silva,A. K. Njoya,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,90,,period,,,,,,,FT,,3,2
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,90,1,card,R. Galčík,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,90,,injuryTime,,,,,,,,7,,

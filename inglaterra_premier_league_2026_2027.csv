@@ -1040,9 +1040,9 @@ inglaterra_premier_league_2026_2027,2026-10-10,6,Aston Villa,Brentford,2,2,90,,p
 inglaterra_premier_league_2026_2027,2026-10-10,6,Aston Villa,Brentford,2,2,90,5,card,C. Wilson,False,yellow,Argument,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-10,6,Aston Villa,Brentford,2,2,90,,injuryTime,,,,,,,,6,,
 inglaterra_premier_league_2026_2027,2026-10-10,6,Aston Villa,Brentford,2,2,90,,card,K. Andrews,False,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,10,,card,M. Tavernier,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,2,,goal,J. Henderson,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,3,,goal,M. Rogers,True,,,,,,,2,0
-inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,10,,card,M. Tavernier,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,42,,card,A. Truffert,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,45,,period,,,,,,,HT,,2,0
 inglaterra_premier_league_2026_2027,2026-10-10,6,Chelsea,Bournemouth,5,1,45,,injuryTime,,,,,,,,2,,
@@ -1129,3 +1129,66 @@ inglaterra_premier_league_2026_2027,2026-10-10,6,Sunderland,Brighton & Hove Albi
 inglaterra_premier_league_2026_2027,2026-10-10,6,Sunderland,Brighton & Hove Albion,0,2,90,,period,,,,,,,FT,,0,2
 inglaterra_premier_league_2026_2027,2026-10-10,6,Sunderland,Brighton & Hove Albion,0,2,90,3,goal,J. Hadjam,False,,,,,,,0,2
 inglaterra_premier_league_2026_2027,2026-10-10,6,Sunderland,Brighton & Hove Albion,0,2,90,,injuryTime,,,,,,,,7,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,3,,goal,D. Ndoye,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,16,,card,J. Lerma,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,41,,goal,D. Kamada,True,,,,,,,1,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,45,,period,,,,,,,HT,,2,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,45,4,goal,J. Lerma,True,,,,,,,2,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,45,,injuryTime,,,,,,,,4,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,59,,goal,Y. Pino,True,,,,,,,3,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,60,,card,Y. Pino,True,yellow,,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,66,,substitution,,False,,,I. Sangaré,X. Schlager,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,72,,substitution,,True,,,H. Ahanor,J. Lerma,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,72,,substitution,,False,,,C. Wood,L. Delap,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,72,,substitution,,False,,,C. Hudson Odoi,D. Ndoye,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,73,,card,O. Aina,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,83,,substitution,,False,,,A. Kalimuendo,O. Aina,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,83,,substitution,,True,,,E. Nketiah,J. Larsen,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,83,,substitution,,True,,,I. Sarr,Y. Pino,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,90,,period,,,,,,,FT,,3,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,90,5,card,Murillo,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,90,,substitution,,True,,,D. McNeil,D. Kamada,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Crystal Palace,Nottingham Forest,3,1,90,,injuryTime,,,,,,,,4,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,13,,card,M. Crooks,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,21,,card,O. McBurnie,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,34,,varDecision,B. Johnson,False,,,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,45,,period,,,,,,,HT,,0,0
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,45,,injuryTime,,,,,,,,4,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,48,,goal,J. Gelhardt,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,55,,goal,K. Dewsbury-Hall,False,,,,,,,1,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,64,,substitution,,True,,,M. Belloumi,J. Gelhardt,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,64,,substitution,,True,,,E. Stroud,R. Giles,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,65,,substitution,,True,,,T. Iroegbunam,M. Crooks,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,66,,substitution,,False,,,T. George,B. Johnson,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,68,,goal,T. Barry,False,,,,,,,1,2
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,74,,goal,M. Belloumi,True,,,,,,,2,2
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,75,,substitution,,True,,,H. Morita,R. Slater,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,78,,substitution,,False,,,J. O'Brien,A. Maitland-Niles,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,78,,substitution,,False,,,H. Hackney,H. Armstrong,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,86,,substitution,,False,,,C. Alcaraz,T. Barry,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,86,,substitution,,False,,,T. Dibling,J. Grealish,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,86,,substitution,,True,,,R. Vaz,S. Thomas,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,90,,period,,,,,,,FT,,2,2
+inglaterra_premier_league_2026_2027,2026-10-11,6,Hull City,Everton,2,2,90,,injuryTime,,,,,,,,5,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,8,,card,R. Araújo,True,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,45,,period,,,,,,,HT,,0,0
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,45,,injuryTime,,,,,,,,1,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,47,,card,R. Gravenberch,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,56,,substitution,,False,,,J. Doku,I. Ndiaye,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,58,,card,N. O’Reilly,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,62,,card,R. Gravenberch,True,yellowRed,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,65,,goal,E. Haaland,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,66,,substitution,,False,,,J. Gvardiol,N. O’Reilly,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,66,,substitution,,True,,,T. Nyoni,F. Wirtz,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,68,,goal,J. Doku,False,,,,,,,0,2
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,75,,substitution,,True,,,R. Ngumoha,L. Koumas,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,75,,substitution,,True,,,J. Frimpong,R. Araújo,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,78,,goal,R. Cherki,False,,,,,,,0,3
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,80,,substitution,,False,,,A. Bouaddi,E. Fernández,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,80,,substitution,,False,,,Allan,E. Haaland,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,86,,card,A. Bouaddi,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,88,,substitution,,True,,,F. Chiesa,B. Barcola,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,88,,substitution,,True,,,J. Gomez,J. Jacquet,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,90,,period,,,,,,,FT,,0,3
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,90,1,card,V. van Dijk,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-11,6,Liverpool FC,Manchester City,0,3,90,,injuryTime,,,,,,,,3,,

@@ -1208,7 +1208,6 @@ turquia_super_lig_2026_2027,2026-10-10,7,Gençlerbirliği,Amed Sportif Faaliyetl
 turquia_super_lig_2026_2027,2026-10-10,7,Gençlerbirliği,Amed Sportif Faaliyetler,2,2,90,2,substitution,,False,,,M. Diagne,E. Krasniqi,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Gençlerbirliği,Amed Sportif Faaliyetler,2,2,90,2,substitution,,False,,,C. Üstündag,F. Soyalp,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Gençlerbirliği,Amed Sportif Faaliyetler,2,2,90,,injuryTime,,,,,,,,5,,
-turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,7,,card,L. Tómasson,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,26,,substitution,,True,,,Y. Kayan,C. Yüksel,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,27,,goal,E. Muçi,False,,,,,,,0,1
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,38,,goal,C. Nwaiwu,False,,,,,,,0,2
@@ -1222,6 +1221,7 @@ turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,46,,substitu
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,46,,substitution,,False,,,O. Tufan,E. Muçi,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,67,,substitution,,True,,,E. Tavsan,T. Coulibaly,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,67,,substitution,,True,,,O. Öhlenschlaeger,E. Watt,,,,
+turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,7,,card,L. Tómasson,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,71,,substitution,,False,,,C. Özkaçar,F. Djú,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,71,,substitution,,False,,,S. L. Cabral,M. Eskihellaç,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Samsunspor,Trabzonspor,0,3,77,,substitution,,False,,,P. Onuachu,M. Salah,,,,
@@ -1245,3 +1245,60 @@ turquia_super_lig_2026_2027,2026-10-10,7,Çaykur Rizespor,Fenerbahçe,0,3,88,,su
 turquia_super_lig_2026_2027,2026-10-10,7,Çaykur Rizespor,Fenerbahçe,0,3,88,,substitution,,False,,,İ. Yüksek,M. Guendouzi,,,,
 turquia_super_lig_2026_2027,2026-10-10,7,Çaykur Rizespor,Fenerbahçe,0,3,90,,period,,,,,,,FT,,0,3
 turquia_super_lig_2026_2027,2026-10-10,7,Çaykur Rizespor,Fenerbahçe,0,3,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,18,,goal,O. Kökçü,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,27,,goal,Show,False,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,29,,card,T. Bingöl,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,31,,goal,D. Vlahović,True,,,,,,,2,1
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,39,,substitution,,True,,,I. Fakili,V. Černý,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,45,,period,,,,,,,HT,,2,1
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,45,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,61,,substitution,,False,,,R. Rivas,G. Sousa,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,70,,substitution,,False,,,T. Gulliksen,T. Bingöl,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,71,,substitution,,True,,,E. Agbadou,E. Topçu,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,71,,substitution,,True,,,K. Ouattara,R. Yılmaz,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,71,,substitution,,True,,,W. Ndidi,S. Özcan,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,71,,substitution,,False,,,F. Ayé,D. Agyei,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,78,,card,L. Trossard,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,78,,card,S. Öztaşdelen,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,84,,substitution,,True,,,K. K. Yılmaz,O. Kökçü,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,87,,substitution,,False,,,M. Cinan,U. K. Yıldız,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,87,,substitution,,False,,,M. Baku,O. Öztonga,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,88,,card,S. Inan,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,90,,period,,,,,,,FT,,2,1
+turquia_super_lig_2026_2027,2026-10-11,7,Beşiktaş JK,Kocaelispor,2,1,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,37,,goal,C. Ünder,False,,,,,,,0,1
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,43,,card,M. Diomande,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,45,,period,,,,,,,HT,,0,1
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,58,,substitution,,True,,,U. Meleke,O. Özçiçek,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,58,,substitution,,False,,,Y. Ramadani,B. Özdemir,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,59,,substitution,,True,,,D. Camara,H. Dervişoğlu,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,60,,goal,A. Kyziridis,False,,,,,,,0,2
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,73,,substitution,,False,,,M. Karlsbakk,G. Sazdağı,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,73,,substitution,,True,,,S. Dursun,G. Ntino-Emo,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,81,,card,A. Kyziridis,False,yellow,Time wasting,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,82,,goal,M. Karlsbakk,False,,,,,,,0,3
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,83,,substitution,,True,,,S. Destici,L. Pérez,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,84,,substitution,,False,,,A. Sengul,A. Borza,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,84,,substitution,,False,,,Y. Moukoko,C. Ünder,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,84,,substitution,,False,,,E. Mahmić,A. Kyziridis,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,84,,substitution,,True,,,S. Hansen,A. Maxim,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,85,,card,Y. Moukoko,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,90,,period,,,,,,,FT,,0,3
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,90,8,card,S. Hansen,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,90,6,card,M. Abena,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,90,6,varDecision,S. Hansen,True,,,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Gaziantep FK,Çorum FK,0,3,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,23,,substitution,,True,,,C. Awaziem,A. Demirbağ,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,45,,period,,,,,,,HT,,0,0
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,56,,substitution,,False,,,H. Güreler,E. Bayram,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,56,,varDecision,D. Türüç,True,,,,,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,63,,substitution,,False,,,Ö. A. Şahiner,S. Kharebashvili,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,63,,substitution,,False,,,Y. Sarı,A. Skov Olsen,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,74,,substitution,,True,,,E. Bardhi,R. Tóth,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,80,,substitution,,False,,,J. Kałuziński,I. Brnić,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,80,,substitution,,False,,,A. Fayzullaev,B. Yıldırım,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,82,,substitution,,True,,,M. Mohamed,J. Muleka,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,82,,substitution,,True,,,E. Colley,D. Gonçalves,,,,
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,90,,period,,,,,,,FT,,0,0
+turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,90,,injuryTime,,,,,,,,5,,

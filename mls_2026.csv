@@ -8168,11 +8168,10 @@ mls_2026,2026-10-10,,New York Red Bulls,San Diego FC,4,1,90,3,goal,E. M. Choupo-
 mls_2026,2026-10-10,,New York Red Bulls,San Diego FC,4,1,90,1,substitution,,False,,,O. Valakari,A. Godoy,,,,
 mls_2026,2026-10-10,,New York Red Bulls,San Diego FC,4,1,90,,injuryTime,,,,,,,,6,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,1,,goal,H. Sarajian,True,,,,,,,1,0
-mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,3,,card,V. Nogueira,True,yellow,Foul,,,,,,
-mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,7,,goal,T. Habroune,False,,,,,,,1,1
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,16,,goal,A. Griezmann,True,,,,,,,2,1
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,21,,card,T. Habroune,False,yellow,Foul,,,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,23,,card,R. Jansson,True,yellow,Foul,,,,,,
+mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,3,,card,V. Nogueira,True,yellow,Foul,,,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,36,,card,B. Méndez,False,yellow,Argument,,,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,41,,card,D. Brekalo,True,yellow,Foul,,,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,45,,period,,,,,,,HT,,2,1
@@ -8183,6 +8182,7 @@ mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,53,,goal,B. Méndez,False
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,59,,card,M. Pašalić,True,yellow,Time wasting,,,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,62,,substitution,,True,,,D. Dike,M. Pašalić,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,62,,substitution,,True,,,L. Otávio,E. Atuesta,,,,
+mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,7,,goal,T. Habroune,False,,,,,,,1,1
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,70,,substitution,,False,,,A. Gomes,D. Chambost,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,70,,substitution,,False,,,G. Tapia,J. Martínez,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,83,,substitution,,False,,,S. T. Bangoura,T. Habroune,,,,
@@ -8192,8 +8192,8 @@ mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,89,,goal,I. Angulo,True,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,90,,period,,,,,,,FT,,3,2
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,90,,substitution,,False,,,A. Herrera,M. Farsi,,,,
 mls_2026,2026-10-10,,Orlando City SC,Columbus Crew,3,2,90,,injuryTime,,,,,,,,5,,
-mls_2026,2026-10-10,,Philadelphia Union,Real Salt Lake,2,1,2,,card,D. Jean Jacques,True,yellow,Foul,,,,,,
 mls_2026,2026-10-10,,Philadelphia Union,Real Salt Lake,2,1,13,,card,D. Yedlin,False,yellow,Foul,,,,,,
+mls_2026,2026-10-10,,Philadelphia Union,Real Salt Lake,2,1,2,,card,D. Jean Jacques,True,yellow,Foul,,,,,,
 mls_2026,2026-10-10,,Philadelphia Union,Real Salt Lake,2,1,23,,card,F. Westfield,True,yellow,Foul,,,,,,
 mls_2026,2026-10-10,,Philadelphia Union,Real Salt Lake,2,1,31,,goal,B. Damiani,True,,,,,,,1,0
 mls_2026,2026-10-10,,Philadelphia Union,Real Salt Lake,2,1,45,,period,,,,,,,HT,,1,0
@@ -8275,7 +8275,6 @@ mls_2026,2026-10-11,,Colorado Rapids,San Jose Earthquakes,1,1,90,,period,,,,,,,F
 mls_2026,2026-10-11,,Colorado Rapids,San Jose Earthquakes,1,1,90,4,substitution,,False,,,I. Harkes,B. Leroux,,,,
 mls_2026,2026-10-11,,Colorado Rapids,San Jose Earthquakes,1,1,90,,injuryTime,,,,,,,,4,,
 mls_2026,2026-10-11,,Colorado Rapids,San Jose Earthquakes,1,1,90,,card,M. Wells,True,yellow,Argument,,,,,,
-mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,6,,card,T. Blackmon,False,red,Professional foul last man,,,,,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,10,,substitution,,False,,,M. Laborda,E. Sabbi,,,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,25,,card,M. Choinière,True,yellow,Foul,,,,,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,35,,card,J. Sorensen,False,yellow,Argument,,,,,,
@@ -8284,6 +8283,7 @@ mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,45,,period,,,,,,,HT,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,45,,injuryTime,,,,,,,,5,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,46,,goal,D. Bouanga,True,,,,,,,1,1
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,46,,substitution,,True,,,Igor Jesus,M. Choinière,,,,
+mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,6,,card,T. Blackmon,False,red,Professional foul last man,,,,,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,63,,substitution,,True,,,L. Walta,J. Shaffelburg,,,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,72,,card,Igor Jesus,True,yellow,Foul,,,,,,
 mls_2026,2026-10-11,,Los Angeles FC,Vancouver Whitecaps,1,1,74,,substitution,,False,,,B. Quiñonez,Y. Diaby,,,,
@@ -8340,3 +8340,29 @@ mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,87,,substitution,
 mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,87,,substitution,,False,,,I. Smith,A. Lassiter,,,,
 mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,2,,goal,C. Holse,True,,,,,,,1,0
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,7,,goal,C. Holse,True,,,,,,,2,0
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,11,,substitution,,False,,,J. Klauss,K. Furuhashi,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,21,,goal,C. Holse,True,,,,,,,3,0
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,31,,goal,R. Taylor,False,,,,,,,3,1
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,39,,card,C. Durkin,True,yellow,Foul,,,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,45,,period,,,,,,,HT,,5,1
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,45,7,goal,L. MacNaughton,True,,,,,,,5,1
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,45,,goal,R. Navarro,True,,,,,,,4,1
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,45,,injuryTime,,,,,,,,6,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,46,,substitution,,False,,,L. Sanabria,S. Roberto,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,53,,goal,R. Navarro,True,,,,,,,6,1
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,60,,substitution,,False,,,M. Reus,P. Ruiz,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,60,,substitution,,False,,,J. Paintsil,R. Taylor,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,63,,card,C. Wallem,True,yellow,Persistent fouling,,,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,67,,card,J. Aude,False,yellow,Foul,,,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,71,,goal,J. Klauss,False,,,,,,,6,2
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,72,,substitution,,True,,,F. Fall,C. Durkin,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,74,,card,H. Miller,False,yellow,Foul,,,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,75,,substitution,,False,,,C. Garcés,E. Thommy,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,80,,substitution,,True,,,J. Orozco,C. Wallem,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,80,,substitution,,True,,,J. Sang-bin,C. Holse,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,80,,substitution,,True,,,S. Becher,R. Navarro,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,90,,period,,,,,,,FT,,6,2
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,90,1,substitution,,True,,,D. Downs,A. Mățan,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,90,,injuryTime,,,,,,,,4,,

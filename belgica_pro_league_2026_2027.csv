@@ -1351,7 +1351,6 @@ belgica_pro_league_2026_2027,2026-10-10,8,SV Zulte Waregem,KAA Gent,0,2,89,,card
 belgica_pro_league_2026_2027,2026-10-10,8,SV Zulte Waregem,KAA Gent,0,2,90,,period,,,,,,,FT,,0,2
 belgica_pro_league_2026_2027,2026-10-10,8,SV Zulte Waregem,KAA Gent,0,2,90,2,goal,M. Balikwisha,False,,,,,,,0,2
 belgica_pro_league_2026_2027,2026-10-10,8,SV Zulte Waregem,KAA Gent,0,2,90,,injuryTime,,,,,,,,4,,
-belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,5,,card,K. Takai,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,24,,goal,K. Takai,True,,,,,,,1,0
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,34,,goal,S. Michez,True,,,,,,,2,0
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,39,,goal,S. Taniguchi,True,,,,,,,3,0
@@ -1362,6 +1361,7 @@ belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,45,,
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,46,,substitution,,False,,,N. Mbuku,R. Araki,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,46,,substitution,,False,,,N. Ishiwatari,K. Matsuzawa,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,49,,goal,I. Sebaoui,False,,,,,,,3,2
+belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,5,,card,K. Takai,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,53,,card,M. Decherf,True,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,62,,goal,B. Raman,True,,,,,,,4,2
 belgica_pro_league_2026_2027,2026-10-11,8,KV Mechelen,Sint-Truidense VV,4,3,63,,substitution,,True,,,C. J. V. Meirvenne,B. Raman,,,,
@@ -1404,7 +1404,6 @@ belgica_pro_league_2026_2027,2026-10-11,8,KVC Westerlo,Royal Antwerp FC,5,1,89,,
 belgica_pro_league_2026_2027,2026-10-11,8,KVC Westerlo,Royal Antwerp FC,5,1,90,,period,,,,,,,FT,,5,1
 belgica_pro_league_2026_2027,2026-10-11,8,KVC Westerlo,Royal Antwerp FC,5,1,90,6,goal,Y. Min-hyeok,True,,,,,,,5,1
 belgica_pro_league_2026_2027,2026-10-11,8,KVC Westerlo,Royal Antwerp FC,5,1,90,,injuryTime,,,,,,,,6,,
-belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,6,,card,W. Balikwisha,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,17,,goal,D. Opoku,False,,,,,,,0,1
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,42,,card,J. Lawrence,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,43,,card,Ó. Gil,False,yellow,Argument,,,,,,
@@ -1412,6 +1411,7 @@ belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverl
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,45,,injuryTime,,,,,,,,1,,
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,56,,substitution,,True,,,R. Florucz,R. Mofokeng,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,56,,substitution,,True,,,D. D. Roeve,N. Chibani,,,,
+belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,6,,card,W. Balikwisha,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,66,,goal,D. Opoku,True,,,,,,,1,1
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,67,,substitution,,True,,,A. El Hadj,D. Olaru,,,,
 belgica_pro_league_2026_2027,2026-10-11,8,Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,1,67,,substitution,,True,,,D. Aquino,G. Smith,,,,

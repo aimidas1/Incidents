@@ -1703,11 +1703,11 @@ japao_j1_league_2026_2027,2026-10-10,9,Kyoto Sanga FC,Machida Zelvia,0,1,86,,goa
 japao_j1_league_2026_2027,2026-10-10,9,Kyoto Sanga FC,Machida Zelvia,0,1,89,,substitution,,False,,,I. Drešević,T. Ouwejan,,,,
 japao_j1_league_2026_2027,2026-10-10,9,Kyoto Sanga FC,Machida Zelvia,0,1,90,,period,,,,,,,FT,,0,1
 japao_j1_league_2026_2027,2026-10-10,9,Kyoto Sanga FC,Machida Zelvia,0,1,90,,injuryTime,,,,,,,,5,,
-japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,5,,goal,T. Santana,True,,,,,,,1,0
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,13,,card,T. Santana,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,45,,period,,,,,,,HT,,1,0
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,45,,injuryTime,,,,,,,,3,,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,46,,substitution,,False,,,K. Yasuda,R. Yamada,,,,
+japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,5,,goal,T. Santana,True,,,,,,,1,0
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,53,,card,Erison,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,56,,substitution,,True,,,K. Yonekura,R. Ishio,,,,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,61,,substitution,,False,,,T. Ominami,S. Ryosuke,,,,
@@ -1723,9 +1723,9 @@ japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,90,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,90,2,card,Eduardo,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,90,2,substitution,,True,,,D. Suzuki,M. Hidaka,,,,
 japao_j1_league_2026_2027,2026-10-11,9,JEF United Chiba,V-Varen Nagasaki,1,1,90,,injuryTime,,,,,,,,7,,
+japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,11,,card,K. Nagai,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,2,,goal,H. Fujii,False,,,,,,,0,1
 japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,4,,goal,Y. Wakizaka,True,,,,,,,1,1
-japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,11,,card,K. Nagai,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,40,,card,R. Yamahara,True,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,45,,period,,,,,,,HT,,1,1
 japao_j1_league_2026_2027,2026-10-11,9,Kawasaki Frontale,Nagoya Grampus,1,2,45,,injuryTime,,,,,,,,2,,

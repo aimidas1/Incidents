@@ -825,7 +825,6 @@ grecia_stoiximan_super_league_2026_2027,2026-10-11,6,AE Kifisia,GFS Panetolikos,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,AE Kifisia,GFS Panetolikos,2,0,90,6,goal,L. Abanda,True,,,,,,,2,0
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,AE Kifisia,GFS Panetolikos,2,0,90,2,substitution,,True,,,H. Sousa,I. Jagne,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,AE Kifisia,GFS Panetolikos,2,0,90,,injuryTime,,,,,,,,5,,
-grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,7,,goal,C. Kouamé,True,,,,,,,1,0
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,22,,card,S. Katsikas,False,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,23,,goal,Fabiano,True,,,,,,,2,0
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,43,,goal,T. Kadewere,True,,,,,,,3,0
@@ -838,6 +837,7 @@ grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,61,,substitution,,False,,,K. Bare,D. Burnić,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,67,,substitution,,True,,,O. Boussaid,Bruma,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,67,,substitution,,True,,,F. Jensen,M. Hongla,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,7,,goal,C. Kouamé,True,,,,,,,1,0
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,74,,card,T. Kadewere,True,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,79,,card,G. Kargas,False,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,Aris Thessaloniki,NPS Volos,3,2,80,,substitution,,True,,,N. Fadiga,B. Garré,,,,
@@ -891,3 +891,26 @@ grecia_stoiximan_super_league_2026_2027,2026-10-11,6,POT Iraklis,APO Levadiakos,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,POT Iraklis,APO Levadiakos,2,0,89,,substitution,,True,,,N. Anastasiadis,R. Nizet,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,POT Iraklis,APO Levadiakos,2,0,90,,period,,,,,,,FT,,2,0
 grecia_stoiximan_super_league_2026_2027,2026-10-11,6,POT Iraklis,APO Levadiakos,2,0,90,,injuryTime,,,,,,,,5,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,28,,goal,K. Vargas,False,,,,,,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,43,,card,G. Piñeiro,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,44,,goal,C. Ndiaye,True,,,,,,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,45,,period,,,,,,,HT,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,45,,injuryTime,,,,,,,,2,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,46,,substitution,,True,,,A. Elustondo,G. Michailidis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,46,,substitution,,True,,,A. Živković,D. Chatsidis,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,56,,goal,K. Vargas,False,,,,,,,1,2
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,60,,card,D. Kurminowski,False,yellow,Argument,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,61,,varDecision,A. Tsiftsis,True,,,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,62,,card,A. Tsiftsis,True,red,Professional foul last man,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,63,,substitution,,True,,,D. Monastirlis,D. Pelkas,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,66,,goal,D. Kurminowski,False,,,,,,,1,3
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,73,,substitution,,False,,,J. Bakayoko,Rodrigues,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,74,,substitution,,True,,,O. Ugrešić,K. Jakić,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,74,,substitution,,True,,,S. Banza,Taison,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,78,,substitution,,False,,,J. Cataldi,D. Diarra,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,84,,substitution,,False,,,J. Miranda,D. Kurminowski,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,84,,substitution,,False,,,A. Sigurðsson,E. Hamza,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,84,,substitution,,False,,,A. Liatsikouras,A. M. Moreira,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,89,,card,A. Elustondo,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,90,,period,,,,,,,FT,,1,3
+grecia_stoiximan_super_league_2026_2027,2026-10-12,6,PAOK,PS Kalamata,1,3,90,,injuryTime,,,,,,,,4,,

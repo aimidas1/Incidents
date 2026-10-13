@@ -1111,9 +1111,9 @@ italia_serie_a_2026_2027,2026-10-11,6,Como,AS Roma,0,0,89,,substitution,,False,,
 italia_serie_a_2026_2027,2026-10-11,6,Como,AS Roma,0,0,90,,period,,,,,,,FT,,0,0
 italia_serie_a_2026_2027,2026-10-11,6,Como,AS Roma,0,0,90,,card,M. Baturina,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-10-11,6,Como,AS Roma,0,0,90,,injuryTime,,,,,,,,7,,
-italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,3,,goal,N. Tavares,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,13,,card,A. Carboni,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,23,,goal,G. Isaksen,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,3,,goal,N. Tavares,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,35,,card,L. Lucchesi,False,red,Professional foul last man,,,,,,
 italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,36,,substitution,,False,,,S. Goglichidze,C. Ngonge,,,,
 italia_serie_a_2026_2027,2026-10-11,6,Lazio,Monza,3,1,45,,period,,,,,,,HT,,2,0
@@ -1179,3 +1179,43 @@ italia_serie_a_2026_2027,2026-10-11,6,Sassuolo,AC Milan,1,1,90,,period,,,,,,,FT,
 italia_serie_a_2026_2027,2026-10-11,6,Sassuolo,AC Milan,1,1,90,4,card,K. Thorstvedt,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-10-11,6,Sassuolo,AC Milan,1,1,90,1,card,S. Pavlović,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-10-11,6,Sassuolo,AC Milan,1,1,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,4,,goal,F. Kessié,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,6,,goal,N. Krstović,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,8,,substitution,,False,,,R. Sagrado,T. Correia,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,18,,card,M. Moreno,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,30,,goal,N. Krstović,True,,,,,,,3,0
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,37,,goal,A. Hainaut,False,,,,,,,3,1
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,42,,card,J. Jesus,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,45,,period,,,,,,,HT,,3,1
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,60,,substitution,,True,,,L. Samardžić,C. De Ketelaere,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,67,,substitution,,True,,,L. Bernasconi,R. Bellanova,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,67,,substitution,,True,,,S. Kolašinac,G. Scalvini,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,76,,substitution,,True,,,G. Gaetano,F. Kessié,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,76,,substitution,,True,,,N. Zalewski,J. Rowe,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,83,,substitution,,False,,,L. Lauberbach,A. Adams,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,83,,substitution,,False,,,J. Schingtienne,M. Moreno,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,83,,substitution,,False,,,T. Helgason,T. Bašić,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,87,,substitution,,False,,,A. Rrahmani,S. Sohm,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,88,,varDecision,E. Elmas,True,,,,,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,89,,card,E. Elmas,True,red,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,90,,period,,,,,,,FT,,3,1
+italia_serie_a_2026_2027,2026-10-12,6,Atalanta,Venezia,3,1,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,36,,goal,D. Bragança,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,43,,goal,J. Ekkelenkamp,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,45,,period,,,,,,,HT,,1,1
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,46,,substitution,,True,,,A. Ismajli,R. Rodríguez,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,54,,substitution,,True,,,E. İlkhan,D. Bragança,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,54,,substitution,,True,,,N. Vlašić,G. Oristanio,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,60,,substitution,,False,,,N. Bertola,J. Abankwah,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,64,,substitution,,True,,,S. Kulenović,C. Adams,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,67,,goal,S. Kulenović,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,72,,substitution,,False,,,D. Alaba,M. Vojvoda,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,72,,substitution,,False,,,K. Davis,U. Gómez,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,72,,substitution,,False,,,L. Jovanović,O. Zarraga,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,77,,substitution,,True,,,G. Gineitis,E. İlkhan,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,81,,substitution,,False,,,J. Arizala,H. Kamara,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,89,,card,N. Bertola,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,90,,injuryTime,,,,,,,,5,,

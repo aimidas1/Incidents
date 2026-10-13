@@ -1748,3 +1748,44 @@ polonia_ekstraklasa_2026_2027,2026-10-11,10,Pogoń Szczecin,MKS Korona Kielce,2,
 polonia_ekstraklasa_2026_2027,2026-10-11,10,Pogoń Szczecin,MKS Korona Kielce,2,0,90,1,substitution,,True,,,I. Eichie,P. Mukairu,,,,
 polonia_ekstraklasa_2026_2027,2026-10-11,10,Pogoń Szczecin,MKS Korona Kielce,2,0,90,1,substitution,,True,,,L. Willen,B. Mendy,,,,
 polonia_ekstraklasa_2026_2027,2026-10-11,10,Pogoń Szczecin,MKS Korona Kielce,2,0,90,,injuryTime,,,,,,,,7,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,15,,goal,I. Shkurin,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,45,,period,,,,,,,HT,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,46,,substitution,,True,,,B. Wolski,M. Kowalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,46,,substitution,,False,,,E. Koulouris,J. A. d. l. Rosa,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,62,,goal,B. Białek,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,62,,substitution,,False,,,B. Białek,T. Christensen,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,62,,substitution,,False,,,M. Vojtko,K. Pestka,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,63,,substitution,,True,,,S. Bartlewicz,M. Wedrychowski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,63,,substitution,,True,,,B. Galán,M. Wdowiak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,68,,substitution,,False,,,B. Lederman,L. Semedo,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,74,,goal,B. Nowak,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,79,,substitution,,True,,,A. Jędrych,A. Czerwiński,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,82,,substitution,,False,,,N. Knežević,A. Milić,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,85,,substitution,,True,,,S. Milewski,K. Lukasiak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,90,,period,,,,,,,FT,,2,1
+polonia_ekstraklasa_2026_2027,2026-10-12,3,GKS Katowice,Wieczysta Kraków,2,1,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,9,,card,C. Simon,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,18,,card,K. Lukoszek,False,yellow,Handball,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,23,,card,B. Bereszyński,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,24,,goal,F. Koperski,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,33,,card,C. Donis,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,38,,card,M. Aïko,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,45,,period,,,,,,,HT,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,46,,substitution,,True,,,Luquinhas,E. Baldé,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,53,,goal,M. Ndiaye,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,61,,substitution,,True,,,G. Luiz,F. Gouré,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,61,,substitution,,False,,,M. K. Bartoš,B. Bereszyński,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,61,,substitution,,False,,,F. Ronaldo,M. Aïko,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,62,,substitution,,True,,,A. Tapsoba,R. Wolski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,70,,goal,K. Czubak,False,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,73,,substitution,,True,,,I. Camará,R. Alves,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,77,,substitution,,False,,,M. Łęgowski,R. Lopes,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,80,,goal,S. Kingue,True,,,,,,,2,2
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,83,,substitution,,True,,,Manu,R. Lumungo,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,84,,card,Luquinhas,True,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,86,,card,M. K. Bartoš,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,87,,substitution,,False,,,P. Meyer,Y. Bourhane,,,,
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,90,,period,,,,,,,FT,,2,3
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,90,2,goal,C. Simon,False,,,,,,,2,3
+polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,90,,injuryTime,,,,,,,,3,,

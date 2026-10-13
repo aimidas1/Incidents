@@ -8340,9 +8340,8 @@ mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,87,,substitution,
 mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,87,,substitution,,False,,,I. Smith,A. Lassiter,,,,
 mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-10-11,,Sporting Kansas City,Portland Timbers,3,3,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,2,,goal,C. Holse,True,,,,,,,1,0
-mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,7,,goal,C. Holse,True,,,,,,,2,0
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,11,,substitution,,False,,,J. Klauss,K. Furuhashi,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,2,,goal,C. Holse,True,,,,,,,1,0
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,21,,goal,C. Holse,True,,,,,,,3,0
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,31,,goal,R. Taylor,False,,,,,,,3,1
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,39,,card,C. Durkin,True,yellow,Foul,,,,,,
@@ -8356,6 +8355,7 @@ mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,60,,substitution,,False,,,M. Re
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,60,,substitution,,False,,,J. Paintsil,R. Taylor,,,,
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,63,,card,C. Wallem,True,yellow,Persistent fouling,,,,,,
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,67,,card,J. Aude,False,yellow,Foul,,,,,,
+mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,7,,goal,C. Holse,True,,,,,,,2,0
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,71,,goal,J. Klauss,False,,,,,,,6,2
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,72,,substitution,,True,,,F. Fall,C. Durkin,,,,
 mls_2026,2026-10-11,,St.Louis City,LA Galaxy,6,2,74,,card,H. Miller,False,yellow,Foul,,,,,,

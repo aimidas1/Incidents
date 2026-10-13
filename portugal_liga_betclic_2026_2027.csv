@@ -1431,12 +1431,12 @@ portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,81,,substit
 portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,82,,substitution,,True,,,J. Durán,V. Pavlidis,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,90,,period,,,,,,,FT,,2,0
 portugal_liga_betclic_2026_2027,2026-10-11,8,Benfica,Vitória SC,2,0,90,,injuryTime,,,,,,,,3,,
-portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,5,,goal,I. Barbero,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,,period,,,,,,,HT,,1,0
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,8,card,A. Marcus,False,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,8,card,I. Barbero,True,yellow,,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,6,card,P. Gozálbez,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,5,,goal,I. Barbero,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,50,,card,M. Scholze,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,57,,substitution,,True,,,P. S. Carvalho,P. Gozálbez,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,FC Arouca,CF Estrela Amadora,1,0,61,,substitution,,False,,,B. Souza,I. Stoica,,,,
@@ -1477,3 +1477,27 @@ portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,81,,substit
 portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,90,,period,,,,,,,FT,,3,2
 portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,90,1,card,R. Galčík,True,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-11,8,Rio Ave,CD Nacional,3,2,90,,injuryTime,,,,,,,,7,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,11,,card,P. Bondo,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,13,,card,V. Rofino,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,14,,goal,Chiquinho,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,20,,substitution,,True,,,L. Realpe,M. Mattara,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,34,,card,F. Chissumba,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,37,,card,M. D. Amorim,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,39,,goal,V. Rofino,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,45,,period,,,,,,,HT,,1,1
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,45,2,card,D. Spencer,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,45,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,56,,goal,Figueiredo,False,,,,,,,1,2
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,65,,substitution,,True,,,P. Santos,M. Peña,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,65,,substitution,,True,,,P. Salas,P. Bondo,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,65,,substitution,,True,,,T. Van De Looi,T. Szűcs,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,66,,substitution,,False,,,Z. Rafael,D. Gui,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,66,,substitution,,False,,,A. Vidigal,D. Camara,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,74,,substitution,,False,,,V. Semedo,Figueiredo,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,74,,substitution,,False,,,Matheus França,Chiquinho,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,77,,goal,V. Semedo,False,,,,,,,1,3
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,78,,substitution,,True,,,U. Abubakar,G. Koutsias,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,80,,substitution,,False,,,M. Jemide,I. James,,,,
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,85,,goal,A. Vidigal,False,,,,,,,1,4
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,90,,period,,,,,,,FT,,1,4
+portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,90,,injuryTime,,,,,,,,3,,

@@ -1302,8 +1302,6 @@ turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,82,,subst
 turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,82,,substitution,,True,,,E. Colley,D. Gonçalves,,,,
 turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,90,,period,,,,,,,FT,,0,0
 turquia_super_lig_2026_2027,2026-10-11,7,Konyaspor,Başakşehir FK,0,0,90,,injuryTime,,,,,,,,5,,
-turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,7,,varDecision,N. Miroshi,False,,,,,,,,
-turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,9,,card,A. Abdullahi,True,red,Violent conduct,,,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,11,,goal,Juan,False,,,,,,,0,1
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,41,,card,Juan,False,yellow,Argument,,,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,41,,card,S. A. Yaşar,True,yellow,Argument,,,,,,
@@ -1318,11 +1316,13 @@ turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,60,,substitution
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,60,,substitution,,True,,,L. Pintor,Y. Barası,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,60,,substitution,,True,,,C. R. Yao,M. Demir,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,69,,substitution,,False,,,S. Armstrong,Juan,,,,
+turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,7,,varDecision,N. Miroshi,False,,,,,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,75,,goal,A. Henrique,False,,,,,,,0,4
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,76,,substitution,,True,,,B. Boutobba,C. Massanga,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,76,,substitution,,True,,,H. Akman,D. Costa,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,77,,substitution,,False,,,A. Matos,N. Miroshi,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,77,,substitution,,False,,,E. Bekiroğlu,A. Antunes,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,81,,substitution,,False,,,T. Anjorin,Rhaldney,,,,
+turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,9,,card,A. Abdullahi,True,red,Violent conduct,,,,,,
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,90,,period,,,,,,,FT,,0,4
 turquia_super_lig_2026_2027,2026-10-12,7,Eyüpspor,Göztepe,0,4,90,,injuryTime,,,,,,,,1,,

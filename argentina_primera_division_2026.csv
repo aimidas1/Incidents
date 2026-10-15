@@ -9113,3 +9113,23 @@ argentina_primera_division_2026,2026-10-12,12,Gimnasia y Esgrima Mendoza,Newell'
 argentina_primera_division_2026,2026-10-12,12,Gimnasia y Esgrima Mendoza,Newell's Old Boys,1,0,90,,period,,,,,,,FT,,1,0
 argentina_primera_division_2026,2026-10-12,12,Gimnasia y Esgrima Mendoza,Newell's Old Boys,1,0,90,4,card,N. Barboza,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-12,12,Gimnasia y Esgrima Mendoza,Newell's Old Boys,1,0,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,15,,goal,J. Contrera,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,59,,varDecision,F. Vera,False,,,,,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,61,,card,P. Magnin,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,69,,substitution,,True,,,J. Herrera,J. Rentería,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,69,,substitution,,True,,,E. Giménez,J. Mavilla,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,69,,card,J. Contrera,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,70,,card,T. Andrada,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,71,,goal,G. Montiel,False,,,,,,,1,1
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,72,,substitution,,False,,,L. Pereyra,T. Galván,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,72,,substitution,,True,,,G. González,J. Contrera,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,73,,substitution,,False,,,F. Ortega,M. Acuña,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,82,,card,F. Vera,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,84,,substitution,,False,,,L. Beltrán,S. Driussi,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,89,,card,M. Garcia,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,3,substitution,,True,,,P. Magnin,J. Marabel,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,3,substitution,,True,,,A. Nadruz,S. Salle,,,,
+argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,,injuryTime,,,,,,,,8,,

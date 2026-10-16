@@ -9133,3 +9133,25 @@ argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,,peri
 argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,3,substitution,,True,,,P. Magnin,J. Marabel,,,,
 argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,3,substitution,,True,,,A. Nadruz,S. Salle,,,,
 argentina_primera_division_2026,2026-10-14,11,Sarmiento,River Plate,1,1,90,,injuryTime,,,,,,,,8,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,18,,goal,I. Fernández,False,,,,,,,0,1
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,28,,card,O. Cortés,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,29,,card,L. Gil,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,37,,card,R. Fernández,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,53,,substitution,,True,,,T. Peralta,F. Kalinger,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,53,,substitution,,True,,,I. Pussetto,L. Gil,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,61,,card,F. Waller,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,61,,substitution,,False,,,A. Max,L. Janson,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,68,,card,J. Caicedo,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,69,,substitution,,True,,,J. Bisanz,O. Cortés,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,80,,varDecision,F. Waller,True,,,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,83,,goal,J. Caicedo,True,,,,,,,1,1
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,83,,card,H. Castillo,False,yellow,Time wasting,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,87,,substitution,,False,,,F. Torres,M. Torres,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,89,,substitution,,True,,,L. Mora,F. Waller,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,,period,,,,,,,FT,,1,2
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,7,goal,G. Conti,False,,,,,,,1,2
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,6,card,L. Blondel,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,,substitution,,True,,,B. Barticciotto,J. Bisanz,,,,
+argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,,injuryTime,,,,,,,,6,,

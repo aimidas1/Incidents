@@ -1219,3 +1219,25 @@ italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,81,,substitution,,False
 italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,89,,card,N. Bertola,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,90,,period,,,,,,,FT,,2,1
 italia_serie_a_2026_2027,2026-10-12,6,Torino,Udinese,2,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,9,,goal,G. Calò,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,15,,goal,D. Berardi,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,17,,varDecision,G. Kvernadze,True,,,,,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,26,,goal,A. Raimondo,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,30,,goal,A. Raimondo,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,37,,goal,K. Thorstvedt,False,,,,,,,3,2
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,45,,period,,,,,,,HT,,3,2
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,57,,goal,A. Raimondo,True,,,,,,,4,2
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,58,,substitution,,False,,,K. Bowie,K. Thorstvedt,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,67,,substitution,,False,,,B. Domínguez,S. Esposito,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,68,,substitution,,False,,,L. Lipani,N. Matić,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,68,,substitution,,False,,,R. Obrador,J. Doig,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,74,,substitution,,True,,,A. Zerbin,G. Kvernadze,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,74,,substitution,,True,,,O. Fayed,I. Monterisi,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,80,,substitution,,True,,,M. Cichella,G. Calò,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,80,,substitution,,True,,,W. Amey,A. Oyono,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,82,,card,K. Bowie,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,83,,substitution,,False,,,C. Volpato,A. Laurienté,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,90,,period,,,,,,,FT,,4,2
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,90,,substitution,,True,,,D. Bîrligea,A. Raimondo,,,,
+italia_serie_a_2026_2027,2026-10-16,7,Frosinone,Sassuolo,4,2,90,,injuryTime,,,,,,,,4,,

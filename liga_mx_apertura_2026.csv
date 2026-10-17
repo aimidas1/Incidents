@@ -2047,3 +2047,42 @@ liga_mx_apertura_2026,2026-10-12,11,Pumas UNAM,Cruz Azul,3,3,85,,goal,O. Ebere,F
 liga_mx_apertura_2026,2026-10-12,11,Pumas UNAM,Cruz Azul,3,3,87,,substitution,,False,,,L. Romero,C. Rodríguez,,,,
 liga_mx_apertura_2026,2026-10-12,11,Pumas UNAM,Cruz Azul,3,3,90,,period,,,,,,,FT,,3,3
 liga_mx_apertura_2026,2026-10-12,11,Pumas UNAM,Cruz Azul,3,3,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,34,,card,M.Herrera,True,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,34,,card,M.Herrera,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,42,,goal,Juninho,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,45,1,goal,L. Calzadilla,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,47,,card,A. Quirós,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,63,,substitution,,False,,,V. Arteaga,A. Medina,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,70,,card,P. Bennevendo,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,71,,substitution,,True,,,D. Bagüí,E. Jiménez,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,72,,goal,Juninho,False,,,,,,,1,2
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,76,,substitution,,True,,,C. Bermúdez,A. Quirós,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,85,,substitution,,False,,,Á. Angulo,Juninho,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,86,,substitution,,True,,,J. Moxica,E. Pizzuto,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,86,,substitution,,True,,,J. Charcopa,E. Tercero,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,,period,,,,,,,FT,,1,2
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,5,substitution,,False,,,S. López,U. Antuna,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,2,card,W. Portales,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,5,,goal,R. Mmaee,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,5,,varDecision,F. Monzón,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,64,,substitution,,True,,,J. Ruiz,M. Espíndola,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,67,,card,M. Valenzuela,False,red,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,67,,varDecision,E. Montiel,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,70,,substitution,,False,,,J. Rodríguez,R. Mmaee,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,74,,substitution,,True,,,L. Becerra,E. Martínez,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,74,,substitution,,True,,,J. Valencia,P. Pedraza,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,76,,substitution,,False,,,M. Capasso,K. Zenón,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,76,,substitution,,False,,,E. Zaldívar,L. Esteves,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,77,,card,A. Frías,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,81,,substitution,,True,,,M. Pedroza,C. A. V. Tenorio,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,82,,substitution,,True,,,R. C. Pineda,O. González,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,85,,substitution,,False,,,G. Aguirre,J. Sánchez,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,,period,,,,,,,FT,,0,2
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,3,card,D. Ochoa,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,,goal,M. Capasso,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,,injuryTime,,,,,,,,7,,

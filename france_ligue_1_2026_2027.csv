@@ -1090,3 +1090,22 @@ france_ligue_1_2026_2027,2026-10-11,6,Troyes,Olympique de Marseille,0,2,90,,peri
 france_ligue_1_2026_2027,2026-10-11,6,Troyes,Olympique de Marseille,0,2,90,8,goal,H. Abdelli,False,,,,,,,0,2
 france_ligue_1_2026_2027,2026-10-11,6,Troyes,Olympique de Marseille,0,2,90,6,card,P. Beach,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-10-11,6,Troyes,Olympique de Marseille,0,2,90,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,46,,goal,J. Russell Rowe,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,49,,card,J. Russell Rowe,False,yellow,,,,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,59,,goal,A. Dønnum,False,,,,,,,0,2
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,61,,substitution,,True,,,B. Brahimi,D. Traore,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,61,,substitution,,True,,,H. Diallo,D. Gueye,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,61,,substitution,,True,,,L. Calodat,Y. Larouci,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,64,,substitution,,False,,,A. Vossah,A. Dønnum,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,69,,substitution,,True,,,R. Bamba,L. Buades,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,76,,substitution,,False,,,J. Vignolo,J. Russell Rowe,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,77,,substitution,,True,,,N. Boissé,H. Voyer,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,78,,varDecision,C. Tengstedt,False,,,,,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,85,,substitution,,False,,,S. Koumbassa,R. Nicolaisen,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,87,,goal,C. Tengstedt,False,,,,,,,0,3
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,,period,,,,,,,FT,,0,3
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,4,card,D. Sidibé,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,,card,S. Yohou,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,,injuryTime,,,,,,,,7,,

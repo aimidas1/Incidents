@@ -1434,3 +1434,22 @@ eredivisie_2026_2027,2026-10-11,8,SC Telstar,ADO Den Haag,2,2,85,,card,A. Soualh
 eredivisie_2026_2027,2026-10-11,8,SC Telstar,ADO Den Haag,2,2,89,,substitution,,True,,,P. Aning,J. Seedorf,,,,
 eredivisie_2026_2027,2026-10-11,8,SC Telstar,ADO Den Haag,2,2,90,,period,,,,,,,FT,,2,2
 eredivisie_2026_2027,2026-10-11,8,SC Telstar,ADO Den Haag,2,2,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,11,,goal,D. Vente,True,,,,,,,1,0
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,43,,card,Á. O. Thorsteinsson,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,45,,period,,,,,,,HT,,1,0
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,46,,substitution,,False,,,M. Domínguez,D. Garden,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,54,,goal,O. Braude,True,,,,,,,2,0
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,66,,substitution,,False,,,O. Turay,S. Janssen,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,66,,substitution,,False,,,V. Sulzbacher,A. Sliti,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,66,,substitution,,False,,,I. S. Timas,Á. O. Thorsteinsson,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,73,,substitution,,True,,,M. Farji,M. Rivera,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,77,,substitution,,False,,,N. Naujoks,E. d. S. Moreira,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,82,,substitution,,True,,,R. Uldriķis,D. Vente,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,82,,substitution,,True,,,R. Meerveld,L. Smans,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,82,,substitution,,True,,,L. Oyen,N. Courtens,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,84,,goal,L. Oyen,True,,,,,,,3,0
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,86,,substitution,,True,,,H. Petrov,M. Willemsen,,,,
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,88,,goal,J. Trenskow,True,,,,,,,4,0
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,90,,period,,,,,,,FT,,4,0
+eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,90,,injuryTime,,,,,,,,2,,

@@ -1789,3 +1789,41 @@ polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,9,,c
 polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,90,,period,,,,,,,FT,,2,3
 polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,90,2,goal,C. Simon,False,,,,,,,2,3
 polonia_ekstraklasa_2026_2027,2026-10-12,10,Radomiak Radom,Motor Lublin,2,3,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,23,,card,G. Papanikolaou,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,45,,injuryTime,,,,,,,,10,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,46,,substitution,,True,,,J. Shehu,F. Álvarez,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,46,,substitution,,True,,,L. Selahi,G. Papanikolaou,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,48,,card,M. Fornalczyk,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,62,,varDecision,J. Krzyzanowski,False,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,67,,substitution,,True,,,D. Maleš,M. Fornalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,67,,substitution,,True,,,E. Kornvig,D. Silva,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,72,,substitution,,False,,,E. Youan,J. Lelieveld,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,73,,substitution,,False,,,M. Carbo,J. Igbekeme,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,76,,substitution,,True,,,I. Vermesan,K. Świderski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,90,,period,,,,,,,FT,,0,0
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,90,3,card,J. Shehu,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,90,,card,L. Selahi,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Widzew Łódź,Wisła Kraków,0,0,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,32,,card,B. Racovițan,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,56,,card,S. Svarnas,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,59,,substitution,,True,,,L. Semedo,J. A. d. l. Rosa,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,62,,substitution,,False,,,J. Silva,T. Pieńko,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,62,,substitution,,False,,,M. Diaby,I. Brusberg,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,63,,card,D. Dujmović,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,65,,card,A. Milić,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,67,,card,K. Pestka,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,69,,goal,L. Semedo,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,76,,varDecision,O. Repka,False,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,79,,substitution,,True,,,C. Lungoyi,E. Koulouris,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,79,,substitution,,True,,,M. Vojtko,K. Pestka,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,79,,goal,M. Diaby,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,87,,substitution,,True,,,K. Dankowski,K. Fila,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,87,,substitution,,True,,,B. Białek,L. Piazón,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,87,,substitution,,False,,,A. Basse,M. Emreli,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,88,,goal,M. Diaby,False,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,90,,period,,,,,,,FT,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,90,1,substitution,,False,,,A. Brorsson,P. Makuch,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,90,1,substitution,,False,,,N. Zätterström,E. Otieno,,,,
+polonia_ekstraklasa_2026_2027,2026-10-16,11,Wieczysta Kraków,Raków Częstochowa,1,2,90,,injuryTime,,,,,,,,4,,

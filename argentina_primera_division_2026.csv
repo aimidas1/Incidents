@@ -9155,3 +9155,36 @@ argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90
 argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,6,card,L. Blondel,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,,substitution,,True,,,B. Barticciotto,J. Bisanz,,,,
 argentina_primera_division_2026,2026-10-15,13,Huracán,Gimnasia y Esgrima,1,2,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,23,,goal,J. Lázaro,False,,,,,,,0,1
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,55,,card,D. Fernández,True,yellow,Persistent fouling,,,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,65,,substitution,,False,,,F. Suárez,M. Tissera,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,70,,substitution,,True,,,A. Portillo,V. Loza,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,71,,substitution,,True,,,T. Perrotta,J. M. Gutiérrez,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,73,,substitution,,False,,,J. Acevedo,A. Luna,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,74,,substitution,,False,,,J. Meli,H. De La Fuente,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,74,,substitution,,False,,,J. Córdoba,J. Lázaro,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,81,,substitution,,True,,,A. Molinas,M. Porcel,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,89,,substitution,,True,,,A. Hausch,D. Domínguez,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,89,,substitution,,False,,,I. Méndez,G. Abregú,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,90,,period,,,,,,,FT,,0,1
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,90,1,card,A. Molinas,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-16,13,Defensa y Justicia,Instituto De Córdoba,0,1,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,11,,goal,M. Galarza,False,,,,,,,0,1
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,18,,goal,M. Merentiel,True,,,,,,,1,1
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,34,,card,M. Delgado,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,45,,period,,,,,,,HT,,1,1
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,46,,substitution,,True,,,D. Gorosito,L. Lozano,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,49,,goal,L. Flores,True,,,,,,,2,1
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,53,,substitution,,False,,,D. Valoyes,Rick,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,53,,substitution,,False,,,M. Caceres,G. Baroni,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,55,,card,D. Valoyes,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,59,,substitution,,False,,,V. Davila,F. Fattori,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,72,,substitution,,True,,,C. Palacios,Á. Romero,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,77,,substitution,,True,,,E. Valencia,M. Merentiel,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,79,,substitution,,False,,,T. Chamorro,A. Schott,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,79,,substitution,,False,,,E. Chiavassa,V. Depietri,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,86,,substitution,,True,,,R. Bacidalupe,L. Flores,,,,
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,90,,period,,,,,,,FT,,2,1
+argentina_primera_division_2026,2026-10-17,13,Boca Juniors,CA Talleres,2,1,90,,injuryTime,,,,,,,,4,,

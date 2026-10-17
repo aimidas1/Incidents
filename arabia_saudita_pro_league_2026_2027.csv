@@ -1426,7 +1426,6 @@ arabia_saudita_pro_league_2026_2027,2026-10-11,8,Al-Shabab,Al-Taawoun,3,0,88,,su
 arabia_saudita_pro_league_2026_2027,2026-10-11,8,Al-Shabab,Al-Taawoun,3,0,88,,substitution,,True,,,A. Al-Nashri,R. Mathias,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-11,8,Al-Shabab,Al-Taawoun,3,0,90,,period,,,,,,,FT,,3,0
 arabia_saudita_pro_league_2026_2027,2026-10-11,8,Al-Shabab,Al-Taawoun,3,0,90,,injuryTime,,,,,,,,7,,
-arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,7,,goal,A. Mendy,True,,,,,,,1,0
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,17,,card,A. Girotto,True,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,19,,goal,S. Pinas,False,,,,,,,1,1
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,45,,period,,,,,,,HT,,2,2
@@ -1438,6 +1437,7 @@ arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,61,,s
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,64,,substitution,,False,,,A. L. Essomba,A. Al-Dosari,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,64,,substitution,,False,,,M. Sawan,Y. Al-Zubaidi,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,66,,varDecision,C. Da Costa,False,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,7,,goal,A. Mendy,True,,,,,,,1,0
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,76,,substitution,,True,,,A. Bin Subayt,E. A. Muwallad,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,84,,card,R. Sawlan,False,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al Faisaly,Al-Kholood,3,2,85,,goal,A. Mendy,True,,,,,,,3,2
@@ -1487,3 +1487,23 @@ arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al-Khaleej,Al-Fayha,2,0,88,,sub
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al-Khaleej,Al-Fayha,2,0,89,,substitution,,True,,,A. Asiri,A. Al-Hafith,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al-Khaleej,Al-Fayha,2,0,90,,period,,,,,,,FT,,2,0
 arabia_saudita_pro_league_2026_2027,2026-10-15,9,Al-Khaleej,Al-Fayha,2,0,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,7,,card,J. Weigl,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,28,,substitution,,True,,,Y. Al-Shahrani,A. Diabaté,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,30,,goal,M. Retegui,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,45,,period,,,,,,,HT,,1,0
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,45,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,54,,card,N. Fekir,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,59,,substitution,,False,,,N. Al-Daajani,N. Fekir,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,59,,substitution,,False,,,S. Aljohani,K. A. Shamrani,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,69,,goal,M. A. Al-Shamat,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,70,,substitution,,True,,,T. Alammar,C. Baah,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,70,,substitution,,True,,,A. Al-Salem,M. A. Juwayr,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,76,,substitution,,False,,,A. Gory,G. N'Koudou,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,77,,substitution,,False,,,A. H. A. Yuhaybi,M. Al-Dosari,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,82,,substitution,,False,,,B. A. Mutairi,F. Al-Ghamdi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,84,,substitution,,True,,,M. H. Alqahtani,M. Retegui,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,85,,substitution,,True,,,E. Houssa,N. Nandez,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,86,,card,T. Alammar,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,90,,period,,,,,,,FT,,2,1
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,90,5,goal,A. Gory,False,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-10-16,9,Al-Qadsiah,Abha,2,1,90,,injuryTime,,,,,,,,5,,

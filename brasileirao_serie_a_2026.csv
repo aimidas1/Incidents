@@ -6259,3 +6259,28 @@ brasileirao_serie_a_2026,2026-10-13,30,Red Bull Bragantino,Cruzeiro,4,2,89,,goal
 brasileirao_serie_a_2026,2026-10-13,30,Red Bull Bragantino,Cruzeiro,4,2,90,,period,,,,,,,FT,,4,2
 brasileirao_serie_a_2026,2026-10-13,30,Red Bull Bragantino,Cruzeiro,4,2,90,1,goal,J. Herrera,True,,,,,,,4,2
 brasileirao_serie_a_2026,2026-10-13,30,Red Bull Bragantino,Cruzeiro,4,2,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,15,,card,M. Cunha,False,red,Professional foul last man,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,17,,substitution,,False,,,Kauan,A. Bernabei,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,43,,card,Vitinho,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,45,5,card,N. Moura,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,45,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,46,,substitution,,True,,,Alesson,N. Moura,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,46,,substitution,,False,,,F. Torres,Alerrandro,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,48,,goal,Eduardo,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,57,,card,B. Gomes,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,59,,substitution,,False,,,J. V. Francisco,J. Juninho,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,60,,substitution,,False,,,J. Carbonero,M. Bahia,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,61,,card,R. Villagra,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,68,,substitution,,True,,,Wallisson Luiz,Denilson,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,68,,substitution,,True,,,Fernandinho,E. Carioca,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,74,,substitution,,True,,,A. Luis,B. Santos,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,77,,card,A. Luis,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,79,,substitution,,True,,,Chico,Eduardo,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,81,,card,J. Carbonero,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,82,,substitution,,False,,,J. P. B. d. O. Lo,T. Maia,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,87,,goal,A. Luis,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,89,,card,G. Mercado,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,90,1,card,Kauan,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,90,,injuryTime,,,,,,,,8,,

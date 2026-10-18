@@ -7074,7 +7074,6 @@ brasileirao_serie_b_2026,2026-10-13,33,Botafogo-SP,Ceará,1,0,84,,substitution,,
 brasileirao_serie_b_2026,2026-10-13,33,Botafogo-SP,Ceará,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_b_2026,2026-10-13,33,Botafogo-SP,Ceará,1,0,90,4,card,J. Gabriel,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-13,33,Botafogo-SP,Ceará,1,0,90,,injuryTime,,,,,,,,6,,
-brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,9,,card,S. Palacios,True,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,32,,card,J. Barreto,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,38,,card,D. Barcelos,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,42,,goal,David,True,,,,,,,1,0
@@ -7090,6 +7089,7 @@ brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,74,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,76,,substitution,,False,,,Y. H. d. Silveira,G. Lopes,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,84,,card,Y. H. d. Silveira,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,87,,goal,J. P. Silva,False,,,,,,,1,1
+brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,9,,card,S. Palacios,True,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,90,3,card,R. Andrade,True,yellowRed,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Ponte Preta,Atlético Goianiense,1,1,90,,substitution,,True,,,D. Leão,G. Telles,,,,
@@ -7121,3 +7121,50 @@ brasileirao_serie_b_2026,2026-10-16,34,Sport Recife,Fortaleza,0,2,83,,substituti
 brasileirao_serie_b_2026,2026-10-16,34,Sport Recife,Fortaleza,0,2,90,,period,,,,,,,FT,,0,2
 brasileirao_serie_b_2026,2026-10-16,34,Sport Recife,Fortaleza,0,2,90,5,substitution,,False,,,R. Santos,Rodriguinho,,,,
 brasileirao_serie_b_2026,2026-10-16,34,Sport Recife,Fortaleza,0,2,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,19,,card,T. Ostchega,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,42,,card,J. R. Jiménez,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,42,,card,C. Dantas,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,46,,substitution,,False,,,B. P. Silva,H. Pereira,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,57,,card,Matías Segovia,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,60,,card,Barreto,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,61,,substitution,,False,,,D. Mosconi,P. Vilhena,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,64,,card,William,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,71,,substitution,,False,,,J. G. R. Botao,Mikael,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,71,,substitution,,False,,,Moraes Júnior,G. Feliciano,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,76,,substitution,,True,,,Luidy,T. Ostchega,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,79,,substitution,,True,,,F. Elizari,P. Victor,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,80,,substitution,,True,,,F. Amaral,J. R. Jiménez,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,82,,substitution,,True,,,O. Gonçalves,R. Barcelos,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,82,,substitution,,False,,,Aylon,J. Zuluaga,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,83,,substitution,,True,,,M. Maçola,W. Bigode,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,88,,goal,G. Parede,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,90,3,card,Aylon,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,América Mineiro,Operário-PR,1,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,22,,substitution,,True,,,L. Lobato,Júlio César,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,34,,card,A. Safira,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,45,1,card,Éder,True,yellow,Time wasting,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,45,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,46,,substitution,,True,,,Vina,R. López,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,58,,card,Messias,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,68,,goal,Raí,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,70,,goal,Saulo Mineiro,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,72,,card,M. Barbieri,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,74,,substitution,,False,,,J. Christian,M. Paulo,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,74,,substitution,,False,,,L. Alves,F. Lima,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,78,,goal,G. Pires,False,,,,,,,1,2
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,81,,substitution,,False,,,Gabriel,Messias,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,81,,substitution,,False,,,L. Mineiro,A. Safira,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,82,,substitution,,True,,,M. Araújo,Vinicius Zanocelo,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,82,,substitution,,True,,,R. Santana,E. Lodovico,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,86,,substitution,,False,,,Alan Kardec,Raí,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,,period,,,,,,,FT,,2,2
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,16,card,Saulo Mineiro,True,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,16,goal,Saulo Mineiro,True,,,,,,,2,2
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,10,varDecision,J. Gabriel,True,,,,,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,1,substitution,,True,,,L. Holanda,L. Lobato,,,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,,injuryTime,,,,,,,,11,,
+brasileirao_serie_b_2026,2026-10-17,34,Ceará,Juventude,2,2,90,,card,P. Rocha,False,red,Argument,,,,,,

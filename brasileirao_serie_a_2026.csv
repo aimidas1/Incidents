@@ -6284,3 +6284,77 @@ brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,89,,card,G. Me
 brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,90,,period,,,,,,,FT,,2,0
 brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,90,1,card,Kauan,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-16,31,Mirassol,Internacional,2,0,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,6,,goal,Mauricio,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,9,,card,Gilberto,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,10,,goal,J. Piquerez,False,,,,,,,0,2
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,22,,card,A. Pereira,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,35,,card,J. Piquerez,False,yellow,,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,43,,card,A. Pereira,False,yellowRed,Other reason,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,45,,period,,,,,,,HT,,0,2
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,45,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,46,,substitution,,True,,,Claudinho,J. Cruz,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,46,,substitution,,False,,,M. Freitas,Mauricio,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,46,,substitution,,True,,,J. Rivaldo,Felipinho,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,52,,substitution,,True,,,Bruno Zapelli,Claudinho,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,57,,card,Leozinho,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,65,,substitution,,False,,,J. Arias,J. López,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,67,,substitution,,True,,,F. Chiqueti,Gilberto,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,72,,substitution,,False,,,A. Gabriel,R. Sosa,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,72,,substitution,,False,,,E. Martínez,L. Evangelista,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,87,,substitution,,True,,,Dudu,Leozinho,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,90,,period,,,,,,,FT,,0,2
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,90,,substitution,,False,,,L. Benedetti,B. Fuchs,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Athletico,Palmeiras,0,2,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,46,,substitution,,True,,,Reinier,T. Borbas,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,60,,substitution,,False,,,R. Rodrigues,P. Roberto,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,61,,substitution,,False,,,B. Lopes,J. Lavega,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,62,,substitution,,True,,,R. Lodi,K. P. Resende,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,62,,substitution,,True,,,T. Cuello,A. Minda,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,62,,substitution,,True,,,K. Castaño,T. Pérez,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,62,,substitution,,False,,,Tinga,F. Bustos,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,74,,substitution,,True,,,V. Hugo,M. Cissé,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,78,,goal,I. Gomes,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,79,,substitution,,False,,,B. Ocampo,P. Rocha,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,79,,substitution,,False,,,N. Fonseca,S. Gomez,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,90,4,card,T. Santos,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,90,4,card,Bruno Melo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Atlético Mineiro,Coritiba,1,0,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,7,,goal,T. Soares,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,14,,card,Kauan,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,46,,substitution,,False,,,Y. Bolasie,Fernando,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,55,,substitution,,True,,,C. Medina,H. Ziyech,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,62,,substitution,,False,,,Max,G. Augusto,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,62,,substitution,,False,,,R. Endrio,T. E. S. d. Oliveira,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,65,,substitution,,True,,,D. Andrade,Allan,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,66,,substitution,,True,,,D. Pereira,T. Soares,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,76,,substitution,,True,,,K. Toledo,Á. Montoro,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,76,,substitution,,True,,,J. Santos,M. Martins,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,82,,substitution,,False,,,Dudu,B. Tubarão,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,88,,substitution,,False,,,F. Rossi,Camilo,,,,
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_a_2026,2026-10-17,31,Botafogo,Chapecoense,1,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,42,,card,Artur,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,44,,card,F. Colidio,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,46,,substitution,,True,,,Sabino,R. Tolói,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,46,,substitution,,True,,,L. Moura,Luciano,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,46,,substitution,,False,,,P. Rodríguez,P. Henrique,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,51,,varDecision,G. Pereira,False,,,,,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,54,,card,G. Pereira,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,62,,substitution,,False,,,Brenner,B. Duarte,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,68,,goal,Artur,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,71,,substitution,,True,,,P. Maia,M. Antônio,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,74,,substitution,,False,,,Jair,S. Sosa,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,74,,substitution,,False,,,T. Mendes,Tchê Tchê,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,80,,substitution,,True,,,G. Santana,J. Calleri,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,89,,substitution,,False,,,Adson,A. Lescano,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,89,,substitution,,True,,,L. Osorio,Artur,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,90,2,card,I. Borduchi,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,90,,injuryTime,,,,,,,,6,,

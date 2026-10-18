@@ -1109,3 +1109,62 @@ france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,,period,,,,,,,FT,,
 france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,4,card,D. Sidibé,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,,card,S. Yohou,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-10-16,7,Le Mans,Toulouse,0,3,90,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,6,,goal,M. Baldé,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,13,,card,K. Doumbia,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,46,,substitution,,False,,,J. Nonge,M. Baldé,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,54,,substitution,,True,,,C. Verdonk,R. Perraud,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,58,,card,B. Locko,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,64,,goal,O. Giroud,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,65,,substitution,,True,,,N. Bentaleb,B. André,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,65,,substitution,,True,,,S. Diaoune,D. Bakwa,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,77,,substitution,,True,,,M. Kjaergaard,N. Mukau,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,77,,substitution,,False,,,I. Y. Kante,P. Mboup,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,82,,substitution,,False,,,M. Diambou,K. Doumbia,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,90,,period,,,,,,,FT,,1,1
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,90,,card,C. Verdonk,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Lille,Stade Brestois,1,1,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,17,,goal,G. Reyna,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,53,,substitution,,False,,,N. Mendes,L. Digne,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,54,,substitution,,False,,,Vitinha,L. Beraldo,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,54,,substitution,,False,,,D. Doué,D. Fernández,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,60,,substitution,,True,,,S. Amo-Ameyaw,F. Baldé,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,63,,substitution,,False,,,O. Dembélé,K. Kvaratskhelia,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,63,,substitution,,False,,,A. Hakimi,J. Neves,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,70,,varDecision,D. Doué,False,,,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,75,,substitution,,True,,,S. E. Mourabet,P. Diop,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,76,,card,C. Harder,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,77,,goal,I. Zabarnyi,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,78,,card,D. Essugo,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,83,,substitution,,True,,,J. Ortega,C. Harder,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,83,,substitution,,True,,,Y. Diémé,G. Yassine,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,85,,goal,O. Dembélé,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,87,,substitution,,False,,,,N. Mendes,,,,
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,90,,period,,,,,,,FT,,1,3
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,90,3,goal,D. Doué,False,,,,,,,1,3
+france_ligue_1_2026_2027,2026-10-17,7,RC Strasbourg,Paris Saint-Germain,1,3,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,13,,goal,A. Monfray,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,26,,goal,T. Nkada,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,45,,period,,,,,,,HT,,1,2
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,45,2,goal,O. Édouard,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,45,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,55,,goal,R. Aguilar,False,,,,,,,1,3
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,60,,substitution,,True,,,K. Diawara,T. Nkada,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,60,,substitution,,False,,,S. Baidoo,J. Todibo,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,64,,substitution,,True,,,N. Donkor,P. Gozzi,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,67,,substitution,,False,,,A. Haidara,Y. Titraoui,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,67,,substitution,,False,,,F. Ivanović,O. Édouard,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,67,,substitution,,False,,,M. Mesloub,F. Thauvin,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,72,,substitution,,False,,,S. Abdulhamid,R. Aguilar,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,76,,card,R. Ripart,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,76,,card,M. Diaz,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,77,,card,S. Baidoo,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,79,,substitution,,True,,,I. Gomis,L. Maronnier,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,79,,substitution,,True,,,J. Le Douaron,M. Diop,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,82,,card,A. Haidara,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,84,,substitution,,False,,,,I. Ganiou,,,,
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,90,,period,,,,,,,FT,,1,3
+france_ligue_1_2026_2027,2026-10-17,7,Troyes,RC Lens,1,3,90,,injuryTime,,,,,,,,5,,

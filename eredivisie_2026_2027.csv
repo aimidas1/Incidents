@@ -1453,3 +1453,74 @@ eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,86,,substitution,,
 eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,88,,goal,J. Trenskow,True,,,,,,,4,0
 eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,90,,period,,,,,,,FT,,4,0
 eredivisie_2026_2027,2026-10-16,9,SC Heerenveen,Excelsior,4,0,90,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,21,,goal,S. Mijnans,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,38,,card,S. Mijnans,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,40,,substitution,,False,,,M. B. Hansen,G. Til,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,42,,card,S. Sylla,True,yellow,Off the ball foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,43,,card,S. Mijnans,False,yellowRed,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,45,,period,,,,,,,HT,,0,1
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,45,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,46,,substitution,,True,,,J. Hawkins,L. Wilhelm,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,46,,substitution,,False,,,R. Flamingo,D. Man,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,46,,substitution,,True,,,O. Raterink,S. Sylla,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,46,,substitution,,True,,,M. Šín,J. Žambůrek,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,55,,goal,J. Kilo,True,,,,,,,1,1
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,58,,substitution,,False,,,A. Bouhamdi,A. Santos,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,66,,substitution,,True,,,D. van Mieghem,J. Bal,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,69,,substitution,,False,,,S. Cornecion,M. Júnior,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,69,,card,O. Raterink,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,70,,substitution,,True,,,Pozo,J. Jensen-Abbew,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,73,,card,P. Mulder,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,90,,period,,,,,,,FT,,2,1
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,90,3,goal,M. Šín,True,,,,,,,2,1
+eredivisie_2026_2027,2026-10-17,9,ADO Den Haag,PSV Eindhoven,2,1,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,1,,goal,G. Diarra,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,21,,goal,N. Ferri,False,,,,,,,0,2
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,29,,card,G. Alders,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,30,,goal,T. Owusu,True,,,,,,,1,2
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,32,,goal,S. Steijn,False,,,,,,,1,3
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,37,,goal,P. Brouwer,True,,,,,,,2,3
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,41,,card,C. Vanhoutte,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,45,,period,,,,,,,HT,,2,3
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,57,,goal,S. Steijn,False,,,,,,,2,4
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,65,,substitution,,True,,,J. Seedorf,N. Þórisson,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,65,,substitution,,False,,,J. López,T. Kraaijeveld,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,65,,substitution,,False,,,O. Targhalline,C. Vanhoutte,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,66,,card,G. Zechiël,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,69,,goal,N. Shenkman,True,,,,,,,3,4
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,72,,card,N. Ferri,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,77,,substitution,,False,,,L. Valente,G. Diarra,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,77,,substitution,,False,,,T. van den Elshout,S. Steijn,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,77,,substitution,,True,,,E. Demircan,A. Martha,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,84,,substitution,,True,,,H. Kuster,G. Alders,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,84,,substitution,,True,,,J. Hardeveld,N. Shenkman,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,90,,period,,,,,,,FT,,3,4
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,90,7,card,J. López,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,SC Telstar,Feyenoord,3,4,90,,injuryTime,,,,,,,,7,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,17,,goal,T. Vilhena,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,39,,goal,J. Toornstra,True,,,,,,,1,1
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,41,,card,F. Stam,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,45,,period,,,,,,,HT,,1,1
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,50,,goal,L. E. Martes,True,,,,,,,2,1
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,57,,goal,M. Zonneveld,True,,,,,,,3,1
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,59,,card,R. Meijer,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,66,,substitution,,False,,,M. Lemmens,T. Vilhena,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,66,,substitution,,False,,,T. Verheydt,A. Zarrouk,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,68,,goal,U. v. Aalst,False,,,,,,,3,2
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,70,,card,L. E. Martes,True,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,70,,card,V. van Crooij,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,74,,substitution,,True,,,A. Roaldsøy,J. Toornstra,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,75,,card,T. Verheydt,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,78,,card,A. Roaldsøy,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,81,,substitution,,False,,,C. O. Martin,J. Slory,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,81,,substitution,,False,,,J. Schuurman,U. v. Aalst,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,83,,substitution,,True,,,M. Van Bergen,R. van Cruijsen,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,83,,substitution,,True,,,T. Q. León,C. Hatenboer,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,85,,card,M. Zonneveld,True,yellow,Time wasting,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,88,,substitution,,False,,,E. Gürbüz,M. Dekker,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,88,,card,B. Kuipers,True,yellow,Time wasting,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,90,,period,,,,,,,FT,,3,2
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,90,3,card,C. O. Martin,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-17,9,Sparta Rotterdam,Willem II Tilburg,3,2,90,,injuryTime,,,,,,,,4,,

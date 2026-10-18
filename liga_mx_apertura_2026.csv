@@ -2066,10 +2066,29 @@ liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,,period,,,,,,,F
 liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,5,substitution,,False,,,S. López,U. Antuna,,,,
 liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,2,card,W. Portales,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Atlante FC,Pumas UNAM,1,2,90,,injuryTime,,,,,,,,5,,
-liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,5,,goal,R. Mmaee,False,,,,,,,0,1
-liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,5,,varDecision,F. Monzón,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,36,,goal,J. Brunetta,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,45,2,card,J. Brunetta,False,red,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,45,,injuryTime,,,,,,,,1,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,46,,substitution,,True,,,R. Marín,Á. Sepúlveda,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,46,,substitution,,True,,,B. González,L. Calderón,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,51,,card,S. Sandoval,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,62,,substitution,,True,,,R. Ledezma,L. G. Rey,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,62,,substitution,,False,,,J. Garza,D. Lainez,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,62,,substitution,,False,,,R. Monreal,D. Sánchez,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,62,,substitution,,False,,,E. Gómez,R. Aguirre,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,67,,card,F. González,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,72,,substitution,,True,,,J. Carrillo,F. González,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,75,,substitution,,False,,,V. Loroña,Joaquim,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,77,,goal,J. Carrillo,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,86,,substitution,,True,,,J. Hernández,S. Sandoval,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,87,,substitution,,False,,,O. Herrera,F. Gorriarán,,,,
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-17,12,CD Guadalajara,Tigres UANL,1,1,90,,injuryTime,,,,,,,,9,,
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,45,,period,,,,,,,HT,,0,1
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,5,,goal,R. Mmaee,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,5,,varDecision,F. Monzón,False,,,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,64,,substitution,,True,,,J. Ruiz,M. Espíndola,,,,
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,67,,card,M. Valenzuela,False,red,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,67,,varDecision,E. Montiel,False,,,,,,,,
@@ -2086,3 +2105,83 @@ liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,,period,,,,,,,FT
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,3,card,D. Ochoa,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,,goal,M. Capasso,False,,,,,,,0,2
 liga_mx_apertura_2026,2026-10-17,12,Club Necaxa,Atlas FC,0,2,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,17,,card,M. Tomás,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,45,,injuryTime,,,,,,,,1,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,57,,card,I. Moreno,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,58,,substitution,,True,,,J. González,R. Árciga,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,58,,substitution,,True,,,U. Bilbao,J. Vega,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,63,,substitution,,False,,,J. Pachuca,I. Moreno,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,63,,substitution,,False,,,E. Mustre,L. Hernández,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,66,,card,R. Fernández,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,70,,substitution,,True,,,E. Manoel,M. E. Ghezouani,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,74,,substitution,,False,,,H. Jurado,O. M. Villegas,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,79,,card,J. González,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,85,,substitution,,True,,,D. Abreu,I. Rivero,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,85,,substitution,,False,,,E. Armenta,A. Organista,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,85,,substitution,,False,,,I. Maestro Puch,M. Tomás,,,,
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,90,,period,,,,,,,FT,,0,0
+liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,3,,card,E. Bullaude,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,12,,varDecision,M. Cuevas,True,,,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,29,,goal,T. Jiménez,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,44,,goal,E. Aguirre,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,45,,period,,,,,,,HT,,2,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,45,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,55,,card,C. A. García,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,58,,substitution,,False,,,Á. Alcalá,D. Munoz,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,58,,substitution,,False,,,B. Duarte,C. A. García,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,63,,goal,T. Jiménez,True,,,,,,,3,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,66,,varDecision,D. Reyes,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,67,,card,D. Reyes,False,red,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,70,,substitution,,True,,,A. Lopez Vargas,F. Villalba,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,70,,card,E. Echeverría,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,71,,substitution,,True,,,D. González,E. Bullaude,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,71,,substitution,,False,,,C. Villanueva,E. Giménez,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,71,,substitution,,False,,,B. Parra,I. Benito,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,74,,card,B. Duarte,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,80,,substitution,,False,,,M. Martínez,M. Coronel,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,80,,substitution,,True,,,J. Abella,M. Cuevas,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,85,,substitution,,True,,,J. Güemez,E. Aguirre,,,,
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,87,,goal,J. Güemez,True,,,,,,,4,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,90,,period,,,,,,,FT,,5,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,90,3,goal,T. Jiménez,True,,,,,,,5,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,67,,goal,É. Gutiérrez,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,73,,goal,R. Llorente,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,83,,substitution,,False,,,Juanpe,A. Duarte,,,,
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,83,,substitution,,False,,,L. Flores,R. Llorente,,,,
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,87,,substitution,,False,,,M. G. Álvarez,D. Rodriguez,,,,
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,88,,substitution,,False,,,B. Galdames,S. Salles-Lamonge,,,,
+liga_mx_apertura_2026,2026-10-18,12,CD Toluca,Atlético San Luis,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,21,,varDecision,F. Rossano,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,24,,goal,H. Martín,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,28,,card,J. Romaña,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,34,,goal,C. Álvarez,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,45,,period,,,,,,,HT,,0,2
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,45,7,card,I. Reyes,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,45,6,card,F. Rossano,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,45,3,card,D. Arcila,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,45,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,46,,substitution,,True,,,A. Alvarado,J. Lara,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,53,,goal,A. Alvarado,True,,,,,,,1,2
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,58,,goal,E. Sánchez,False,,,,,,,1,3
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,61,,card,J. Guevara,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,63,,substitution,,True,,,J. Domínguez,J. Rodríguez,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,63,,substitution,,True,,,I. Díaz,E. Guerra,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,74,,substitution,,False,,,E. Cerrillo,E. Sánchez,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,75,,card,A. Zendejas,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,75,,substitution,,False,,,C. Borja,F. Rossano,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,75,,substitution,,True,,,F. Beltrán,D. Arcila,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,80,,substitution,,False,,,I. Violante,A. Zendejas,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,82,,goal,I. Moreno,True,,,,,,,2,3
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,83,,substitution,,False,,,Ó. Perea,C. Álvarez,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,83,,substitution,,False,,,A. Cervantes,I. Reyes,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,84,,goal,Ó. Perea,False,,,,,,,2,4
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,,period,,,,,,,FT,,3,5
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,6,goal,I. Díaz,True,,,,,,,3,5
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,1,card,J. Domínguez,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,1,card,E. Cerrillo,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,,goal,B. Rodríguez,False,,,,,,,2,5
+liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,,injuryTime,,,,,,,,6,,

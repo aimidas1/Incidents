@@ -3516,3 +3516,24 @@ k_league_1_2026,2026-10-11,31,Gwangju FC,Ulsan HD,4,3,89,,substitution,,True,,,Y
 k_league_1_2026,2026-10-11,31,Gwangju FC,Ulsan HD,4,3,90,,period,,,,,,,FT,,4,3
 k_league_1_2026,2026-10-11,31,Gwangju FC,Ulsan HD,4,3,90,7,goal,Yago,False,,,,,,,4,3
 k_league_1_2026,2026-10-11,31,Gwangju FC,Ulsan HD,4,3,90,4,card,D. Kim,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,15,,goal,J. I. Park,False,,,,,,,0,1
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,45,,period,,,,,,,HT,,0,1
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,45,8,card,H. T. Cho,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,45,8,card,T. Santos,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,46,,substitution,,True,,,E. Farias,K. S. Lee,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,48,,card,S. Kim,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,53,,card,K. Takahashi,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,54,,goal,L. Jin-hyun,True,,,,,,,1,1
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,60,,card,S. Kim,False,yellowRed,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,65,,substitution,,False,,,S. Kim,J. I. Park,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,65,,substitution,,False,,,Galego,M. J. Kim,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,77,,substitution,,False,,,T. H. Ahn,T. Santos,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,77,,substitution,,False,,,L. Jae-Won,S. Jo,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,77,,card,J. Seung-hyeon,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,82,,goal,Yago,True,,,,,,,2,1
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,87,,substitution,,True,,,K. Sang-woo,L. Jin-hyun,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,87,,substitution,,True,,,Y. W. Park,D. Bojanić,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,89,,substitution,,False,,,Gustavo Nescau,K. Takahashi,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,90,,period,,,,,,,FT,,2,1
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,90,8,substitution,,True,,,J. Si-Young,K. Sang-woo,,,,
+k_league_1_2026,2026-10-17,32,Ulsan HD,Bucheon FC 1995,2,1,90,2,substitution,,True,,,J. Yoon,C. Seok-Hyun,,,,

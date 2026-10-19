@@ -2122,9 +2122,9 @@ liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,85,,substitutio
 liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,85,,substitution,,False,,,I. Maestro Puch,M. Tomás,,,,
 liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,90,,period,,,,,,,FT,,0,0
 liga_mx_apertura_2026,2026-10-17,12,Club Tijuana,Club Puebla,0,0,90,,injuryTime,,,,,,,,5,,
-liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,3,,card,E. Bullaude,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,12,,varDecision,M. Cuevas,True,,,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,29,,goal,T. Jiménez,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,3,,card,E. Bullaude,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,44,,goal,E. Aguirre,True,,,,,,,2,0
 liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,45,,period,,,,,,,HT,,2,0
 liga_mx_apertura_2026,2026-10-17,12,Santos Laguna,Querétaro FC,5,0,45,,injuryTime,,,,,,,,6,,
@@ -2185,3 +2185,50 @@ liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,1,card,J. Do
 liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,1,card,E. Cerrillo,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,,goal,B. Rodríguez,False,,,,,,,2,5
 liga_mx_apertura_2026,2026-10-18,12,Club León,Club América,3,5,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,4,,goal,A. Montaño,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,23,,goal,C. Rodríguez,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,28,,card,F. Nevarez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,45,,period,,,,,,,HT,,3,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,45,3,goal,O. Campos,True,,,,,,,3,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,46,,substitution,,True,,,L. Romero,C. Rodríguez,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,46,,substitution,,False,,,M. d. S. Silva,Ricardinho,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,46,,substitution,,False,,,G. Castilho,E. López,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,46,,substitution,,True,,,R. González,A. Mozo,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,51,,card,M. d. S. Silva,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,51,,card,G. Castilho,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,55,,goal,A. Palavecino,True,,,,,,,4,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,61,,substitution,,True,,,G. Fernández,N. Ibáñez,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,61,,substitution,,True,,,A. C. Sevilla,A. Palavecino,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,72,,substitution,,False,,,L. M. Dupuy,J. L. Rodríguez,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,74,,substitution,,True,,,O. Ebere,A. Montaño,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,75,,goal,R. González,True,,,,,,,5,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,77,,substitution,,False,,,B. Molina,Ó. Estupiñán,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,80,,substitution,,False,,,J. Sigala,D. Garcia,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,89,,card,G. Sepúlveda,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,89,,card,G. Fernández,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,90,,period,,,,,,,FT,,5,0
+liga_mx_apertura_2026,2026-10-18,12,Cruz Azul,FC Juárez,5,0,90,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,13,,goal,D. Rossi,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,13,,penalty_missed,L. Ocampos,True,,saved,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,16,,goal,J. Corona,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,22,,card,L. Ocampos,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,45,,period,,,,,,,HT,,2,0
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,56,,card,R. Pizarro,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,63,,substitution,,False,,,C. Hernández,M. Isais,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,71,,substitution,,True,,,L. Orellano,L. Ocampos,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,72,,substitution,,True,,,Ó. Torres,D. Rossi,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,75,,goal,S. Rondón,False,,,,,,,2,1
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,78,,substitution,,True,,,P. Ruffin,R. Chávez,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,78,,substitution,,True,,,S. Medina,J. Corona,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,81,,substitution,,False,,,G. Álvarez,J. Vallejo,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,84,,card,S. Barreto,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,85,,card,C. Moreno,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,85,,card,G. Arteaga,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,87,,substitution,,False,,,I. Hernandez,R. Pizarro,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,87,,substitution,,False,,,S. Santos,J. Berlanga,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,88,,card,Ó. Torres,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,90,,period,,,,,,,FT,,2,1
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,90,,substitution,,True,,,J. Rodríguez,C. Garza,,,,
+liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,90,,injuryTime,,,,,,,,4,,

@@ -8685,10 +8685,10 @@ mls_2026,2026-10-17,,Atlanta United,Inter Miami CF,1,3,89,,card,M. Falcón,False
 mls_2026,2026-10-17,,Atlanta United,Inter Miami CF,1,3,90,,period,,,,,,,FT,,1,3
 mls_2026,2026-10-17,,Atlanta United,Inter Miami CF,1,3,90,6,card,L. Messi,False,yellow,Foul,,,,,,
 mls_2026,2026-10-17,,Atlanta United,Inter Miami CF,1,3,90,,injuryTime,,,,,,,,8,,
-mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,4,,goal,R. Navarro,False,,,,,,,0,1
 mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,10,,goal,J. Sang-bin,False,,,,,,,0,2
 mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,24,,card,A. Jackson,True,yellow,Foul,,,,,,
 mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,26,,card,M. Perez,False,yellow,Foul,,,,,,
+mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,4,,goal,R. Navarro,False,,,,,,,0,1
 mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,45,,period,,,,,,,HT,,0,2
 mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,45,,injuryTime,,,,,,,,3,,
 mls_2026,2026-10-17,,Minnesota United,St.Louis City,3,2,46,,substitution,,False,,,R. Santos,T. Totland,,,,
@@ -8738,8 +8738,8 @@ mls_2026,2026-10-17,,New York City FC,Los Angeles FC,1,1,85,,substitution,,False
 mls_2026,2026-10-17,,New York City FC,Los Angeles FC,1,1,85,,substitution,,False,,,S. Vásquez,M. Delgado,,,,
 mls_2026,2026-10-17,,New York City FC,Los Angeles FC,1,1,90,,period,,,,,,,FT,,1,1
 mls_2026,2026-10-17,,New York City FC,Los Angeles FC,1,1,90,,injuryTime,,,,,,,,3,,
-mls_2026,2026-10-17,,New York Red Bulls,Toronto FC,0,2,3,,goal,J. Che,False,,,,,,,0,1
 mls_2026,2026-10-17,,New York Red Bulls,Toronto FC,0,2,28,,substitution,,False,,,J. Gilman,K. Franklin,,,,
+mls_2026,2026-10-17,,New York Red Bulls,Toronto FC,0,2,3,,goal,J. Che,False,,,,,,,0,1
 mls_2026,2026-10-17,,New York Red Bulls,Toronto FC,0,2,45,,period,,,,,,,HT,,0,1
 mls_2026,2026-10-17,,New York Red Bulls,Toronto FC,0,2,45,,injuryTime,,,,,,,,3,,
 mls_2026,2026-10-17,,New York Red Bulls,Toronto FC,0,2,46,,substitution,,True,,,E. M. Choupo-Moting,C. Cowell,,,,
@@ -8816,6 +8816,26 @@ mls_2026,2026-10-18,,Austin FC,Vancouver Whitecaps,1,2,87,,substitution,,False,,
 mls_2026,2026-10-18,,Austin FC,Vancouver Whitecaps,1,2,90,,period,,,,,,,FT,,1,2
 mls_2026,2026-10-18,,Austin FC,Vancouver Whitecaps,1,2,90,,card,R. Gauld,False,yellow,Time wasting,,,,,,
 mls_2026,2026-10-18,,Austin FC,Vancouver Whitecaps,1,2,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,18,,substitution,,True,,,N. Hagglund,J. Malatini,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,22,,goal,G. Tapia,False,,,,,,,0,1
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,28,,card,S. Gidi,True,yellow,Foul,,,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,31,,card,T. Hadebe,True,yellow,Foul,,,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,45,7,card,A. Gomes,False,yellow,Foul,,,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,45,,injuryTime,,,,,,,,6,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,46,,substitution,,False,,,S. T. Bangoura,B. Méndez,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,54,,goal,T. Habroune,False,,,,,,,0,2
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,59,,substitution,,True,,,K. M. Dem,T. Barlow,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,59,,substitution,,True,,,E. Echenique,D. Doudera,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,65,,substitution,,False,,,J. Thiaré,S. Rodríguez,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,66,,substitution,,False,,,E. Bailly,S. Moreira,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,66,,substitution,,False,,,D. Chambost,T. Habroune,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,79,,substitution,,True,,,A. Jabbari,P. Bucha,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,79,,substitution,,True,,,G. Valenzuela,N. Hagglund,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,79,,substitution,,False,,,L. Giaccone,G. Tapia,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,90,,period,,,,,,,FT,,0,2
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,90,3,card,D. Chambost,False,yellow,Foul,,,,,,
+mls_2026,2026-10-18,,FC Cincinnati,Columbus Crew,0,2,90,,injuryTime,,,,,,,,5,,
 mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,12,,goal,C. Cappis,False,,,,,,,0,1
 mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,27,,card,A. Resch,True,yellow,Foul,,,,,,
 mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,28,,card,F. Negri,True,yellow,,,,,,,
@@ -8840,12 +8860,12 @@ mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,90,8,card,M. Bogusz,True,yello
 mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,90,4,goal,M. Bogusz,True,,,,,,,2,1
 mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,90,,card,L. Halter,True,yellow,Foul,,,,,,
 mls_2026,2026-10-18,,Houston Dynamo,FC Dallas,2,2,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,4,,goal,J. Klauss,True,,,,,,,1,0
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,10,,goal,A. Dreyer,False,,,,,,,1,1
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,14,,varDecision,J. Klauss,True,,,,,,,,
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,17,,goal,E. Thommy,True,,,,,,,2,1
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,35,,card,A. Godoy,False,yellow,Foul,,,,,,
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,39,,goal,Gabriel Pirani,False,,,,,,,2,2
+mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,4,,goal,J. Klauss,True,,,,,,,1,0
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,45,,period,,,,,,,HT,,2,2
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,45,1,card,J. Klauss,True,yellow,Foul,,,,,,
 mls_2026,2026-10-18,,LA Galaxy,San Diego FC,2,2,45,,injuryTime,,,,,,,,6,,

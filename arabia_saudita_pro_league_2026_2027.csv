@@ -1546,3 +1546,25 @@ arabia_saudita_pro_league_2026_2027,2026-10-17,9,Neom SC,Al-Ettifaq,0,1,89,,subs
 arabia_saudita_pro_league_2026_2027,2026-10-17,9,Neom SC,Al-Ettifaq,0,1,89,,substitution,,True,,,H. Camara,A. Al Oyayari,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-17,9,Neom SC,Al-Ettifaq,0,1,90,,period,,,,,,,FT,,0,1
 arabia_saudita_pro_league_2026_2027,2026-10-17,9,Neom SC,Al-Ettifaq,0,1,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,33,,goal,L. Haraslín,True,,,,,,,1,0
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,37,,card,A. Al-Hassan,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,38,,card,A. Alamine,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,45,,period,,,,,,,HT,,1,0
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,45,,injuryTime,,,,,,,,3,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,46,,substitution,,True,,,F. Zubaidi,A. Alamine,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,46,,substitution,,False,,,J. King,T. A. Khaibri,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,58,,card,A. A. Shaafi,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,60,,goal,W. Kanga,True,,,,,,,2,0
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,62,,substitution,,False,,,M. Barrow,H. A. A. Issa,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,62,,substitution,,False,,,S. Al-Amri,N. A. Sadi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,67,,substitution,,True,,,F. A. Abdulwahed,L. Haraslín,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,76,,substitution,,False,,,Rebocho,A. A. Shaafi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,76,,substitution,,False,,,M. Kanabah,M. Hamzi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,78,,goal,M. Barrow,False,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,81,,substitution,,True,,,R. Kelder,H. Essadak,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,84,,goal,J. King,False,,,,,,,2,2
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,86,,substitution,,True,,,A. A. Fawaz,A. A. Suwailem,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,89,,card,M. Lixandru,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,90,,period,,,,,,,FT,,2,3
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,90,3,goal,O. Mascarell,False,,,,,,,2,3
+arabia_saudita_pro_league_2026_2027,2026-10-18,10,Al-Fateh,Al-Khaleej,2,3,90,,injuryTime,,,,,,,,5,,

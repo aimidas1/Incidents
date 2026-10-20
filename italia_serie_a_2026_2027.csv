@@ -1388,3 +1388,47 @@ italia_serie_a_2026_2027,2026-10-18,7,Udinese,Lecce,0,3,82,,substitution,,False,
 italia_serie_a_2026_2027,2026-10-18,7,Udinese,Lecce,0,3,86,,goal,J. Siebert,False,,,,,,,0,3
 italia_serie_a_2026_2027,2026-10-18,7,Udinese,Lecce,0,3,90,,period,,,,,,,FT,,0,3
 italia_serie_a_2026_2027,2026-10-18,7,Udinese,Lecce,0,3,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,39,,goal,E. Kouadio,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,47,,goal,G. Varela,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,53,,substitution,,False,,,A. Fadera,M. Nzola,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,64,,substitution,,True,,,A. Colpani,D. Mota,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,66,,goal,J. Robinson,True,,,,,,,3,0
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,67,,substitution,,False,,,K. Carlos,D. Maldini,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,67,,substitution,,False,,,Y. Sugawara,Zé Pedro,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,76,,card,H. Winks,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,79,,goal,G. Varela,True,,,,,,,4,0
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,81,,substitution,,False,,,J. Liteta,H. Winks,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,81,,substitution,,False,,,A. Deiola,A. Romano,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,81,,substitution,,True,,,A. Bakoune,E. Kouadio,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,81,,substitution,,True,,,P. Cutrone,G. Varela,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,81,,substitution,,True,,,M. Folorunsho,E. Akinsanmiro,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,82,,card,A. Fadera,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,82,,card,S. Birindelli,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,87,,substitution,,True,,,O. Forson,J. Robinson,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,90,,period,,,,,,,FT,,4,0
+italia_serie_a_2026_2027,2026-10-19,7,Monza,Cagliari,4,0,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,4,,goal,G. Simeone,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,24,,goal,C. Adams,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,28,,card,D. Carlos,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,37,,card,A. Ismajli,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,45,,period,,,,,,,HT,,0,2
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,46,,substitution,,True,,,S. Lontani,G. Fabbian,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,46,,substitution,,True,,,D. Drobnic ,D. Carlos,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,54,,card,S. Britschgi,True,yellow,Simulation,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,63,,substitution,,False,,,G. Gineitis,R. Mandragora,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,63,,substitution,,False,,,S. Kulenović,C. Adams,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,69,,goal,G. Simeone,False,,,,,,,0,3
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,70,,substitution,,True,,,M. Frigan,E. Touré,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,70,,substitution,,True,,,D. Diallo,S. Britschgi,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,73,,substitution,,False,,,C. Casadei,N. Vlašić,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,73,,substitution,,False,,,Z. Aboukhlal,R. Belghali,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,75,,card,P. Comuzzo,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,80,,substitution,,True,,,C. Ordoñez,A. Bernabé,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,82,,varDecision,M. Frigan,True,,,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,83,,substitution,,False,,,D. Zapata,G. Simeone,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,90,,period,,,,,,,FT,,0,3
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,90,2,card,M. Troilo,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,90,,injuryTime,,,,,,,,3,,

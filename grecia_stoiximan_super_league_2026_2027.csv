@@ -962,10 +962,10 @@ grecia_stoiximan_super_league_2026_2027,2026-10-18,7,AE Kifisia,Aris Thessalonik
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,AE Kifisia,Aris Thessaloniki,1,2,90,3,substitution,,False,,,N. Fadiga,B. Garré,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,AE Kifisia,Aris Thessaloniki,1,2,90,,substitution,,True,,,J. Mboula,I. Jagne,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,AE Kifisia,Aris Thessaloniki,1,2,90,,injuryTime,,,,,,,,5,,
-grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,3,,card,J. Roca,False,yellow,Simulation,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,17,,goal,J. Roca,False,,,,,,,0,1
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,22,,substitution,,True,,,M. Nakamba,G. Granath,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,24,,card,K. Opoku,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,3,,card,J. Roca,False,yellow,Simulation,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,38,,substitution,,False,,,G. Martins,K. Fortounis,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,45,,period,,,,,,,HT,,0,1
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,45,,injuryTime,,,,,,,,2,,
@@ -982,7 +982,6 @@ grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos 
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,90,,period,,,,,,,FT,,0,2
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,90,2,substitution,,True,,,,K. Thymianis,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,GFS Panetolikos,Olympiacos FC,0,2,90,,injuryTime,,,,,,,,3,,
-grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,7,,card,D. Giannoulis,True,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,21,,card,C. Soria,False,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,41,,card,A. Živković,True,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,45,,period,,,,,,,HT,,0,0
@@ -995,6 +994,7 @@ grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,63,,su
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,63,,substitution,,True,,,T. Louchet,O. Ugrešić,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,64,,card,T. Louchet,True,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,68,,card,V. Sourlis,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,7,,card,D. Giannoulis,True,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,71,,card,Y. Roche,False,yellow,Argument,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,72,,substitution,,False,,,M. Krainz,V. Sourlis,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-18,7,PAOK,POT Iraklis,2,1,72,,substitution,,False,,,X. Silva,I. López,,,,

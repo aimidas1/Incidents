@@ -6361,9 +6361,9 @@ brasileirao_serie_a_2026,2026-10-18,31,Bahia,Flamengo,0,3,86,,card,M. Moreno,Tru
 brasileirao_serie_a_2026,2026-10-18,31,Bahia,Flamengo,0,3,89,,card,R. Gómez,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-18,31,Bahia,Flamengo,0,3,90,,period,,,,,,,FT,,0,3
 brasileirao_serie_a_2026,2026-10-18,31,Bahia,Flamengo,0,3,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,4,,goal,R. Castillo,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,25,,card,Á. Barreal,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,31,,card,A. Canobbio,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,4,,goal,R. Castillo,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,45,,period,,,,,,,HT,,1,0
 brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,45,,injuryTime,,,,,,,,3,,
 brasileirao_serie_a_2026,2026-10-18,31,Fluminense,Santos,1,2,49,,goal,G. Barbosa,False,,,,,,,1,1
@@ -6445,3 +6445,22 @@ brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,89,,substitu
 brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,90,2,card,I. Borduchi,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-18,31,São Paulo,Vasco da Gama,1,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,45,1,goal,Renê,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,53,,card,Renê,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,62,,varDecision,A. Luiz,True,,,,,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,66,,goal,Y. Alberto,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,67,,substitution,,True,,,Kaio César,Vitinho,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,79,,substitution,,True,,,M. Bidu,J. Lingard,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,80,,substitution,,False,,,L. Silva,D. Tarzia,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,80,,substitution,,False,,,Z. Vitor,Matheuzinho,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,80,,substitution,,True,,,Charles,A. Luiz,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,85,,substitution,,False,,,F. Santos,Renê,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,89,,varDecision,M. Bidu,True,,,,,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,,period,,,,,,,FT,,1,1
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,13,card,R. Garro,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,4,substitution,,False,,,I. Laquintana,Erick,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,4,substitution,,False,,,Walace,Caique,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,3,substitution,,True,,,G. Negão,Y. Alberto,,,,
+brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,,injuryTime,,,,,,,,8,,

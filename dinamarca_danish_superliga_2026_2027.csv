@@ -1275,7 +1275,6 @@ dinamarca_danish_superliga_2026_2027,2026-10-18,11,FC København,AGF,1,1,84,,sub
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,FC København,AGF,1,1,90,,period,,,,,,,FT,,1,1
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,FC København,AGF,1,1,90,1,card,T. Mølgaard,False,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,FC København,AGF,1,1,90,,injuryTime,,,,,,,,5,,
-dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,7,,substitution,,True,,,D. H. Aronsson,M. Garananga,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,17,,goal,S. Colyn,True,,,,,,,1,0
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,32,,goal,G. Fraulo,True,,,,,,,2,0
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,38,,card,T. Salquist,False,yellow,Foul,,,,,,
@@ -1291,6 +1290,7 @@ dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,6
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,62,,substitution,,False,,,I. Adel,P. A. Junior,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,63,,substitution,,True,,,C. Allen,O. Buur,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,63,,substitution,,True,,,D. Kristjansson,R. Tytens,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,7,,substitution,,True,,,D. H. Aronsson,M. Garananga,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,71,,goal,J. Janssen,False,,,,,,,3,1
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,74,,goal,R. Norheim,False,,,,,,,3,2
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,77,,goal,M. Heyde,False,,,,,,,3,3
@@ -1306,7 +1306,6 @@ dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,9
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,90,6,varDecision,I. Adel,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,90,5,card,J. Lähteenmäki,False,yellow,Argument,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Lyngby,FC Nordsjælland,3,3,90,,injuryTime,,,,,,,,5,,
-dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,6,,varDecision,N. Ganaus,True,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,27,,goal,N. Ganaus,True,,,,,,,1,0
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,29,,goal,R. Canut,True,,,,,,,2,0
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,37,,card,V. Myhra,True,yellow,Argument,,,,,,
@@ -1318,6 +1317,7 @@ dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,53,,card,M. Andersen,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,53,,varDecision,C. Gammelgaard,True,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,54,,card,T. Thomasberg,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,6,,varDecision,N. Ganaus,True,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,64,,substitution,,False,,,C. Olivier,O. Villadsen,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,64,,substitution,,False,,,P. Mortensen,M. Younis,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,71,,substitution,,True,,,R. Falk,F. Ulvestad,,,,
@@ -1330,7 +1330,6 @@ dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,90,,period,,,,,,,FT,,2,1
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Odense Boldklub,Brøndby IF,2,1,90,,injuryTime,,,,,,,,5,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,1,,goal,D. Wilkins,True,,,,,,,1,0
-dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,9,,substitution,,True,,,A. Bergholt,D. Wilkins,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,17,,varDecision,V. Westh,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,18,,card,V. Westh,False,red,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,22,,goal,S. Velkov,True,,,,,,,2,0
@@ -1350,5 +1349,29 @@ dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkebor
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,78,,varDecision,T. Haltvik,True,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,81,,substitution,,True,,,J. Christensen,A. Hoeg,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,81,,substitution,,False,,,J. L. Nielsen,L. Riisgaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,9,,substitution,,True,,,A. Bergholt,D. Wilkins,,,,
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,90,,period,,,,,,,FT,,4,0
 dinamarca_danish_superliga_2026_2027,2026-10-18,11,Sønderjyske Fodbold,Silkeborg IF,4,0,90,,injuryTime,,,,,,,,2,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,17,,card,R. Kristensen,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,27,,substitution,,False,,,S. Johannesen,D. Castillo,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,44,,card,M. B. Sørensen,False,yellow,Persistent fouling,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,45,,period,,,,,,,HT,,0,0
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,45,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,46,,substitution,,False,,,J. Emefile,K. Wätjen,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,46,,substitution,,False,,,G. Cho,S. Iheanacho,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,51,,goal,R. Kristensen,False,,,,,,,0,1
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,57,,card,M. Tullberg,False,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,59,,goal,D. Hanza,True,,,,,,,1,1
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,64,,substitution,,True,,,V. Fridriksson,H. Bidstrup,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,66,,goal,P. Billing,False,,,,,,,1,2
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,78,,substitution,,True,,,R. Alte,A. Beck,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,79,,substitution,,True,,,A. Kleis-Kristoffersen,S. Jalal,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,79,,substitution,,True,,,P. Keller,M. Søndergaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,81,,card,A. Maxsø,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,84,,card,L. Kirkegaard,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,86,,substitution,,True,,,Ž. Zaletel,C. Nouck,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,88,,card,J. Grønning,True,yellow,Simulation,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,90,,period,,,,,,,FT,,1,2
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,90,5,card,A. Kleis-Kristoffersen,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,90,1,substitution,,False,,,M. Rajović,F. Etim,,,,
+dinamarca_danish_superliga_2026_2027,2026-10-19,11,Viborg FF,FC Midtjylland,1,2,90,,injuryTime,,,,,,,,5,,

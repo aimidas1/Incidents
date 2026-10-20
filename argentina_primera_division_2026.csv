@@ -9365,13 +9365,13 @@ argentina_primera_division_2026,2026-10-18,13,Estudiantes de Río Cuarto,Aldosiv
 argentina_primera_division_2026,2026-10-18,13,Estudiantes de Río Cuarto,Aldosivi,2,1,87,,goal,G. Alanis,True,,,,,,,2,1
 argentina_primera_division_2026,2026-10-18,13,Estudiantes de Río Cuarto,Aldosivi,2,1,90,,period,,,,,,,FT,,2,1
 argentina_primera_division_2026,2026-10-18,13,Estudiantes de Río Cuarto,Aldosivi,2,1,90,,injuryTime,,,,,,,,5,,
-argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,6,,card,J. Barinaga,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,17,,card,M. Zaracho,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,29,,goal,M. Zaracho,True,,,,,,,1,0
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,45,,period,,,,,,,HT,,1,0
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,45,,injuryTime,,,,,,,,4,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,46,,substitution,,False,,,M. Abaldo,L. Cabral,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,49,,card,M. Martínez,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,6,,card,J. Barinaga,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,64,,card,G. Escudero,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,65,,goal,M. Meza,False,,,,,,,1,1
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,72,,substitution,,True,,,U. Ortegoza,M. Zaracho,,,,
@@ -9388,3 +9388,61 @@ argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,9
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,90,3,card,L. Pérez,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,90,2,card,L. Godoy,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-18,13,Racing Club,CA Independiente,1,1,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,31,,goal,J. G. Mattar,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,35,,card,M. Vera,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,45,2,card,F. Martínez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,48,,card,M. Cóccaro,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,59,,card,S. Solari,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,61,,card,D. Cáceres,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,69,,goal,S. Solari,True,,,,,,,2,0
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,71,,substitution,,True,,,A. Soñora,S. Solari,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,74,,substitution,,False,,,L. Varaldo,M. Santos,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,74,,substitution,,False,,,H. Tijanovich,D. Barrera,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,76,,card,M. Ortega,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,78,,card,Y. Casermeiro,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,80,,goal,L. Sequeira,False,,,,,,,2,1
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,87,,substitution,,True,,,J. I. Ramírez,M. Cóccaro,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,88,,substitution,,True,,,L. Gómez,J. G. Mattar,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,90,,period,,,,,,,FT,,2,1
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,90,2,substitution,,True,,,J. Russo,F. Gauch,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,90,1,card,M. Iacobellis,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Newell's Old Boys,Central Córdoba,2,1,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,14,,goal,J. Rentería,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,43,,card,N. Demartini,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,46,,substitution,,True,,,G. González,J. Rentería,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,59,,substitution,,False,,,G. Maroni,R. Bogarín,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,70,,substitution,,True,,,U. Giménez,J. Contrera,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,70,,substitution,,True,,,M. Garcia,J. Mavilla,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,71,,card,J. Marabel,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,71,,substitution,,False,,,T. Porra,I. Tapia,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,71,,substitution,,False,,,R. Insúa,E. Pereyra,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,75,,varDecision,Y. Rak,False,,,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,78,,goal,R. Insúa,False,,,,,,,1,1
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,81,,card,L. Suárez,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,83,,substitution,,True,,,J. Herrera,M. Martínez,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,87,,varDecision,J. Marabel,True,,,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,90,8,varDecision,L. Suárez,True,,,,,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,90,4,substitution,,False,,,C. Arce,N. Briasco,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,90,4,substitution,,False,,,F. Bruera,N. Orsini,,,,
+argentina_primera_division_2026,2026-10-19,13,Sarmiento,Barracas Central,1,1,90,,injuryTime,,,,,,,,7,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,45,2,card,M. Estigarribia,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,50,,goal,J. Randazzo,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,57,,goal,T. Rubio,False,,,,,,,1,1
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,58,,substitution,,True,,,C. Quintana,J. Randazzo,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,61,,substitution,,True,,,T. Gonzalez,B. Sánchez,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,62,,substitution,,True,,,N. Benegas,A. Díaz,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,72,,substitution,,False,,,M. Luna,B. Cuello,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,72,,substitution,,True,,,Y. Goitia,A. Alonso,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,72,,substitution,,True,,,P. Ramírez,F. Miño,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,82,,substitution,,False,,,E. Ramírez,J. Palacios,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,88,,substitution,,False,,,I. Malcorra,J. Mosqueira,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,89,,card,N. Sansotre,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,90,,injuryTime,,,,,,,,4,,

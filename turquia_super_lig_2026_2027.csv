@@ -1420,7 +1420,6 @@ turquia_super_lig_2026_2027,2026-10-17,8,Gençlerbirliği,Galatasaray,0,1,90,1,s
 turquia_super_lig_2026_2027,2026-10-17,8,Gençlerbirliği,Galatasaray,0,1,90,1,substitution,,True,,,P. Martor,O. Diabate,,,,
 turquia_super_lig_2026_2027,2026-10-17,8,Gençlerbirliği,Galatasaray,0,1,90,,card,V. Osimhen,False,yellow,,,,,,,
 turquia_super_lig_2026_2027,2026-10-17,8,Gençlerbirliği,Galatasaray,0,1,90,,injuryTime,,,,,,,,4,,
-turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,8,,goal,E. Shomurodov,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,29,,varDecision,U. Bozok,True,,,,,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,36,,card,O. Ak,False,yellow,Argument,,,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,45,,period,,,,,,,HT,,1,0
@@ -1440,6 +1439,7 @@ turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,72,,su
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,73,,substitution,,True,,,E. Višća,I. Brnić,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,75,,card,O. Ba,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,79,,card,U. Güneş,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,8,,goal,E. Shomurodov,True,,,,,,,1,0
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,80,,card,D. Sorescu,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,81,,goal,U. Güneş,True,,,,,,,2,1
 turquia_super_lig_2026_2027,2026-10-18,8,Başakşehir FK,Gaziantep FK,2,1,85,,substitution,,False,,,S. Destici,L. Pérez,,,,
@@ -1493,3 +1493,23 @@ turquia_super_lig_2026_2027,2026-10-18,8,Kocaelispor,Göztepe,1,2,90,3,card,E. O
 turquia_super_lig_2026_2027,2026-10-18,8,Kocaelispor,Göztepe,1,2,90,2,substitution,,False,,,E. Yildirim,N. Miroshi,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Kocaelispor,Göztepe,1,2,90,2,substitution,,False,,,T. Anjorin,Rhaldney,,,,
 turquia_super_lig_2026_2027,2026-10-18,8,Kocaelispor,Göztepe,1,2,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,21,,goal,O. Tufan,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,32,,card,F. Miretti,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,33,,card,Fabinho,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,60,,card,E. Topçu,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,63,,substitution,,True,,,T. Jabol-Folcarelli,O. Tufan,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,71,,goal,M. Salah,True,,,,,,,2,0
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,77,,substitution,,False,,,I. Fakili,R. Yılmaz,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,77,,substitution,,False,,,K. Ouattara,F. Miretti,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,77,,substitution,,False,,,H. Oh,V. Černý,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,81,,substitution,,True,,,N. Saviolo,A. Şimşir,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,85,,substitution,,False,,,W. Ndidi,J. Olaitan,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,85,,card,I. Fakili,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,88,,substitution,,True,,,U. Nayir,F. Djú,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,89,,substitution,,True,,,C. Özkaçar,E. Muçi,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,period,,,,,,,FT,,2,0
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,card,K. Ouattara,False,yellow,Persistent fouling,,,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,substitution,,False,,,K. K. Yılmaz,S. Özcan,,,,
+turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,injuryTime,,,,,,,,3,,

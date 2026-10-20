@@ -1501,3 +1501,28 @@ portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,80,,subst
 portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,85,,goal,A. Vidigal,False,,,,,,,1,4
 portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,90,,period,,,,,,,FT,,1,4
 portugal_liga_betclic_2026_2027,2026-10-12,8,Famalicão,FC Alverca,1,4,90,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,25,,card,M. S. Kaba,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,33,,goal,P. Víctor,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,33,,varDecision,P. Víctor,True,,,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,38,,card,L. Pinto,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,41,,card,J. Gorby,True,yellow,,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,45,,period,,,,,,,HT,,1,0
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,46,,substitution,,True,,,V. Gómez,J. Wind,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,46,,substitution,,False,,,W. d. S. França,M. S. Kaba,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,49,,goal,W. d. S. França,False,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,57,,card,M. Elimbi Gilbert,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,64,,substitution,,False,,,Z. Carlos,D. Prioste,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,64,,substitution,,False,,,T. Touré,G. Martins,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,66,,substitution,,True,,,D. E. Tıknaz,J. Moutinho,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,72,,goal,D. Travassos,False,,,,,,,1,2
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,77,,substitution,,True,,,D. Huseinbašić,J. Gorby,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,77,,substitution,,True,,,Gabriel Silva,D. Travassos,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,77,,substitution,,True,,,F. Navarro,V. Carvalho,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,82,,substitution,,False,,,J. Fernandes,Murilo,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,83,,card,V. Gómez,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,89,,card,Z. Carlos,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,,period,,,,,,,FT,,1,2
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,6,card,R. Horta,True,yellow,Simulation,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,2,substitution,,False,,,G. M. Pereira,A. Lausen,,,,
+portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,,injuryTime,,,,,,,,5,,

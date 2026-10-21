@@ -2232,3 +2232,58 @@ liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,88,,card,Ó. Tor
 liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,90,,period,,,,,,,FT,,2,1
 liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,90,,substitution,,True,,,J. Rodríguez,C. Garza,,,,
 liga_mx_apertura_2026,2026-10-19,12,CF Monterrey,CF Pachuca,2,1,90,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,38,,substitution,,False,,,I. Benito,P. Victor,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,43,,varDecision,B. Galdames,True,,,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,52,,goal,F. Mora,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,59,,substitution,,True,,,J. Caicedo,O. Macías,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,67,,goal,D. Parra,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,71,,substitution,,False,,,D. Munoz,B. Duarte,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,71,,substitution,,False,,,Á. Alcalá,M. Coronel,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,74,,goal,A. Ávila,False,,,,,,,2,1
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,76,,substitution,,True,,,L. Flores,R. Llorente,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,76,,substitution,,True,,,S. P. Bouquet,F. Mora,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,76,,substitution,,True,,,R. Torres,B. Galdames,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,85,,substitution,,False,,,W. Madrid,B. Parra,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,85,,substitution,,False,,,J. E. Robles,E. Giménez,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,88,,substitution,,True,,,R. Meraz,D. Rodriguez,,,,
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,90,,period,,,,,,,FT,,2,1
+liga_mx_apertura_2026,2026-10-21,13,Atlético San Luis,Querétaro FC,2,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,14,,card,E. Rodriguez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,46,,substitution,,True,,,S. Sandoval,J. Carrillo,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,46,,substitution,,False,,,R. Martínez,E. Martínez,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,46,,substitution,,True,,,H. Camberos,L. Calderón,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,54,,substitution,,False,,,J. Carranza,J. Valencia,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,54,,substitution,,False,,,O. González,E. Rodriguez,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,61,,substitution,,True,,,K. Castañeda,R. Ledezma,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,61,,substitution,,True,,,B. González,D. Campillo,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,72,,substitution,,True,,,J. Hernández,E. Alvarez,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,77,,goal,A. Oliveros,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,78,,substitution,,False,,,J. Palacios,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,84,,substitution,,False,,,M. Pedroza,D. Ochoa,,,,
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,90,,period,,,,,,,FT,,1,0
+liga_mx_apertura_2026,2026-10-21,13,CD Guadalajara,Club Necaxa,1,0,90,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,31,,varDecision,M. Sarrafiore,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,37,,card,R. Dourado,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,45,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,60,,substitution,,True,,,J. L. Rodríguez,R. Dourado,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,60,,substitution,,True,,,Monchu,G. Castilho,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,64,,card,J. Julio,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,65,,substitution,,False,,,D. Bagüí,W. Portales,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,65,,substitution,,False,,,J. Moxica,L. Puente,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,70,,substitution,,True,,,L. M. Dupuy,Ricardinho,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,71,,substitution,,True,,,B. Molina,M. d. S. Silva,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,73,,card,E. Jiménez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,76,,goal,N. Carrera,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,78,,card,D. Piña,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,80,,substitution,,True,,,A. Mayorga,D. Piña,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,80,,substitution,,False,,,J. González,J. Julio,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,80,,substitution,,False,,,W. Clar,E. Jiménez,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,85,,card,L. Silva,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,90,,period,,,,,,,FT,,0,1
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,90,5,card,E. Pizzuto,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,90,,substitution,,False,,,M. García,M. Sarrafiore,,,,

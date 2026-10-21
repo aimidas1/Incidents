@@ -7271,3 +7271,18 @@ brasileirao_serie_b_2026,2026-10-19,34,Goiás,Náutico,0,0,83,,card,Filipe Macha
 brasileirao_serie_b_2026,2026-10-19,34,Goiás,Náutico,0,0,90,,period,,,,,,,FT,,0,0
 brasileirao_serie_b_2026,2026-10-19,34,Goiás,Náutico,0,0,90,4,card,F. Clemente,True,yellow,,,,,,,
 brasileirao_serie_b_2026,2026-10-19,34,Goiás,Náutico,0,0,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,35,,goal,William Pottker,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,46,,substitution,,True,,,I. Bahia,William Pottker,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,46,,substitution,,False,,,V. Peixoto,D. M. d. S. Arcanjo,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,63,,substitution,,True,,,P. Dyego,G. Portuga,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,63,,substitution,,True,,,J. Coni,Vitinho,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,65,,substitution,,False,,,L. Otavio,J. Basso,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,65,,substitution,,False,,,Weverson,Igor,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,65,,substitution,,False,,,Eliel,J. Dias,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,73,,substitution,,False,,,Wesley,P. Henrique,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,80,,substitution,,True,,,G. Lacerda,G. Santana Meurer,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,90,2,card,Tarik,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,90,,injuryTime,,,,,,,,6,,

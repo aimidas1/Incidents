@@ -9446,3 +9446,61 @@ argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético U
 argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,89,,card,N. Sansotre,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,90,,period,,,,,,,FT,,1,1
 argentina_primera_division_2026,2026-10-20,13,Deportivo Riestra,Club Atlético Unión de Santa Fe,1,1,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,2,,card,J. Contrera,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,13,,goal,I. Fernández,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,45,,card,S. Salle,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,46,,substitution,,False,,,J. Rentería,J. Contrera,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,46,,substitution,,False,,,U. Giménez,S. Salle,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,46,,substitution,,False,,,G. González,J. Herrera,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,54,,varDecision,L. Janson,True,,,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,60,,card,J. Mavilla,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,61,,substitution,,False,,,P. Magnin,J. Rentería,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,66,,substitution,,True,,,F. Torres,M. Torres,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,67,,card,G. Conti,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,74,,goal,F. Torres,True,,,,,,,2,0
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,81,,substitution,,True,,,N. Barros Schelotto,M. Seoane,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,81,,substitution,,True,,,F. D. Biasi,I. Fernández,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,87,,substitution,,False,,,E. Giménez,M. Martínez,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,87,,substitution,,True,,,L. S. Troncoso,L. Janson,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,89,,card,E. Giménez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,90,,period,,,,,,,FT,,2,0
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima,Sarmiento,2,0,90,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,10,,goal,A. Modica,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,31,,card,I. Gómez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,37,,varDecision,G. Lencina,False,,,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,58,,substitution,,False,,,F. Zapiola,B. Merlini,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,58,,substitution,,False,,,M. Amarfil,I. Gómez,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,64,,substitution,,True,,,M. Vargas,L. Cingolani,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,67,,card,D. Mondino,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,72,,substitution,,False,,,A. Lagos,J. I. Saborido,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,72,,substitution,,True,,,B. Armoa,A. Modica,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,72,,substitution,,False,,,G. Mainero,N. Retamar,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,79,,goal,J. Gauto,False,,,,,,,1,1
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,80,,substitution,,False,,,B. Sepúlveda,G. Lencina,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,85,,substitution,,True,,,M. Úbeda,E. Fernández,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,85,,substitution,,True,,,V. Simoni,F. Lencioni,,,,
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,90,,period,,,,,,,FT,,1,2
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,90,3,goal,B. Sepúlveda,False,,,,,,,1,2
+argentina_primera_division_2026,2026-10-23,14,Gimnasia y Esgrima Mendoza,Club Atlético Platense,1,2,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,32,,card,S. González,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,43,,card,L. Vega,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,45,,card,C. Ferreira,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,46,,substitution,,True,,,J. Villalba,A. Barrionuevo,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,64,,card,R. R. Rodríguez,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,67,,substitution,,True,,,G. Martínez,S. López,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,67,,substitution,,True,,,M. Méndez,I. Russo,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,72,,goal,R. R. Rodríguez,False,,,,,,,0,1
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,75,,card,R. R. Rodríguez,False,yellowRed,Foul,,,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,78,,substitution,,False,,,M. Brondo,N. Laméndola,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,82,,substitution,,True,,,M. Fernández,J. Saralegui,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,82,,substitution,,True,,,I. Subiabre,F. Álvarez,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,83,,substitution,,False,,,J. Fernández,R. Tesuri,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,83,,substitution,,False,,,G. Compagnucci,L. A. Godoy,,,,
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,90,,period,,,,,,,FT,,0,1
+argentina_primera_division_2026,2026-10-24,14,Tigre,Atlético Tucumán,0,1,90,,injuryTime,,,,,,,,5,,

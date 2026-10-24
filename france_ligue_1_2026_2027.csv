@@ -1281,3 +1281,30 @@ france_ligue_1_2026_2027,2026-10-18,7,Paris FC,Stade Rennais,4,3,90,3,varDecisio
 france_ligue_1_2026_2027,2026-10-18,7,Paris FC,Stade Rennais,4,3,90,1,substitution,,False,,,,E. Lepaul,,,,
 france_ligue_1_2026_2027,2026-10-18,7,Paris FC,Stade Rennais,4,3,90,,injuryTime,,,,,,,,6,,
 france_ligue_1_2026_2027,2026-10-18,7,Paris FC,Stade Rennais,4,3,90,,card,H. Traoré,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,15,,goal,L. Ajorque,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,54,,substitution,,False,,,H. Koutoune,J. Clauss,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,58,,card,H. Koutoune,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,61,,goal,E. Wahi,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,62,,card,K. Doumbia,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,63,,substitution,,False,,,S. Diop,G. Hein,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,64,,card,L. Ajorque,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,68,,card,E. Wahi,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,70,,substitution,,True,,,J. Nonge,M. Baldé,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,70,,substitution,,True,,,N. Edjouma,P. Mboup,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,71,,card,B. Locko,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,76,,substitution,,False,,,D. Coulibaly,A. Witsel,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,76,,substitution,,False,,,I. Jansson,M. E. A. Amoura,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,80,,substitution,,True,,,I. Y. Kante,K. Doumbia,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,80,,substitution,,True,,,M. Diambou,J. Chotard,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,83,,goal,S. Diop,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,85,,card,Y. Diouf,False,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,87,,substitution,,True,,,M. Lainé,H. Magnetti,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,period,,,,,,,FT,,1,2
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,10,penalty_missed,K. Lala,True,,saved,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,8,card,I. Jansson,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,7,varDecision,I. Y. Kante,True,,,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,card,N. Nkounkou,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,injuryTime,,,,,,,,6,,
+france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,card,O. Pantaloni,False,yellow,Argument,,,,,,

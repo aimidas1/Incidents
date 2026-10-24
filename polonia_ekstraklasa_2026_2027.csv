@@ -1959,3 +1959,43 @@ polonia_ekstraklasa_2026_2027,2026-10-19,11,Wisła Płock,Radomiak Radom,1,0,83,
 polonia_ekstraklasa_2026_2027,2026-10-19,11,Wisła Płock,Radomiak Radom,1,0,87,,substitution,,False,,,R. Baró,R. Wolski,,,,
 polonia_ekstraklasa_2026_2027,2026-10-19,11,Wisła Płock,Radomiak Radom,1,0,90,,period,,,,,,,FT,,1,0
 polonia_ekstraklasa_2026_2027,2026-10-19,11,Wisła Płock,Radomiak Radom,1,0,90,,injuryTime,,,,,,,,7,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,25,,card,Y. Bourhane,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,28,,card,D. Čolina,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,34,,varDecision,M. Regula,False,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,45,,period,,,,,,,HT,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,45,1,goal,S. Kerk,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,46,,substitution,,False,,,D. Michalski,D. Čolina,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,48,,goal,M. Regula,False,,,,,,,0,2
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,56,,substitution,,True,,,F. Ronaldo,M. Aïko,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,56,,substitution,,True,,,M. Łęgowski,Y. Bourhane,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,66,,substitution,,False,,,F. Szymczak,S. Kerk,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,66,,substitution,,False,,,J. Sypek,M. Dziewiatowski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,72,,substitution,,True,,,T. Santos,K. Lukoszek,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,72,,substitution,,True,,,A. O. Tall,C. Simon,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,74,,goal,M. Łęgowski,True,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,75,,substitution,,False,,,M. Grzybek,M. Regula,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,76,,card,K. Czubak,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,85,,substitution,,True,,,M. Posmyk,F. Luberecki,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,87,,goal,M. Ndiaye,True,,,,,,,2,2
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,90,,period,,,,,,,FT,,2,2
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,90,5,substitution,,False,,,M. Mlinarić,J. Ćorluka,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,90,1,card,M. Grzybek,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Motor Lublin,Zagłębie Lubin,2,2,90,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,16,,goal,K. Świderski,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,21,,substitution,,True,,,S. Biuk,M. Fornalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,29,,card,M. Højholt,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,40,,goal,K. Urbański,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,45,,period,,,,,,,HT,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,60,,substitution,,True,,,S. Bergier,K. Świderski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,60,,substitution,,True,,,C. Cheng,S. Kapuadi,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,63,,substitution,,False,,,M. Khlan,Z. Inoussa,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,71,,card,G. Papanikolaou,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,74,,substitution,,False,,,E. Prekop,S. Liseth,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,78,,substitution,,True,,,M. Krajewski,J. Gazibegović,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,78,,substitution,,True,,,F. Álvarez,D. Maleš,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,87,,card,M. Fornalczyk,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,88,,substitution,,False,,,J. Kubicki,K. Urbański,,,,
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,90,,period,,,,,,,FT,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-23,12,Widzew Łódź,Górnik Zabrze,1,1,90,,injuryTime,,,,,,,,2,,

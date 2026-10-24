@@ -6464,3 +6464,20 @@ brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,4,substitutio
 brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,4,substitution,,False,,,Walace,Caique,,,,
 brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,3,substitution,,True,,,G. Negão,Y. Alberto,,,,
 brasileirao_serie_a_2026,2026-10-19,31,Corinthians,Vitória,1,1,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,26,,substitution,,True,,,Wesley,K. Arroyo,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,45,5,goal,F. Bruno,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,46,,substitution,,False,,,L. Picco,Zé Ricardo,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,50,,card,Patrick,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,62,,substitution,,False,,,V. Bueno,Patrick,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,62,,substitution,,True,,,M. Henrique,Zé Lucas,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,62,,substitution,,False,,,D. Braga,E. Melo,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,79,,card,Z. Ivaldo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,84,,substitution,,True,,,Fagner,W. Furtado,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,84,,substitution,,True,,,B. Rodrigues,Gerson,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,86,,substitution,,False,,,Tico,Jajá,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,4,card,Marcelinho,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,,substitution,,False,,,A. Gonzalez,Zé Welison,,,,
+brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,,injuryTime,,,,,,,,5,,

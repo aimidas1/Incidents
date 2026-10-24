@@ -1513,3 +1513,28 @@ turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,perio
 turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,card,K. Ouattara,False,yellow,Persistent fouling,,,,,,
 turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,substitution,,False,,,K. K. Yılmaz,S. Özcan,,,,
 turquia_super_lig_2026_2027,2026-10-19,8,Trabzonspor,Beşiktaş JK,2,0,90,,injuryTime,,,,,,,,3,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,27,,goal,B. Kutlu,False,,,,,,,0,1
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,42,,goal,M. Baku,False,,,,,,,0,2
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,45,,period,,,,,,,HT,,0,2
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,45,1,card,E. Ortakaya,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,46,,substitution,,True,,,Maestro,G. Makouta,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,46,,substitution,,True,,,I. Cédric,A. Usluoğlu,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,46,,substitution,,True,,,E. Keskin,I. Hagi,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,52,,goal,R. Pereira Duarte,True,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,53,,card,F. Aksoy,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,61,,substitution,,False,,,D. Agyei,G. Sousa,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,67,,substitution,,False,,,M. Altunbaş,M. Baku,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,67,,substitution,,False,,,M. Cinan,R. Rivas,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,70,,substitution,,True,,,İ. Çelik,B. A. Gezek,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,71,,card,J. Pereira,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,76,,substitution,,True,,,O. B. Ali,F. Aksoy,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,81,,card,B. Kutlu,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,82,,substitution,,False,,,T. Gulliksen,F. Ayé,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,82,,substitution,,False,,,M. Maglica,B. Kutlu,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,86,,card,O. Öztonga,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,90,,period,,,,,,,FT,,1,2
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,90,3,card,Show,False,yellow,Time wasting,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,90,2,card,İ. Çelik,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,90,,card,F. Aliti,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-23,9,Alanyaspor,Kocaelispor,1,2,90,,injuryTime,,,,,,,,4,,

@@ -8963,3 +8963,23 @@ mls_2026,2026-10-18,,Sporting Kansas City,Real Salt Lake,1,3,90,2,card,J. Miller
 mls_2026,2026-10-18,,Sporting Kansas City,Real Salt Lake,1,3,90,1,card,S. Spierings,False,yellow,Time wasting,,,,,,
 mls_2026,2026-10-18,,Sporting Kansas City,Real Salt Lake,1,3,90,1,card,Z. Booth,False,yellow,Foul,,,,,,
 mls_2026,2026-10-18,,Sporting Kansas City,Real Salt Lake,1,3,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,14,,goal,D. Doudera,True,,,,,,,1,0
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,38,,goal,K. Nono,False,,,,,,,1,1
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,45,,period,,,,,,,HT,,1,1
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,46,,substitution,,True,,,B. Ramírez,T. Malacia,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,54,,card,K. Nono,False,yellow,Foul,,,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,55,,goal,T. Hadebe,True,,,,,,,2,1
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,67,,substitution,,False,,,N. Ordaz,J. Hopkins,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,69,,substitution,,True,,,A. Powell,D. Doudera,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,79,,substitution,,False,,,O. Avilez,S. Hefti,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,79,,substitution,,False,,,M. Peltola,B. Servania,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,80,,substitution,,True,,,S. Gidi,K. Denkey,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,80,,substitution,,True,,,A. Jabbari,T. Barlow,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,87,,card,N. Hagglund,True,yellow,Argument,,,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,88,,card,T. Baribo,False,yellow,Argument,,,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,period,,,,,,,FT,,2,1
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,5,card,A. Jabbari,True,yellow,Time wasting,,,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,substitution,,False,,,S. Nealis,K. Rowles,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,substitution,,True,,,K. M. Dem,Evander,,,,
+mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,injuryTime,,,,,,,,4,,

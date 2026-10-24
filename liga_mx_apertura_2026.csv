@@ -2287,3 +2287,171 @@ liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,85,,card,L. Silva,
 liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,90,,period,,,,,,,FT,,0,1
 liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,90,5,card,E. Pizzuto,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-21,13,FC Juárez,Atlante FC,0,1,90,,substitution,,False,,,M. García,M. Sarrafiore,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,19,,goal,I. Díaz,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,46,,card,S. Vegas,False,yellow,Persistent fouling,,,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,58,,substitution,,True,,,D. Sánchez,H. S. Koifman,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,58,,substitution,,True,,,R. Aguirre,O. Herrera,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,64,,substitution,,False,,,J. Rodríguez,F. Beltrán,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,64,,substitution,,False,,,B. Colula,I. Moreno,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,73,,substitution,,False,,,C. Mora,A. Alvarado,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,73,,substitution,,False,,,D. Cambindo,S. Vegas,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,81,,substitution,,True,,,C. Araújo,F. Gorriarán,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,81,,substitution,,True,,,R. Monreal,E. Gómez,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,84,,substitution,,False,,,P. Bellón,E. Guerra,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,86,,substitution,,True,,,J. Contreras,J. Garza,,,,
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,89,,goal,D. Cambindo,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,90,,period,,,,,,,FT,,0,2
+liga_mx_apertura_2026,2026-10-21,13,Tigres UANL,Club León,0,2,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,22,,card,F. Rossano,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,26,,goal,M. Borja,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,28,,goal,E. Sánchez,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,45,,period,,,,,,,HT,,0,2
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,46,,substitution,,False,,,I. Violante,C. Álvarez,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,58,,goal,B. Rodríguez,False,,,,,,,0,3
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,63,,goal,A. Zendejas,False,,,,,,,0,4
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,68,,substitution,,True,,,J. Martín,F. Monzón,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,68,,substitution,,True,,,E. Zaldívar,A. González,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,68,,substitution,,True,,,S. Hernandez,P. Ramírez,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,68,,substitution,,False,,,Ó. Perea,A. Zendejas,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,68,,substitution,,False,,,H. Martín,M. Borja,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,70,,varDecision,E. Zaldívar,True,,,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,73,,goal,L. Esteves,True,,,,,,,1,4
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,77,,substitution,,False,,,A. Cervantes,I. Reyes,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,77,,substitution,,False,,,E. Lara,F. Rossano,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,78,,substitution,,True,,,J. Rodríguez,M. Valenzuela,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,78,,goal,R. Mmaee,True,,,,,,,2,4
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,79,,goal,K. Álvarez,False,,,,,,,2,5
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,85,,substitution,,True,,,V. Ríos,E. Montiel,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,85,,card,J. Purata,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,90,,period,,,,,,,FT,,2,5
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,90,4,card,S. Hernandez,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Atlas FC,Club América,2,5,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,38,,goal,E. Manoel,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,46,,substitution,,True,,,B. García,D. Barbosa,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,46,,substitution,,True,,,F. Viñas,J. R. Angulo,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,57,,substitution,,False,,,A. Preciado,J. González,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,57,,substitution,,False,,,M. E. Ghezouani,E. Manoel,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,61,,goal,F. Viñas,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,65,,goal,Helinho,True,,,,,,,2,1
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,67,,substitution,,False,,,I. Rivero,Á. Zapata,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,75,,goal,Y. Padilla,False,,,,,,,2,2
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,82,,substitution,,False,,,F. González,Y. Padilla,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,82,,substitution,,False,,,J. Gómez,R. Árciga,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,83,,substitution,,True,,,J. Díaz,A. Vega,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,83,,substitution,,True,,,É. Gutiérrez,N. Castro,,,,
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,90,,period,,,,,,,FT,,2,2
+liga_mx_apertura_2026,2026-10-22,13,CD Toluca,Club Tijuana,2,2,90,,injuryTime,,,,,,,,9,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,11,,card,E. Bauermann,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,13,,goal,G. Fernández,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,20,,goal,F. Venegas,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,39,,card,C. Rodríguez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,45,,card,O. Idrissi,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,48,,card,F. Venegas,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,61,,substitution,,False,,,R. González,O. Campos,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,61,,substitution,,False,,,L. Romero,J. Márquez,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,63,,card,R. Pizarro,True,yellow,Time wasting,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,67,,substitution,,True,,,G. Álvarez,O. Idrissi,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,67,,substitution,,True,,,A. Alcaraz,R. Pizarro,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,70,,substitution,,False,,,A. Montaño,A. Palavecino,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,70,,substitution,,False,,,C. Rotondi,A. Mozo,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,75,,card,P. Budib,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,79,,substitution,,True,,,Kenedy,J. Vallejo,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,79,,substitution,,True,,,C. Hernández,J. Berlanga,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,79,,goal,A. Montaño,False,,,,,,,1,2
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,82,,substitution,,False,,,J. Orozco,C. Rodríguez,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,85,,substitution,,True,,,M. Isais,F. Venegas,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,85,,card,A. Garcia,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,87,,varDecision,S. Rondón,True,,,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,90,,period,,,,,,,FT,,1,2
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,90,4,card,L. Romero,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,CF Pachuca,Cruz Azul,1,2,90,,injuryTime,,,,,,,,9,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,17,,goal,D. Rossi,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,31,,goal,H. Cuypers,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,34,,goal,L. Ocampos,False,,,,,,,0,3
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,45,,period,,,,,,,HT,,0,3
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,46,,substitution,,True,,,E. Armenta,M. Tomás,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,46,,substitution,,True,,,O. M. Villegas,H. Jurado,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,46,,substitution,,False,,,D. Aceves,C. Salcedo,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,56,,substitution,,True,,,L. Hernández,E. Mustre,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,57,,substitution,,False,,,L. Orellano,H. Cuypers,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,57,,substitution,,False,,,R. de la Rosa,O. Pineda,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,58,,substitution,,False,,,I. Fimbres,D. Rossi,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,61,,goal,R. de la Rosa,False,,,,,,,0,4
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,65,,substitution,,True,,,I. Maestro Puch,A. Ramirez,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,66,,goal,F. Almada,True,,,,,,,1,4
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,76,,substitution,,False,,,J. Corona,L. Ocampos,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,79,,substitution,,True,,,J. Pachuca,I. Moreno,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,,period,,,,,,,FT,,1,4
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,1,card,R. Chávez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,,card,L. Orellano,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,2,,card,N. Silva,False,red,Professional foul last man,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,6,,goal,E. Aguirre,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,21,,substitution,,True,,,J. Pérez,E. Orona,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,42,,card,D. González,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,45,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,46,,substitution,,True,,,E. Echeverría,D. González,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,50,,substitution,,False,,,V. Arteaga,A. Carrasquilla,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,60,,card,R. Paiva,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,65,,card,U. Antuna,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,66,,card,M. Cuevas,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,73,,substitution,,True,,,A. Lopez Vargas,F. Villalba,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,73,,substitution,,True,,,E. Lozano,T. Jiménez,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,77,,substitution,,False,,,Á. Angulo,R. Lopez,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,80,,goal,F. Pardo,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,82,,substitution,,True,,,L. Gómez,E. Aguirre,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,82,,card,R. Morales,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,86,,substitution,,False,,,A. Leone,P. Bennevendo,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,86,,substitution,,False,,,S. López,Juninho,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,90,,period,,,,,,,FT,,2,0
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,90,6,card,E. Echeverría,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,16,,card,A. Quirós,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,20,,card,R. Bambu,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,30,,card,E. Pizzuto,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,45,,substitution,,True,,,D. Bagüí,E. Tercero,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,58,,substitution,,False,,,B. Galdames,A. Duarte,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,59,,goal,B. Galdames,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,70,,substitution,,True,,,W. Clar,E. Jiménez,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,70,,substitution,,True,,,J. Moxica,L. Puente,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,76,,substitution,,False,,,J. Caicedo,S. Salles-Lamonge,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,76,,substitution,,False,,,S. Muñoz,F. Mora,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,79,,substitution,,True,,,M. Fernández,E. Pizzuto,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,80,,substitution,,True,,,J. González,A. Quirós,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,87,,substitution,,False,,,Juanpe,D. Rodriguez,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,87,,substitution,,False,,,R. Meraz,R. Llorente,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,,period,,,,,,,Second half,,0,1
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,7,card,M. Fernández,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,4,penalty_missed,W. Clar,True,,saved,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,1,varDecision,N. Carrera,True,,,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,26,,goal,O. González,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,45,7,penalty_missed,J. Carranza,True,,saved,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,45,2,substitution,,True,,,D. Leyva,J. Ruiz,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,46,,substitution,,False,,,D. Garcia,J. Murillo,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,46,,substitution,,True,,,M. Zaleta,C. A. V. Tenorio,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,46,,substitution,,True,,,E. Rodriguez,M. Espíndola,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,64,,substitution,,False,,,L. M. Dupuy,G. Castilho,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,66,,substitution,,True,,,F. Méndez,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,71,,substitution,,True,,,M. Pedroza,J. Carranza,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,76,,card,M. Pedroza,True,yellow,Time wasting,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,78,,substitution,,False,,,Ricardinho,J. L. Rodríguez,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,81,,card,M. d. S. Silva,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,81,,card,M. Zaleta,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,82,,goal,L. M. Dupuy,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,86,,card,Ó. Estupiñán,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,90,,injuryTime,,,,,,,,4,,

@@ -1526,3 +1526,29 @@ portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,,
 portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,6,card,R. Horta,True,yellow,Simulation,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,2,substitution,,False,,,G. M. Pereira,A. Lausen,,,,
 portugal_liga_betclic_2026_2027,2026-10-19,2,Sporting Braga,Gil Vicente,1,2,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,12,,card,G. Silva,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,17,,card,G. Nogueira,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,22,,card,T. Borevković,True,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,36,,card,T. Tavares,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,36,,card,R. Guzzo,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,38,,goal,A. Jakupović,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,45,,period,,,,,,,HT,,1,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,45,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,46,,substitution,,False,,,S. Bouzaidi,T. Tavares,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,48,,goal,P. Henrique,True,,,,,,,2,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,60,,goal,O. Camara,True,,,,,,,3,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,62,,card,R. Andrade,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,63,,card,Samu,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,66,,substitution,,True,,,L. Doucet,G. Nogueira,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,66,,substitution,,True,,,V. Andersson,G. Silva,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,69,,substitution,,False,,,N. Varela,M. Dominguez,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,69,,substitution,,False,,,I. Alani,R. Guzzo,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,76,,goal,A. Jakupović,True,,,,,,,4,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,78,,substitution,,True,,,A. Ndoye,A. Jakupović,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,78,,substitution,,True,,,Y. Mosquera,F. A. Sidibé,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,78,,substitution,,True,,,Alan,Samu,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,80,,substitution,,False,,,M. Bassouamina,M. Tejón,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,86,,substitution,,False,,,M. Boakye,A. Butzke,,,,
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,90,,period,,,,,,,FT,,5,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,90,,goal,Y. Mosquera,True,,,,,,,5,0
+portugal_liga_betclic_2026_2027,2026-10-23,9,Vitória SC,CS Marítimo,5,0,90,,injuryTime,,,,,,,,2,,

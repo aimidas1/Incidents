@@ -7286,3 +7286,45 @@ brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,80,,substitution,,Tr
 brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,90,2,card,Tarik,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-20,34,Londrina,Cuiabá,1,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,12,,card,B. P. Silva,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,29,,goal,C. Dantas,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,45,,card,Jhonathan,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,46,,substitution,,False,,,P. Sampaio,P. Oliveira,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,46,,substitution,,False,,,W. Aponzá,D. Vera,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,46,,substitution,,False,,,Enzo,Zeca,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,64,,substitution,,False,,,Jota,F. Negrucci,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,67,,substitution,,True,,,H. Pereira,D. Mosconi,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,77,,substitution,,True,,,A. Simplicio,Moraes Júnior,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,77,,substitution,,True,,,Miranda,Maguinho,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,81,,substitution,,False,,,Max,D. B. d. Souza,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,83,,substitution,,True,,,Mikael,B. P. Silva,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,83,,substitution,,True,,,L. Erig,C. Dantas,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,14,card,L. Belezi,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,11,card,H. Pereira,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,8,card,Jhonathan,False,red,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,6,card,W. Aponzá,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,,card,A. Simplicio,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-23,35,Operário-PR,Athletic Club,1,0,90,,injuryTime,,,,,,,,9,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,46,,substitution,,True,,,A. Pucci,Claudinho,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,46,,substitution,,True,,,E. Lucas,Clayson,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,58,,substitution,,True,,,N. Pessoa,Perotti,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,58,,substitution,,True,,,F. Sobral,Diego Hernández,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,59,,substitution,,False,,,Nicolas,J. Robert,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,70,,substitution,,False,,,B. Alves,C. Martins,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,70,,substitution,,False,,,Waguininho,R. Otero,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,76,,goal,C. Barletta,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,82,,substitution,,False,,,G. Lobo,Diego Gonçalves,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,82,,substitution,,False,,,Romarinho,R. Fagundes,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,84,,card,W. Lepo,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,87,,card,Romarinho,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,87,,substitution,,True,,,Zé Gabriel,P. de Paula,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,90,10,goal,C. Barletta,True,,,,,,,2,1
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,90,9,card,G. Lobo,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,90,2,goal,F. Mateus,False,,,,,,,1,1
+brasileirao_serie_b_2026,2026-10-24,35,Sport Recife,Criciúma,2,1,90,,injuryTime,,,,,,,,8,,

@@ -1419,3 +1419,20 @@ inglaterra_premier_league_2026_2027,2026-10-19,7,Tottenham Hotspur,Coventry City
 inglaterra_premier_league_2026_2027,2026-10-19,7,Tottenham Hotspur,Coventry City,3,1,90,,period,,,,,,,FT,,3,1
 inglaterra_premier_league_2026_2027,2026-10-19,7,Tottenham Hotspur,Coventry City,3,1,90,6,goal,B. Davies,True,,,,,,,3,1
 inglaterra_premier_league_2026_2027,2026-10-19,7,Tottenham Hotspur,Coventry City,3,1,90,,injuryTime,,,,,,,,8,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,13,,goal,N. Williams,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,41,,goal,J. Enciso,True,,,,,,,1,1
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,45,,period,,,,,,,HT,,1,1
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,45,,injuryTime,,,,,,,,2,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,49,,varDecision,I. Diop,True,,,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,51,,card,I. Diop,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,54,,card,Murillo,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,60,,substitution,,True,,,Z. Flemming,Emersonn,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,61,,substitution,,True,,,J. Clarke,J. Philogene-Bidace,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,69,,substitution,,False,,,C. Hudson Odoi,D. Ndoye,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,73,,substitution,,True,,,D. Maeda,A. F. Issahaku,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,84,,substitution,,False,,,L. Netz,N. Williams,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,85,,substitution,,True,,,A. Matusiwa,F. Luís,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,86,,substitution,,True,,,C. Akpom,J. Enciso,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,90,,period,,,,,,,FT,,1,1
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,90,4,substitution,,False,,,C. Wood,L. Delap,,,,
+inglaterra_premier_league_2026_2027,2026-10-23,8,Ipswich Town,Nottingham Forest,1,1,90,,injuryTime,,,,,,,,8,,

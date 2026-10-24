@@ -1432,3 +1432,23 @@ italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,83,,substitution,,False,,
 italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,90,,period,,,,,,,FT,,0,3
 italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,90,2,card,M. Troilo,True,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-10-19,7,Parma,Torino,0,3,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,34,,card,A. Ismajli,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,39,,goal,K. Fitz-Jim,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,47,,goal,G. Varela,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,51,,substitution,,True,,,G. Gineitis,R. Mandragora,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,61,,goal,R. Belghali,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,63,,substitution,,False,,,M. Folorunsho,M. Foe Ondoa,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,63,,substitution,,False,,,E. Kouadio,L. Lucchesi,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,71,,substitution,,True,,,N. Patterson,A. Cacciamani,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,71,,substitution,,True,,,D. Bragança,K. Fitz-Jim,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,71,,substitution,,True,,,S. Kulenović,G. Simeone,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,72,,goal,N. Vlašić,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,79,,substitution,,False,,,P. Cutrone,J. Robinson,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,79,,substitution,,False,,,C. Ngonge,D. Mota,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,84,,substitution,,True,,,Z. Aboukhlal,R. Belghali,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,85,,substitution,,False,,,M. Mout,A. Carboni,,,,
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,90,,period,,,,,,,FT,,3,2
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,90,4,goal,N. Patterson,False,,,,,,,3,2
+italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,90,,injuryTime,,,,,,,,4,,

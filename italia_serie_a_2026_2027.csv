@@ -1452,3 +1452,85 @@ italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,85,,substitution,,False,,
 italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,90,,period,,,,,,,FT,,3,2
 italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,90,4,goal,N. Patterson,False,,,,,,,3,2
 italia_serie_a_2026_2027,2026-10-23,8,Torino,Monza,3,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,32,,card,F. Bernardeschi,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,38,,card,Zé Pedro,True,yellow,Persistent fouling,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,46,,substitution,,True,,,R. Gagliardini,H. Winks,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,46,,substitution,,True,,,Y. Sugawara,Zé Pedro,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,55,,card,R. Gagliardini,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,57,,goal,N. Casale,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,67,,substitution,,True,,,K. Carlos,D. Maldini,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,75,,substitution,,True,,,A. Fadera,A. Romano,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,75,,substitution,,False,,,R. Alhassane,J. Miranda,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,75,,substitution,,False,,,M. Amondarain,J. Odgaard,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,75,,substitution,,False,,,M. Libra,N. Zortea,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,77,,card,A. Deiola,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,80,,goal,F. Bernardeschi,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,85,,substitution,,False,,,M. Vitík,M. Darmian,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,86,,substitution,,True,,,G. Aurelio,Y. Massolin,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,88,,substitution,,False,,,S. Mbangula,F. Bernardeschi,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,90,,period,,,,,,,FT,,0,2
+italia_serie_a_2026_2027,2026-10-24,8,Cagliari,Bologna,0,2,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,46,,substitution,,True,,,J. Ramón,W. Kambwala,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,46,,substitution,,True,,,J. Addai,M. Baturina,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,46,,substitution,,True,,,L. Milla,S. Ricci,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,49,,goal,A. Douvikas,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,60,,goal,A. Douvikas,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,62,,substitution,,False,,,L. Lipani,N. Matić,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,62,,substitution,,False,,,A. Laurienté,B. Domínguez,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,62,,substitution,,False,,,J. Doig,R. Obrador,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,63,,card,D. Berardi,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,65,,card,Y. Couto,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,67,,substitution,,True,,,I. Smolčić,Y. Couto,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,74,,substitution,,False,,,C. Volpato,D. Berardi,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,86,,substitution,,False,,,S. Esposito,V. Adžić,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,87,,card,I. Van der Brempt,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,89,,substitution,,True,,,A. Lahdo,L. Da Cunha,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,90,,period,,,,,,,FT,,2,0
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,90,1,card,L. Milla,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Como,Sassuolo,2,0,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,30,,card,O. Provstgaard,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,38,,card,V. Sierro,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,46,,substitution,,False,,,A. Bernabé,V. Sierro,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,46,,substitution,,True,,,D. Leite,O. Provstgaard,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,50,,goal,K. Taylor,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,58,,goal,D. Carlos,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,63,,substitution,,False,,,S. Lontani,C. Ordoñez,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,71,,substitution,,True,,,F. Dele-Bashiru,K. Taylor,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,72,,substitution,,False,,,M. Frigan,D. Carlos,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,77,,substitution,,True,,,A. Pedraza,M. Zaccagni,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,77,,substitution,,True,,,M. Lazzari,G. Isaksen,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,78,,substitution,,False,,,G. Fabbian,D. Romero,,,,
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,90,5,goal,S. Lontani,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-24,8,Lazio,Parma,2,1,90,,injuryTime,,,,,,,,7,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,4,,card,R. Marín,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,28,,goal,F. Anguissa,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,30,,card,B. Cristante,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,45,,card,D. Rensch,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,48,,goal,S. McTominay,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,52,,substitution,,True,,,S. Beukema,B. Badiashile,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,58,,substitution,,False,,,S. Castro,N. Pisilli,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,58,,substitution,,False,,,L. Balerdi,M. Hermoso,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,58,,substitution,,False,,,N. Molina,D. Rensch,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,61,,card,L. Balerdi,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,66,,substitution,,True,,,Giovane,M. Politano,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,69,,goal,M. Soulé,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,74,,goal,L. Balerdi,False,,,,,,,2,2
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,79,,substitution,,True,,,A. Vergara,N. Lang,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,79,,substitution,,True,,,S. Lobotka,K. De Bruyne,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,80,,substitution,,True,,,L. Spinazzola,G. Di Lorenzo,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,83,,goal,S. McTominay,True,,,,,,,3,2
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,84,,substitution,,False,,,D. Ghilardi,G. Mancini,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,84,,substitution,,False,,,R. Mora,D. Malen,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,86,,card,M. de Roon,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,89,,goal,L. Balerdi,False,,,,,,,3,3
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,90,,period,,,,,,,FT,,3,3
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-10-24,8,SSC Napoli,AS Roma,3,3,90,,card,M. Allegri,True,red,Argument,,,,,,

@@ -1631,7 +1631,6 @@ eredivisie_2026_2027,2026-10-18,9,SC Cambuur,AZ Alkmaar,2,2,84,,substitution,,Tr
 eredivisie_2026_2027,2026-10-18,9,SC Cambuur,AZ Alkmaar,2,2,89,,substitution,,False,,,J. Bergraaf,C. Stengs,,,,
 eredivisie_2026_2027,2026-10-18,9,SC Cambuur,AZ Alkmaar,2,2,90,,period,,,,,,,FT,,2,2
 eredivisie_2026_2027,2026-10-18,9,SC Cambuur,AZ Alkmaar,2,2,90,,injuryTime,,,,,,,,6,,
-eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,7,,goal,S. Tengstedt,True,,,,,,,1,0
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,33,,goal,S. Tengstedt,True,,,,,,,2,0
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,45,,period,,,,,,,HT,,2,0
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,48,,goal,T. Owusu,False,,,,,,,2,1
@@ -1640,6 +1639,7 @@ eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,63,,substituti
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,67,,substitution,,False,,,R. Mendes,A. Martha,,,,
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,67,,substitution,,False,,,I. Ahmed,N. Shenkman,,,,
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,67,,goal,E. Linthorst,True,,,,,,,3,1
+eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,7,,goal,S. Tengstedt,True,,,,,,,1,0
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,74,,substitution,,False,,,R. Oudsten,G. Caschili,,,,
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,76,,substitution,,True,,,S. I. Sigurðarson,O. S. Sivertsen,,,,
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,79,,substitution,,False,,,H. Kuster,N. Rossen,,,,
@@ -1651,3 +1651,61 @@ eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,85,,card,H. Ku
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,90,,period,,,,,,,FT,,3,2
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,90,2,goal,S. Valk,False,,,,,,,3,2
 eredivisie_2026_2027,2026-10-23,10,Go Ahead Eagles,SC Telstar,3,2,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,24,,goal,J. Trenskow,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,45,,period,,,,,,,HT,,0,1
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,46,,substitution,,True,,,D. van Mieghem,J. Bal,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,51,,goal,R. Meerveld,False,,,,,,,0,2
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,56,,substitution,,True,,,N. Thomas,M. Šín,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,56,,substitution,,True,,,M. Hokke,S. Sylla,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,57,,goal,N. Thomas,True,,,,,,,1,2
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,59,,card,Y. Eduardo,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,66,,goal,J. Trenskow,False,,,,,,,1,3
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,67,,substitution,,True,,,C. Peupion,J. Hawkins,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,72,,goal,N. Thomas,True,,,,,,,2,3
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,73,,substitution,,False,,,L. Oyen,R. Meerveld,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,73,,substitution,,False,,,R. Uldriķis,D. Vente,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,81,,substitution,,True,,,Pozo,J. Jensen-Abbew,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,86,,substitution,,False,,,M. Farji,M. Rivera,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,90,,period,,,,,,,FT,,2,3
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,90,,substitution,,False,,,H. Petrov,J. Trenskow,,,,
+eredivisie_2026_2027,2026-10-24,10,ADO Den Haag,SC Heerenveen,2,3,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,26,,card,O. Agougil,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,45,,period,,,,,,,HT,,0,0
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,46,,substitution,,False,,,E. Sørensen,D. Mbayo,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,62,,substitution,,True,,,A. Blake,N. Vesterlund,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,71,,substitution,,False,,,J. Bürger,D. v. d. Haar,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,72,,goal,E. Sørensen,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,74,,substitution,,True,,,A. Stepanov,Á. Alarcón,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,74,,substitution,,True,,,S. v. Duijn,Y. Cathline,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,76,,card,G. v. d. Wal,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,83,,substitution,,True,,,D. v. d. Berg,O. Agougil,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,83,,substitution,,True,,,N. Amrabat,S. Horemans,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,83,,substitution,,False,,,K. Kostons,G. v. d. Wal,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,87,,card,T. Sommer,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,89,,card,J. Overeem,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,90,,period,,,,,,,FT,,1,1
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,90,1,goal,S. v. Duijn,True,,,,,,,1,1
+eredivisie_2026_2027,2026-10-24,10,FC Utrecht,PEC Zwolle,1,1,90,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,9,,goal,N. Binder,False,,,,,,,0,1
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,13,,goal,I. Hamache,False,,,,,,,0,2
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,18,,goal,I. Baouf,False,,,,,,,0,3
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,19,,varDecision,I. Baouf,False,,,,,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,45,,period,,,,,,,HT,,0,3
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,45,2,card,J. Slory,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,46,,substitution,,True,,,A. Culum,V. van Crooij,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,46,,substitution,,True,,,T. Verheydt,M. Dekker,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,46,,substitution,,True,,,A. Zarrouk,T. Vilhena,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,53,,card,H. ter Avest,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,58,,goal,N. Binder,False,,,,,,,0,4
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,62,,goal,R. E. Arguioui,False,,,,,,,0,5
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,65,,substitution,,False,,,J. Berkhout,B. v. Duijl,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,65,,substitution,,False,,,L. Jetten,M. Costarelli,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,65,,substitution,,False,,,I. Henstra,M. Maertens,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,68,,substitution,,True,,,M. Lemmens,J. Slory,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,72,,substitution,,False,,,W. Kooistra,R. Mulders,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,77,,substitution,,False,,,S. Vink,N. Binder,,,,
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,82,,goal,A. Zarrouk,True,,,,,,,1,5
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,89,,goal,J. Ceka,False,,,,,,,1,6
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,90,,period,,,,,,,FT,,1,6
+eredivisie_2026_2027,2026-10-24,10,Willem II Tilburg,SC Cambuur,1,6,90,,injuryTime,,,,,,,,2,,

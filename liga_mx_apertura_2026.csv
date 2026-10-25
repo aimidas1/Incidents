@@ -2394,13 +2394,13 @@ liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,1,card,R. Ch
 liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,,card,L. Orellano,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-10-22,13,Club Puebla,CF Monterrey,1,4,90,,injuryTime,,,,,,,,6,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,2,,card,N. Silva,False,red,Professional foul last man,,,,,,
-liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,6,,goal,E. Aguirre,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,21,,substitution,,True,,,J. Pérez,E. Orona,,,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,42,,card,D. González,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,45,,period,,,,,,,HT,,1,0
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,45,,injuryTime,,,,,,,,7,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,46,,substitution,,True,,,E. Echeverría,D. González,,,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,50,,substitution,,False,,,V. Arteaga,A. Carrasquilla,,,,
+liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,6,,goal,E. Aguirre,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,60,,card,R. Paiva,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,65,,card,U. Antuna,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-10-22,13,Santos Laguna,Pumas UNAM,2,0,66,,card,M. Cuevas,True,yellow,Foul,,,,,,
@@ -2436,6 +2436,26 @@ liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,7,card,
 liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,4,penalty_missed,W. Clar,True,,saved,,,,,,
 liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,1,varDecision,N. Carrera,True,,,,,,,,
 liga_mx_apertura_2026,2026-10-24,14,Atlante FC,Atlético San Luis,0,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,9,,card,R. Echeverría,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,12,,goal,A. Alvarado,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,27,,card,Helinho,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,31,,card,F. Romero,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,39,,card,A. Alvarado,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,44,,goal,F. Viñas,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,46,,substitution,,True,,,J. Rodríguez,A. Alvarado,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,46,,substitution,,True,,,D. Cambindo,R. Echeverría,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,62,,substitution,,True,,,J. Domínguez,E. Guerra,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,63,,substitution,,False,,,N. Castro,P. Pérez,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,63,,substitution,,True,,,J. Cortizo,F. Beltrán,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,63,,substitution,,False,,,A. Vega,Helinho,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,75,,substitution,,True,,,J. Lara,D. Arcila,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,75,,substitution,,False,,,Paulinho,F. Viñas,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,86,,substitution,,False,,,J. R. Angulo,J. Díaz,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,90,3,card,Bruno Méndez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-24,14,Club León,CD Toluca,1,1,90,3,card,J. Lara,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,26,,goal,O. González,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,45,,period,,,,,,,HT,,1,0
 liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,45,7,penalty_missed,J. Carranza,True,,saved,,,,,,
@@ -2455,3 +2475,44 @@ liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,82,,goal,L. M. Du
 liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,86,,card,Ó. Estupiñán,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,90,,period,,,,,,,FT,,1,1
 liga_mx_apertura_2026,2026-10-24,14,Club Necaxa,FC Juárez,1,1,90,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,9,,goal,R. Alvarado,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,19,,penalty_missed,L. Ocampos,True,,saved,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,45,,period,,,,,,,HT,,0,1
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,56,,substitution,,True,,,Ó. Torres,F. Ambríz,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,60,,substitution,,False,,,E. Alvarez,R. Ledezma,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,66,,substitution,,False,,,K. Castañeda,R. Marín,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,66,,substitution,,False,,,J. Hernández,O. Govea,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,71,,substitution,,True,,,P. Ruffin,C. Garza,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,79,,substitution,,True,,,L. Orellano,J. Corona,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,79,,substitution,,False,,,Á. Chávez,D. Aguirre,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,79,,substitution,,False,,,L. Calderón,B. González,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,82,,card,P. Ruffin,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,88,,card,D. Rossi,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,90,,period,,,,,,,FT,,0,1
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,90,8,varDecision,D. Rossi,True,,,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,90,,card,O. Pineda,True,red,Professional foul last man,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,90,,injuryTime,,,,,,,,8,,
+liga_mx_apertura_2026,2026-10-25,14,CF Monterrey,CD Guadalajara,1,1,90,,card,M. Almeyda,True,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,12,,card,J. Garza,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,29,,card,P. Bennevendo,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,45,,injuryTime,,,,,,,,1,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,56,,goal,R. Morales,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,67,,card,R. Aguirre,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,70,,substitution,,False,,,G. Martínez,J. Garza,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,70,,substitution,,False,,,E. Gómez,C. Araújo,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,70,,substitution,,False,,,O. Herrera,R. Aguirre,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,76,,goal,J. Brunetta,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,80,,substitution,,True,,,A. Medina,U. Antuna,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,80,,substitution,,True,,,Á. Angulo,P. Bennevendo,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,80,,substitution,,True,,,V. Arteaga,P. Vite,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,80,,substitution,,False,,,R. Monreal,D. Lainez,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,83,,substitution,,False,,,V. Loroña,M. Laínez,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,86,,card,Á. Angulo,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,86,,substitution,,True,,,S. López,Juninho,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,89,,substitution,,True,,,I. Luna,A. Carrasquilla,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,90,2,card,I. Luna,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,90,1,card,F. Gorriarán,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-25,14,Pumas UNAM,Tigres UANL,1,1,90,,injuryTime,,,,,,,,5,,

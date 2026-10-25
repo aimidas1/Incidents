@@ -1308,3 +1308,29 @@ france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,7,varDecision,I
 france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,card,N. Nkounkou,False,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,injuryTime,,,,,,,,6,,
 france_ligue_1_2026_2027,2026-10-23,8,Stade Brestois,Nice,1,2,90,,card,O. Pantaloni,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,19,,varDecision,M. Udol,True,,,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,28,,card,M. Mbow,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,29,,card,P. Lees Melou,False,yellow,Handball,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,45,2,goal,L. Koleosho,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,45,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,46,,substitution,,False,,,E. Mbemba,L. Koleosho,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,51,,card,F. Thauvin,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,51,,varDecision,J. Todibo,True,,,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,61,,substitution,,True,,,T. Hazard,F. Ivanović,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,61,,substitution,,True,,,K. Antonio,J. Todibo,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,63,,goal,F. Thauvin,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,67,,substitution,,False,,,R. Matondo,P. Pagis,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,67,,substitution,,False,,,M. Simon,A. Camara,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,71,,substitution,,True,,,Y. Titraoui,A. Haidara,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,74,,card,S. Baidoo,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,76,,substitution,,False,,,Zabi,I. Kebbal,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,81,,substitution,,False,,,T. De Smet,R. Matondo,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,83,,goal,T. Hazard,True,,,,,,,2,1
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,85,,substitution,,True,,,M. Skóraś,S. Abdulhamid,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,85,,substitution,,True,,,J. Kadile,F. Sotoca,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,89,,card,M. Skóraś,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,90,,period,,,,,,,FT,,2,1
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,90,2,card,Otávio,False,yellow,Off the ball foul,,,,,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,90,,injuryTime,,,,,,,,8,,
+france_ligue_1_2026_2027,2026-10-24,8,RC Lens,Paris FC,2,1,90,,card,Y. Cahuzac,True,yellow,Argument,,,,,,

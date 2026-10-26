@@ -2021,7 +2021,6 @@ polonia_ekstraklasa_2026_2027,2026-10-24,12,MKS Korona Kielce,GKS Katowice,1,0,8
 polonia_ekstraklasa_2026_2027,2026-10-24,12,MKS Korona Kielce,GKS Katowice,1,0,89,,card,P. Resta,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,MKS Korona Kielce,GKS Katowice,1,0,90,,period,,,,,,,FT,,1,0
 polonia_ekstraklasa_2026_2027,2026-10-24,12,MKS Korona Kielce,GKS Katowice,1,0,90,,injuryTime,,,,,,,,4,,
-polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,7,,goal,J. Czerwiński,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,25,,goal,H. Vallejo,True,,,,,,,2,0
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,45,,period,,,,,,,HT,,2,0
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,45,,card,S. Mucha,True,yellow,Foul,,,,,,
@@ -2033,6 +2032,7 @@ polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,48,,ca
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,56,,varDecision,M. Klich,False,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,57,,card,M. Klich,False,yellow,Off the ball foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,62,,goal,K. Knap,False,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,7,,goal,J. Czerwiński,True,,,,,,,1,0
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,72,,substitution,,True,,,I. Lima,J. Łabojko,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,78,,substitution,,False,,,K. Zahiroleslam,A. Al-Ammari,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,79,,substitution,,False,,,A. Hasić,M. Berte,,,,
@@ -2045,9 +2045,9 @@ polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,90,,su
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,90,,substitution,,True,,,A. Katsantonis,L. Sanca,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,90,,substitution,,False,,,M. Perković,V. Burlet,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Piast Gliwice,KS Cracovia,3,1,90,,injuryTime,,,,,,,,5,,
-polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,2,,card,M. Wojciechowski,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,10,,goal,R. Alves,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,17,,goal,D. Keramitsis,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,2,,card,M. Wojciechowski,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,25,,goal,C. Donis,False,,,,,,,1,2
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,37,,substitution,,True,,,L. Willen,B. Mendy,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,41,,card,D. Keramitsis,True,yellow,Foul,,,,,,
@@ -2071,7 +2071,6 @@ polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,8
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,90,,period,,,,,,,FT,,4,3
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,90,7,substitution,,False,,,A. Tapsoba,Conrado,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Pogoń Szczecin,Radomiak Radom,4,3,90,,injuryTime,,,,,,,,12,,
-polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,8,,varDecision,J. Ertlthaler,True,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,45,,period,,,,,,,HT,,0,0
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,45,,injuryTime,,,,,,,,1,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,46,,substitution,,False,,,M. Emreli,T. Pieńko,,,,
@@ -2083,6 +2082,7 @@ polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,66,,substitution,,True,,,E. Youan,F. Duarte,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,66,,substitution,,True,,,M. Božić,J. Lelieveld,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,72,,varDecision,M. Diaby,False,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,8,,varDecision,J. Ertlthaler,True,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,81,,card,J. Napieraj,False,yellow,Argument,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,82,,varDecision,M. Diaby,False,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,84,,card,M. Diaby,False,yellow,,,,,,,
@@ -2091,3 +2091,61 @@ polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,90,10,goal,K. Duda,True,,,,,,,2,1
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,90,4,substitution,,False,,,N. Zätterström,E. Otieno,,,,
 polonia_ekstraklasa_2026_2027,2026-10-24,12,Wisła Kraków,Raków Częstochowa,2,1,90,,injuryTime,,,,,,,,9,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,13,,substitution,,False,,,F. Hiszpański,S. Tavares,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,58,,substitution,,False,,,O. Kobacki,S. Akere,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,59,,substitution,,True,,,O. Sow,J. Agbonifo,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,59,,substitution,,True,,,K. Szmyt,A. Ćirković,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,71,,substitution,,True,,,F. Klynge,J. Imaz,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,80,,varDecision,D. Stojinović,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,82,,substitution,,False,,,D. Jurić,Ł. Sekulski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,82,,substitution,,False,,,M. Flis,J. Pršir,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,82,,substitution,,False,,,S. Hamulić,P. Kun,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,83,,goal,O. Sow,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,89,,substitution,,True,,,E. Kozlowski,S. Lozano,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,89,,substitution,,True,,,D. Rallis,N. Prelec,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,90,,period,,,,,,,FT,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Jagiellonia Białystok,Wisła Płock,1,0,90,,injuryTime,,,,,,,,8,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,14,,substitution,,False,,,Y. Agnero,M. Ishak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,15,,card,P. Wszołek,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,29,,substitution,,True,,,M. Szczepaniak,R. Adamski,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,45,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,46,,substitution,,True,,,R. Vinagre,P. Wszołek,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,56,,goal,Y. Agnero,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,60,,card,T. Yegbe,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,66,,card,L. Bengtsson,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,67,,substitution,,False,,,F. Jagiełło,P. Rodríguez,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,67,,substitution,,False,,,L. Palma,P. Wålemark,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,67,,substitution,,True,,,S. Fukuda,K. Chodyna,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,67,,substitution,,True,,,B. Viunnyk,M. Ševčík,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,67,,substitution,,False,,,D. Håkans,L. Bengtsson,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,71,,card,B. Kapustka,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,74,,goal,B. Viunnyk,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,81,,substitution,,False,,,G. Berggren,A. Kozubal,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,85,,substitution,,True,,,D. Szymański,W. Urbański,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,87,,goal,L. Palma,False,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,90,,period,,,,,,,FT,,1,2
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Legia Warszawa,Lech Poznań,1,2,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,18,,card,K. Fila,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,24,,goal,M. Dembélé,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,45,,period,,,,,,,HT,,2,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,45,3,goal,P. Banaszak,True,,,,,,,2,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,45,,card,P. Pušić,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,45,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,46,,substitution,,False,,,B. Lederman,P. Pušić,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,46,,substitution,,False,,,L. Semedo,M. Vojtko,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,57,,substitution,,False,,,J. A. d. l. Rosa,T. Christensen,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,57,,substitution,,False,,,K. Dankowski,K. Fila,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,62,,substitution,,True,,,A. Ciucka,P. Samiec-Talar,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,70,,card,D. Szala,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,73,,substitution,,True,,,I. Camoes,P. Banaszak,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,73,,substitution,,True,,,L. Marjanac,M. Dembélé,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,76,,substitution,,False,,,B. Białek,E. Koulouris,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,78,,card,L. Ba,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,83,,substitution,,True,,,A. Zulewski,A. T. Andersson,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,84,,substitution,,True,,,G. Tomasiewicz,K. Linetty,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,89,,card,L. Marjanac,True,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,90,,period,,,,,,,FT,,2,0
+polonia_ekstraklasa_2026_2027,2026-10-25,12,Śląsk Wrocław,Wieczysta Kraków,2,0,90,,injuryTime,,,,,,,,4,,

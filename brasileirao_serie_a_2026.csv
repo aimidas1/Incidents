@@ -6481,7 +6481,6 @@ brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,,period,,,,,,,FT,,1,
 brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,4,card,Marcelinho,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,,substitution,,False,,,A. Gonzalez,Zé Welison,,,,
 brasileirao_serie_a_2026,2026-10-23,32,Cruzeiro,Remo,1,0,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,9,,goal,Y. Bolasie,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,30,,goal,Guga,False,,,,,,,1,1
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,37,,card,Camilo,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,45,,period,,,,,,,HT,,1,1
@@ -6497,6 +6496,7 @@ brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,79,,substituti
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,83,,substitution,,True,,,Fernando,Marcinho,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,85,,substitution,,False,,,Renê,I. Rabello,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,85,,substitution,,False,,,G. Cano,Hulk,,,,
+brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,9,,goal,Y. Bolasie,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_a_2026,2026-10-24,32,Chapecoense,Fluminense,2,1,90,2,card,G. Arana,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Internacional,Botafogo,3,0,32,,goal,M. Bahia,True,,,,,,,1,0
@@ -6519,7 +6519,6 @@ brasileirao_serie_a_2026,2026-10-24,32,Internacional,Botafogo,3,0,90,4,substitut
 brasileirao_serie_a_2026,2026-10-24,32,Internacional,Botafogo,3,0,90,4,substitution,,True,,,J. P. B. d. O. Lo,Alerrandro,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Internacional,Botafogo,3,0,90,,card,Marçal,False,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Internacional,Botafogo,3,0,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,7,,goal,Rafael,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,17,,card,Djhordney,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,26,,card,I. Borduchi,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,39,,goal,P. Lima,False,,,,,,,1,1
@@ -6531,6 +6530,7 @@ brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,64,,substitution,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,67,,substitution,,True,,,Wallisson Luiz,Denilson,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,67,,substitution,,True,,,C. Eduardo,B. Santos,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,67,,substitution,,True,,,Shaylon,N. Moura,,,,
+brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,7,,goal,Rafael,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,70,,card,W. Machado,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,74,,substitution,,True,,,Fernandinho,Alesson,,,,
 brasileirao_serie_a_2026,2026-10-24,32,Mirassol,São Paulo,1,1,77,,substitution,,False,,,Wendell,I. Borduchi,,,,

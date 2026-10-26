@@ -1179,7 +1179,6 @@ alemanha_bundesliga_2026_2027,2026-10-24,7,1. FC Köln,FC Schalke 04,0,0,90,,per
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FC Köln,FC Schalke 04,0,0,90,,substitution,,True,,,J. Schmied,L. Lochoshvili,,,,
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FC Köln,FC Schalke 04,0,0,90,,substitution,,True,,,J. Thielmann,L. Maina,,,,
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FC Köln,FC Schalke 04,0,0,90,,injuryTime,,,,,,,,2,,
-alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,7,,goal,N. Füllkrug,False,,,,,,,0,1
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,25,,goal,N. Füllkrug,False,,,,,,,0,2
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,33,,goal,A. Caci,True,,,,,,,1,2
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,38,,card,L. Reis,False,yellow,Foul,,,,,,
@@ -1190,6 +1189,7 @@ alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,61,,goal,L. Reis,False,,,,,,,1,3
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,63,,goal,J. Lee,True,,,,,,,2,3
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,69,,card,P. Mwene,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,7,,goal,N. Füllkrug,False,,,,,,,0,1
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,72,,substitution,,False,,,E. Dinkçi,Chuki,,,,
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,75,,substitution,,True,,,S. Widmer,A. Caci,,,,
 alemanha_bundesliga_2026_2027,2026-10-24,7,1. FSV Mainz 05,SV Werder Bremen,2,3,75,,substitution,,True,,,R. Y. Königsdörffer,J. Lee,,,,
@@ -1277,3 +1277,51 @@ alemanha_bundesliga_2026_2027,2026-10-24,7,SC Paderborn 07,Hamburger SV,1,0,89,,
 alemanha_bundesliga_2026_2027,2026-10-24,7,SC Paderborn 07,Hamburger SV,1,0,89,,card,M. Polzin,False,yellow,Argument,,,,,,
 alemanha_bundesliga_2026_2027,2026-10-24,7,SC Paderborn 07,Hamburger SV,1,0,90,,period,,,,,,,FT,,1,0
 alemanha_bundesliga_2026_2027,2026-10-24,7,SC Paderborn 07,Hamburger SV,1,0,90,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,16,,goal,D. Upamecano,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,25,,card,L. Höler,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,42,,goal,S. Gnabry,False,,,,,,,0,2
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,45,,period,,,,,,,HT,,0,2
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,45,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,55,,card,J. Beste,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,57,,substitution,,True,,,I. Matanović,L. Höler,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,58,,substitution,,True,,,R. Yamamoto,P. Osterhage,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,61,,substitution,,False,,,I. Saibari,S. Gnabry,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,61,,substitution,,False,,,S. Boey,J. Stanišić,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,64,,substitution,,True,,,C. Irié,J. Beste,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,65,,card,J. Tah,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,73,,substitution,,False,,,A. Davies,N. Brown,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,77,,substitution,,True,,,M. Rosenfelder,P. Lienhart,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,77,,substitution,,True,,,V. Grifo,D. Scherhant,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,82,,goal,T. Bischof,True,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,85,,card,M. Eggestein,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,86,,substitution,,False,,,H. Itō,L. Karl,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,90,,period,,,,,,,FT,,1,3
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,90,5,goal,M. Olise,False,,,,,,,1,3
+alemanha_bundesliga_2026_2027,2026-10-25,7,SC Freiburg,FC Bayern München,1,3,90,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,40,,card,E. Fernández,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,41,,substitution,,False,,,M. Tillman,M. Diaby,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,45,,period,,,,,,,HT,,0,0
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,45,,card,A. Prass,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,58,,card,P. Schick,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,64,,substitution,,False,,,L. Badé,J. Quansah,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,64,,substitution,,False,,,A. Moreira,N. Tella,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,64,,substitution,,False,,,R. Andrich,E. Fernández,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,65,,substitution,,True,,,A. Kramarić,A. Hložek,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,67,,card,L. Avdullahu,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,72,,substitution,,True,,,B. Conté,W. Burger,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,75,,card,F. Medina,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,77,,varDecision,F. Asllani,True,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,79,,goal,A. Kramarić,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,82,,card,A. Daghim,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,84,,substitution,,False,,,J. Hofmann,F. Medina,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,84,,substitution,,True,,,M. Moerstedt,A. Daghim,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,84,,substitution,,True,,,R. Hranáč,F. Asllani,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,89,,goal,A. Prass,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,,period,,,,,,,FT,,3,0
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,5,goal,M. Moerstedt,True,,,,,,,3,0
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,3,substitution,,False,,,,L. Badé,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,3,card,L. Badé,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,1,card,A. Prass,True,yellowRed,,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,,card,C. Martínez,False,yellow,Argument,,,,,,

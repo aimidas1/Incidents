@@ -8983,9 +8983,9 @@ mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,5,card,A. Jabbari,True,yello
 mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,substitution,,False,,,S. Nealis,K. Rowles,,,,
 mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,substitution,,True,,,K. M. Dem,Evander,,,,
 mls_2026,2026-10-21,,FC Cincinnati,DC United,2,1,90,,injuryTime,,,,,,,,4,,
-mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,4,,goal,T. Jacob,True,,,,,,,1,0
 mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,30,,goal,A. Salétros,False,,,,,,,1,1
 mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,38,,card,D. T. D'Avilla,False,yellow,Foul,,,,,,
+mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,4,,goal,T. Jacob,True,,,,,,,1,0
 mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,45,,period,,,,,,,HT,,1,1
 mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,45,,injuryTime,,,,,,,,4,,
 mls_2026,2026-10-24,,Atlanta United,Chicago Fire,2,3,46,,substitution,,False,,,A. Mekvabishvili,D. T. D'Avilla,,,,
@@ -9063,13 +9063,13 @@ mls_2026,2026-10-24,,DC United,FC Cincinnati,0,2,75,,substitution,,False,,,A. Po
 mls_2026,2026-10-24,,DC United,FC Cincinnati,0,2,85,,substitution,,False,,,G. Valenzuela,P. Bucha,,,,
 mls_2026,2026-10-24,,DC United,FC Cincinnati,0,2,90,,period,,,,,,,FT,,0,2
 mls_2026,2026-10-24,,DC United,FC Cincinnati,0,2,90,,injuryTime,,,,,,,,4,,
-mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,7,,goal,Casemiro,True,,,,,,,1,0
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,45,,period,,,,,,,HT,,1,0
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,45,,injuryTime,,,,,,,,4,,
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,56,,substitution,,False,,,L. Messi,Riquelme,,,,
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,64,,substitution,,True,,,C. Harper,C. Cowell,,,,
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,66,,substitution,,False,,,I. Fray,G. Luján,,,,
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,66,,substitution,,False,,,S. Morales,M. Galarza,,,,
+mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,7,,goal,Casemiro,True,,,,,,,1,0
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,74,,substitution,,False,,,Y. Bright,D. Ayala,,,,
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,74,,substitution,,False,,,T. Segovia,G. Berterame,,,,
 mls_2026,2026-10-24,,New York Red Bulls,Inter Miami CF,2,0,76,,substitution,,True,,,S. Kone,M. Sofo,,,,
@@ -9156,7 +9156,6 @@ mls_2026,2026-10-25,,FC Dallas,San Jose Earthquakes,3,0,90,,period,,,,,,,FT,,3,0
 mls_2026,2026-10-25,,FC Dallas,San Jose Earthquakes,3,0,90,4,goal,S. Moreno,True,,,,,,,3,0
 mls_2026,2026-10-25,,FC Dallas,San Jose Earthquakes,3,0,90,,substitution,,False,,,L. Jovanovic,D. Romney,,,,
 mls_2026,2026-10-25,,FC Dallas,San Jose Earthquakes,3,0,90,,injuryTime,,,,,,,,4,,
-mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,9,,card,A. Carlos,True,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,30,,card,A. Bouzat,True,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,34,,card,L. Ennali,True,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,44,,card,B. Olsen,True,yellow,Argument,,,,,,
@@ -9171,12 +9170,13 @@ mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,73,,substitution,,False
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,82,,substitution,,True,,,D. Holmes,L. Ennali,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,82,,substitution,,True,,,M. Saracchi,F. Negri,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,83,,substitution,,True,,,D. Samassékou,A. Bouzat,,,,
+mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,9,,card,A. Carlos,True,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,90,,period,,,,,,,FT,,0,0
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,90,,substitution,,False,,,T. Chancalay,K. Yeboah,,,,
 mls_2026,2026-10-25,,Houston Dynamo,Minnesota United,0,0,90,,injuryTime,,,,,,,,3,,
-mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,3,,goal,P. Biel,False,,,,,,,0,1
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,11,,goal,A. Lassiter,True,,,,,,,1,1
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,17,,card,E. Izoita,True,yellow,Foul,,,,,,
+mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,3,,goal,P. Biel,False,,,,,,,0,1
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,40,,goal,A. Lassiter,True,,,,,,,2,1
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,45,,period,,,,,,,HT,,2,1
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,45,,card,N. Byrne,False,yellow,Foul,,,,,,
@@ -9193,8 +9193,8 @@ mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,85,,substitution,,False,,
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,90,,period,,,,,,,FT,,3,2
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,90,6,goal,C. Bassett,True,,,,,,,3,2
 mls_2026,2026-10-25,,Portland Timbers,Charlotte FC,3,2,90,,injuryTime,,,,,,,,5,,
-mls_2026,2026-10-25,,Real Salt Lake,St.Louis City,3,0,3,,card,R. Santos,False,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Real Salt Lake,St.Louis City,3,0,29,,card,T. Ostrák,False,yellow,Foul,,,,,,
+mls_2026,2026-10-25,,Real Salt Lake,St.Louis City,3,0,3,,card,R. Santos,False,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Real Salt Lake,St.Louis City,3,0,40,,card,P. Quinton,True,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Real Salt Lake,St.Louis City,3,0,41,,goal,S. Solans,True,,,,,,,1,0
 mls_2026,2026-10-25,,Real Salt Lake,St.Louis City,3,0,43,,card,T. Ostrák,False,yellowRed,Foul,,,,,,
@@ -9258,3 +9258,22 @@ mls_2026,2026-10-25,,Sporting Kansas City,Austin FC,1,2,90,,period,,,,,,,FT,,1,2
 mls_2026,2026-10-25,,Sporting Kansas City,Austin FC,1,2,90,5,card,O. Wolff,True,yellow,Foul,,,,,,
 mls_2026,2026-10-25,,Sporting Kansas City,Austin FC,1,2,90,,substitution,,True,,,S. Suleymanov,K. Agyabeng,,,,
 mls_2026,2026-10-25,,Sporting Kansas City,Austin FC,1,2,90,,injuryTime,,,,,,,,7,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,28,,varDecision,D. Bouanga,True,,,,,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,34,,goal,J. Paintsil,False,,,,,,,0,1
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,45,,injuryTime,,,,,,,,5,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,46,,substitution,,True,,,M. Choinière,Igor Jesus,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,51,,goal,J. Paintsil,False,,,,,,,0,2
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,53,,goal,D. Bouanga,True,,,,,,,1,2
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,55,,card,R. Porteous,True,yellow,Foul,,,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,62,,goal,L. Walta,True,,,,,,,2,2
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,66,,substitution,,True,,,N. Tafari,R. Porteous,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,66,,substitution,,True,,,S. Vásquez,M. Delgado,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,67,,substitution,,False,,,Calegari,R. Taylor,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,67,,substitution,,False,,,L. Sanabria,E. Thommy,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,73,,substitution,,False,,,J. Glesnes,J. Paintsil,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,82,,substitution,,True,,,T. Boyd,L. Walta,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,,period,,,,,,,FT,,2,2
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,3,card,P. Ruiz,False,yellow,Foul,,,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,,substitution,,False,,,M. Yoshida,J. Glesnes,,,,
+mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,,injuryTime,,,,,,,,7,,

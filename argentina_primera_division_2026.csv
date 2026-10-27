@@ -9656,7 +9656,6 @@ argentina_primera_division_2026,2026-10-26,14,Barracas Central,Estudiantes de R�
 argentina_primera_division_2026,2026-10-26,14,Barracas Central,Estudiantes de Río Cuarto,2,1,86,,substitution,,True,,,D. Miloc,E. Taborda,,,,
 argentina_primera_division_2026,2026-10-26,14,Barracas Central,Estudiantes de Río Cuarto,2,1,90,,period,,,,,,,FT,,2,1
 argentina_primera_division_2026,2026-10-26,14,Barracas Central,Estudiantes de Río Cuarto,2,1,90,,injuryTime,,,,,,,,5,,
-argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,7,,goal,M. Pellegrini,False,,,,,,,0,1
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,21,,goal,R. Martinez,False,,,,,,,0,2
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,45,,period,,,,,,,HT,,0,2
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,45,,injuryTime,,,,,,,,2,,
@@ -9666,6 +9665,7 @@ argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,61,,goal,L. Robertone,False,,,,,,,0,4
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,62,,substitution,,False,,,T. Aguirre,J. C. Policella,,,,
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,62,,substitution,,False,,,S. Escobar,M. Pellegrini,,,,
+argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,7,,goal,M. Pellegrini,False,,,,,,,0,1
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,75,,substitution,,True,,,M. Cuitiño,M. Santos,,,,
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,75,,substitution,,True,,,T. Ramirez,H. Tijanovich,,,,
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,78,,substitution,,False,,,C. Baeza,L. Robertone,,,,
@@ -9679,3 +9679,46 @@ argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,88,,substitution,,True,,,I. Santillán,L. Sequeira,,,,
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,90,,period,,,,,,,FT,,0,5
 argentina_primera_division_2026,2026-10-26,14,Central Córdoba,Vélez Sarsfield,0,5,90,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,40,,goal,L. Ayala,False,,,,,,,0,1
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,44,,card,E. Piovi,False,yellow,Persistent fouling,,,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,46,,substitution,,True,,,J. Pintado,T. Rubio,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,46,,substitution,,True,,,M. Luna,M. Peresutti,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,51,,goal,C. Tarragona,True,,,,,,,1,1
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,56,,substitution,,True,,,I. Isla,M. Rocha,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,64,,goal,M. Estigarribia,True,,,,,,,2,1
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,66,,substitution,,False,,,B. Aguirre,E. Cetré,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,66,,substitution,,False,,,B. S. Barreiro,A. Gaich,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,74,,substitution,,True,,,E. Ramírez,M. Estigarribia,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,75,,card,L. G. Pírez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,77,,substitution,,False,,,F. Pérez,E. Mancuso,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,85,,substitution,,True,,,I. Malcorra,J. Palacios,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,88,,substitution,,False,,,A. Castro,E. Meza,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,89,,substitution,,False,,,L. Alario,E. Piovi,,,,
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,90,,period,,,,,,,FT,,3,1
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,90,6,goal,E. Ramírez,True,,,,,,,3,1
+argentina_primera_division_2026,2026-10-26,14,Club Atlético Unión de Santa Fe,Estudiantes de La Plata,3,1,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,12,,card,A. Luna,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,42,,card,G. Obredor,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,42,,card,J. Galván,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,50,,card,N. Benegas,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,62,,substitution,,True,,,N. Guerra,A. Luna,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,62,,substitution,,True,,,F. Suárez,M. Tissera,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,62,,substitution,,True,,,G. Cerato,H. De La Fuente,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,70,,substitution,,False,,,I. Gariglio,C. Quintana,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,70,,substitution,,False,,,T. Gonzalez,G. Obredor,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,76,,card,M. Celiz,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,77,,varDecision,J. Galván,True,,,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,81,,varDecision,L. Mosevich,True,,,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,82,,card,F. Miño,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,84,,goal,J. Lázaro,True,,,,,,,1,0
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,85,,substitution,,True,,,J. Acevedo,M. Gallardo,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,87,,substitution,,False,,,Y. Goitia,N. Watson,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,87,,substitution,,False,,,A. Alonso,M. A. Graneros,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,87,,substitution,,False,,,A. Díaz,N. Benegas,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,90,,period,,,,,,,FT,,1,0
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,90,3,substitution,,True,,,J. Córdoba,J. Lázaro,,,,
+argentina_primera_division_2026,2026-10-27,14,Instituto De Córdoba,Deportivo Riestra,1,0,90,,injuryTime,,,,,,,,7,,

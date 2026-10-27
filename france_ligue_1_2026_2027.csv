@@ -1390,10 +1390,10 @@ france_ligue_1_2026_2027,2026-10-25,8,Auxerre,Le Mans,1,1,90,,period,,,,,,,FT,,1
 france_ligue_1_2026_2027,2026-10-25,8,Auxerre,Le Mans,1,1,90,8,substitution,,True,,,A. Piedfort,N. Ahamada,,,,
 france_ligue_1_2026_2027,2026-10-25,8,Auxerre,Le Mans,1,1,90,8,substitution,,True,,,Y. Khoudda,C. Archer,,,,
 france_ligue_1_2026_2027,2026-10-25,8,Auxerre,Le Mans,1,1,90,,injuryTime,,,,,,,,9,,
-france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,5,,goal,C. Egan-Riley,True,,,,,,,1,0
 france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,33,,goal,T. Weah,True,,,,,,,2,0
 france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,45,,period,,,,,,,HT,,2,0
 france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,5,,goal,C. Egan-Riley,True,,,,,,,1,0
 france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,50,,goal,I. Paixão,True,,,,,,,3,0
 france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,55,,goal,H. Abdelli,True,,,,,,,4,0
 france_ligue_1_2026_2027,2026-10-25,8,Olympique de Marseille,Le Havre,4,3,61,,substitution,,False,,,S. Nakamura,A. Samatta,,,,
@@ -1457,3 +1457,20 @@ france_ligue_1_2026_2027,2026-10-25,8,Toulouse,Troyes,0,0,90,,period,,,,,,,FT,,0
 france_ligue_1_2026_2027,2026-10-25,8,Toulouse,Troyes,0,0,90,3,card,M. McKenzie,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-10-25,8,Toulouse,Troyes,0,0,90,,substitution,,False,,,I. Gomis,M. Diop,,,,
 france_ligue_1_2026_2027,2026-10-25,8,Toulouse,Troyes,0,0,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,31,,card,Vitinha,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,51,,card,M. Akliouche,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,57,,substitution,,True,,,M. Godts,J. Neves,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,65,,substitution,,True,,,S. Mayulu,F. Torres,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,65,,substitution,,True,,,L. Hernández,W. Zaïre-Emery,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,72,,goal,S. Mayulu,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,74,,card,E. Nuamah,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,76,,substitution,,False,,,R. Kluivert,C. Tolisso,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,76,,substitution,,False,,,N. Nartey,K. Merah,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,81,,substitution,,False,,,K. Boudache,J. Duranville,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,81,,substitution,,True,,,L. Beraldo,D. Doué,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,81,,substitution,,True,,,Q. Ndjantou,M. Akliouche,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,84,,goal,M. Godts,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,90,,period,,,,,,,FT,,2,0
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,90,1,substitution,,False,,,R. Himbert,T. Morton,,,,
+france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,90,,injuryTime,,,,,,,,5,,

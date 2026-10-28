@@ -1693,7 +1693,6 @@ portugal_liga_betclic_2026_2027,2026-10-25,9,Sporting CP,Académico Viseu FC,1,2
 portugal_liga_betclic_2026_2027,2026-10-25,9,Sporting CP,Académico Viseu FC,1,2,90,,period,,,,,,,FT,,1,2
 portugal_liga_betclic_2026_2027,2026-10-25,9,Sporting CP,Académico Viseu FC,1,2,90,4,card,A. Mestanza,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-25,9,Sporting CP,Académico Viseu FC,1,2,90,,injuryTime,,,,,,,,4,,
-portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,8,,card,A. Bah,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,10,,card,M. Silva,False,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,32,,goal,L. Fernando,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,36,,card,E. Fernandes,True,yellow,Foul,,,,,,
@@ -1707,6 +1706,7 @@ portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,67,,substit
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,68,,goal,G. Prestianni,False,,,,,,,1,2
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,74,,card,F. Aursnes,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,75,,substitution,,True,,,J. Vasconcelos,D. Borges,,,,
+portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,8,,card,A. Bah,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,82,,substitution,,False,,,J. Durán,V. Pavlidis,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,82,,substitution,,False,,,A. Circati,T. Araújo,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,85,,substitution,,True,,,Vitinho,P. Ferreira,,,,

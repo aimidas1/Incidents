@@ -7453,8 +7453,6 @@ brasileirao_serie_b_2026,2026-10-26,35,América Mineiro,Cuiabá,1,0,90,,period,,
 brasileirao_serie_b_2026,2026-10-26,35,América Mineiro,Cuiabá,1,0,90,,substitution,,True,,,Luidy,P. Victor,,,,
 brasileirao_serie_b_2026,2026-10-26,35,América Mineiro,Cuiabá,1,0,90,,substitution,,True,,,F. Elizari,W. Bigode,,,,
 brasileirao_serie_b_2026,2026-10-26,35,América Mineiro,Cuiabá,1,0,90,,injuryTime,,,,,,,,4,,
-brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,7,,goal,F. Lima,True,,,,,,,1,0
-brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,8,,card,F. Lima,True,yellow,,,,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,26,,card,J. Carlos,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,29,,card,Gabriel,True,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,40,,goal,Raí,True,,,,,,,2,0
@@ -7467,13 +7465,37 @@ brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,54,,substitution,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,58,,substitution,,True,,,L. Amarilla,F. Lima,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,59,,substitution,,True,,,Titi,R. Sam,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,66,,substitution,,False,,,V. Andrade,B. Borasi,,,,
+brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,7,,goal,F. Lima,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,72,,substitution,,True,,,L. Mineiro,Raí,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,79,,substitution,,True,,,J. Christian,G. Pires,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,79,,substitution,,False,,,K. Maranhão,Derek,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,79,,substitution,,True,,,R. Breno,M. Paulo,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,79,,substitution,,False,,,P. Sérgio,J. Carlos,,,,
+brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,8,,card,F. Lima,True,yellow,,,,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,89,,card,Wanderson,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,90,,period,,,,,,,FT,,4,0
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,90,6,goal,L. Amarilla,True,,,,,,,4,0
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,90,3,card,V. Andrade,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-26,35,Juventude,Náutico,4,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,31,,substitution,,True,,,Rafael Ramos,Sánchez,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,32,,card,G. Rocha,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,36,,card,J. Gabriel,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,54,,card,Saulo Mineiro,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,61,,substitution,,False,,,Cadu,F. Clemente,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,61,,substitution,,False,,,R. Soares,Djalma,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,64,,card,E. Lodovico,True,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,65,,varDecision,E. Lodovico,True,,,,,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,66,,substitution,,True,,,L. Mugni,M. Araújo,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,67,,substitution,,True,,,R. Santana,E. Lodovico,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,70,,substitution,,False,,,W. Rato,L. Lima,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,71,,substitution,,False,,,Gegê,L. R. M. Costa,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,80,,substitution,,False,,,D. C. d. Silva,Nicolas,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,80,,substitution,,True,,,L. Lobato,B. Borges,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,80,,substitution,,True,,,Vina,Melk,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,90,,period,,,,,,,FT,,0,2
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,90,5,goal,Kadu,False,,,,,,,0,2
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,90,3,card,Kadu,False,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,90,2,goal,Kadu,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-10-27,35,Ceará,Goiás,0,2,90,,injuryTime,,,,,,,,5,,

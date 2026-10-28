@@ -1897,3 +1897,19 @@ arabia_saudita_pro_league_2026_2027,2026-10-24,11,Neom SC,Abha,2,0,83,,substitut
 arabia_saudita_pro_league_2026_2027,2026-10-24,11,Neom SC,Abha,2,0,84,,substitution,,False,,,K. A. Karani,A. Al-Fahad,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-24,11,Neom SC,Abha,2,0,90,,period,,,,,,,FT,,2,0
 arabia_saudita_pro_league_2026_2027,2026-10-24,11,Neom SC,Abha,2,0,90,,injuryTime,,,,,,,,4,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,10,,substitution,,True,,,M. Al-Zaid,K. A. Shamrani,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,41,,card,Flávio,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,45,,period,,,,,,,HT,,0,0
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,45,,injuryTime,,,,,,,,2,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,55,,card,J. Gaari,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,70,,goal,Flávio,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,76,,substitution,,False,,,J. Seoane,T. Bongonda,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,76,,substitution,,False,,,A. J. Ella,A. Al Bishi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,76,,substitution,,True,,,K. A. Karani,F. Al-Ghamdi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,76,,substitution,,True,,,L. Rosier,A. Darisi,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,86,,substitution,,False,,,E. A. Muwallad,M. Al-Shanqiti,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,90,,period,,,,,,,FT,,0,1
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,90,5,substitution,,False,,,A. Al-Safri,A. Almogren,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,90,2,substitution,,True,,,S. Aljohani,G. N'Koudou,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,90,2,substitution,,True,,,K. Boumedmed,N. Fekir,,,,
+arabia_saudita_pro_league_2026_2027,2026-10-27,8,Abha,Al Faisaly,0,1,90,,injuryTime,,,,,,,,5,,

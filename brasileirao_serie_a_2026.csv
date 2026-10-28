@@ -6634,11 +6634,11 @@ brasileirao_serie_a_2026,2026-10-25,32,Santos,Bahia,1,1,89,,card,J. Schmidt,True
 brasileirao_serie_a_2026,2026-10-25,32,Santos,Bahia,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_a_2026,2026-10-25,32,Santos,Bahia,1,1,90,3,goal,L. Peres,True,,,,,,,1,1
 brasileirao_serie_a_2026,2026-10-25,32,Santos,Bahia,1,1,90,,injuryTime,,,,,,,,6,,
-brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,6,,substitution,,False,,,J. Pedro,Diego Caito,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,40,,card,Tinga,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,45,,period,,,,,,,HT,,0,0
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,59,,substitution,,False,,,F. Krovinović,F. Balbuena,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,59,,substitution,,False,,,J. Enamorado,C. Pavón,,,,
+brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,6,,substitution,,False,,,J. Pedro,Diego Caito,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,60,,substitution,,True,,,B. Lopes,P. Rocha,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,69,,substitution,,True,,,Richard,S. Gomez,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,69,,substitution,,True,,,F. Bustos,Tinga,,,,
@@ -6649,7 +6649,6 @@ brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,82,,substitution,,Fa
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,90,,period,,,,,,,FT,,0,1
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,90,2,goal,M. Braithwaite,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-10-26,32,Coritiba,Grêmio,0,1,90,,injuryTime,,,,,,,,4,,
-brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,7,,goal,Bernard,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,34,,goal,G. Plata,True,,,,,,,1,1
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,41,,goal,G. de Arrascaeta,True,,,,,,,2,1
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,45,,period,,,,,,,HT,,2,1
@@ -6661,6 +6660,7 @@ brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,63,,substi
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,63,,substitution,,False,,,K. Castaño,Maycon,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,69,,substitution,,True,,,B. Henrique,Pedro,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,69,,substitution,,True,,,J. Carrascal,G. Plata,,,,
+brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,7,,goal,Bernard,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,75,,substitution,,True,,,L. Paquetá,Jorginho,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,75,,substitution,,True,,,J. Freitas,G. de Arrascaeta,,,,
 brasileirao_serie_a_2026,2026-10-26,32,Flamengo,Atlético Mineiro,3,2,75,,card,L. Pereira,True,yellow,Foul,,,,,,

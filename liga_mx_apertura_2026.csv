@@ -2611,3 +2611,27 @@ liga_mx_apertura_2026,2026-10-26,14,Querétaro FC,Cruz Azul,1,3,80,,substitution
 liga_mx_apertura_2026,2026-10-26,14,Querétaro FC,Cruz Azul,1,3,84,,substitution,,True,,,E. Perez,D. Parra,,,,
 liga_mx_apertura_2026,2026-10-26,14,Querétaro FC,Cruz Azul,1,3,90,,period,,,,,,,FT,,1,3
 liga_mx_apertura_2026,2026-10-26,14,Querétaro FC,Cruz Azul,1,3,90,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,12,,goal,E. Manoel,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,19,,goal,M. Borja,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,26,,card,J. Gómez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,45,,card,Á. Zapata,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,46,,substitution,,False,,,I. Rivero,F. Boya,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,54,,substitution,,False,,,A. Preciado,J. González,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,55,,substitution,,True,,,Ó. Perea,I. Violante,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,55,,substitution,,True,,,B. Rodríguez,A. Gutiérrez,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,57,,substitution,,False,,,R. Árciga,R. Fernández,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,57,,substitution,,False,,,G. Mora,Á. Zapata,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,59,,card,D. Jiménez,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,62,,substitution,,True,,,C. Álvarez,D. Jiménez,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,62,,substitution,,True,,,K. Álvarez,D. Espinoza,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,64,,card,A. Preciado,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,71,,substitution,,False,,,J. Vega,Y. Padilla,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,78,,substitution,,True,,,E. Sánchez,E. Cerrillo,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,89,,card,I. Rivero,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,7,card,K. Álvarez,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,3,card,J. Gómez,False,red,Violent conduct,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,2,varDecision,J. Gómez,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,,injuryTime,,,,,,,,4,,

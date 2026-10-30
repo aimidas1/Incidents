@@ -9277,7 +9277,6 @@ mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,,period,,,,,,,FT,,2,2
 mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,3,card,P. Ruiz,False,yellow,Foul,,,,,,
 mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,,substitution,,False,,,M. Yoshida,J. Glesnes,,,,
 mls_2026,2026-10-26,,Los Angeles FC,LA Galaxy,2,2,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,7,,goal,I. Toklomati,True,,,,,,,1,0
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,45,,period,,,,,,,HT,,1,0
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,45,,injuryTime,,,,,,,,1,,
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,46,,substitution,,False,,,D. Sealy,N. Streit,,,,
@@ -9286,6 +9285,7 @@ mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,63,,substitution,,False,,,A. 
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,64,,card,E. Morales,False,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,65,,substitution,,True,,,L. Abada,R. Aloko,,,,
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,67,,goal,L. Abada,True,,,,,,,2,0
+mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,7,,goal,I. Toklomati,True,,,,,,,1,0
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,76,,substitution,,False,,,O. Escobar,H. Synchuk,,,,
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,76,,substitution,,True,,,L. D. L. Torre,A. Westwood,,,,
 mls_2026,2026-10-28,,Charlotte FC,CF Montréal,4,0,76,,substitution,,True,,,T. Smalls,A. Saint-Maximin,,,,
@@ -9317,7 +9317,6 @@ mls_2026,2026-10-28,,Inter Miami CF,FC Cincinnati,2,2,90,3,card,T. Segovia,True,
 mls_2026,2026-10-28,,Inter Miami CF,FC Cincinnati,2,2,90,1,substitution,,False,,,J. Martínez,K. M. Dem,,,,
 mls_2026,2026-10-28,,Inter Miami CF,FC Cincinnati,2,2,90,,goal,Riquelme,True,,,,,,,2,2
 mls_2026,2026-10-28,,Inter Miami CF,FC Cincinnati,2,2,90,,injuryTime,,,,,,,,5,,
-mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,9,,goal,D. Turgeman,True,,,,,,,1,0
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,12,,card,R. Donkor,False,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,40,,card,I. Feingold,True,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,45,,period,,,,,,,HT,,1,0
@@ -9337,11 +9336,11 @@ mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,78,,substitut
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,83,,goal,D. Gazdag,True,,,,,,,3,2
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,84,,substitution,,False,,,S. Kone,R. Donkor,,,,
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,84,,substitution,,False,,,R. Mosquera,J. Ruvalcaba,,,,
+mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,9,,goal,D. Turgeman,True,,,,,,,1,0
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,90,,period,,,,,,,FT,,3,2
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,90,3,card,J. Siqueira,True,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,90,,substitution,,True,,,J. Siqueira,D. Turgeman,,,,
 mls_2026,2026-10-28,,New England Revolution,New York Red Bulls,3,2,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,7,,card,T. Gray,True,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,11,,card,M. Amaro,False,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,23,,varDecision,B. Embolo,False,,,,,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,28,,substitution,,True,,,T. Magno,A. Martínez,,,,
@@ -9352,6 +9351,7 @@ mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,45,,injuryTime,,,,,,,,6
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,64,,substitution,,True,,,M. Jones,A. Ojeda,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,64,,substitution,,True,,,K. Parks,A. O'Neill,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,68,,card,T. Muyumba,False,yellow,Foul,,,,,,
+mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,7,,card,T. Gray,True,yellow,Foul,,,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,70,,goal,N. Fernández,True,,,,,,,1,0
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,74,,substitution,,False,,,F. Picault,T. Muyumba,,,,
 mls_2026,2026-10-28,,New York City FC,Atlanta United,2,1,81,,card,M. Edwards,False,yellow,Foul,,,,,,
@@ -9399,7 +9399,6 @@ mls_2026,2026-10-29,,Austin FC,Real Salt Lake,1,2,79,,substitution,,False,,,A. P
 mls_2026,2026-10-29,,Austin FC,Real Salt Lake,1,2,86,,substitution,,False,,,A. Katranis,S. Lobzhanidze,,,,
 mls_2026,2026-10-29,,Austin FC,Real Salt Lake,1,2,90,,period,,,,,,,FT,,1,2
 mls_2026,2026-10-29,,Austin FC,Real Salt Lake,1,2,90,,injuryTime,,,,,,,,9,,
-mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,6,,goal,I. Angulo,False,,,,,,,0,1
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,30,,card,S. Oregel,True,yellow,Foul,,,,,,
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,35,,goal,A. Griezmann,False,,,,,,,0,2
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,45,,period,,,,,,,HT,,0,2
@@ -9409,6 +9408,7 @@ mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,45,,card,J. Elliott,True,y
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,45,,injuryTime,,,,,,,,2,,
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,46,,substitution,,True,,,J. Bamba,S. Oregel,,,,
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,57,,goal,J. Bamba,True,,,,,,,1,2
+mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,6,,goal,I. Angulo,False,,,,,,,0,1
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,69,,goal,M. Haile-Selassie,True,,,,,,,2,2
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,76,,substitution,,False,,,D. Dike,J. Ellis,,,,
 mls_2026,2026-10-29,,Chicago Fire,Orlando City SC,2,2,76,,card,D. Brekalo,False,yellow,Foul,,,,,,

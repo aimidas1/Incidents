@@ -1325,3 +1325,28 @@ alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,
 alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,1,card,A. Prass,True,yellowRed,,,,,,,
 alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,,injuryTime,,,,,,,,5,,
 alemanha_bundesliga_2026_2027,2026-10-25,7,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,90,,card,C. Martínez,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,4,,card,P. Mwene,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,7,,goal,F. Keidel,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,26,,goal,F. Onyeka,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,33,,card,D. Costa,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,45,,period,,,,,,,HT,,3,0
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,45,1,goal,M. Krattenmacher,True,,,,,,,3,0
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,63,,substitution,,False,,,L. Maloney,P. Nebel,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,63,,substitution,,False,,,S. Widmer,P. Mwene,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,63,,substitution,,False,,,R. Y. Königsdörffer,P. Tietz,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,63,,substitution,,False,,,B. Hollerbach,N. Amiri,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,65,,varDecision,R. Y. Königsdörffer,False,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,68,,substitution,,True,,,N. Mickelson,L. Günther,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,75,,card,R. Y. Königsdörffer,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,77,,substitution,,True,,,C. Campbell,M. Krattenmacher,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,77,,substitution,,True,,,F. Schmahl,F. Onyeka,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,85,,card,S. Posch,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,87,,substitution,,False,,,E. Martel,K. Sano,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,88,,substitution,,True,,,R. Adam,L. Petkov,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,88,,substitution,,True,,,L. Schnellbacher,D. Mokwa,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,90,,period,,,,,,,FT,,4,1
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,90,5,card,S. Posch,False,yellowRed,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,90,2,goal,B. Hollerbach,False,,,,,,,4,1
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,90,,goal,C. Campbell,True,,,,,,,4,0
+alemanha_bundesliga_2026_2027,2026-10-30,8,SV 07 Elversberg,1. FSV Mainz 05,4,1,90,,injuryTime,,,,,,,,3,,

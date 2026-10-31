@@ -1710,3 +1710,27 @@ turquia_super_lig_2026_2027,2026-10-26,9,Çaykur Rizespor,Trabzonspor,3,4,86,,su
 turquia_super_lig_2026_2027,2026-10-26,9,Çaykur Rizespor,Trabzonspor,3,4,89,,substitution,,False,,,C. Özkaçar,A. Şimşir,,,,
 turquia_super_lig_2026_2027,2026-10-26,9,Çaykur Rizespor,Trabzonspor,3,4,90,,period,,,,,,,FT,,3,4
 turquia_super_lig_2026_2027,2026-10-26,9,Çaykur Rizespor,Trabzonspor,3,4,90,,injuryTime,,,,,,,,5,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,12,,goal,V. Osimhen,False,,,,,,,0,1
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,28,,goal,Y. Akgün,False,,,,,,,0,2
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,31,,card,G. Sara,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,40,,substitution,,True,,,D. Ertaş,B. H. Güngördü,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,45,,period,,,,,,,HT,,0,2
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,45,6,card,D. Türüç,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,45,,injuryTime,,,,,,,,5,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,46,,substitution,,True,,,M. Mohamed,J. Muleka,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,46,,substitution,,True,,,E. Bardhi,R. Tóth,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,49,,goal,A. Batrakov,False,,,,,,,0,3
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,52,,varDecision,R. Leão,False,,,,,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,55,,goal,R. Leão,False,,,,,,,0,4
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,56,,substitution,,True,,,U. Yazğılı,Y. Andzouana,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,61,,substitution,,False,,,D. Gül,V. Osimhen,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,61,,substitution,,False,,,R. Nhaga,G. Sara,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,61,,substitution,,False,,,İ. Gündoğan,A. Batrakov,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,61,,substitution,,False,,,L. Ugochukwu,L. Torreira,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,61,,substitution,,False,,,L. Sané,Y. Akgün,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,69,,substitution,,False,,,E. C. Bitshiabu,D. Sánchez,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,71,,substitution,,True,,,E. Colley,J. Dompé,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,82,,substitution,,True,,,E. Destan,M. Ibrahimoglu,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,90,,period,,,,,,,FT,,0,4
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,90,,card,M. Jevtović,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,90,,injuryTime,,,,,,,,2,,

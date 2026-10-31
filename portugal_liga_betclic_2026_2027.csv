@@ -1719,3 +1719,23 @@ portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,90,3,card,J
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,90,2,substitution,,False,,,M. Silva,G. Prestianni,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,90,,card,G. Romão,True,yellow,Argument,,,,,,
 portugal_liga_betclic_2026_2027,2026-10-26,9,Santa Clara,Benfica,1,2,90,,injuryTime,,,,,,,,5,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,9,,card,David Sousa,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,13,,goal,P. Lima,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,20,,card,Kaly,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,29,,card,S. Andersen,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,45,,period,,,,,,,HT,,0,1
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,46,,substitution,,True,,,J. Livolant,M. S. E. Boukammiri,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,62,,substitution,,False,,,I. Doumbia,S. Andersen,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,62,,substitution,,False,,,F. Gonçalves,N. Irankunda,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,62,,substitution,,False,,,G. Catamo,L. Guilherme,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,64,,substitution,,True,,,G. Pereira,L. Ofori,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,74,,substitution,,True,,,A. Dafe,B. Pauwels,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,76,,substitution,,False,,,J. Simões,P. Lima,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,85,,substitution,,True,,,Cassiano,David Sousa,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,85,,substitution,,True,,,A. Jatta,H. Araújo,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,86,,substitution,,False,,,F. Ioannidis,L. J. Suárez ,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,90,,period,,,,,,,FT,,0,2
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,90,4,goal,G. Catamo,False,,,,,,,0,2
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,90,3,card,M. Araújo,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-10-30,10,Casa Pia,Sporting CP,0,2,90,,injuryTime,,,,,,,,5,,

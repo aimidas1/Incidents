@@ -1474,3 +1474,65 @@ france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0
 france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,90,,period,,,,,,,FT,,2,0
 france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,90,1,substitution,,False,,,R. Himbert,T. Morton,,,,
 france_ligue_1_2026_2027,2026-10-26,8,Paris Saint-Germain,Olympique Lyonnais,2,0,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,18,,goal,J. Maja,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,26,,goal,M. Godts,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,28,,goal,A. Hakimi,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,28,,varDecision,A. Hakimi,False,,,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,45,,period,,,,,,,HT,,1,2
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,45,,injuryTime,,,,,,,,3,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,55,,goal,A. Hakimi,False,,,,,,,1,3
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,62,,goal,S. Mayulu,False,,,,,,,1,4
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,63,,substitution,,False,,,L. Beraldo,M. Akliouche,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,65,,substitution,,True,,,R. Ndiaye,M. N'Diaye,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,65,,substitution,,True,,,E. Koffi,A. Richardson,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,65,,substitution,,True,,,A. Samatta,S. Nakamura,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,69,,goal,A. Hakimi,False,,,,,,,1,5
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,71,,substitution,,False,,,D. Boly,A. Hakimi,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,71,,substitution,,False,,,Q. Ndjantou,M. Godts,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,79,,substitution,,True,,,H. Dongopandji,R. Fofana,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,83,,substitution,,True,,,D. N. Mosengo,S. Ebonog,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,90,,period,,,,,,,FT,,1,5
+france_ligue_1_2026_2027,2026-10-30,9,Le Havre,Paris Saint-Germain,1,5,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,10,,card,S. Abdulhamid,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,45,,card,D. Ancelotti,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,62,,substitution,,False,,,K. Antonio,J. Todibo,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,62,,substitution,,False,,,J. Kadile,F. Sotoca,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,69,,substitution,,False,,,Y. Titraoui,M. Cuisance,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,69,,substitution,,False,,,F. Ivanović,T. Hazard,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,73,,substitution,,True,,,D. Bakwa,N. Mukau,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,73,,substitution,,True,,,O. Giroud,E. Mbappé,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,78,,substitution,,True,,,C. Verdonk,R. Perraud,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,80,,substitution,,False,,,A. Bulatović,A. Haidara,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,86,,goal,O. Giroud,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,90,,period,,,,,,,FT,,1,0
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,90,1,substitution,,True,,,G. Perrin,H. Haraldsson,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Lille,RC Lens,1,0,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,12,,goal,E. Wahi,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,15,,goal,S. Szymański,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,34,,goal,E. Wahi,True,,,,,,,2,1
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,45,,period,,,,,,,HT,,3,1
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,45,2,goal,J. Clauss,True,,,,,,,3,1
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,46,,substitution,,False,,,M. Camara,A. Thomasson,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,46,,substitution,,False,,,B. Reynolds,P. Frankowski,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,52,,goal,M. E. A. Amoura,True,,,,,,,4,1
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,58,,goal,B. Dia,False,,,,,,,4,2
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,61,,card,A. Rouault,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,62,,card,E. Wahi,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,68,,substitution,,True,,,G. Hein,S. Diop,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,68,,substitution,,False,,,I. Soumaré,B. Dia,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,68,,substitution,,False,,,D. Cissé,V. Rongier,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,73,,goal,E. Wahi,True,,,,,,,5,2
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,74,,substitution,,True,,,M. Sanson,D. Coulibaly,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,74,,substitution,,False,,,E. Mayenda,M. Tamari,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,84,,card,Y. Ndayishimiye,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,84,,card,M. Camara,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,84,,card,M. Abdelmonem,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,84,,card,C. Cresswell,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,85,,substitution,,True,,,N. Ngoumou,E. Wahi,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,85,,substitution,,True,,,H. Koutoune,J. Clauss,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,88,,card,M. E. A. Amoura,True,yellow,,,,,,,
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,90,,period,,,,,,,FT,,5,2
+france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,90,,injuryTime,,,,,,,,5,,

@@ -6730,9 +6730,9 @@ brasileirao_serie_a_2026,2026-10-28,33,Santos,Palmeiras,0,0,85,,substitution,,Tr
 brasileirao_serie_a_2026,2026-10-28,33,Santos,Palmeiras,0,0,87,,card,J. Schmidt,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-28,33,Santos,Palmeiras,0,0,90,,period,,,,,,,FT,,0,0
 brasileirao_serie_a_2026,2026-10-28,33,Santos,Palmeiras,0,0,90,,injuryTime,,,,,,,,4,,
-brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,4,,goal,K. Jorge,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,24,,card,Natanael,True,yellow,Argument,,,,,,
 brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,25,,card,Zé Lucas,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,4,,goal,K. Jorge,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,42,,card,M. Pereira,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,45,,period,,,,,,,HT,,0,1
 brasileirao_serie_a_2026,2026-10-29,33,Atlético Mineiro,Cruzeiro,0,1,45,,injuryTime,,,,,,,,5,,
@@ -6815,6 +6815,28 @@ brasileirao_serie_a_2026,2026-10-29,33,Vasco da Gama,Flamengo,1,4,85,,goal,S. Li
 brasileirao_serie_a_2026,2026-10-29,33,Vasco da Gama,Flamengo,1,4,86,,card,S. Lino,False,yellow,,,,,,,
 brasileirao_serie_a_2026,2026-10-29,33,Vasco da Gama,Flamengo,1,4,90,,period,,,,,,,FT,,1,4
 brasileirao_serie_a_2026,2026-10-29,33,Vasco da Gama,Flamengo,1,4,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,22,,varDecision,B. Santos,False,,,,,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,24,,card,B. Santos,False,red,Violent conduct,,,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,43,,card,E. Carioca,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,45,,card,R. Guanaes,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,46,,substitution,,False,,,A. Luis,Eduardo,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,46,,substitution,,False,,,Gabriel,E. Carioca,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,58,,goal,M. Bidu,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,69,,substitution,,False,,,Denilson,Wallisson Luiz,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,71,,substitution,,False,,,C. Eduardo,Alesson,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,76,,card,A. Ramalho,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,79,,substitution,,True,,,Vitinho,F. Angileri,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,80,,goal,Kaio César,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,82,,substitution,,False,,,Chico,N. Moura,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,83,,card,Matheuzinho,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,88,,substitution,,True,,,A. Carrillo,Kaio César,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,88,,substitution,,True,,,P. Milans,Matheuzinho,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,90,4,substitution,,True,,,Charles,A. Luiz,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,90,4,substitution,,True,,,Dieguinho,R. Garro,,,,
+brasileirao_serie_a_2026,2026-10-30,33,Corinthians,Mirassol,2,0,90,,injuryTime,,,,,,,,5,,
 brasileirao_serie_a_2026,2026-10-30,33,Grêmio,Athletico,2,0,23,,card,J. Portilla,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-30,33,Grêmio,Athletico,2,0,29,,card,J. Enamorado,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-30,33,Grêmio,Athletico,2,0,37,,card,Leonardo Derik,False,yellow,Foul,,,,,,

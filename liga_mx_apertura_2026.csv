@@ -2635,3 +2635,61 @@ liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,7,card,K. �
 liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,3,card,J. Gómez,False,red,Violent conduct,,,,,,
 liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,2,varDecision,J. Gómez,False,,,,,,,,
 liga_mx_apertura_2026,2026-10-29,7,Club América,Club Tijuana,1,1,90,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,30,,card,S. Hernandez,False,yellow,Persistent fouling,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,45,3,card,B. Galdames,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,46,,substitution,,False,,,A. Rocha,P. Ramírez,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,46,,substitution,,False,,,M. Valenzuela,J. Martín,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,62,,substitution,,False,,,R. Mmaee,S. Hernandez,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,63,,goal,F. Monzón,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,64,,substitution,,True,,,R. Torres,B. Galdames,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,67,,card,M. Valenzuela,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,73,,substitution,,True,,,L. Flores,A. Duarte,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,76,,substitution,,False,,,V. Ríos,E. Zaldívar,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,79,,substitution,,True,,,L. Esteves,A. Cruz,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,79,,substitution,,True,,,R. Nájera,F. Mora,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,82,,card,V. Ríos,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,88,,substitution,,False,,,A. González,L. Esteves,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,90,,period,,,,,,,FT,,0,1
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,90,5,card,F. Monzón,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Atlético San Luis,Atlas FC,0,1,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,10,,goal,Juninho,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,23,,goal,O. M. Villegas,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,55,,substitution,,True,,,I. Maestro Puch,L. Hernández,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,55,,substitution,,True,,,K. Velasco,B. Garnica,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,59,,varDecision,A. Carrasquilla,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,61,,card,A. Carrasquilla,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,72,,substitution,,False,,,V. Arteaga,C. Huerta,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,73,,card,P. Vite,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,76,,substitution,,True,,,C. Baltazar,O. M. Villegas,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,82,,substitution,,True,,,Á. Leyva,J. Pachuca,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,84,,substitution,,False,,,A. Medina,U. Antuna,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,85,,substitution,,False,,,Á. Angulo,R. Duarte,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,88,,substitution,,False,,,L. Herrera,P. Vite,,,,
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,90,,period,,,,,,,FT,,1,2
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,90,,goal,Á. Angulo,False,,,,,,,1,2
+liga_mx_apertura_2026,2026-10-31,15,Club Puebla,Pumas UNAM,1,2,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,11,,varDecision,M. Coronel,False,,,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,17,,goal,Ó. Estupiñán,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,39,,goal,M. d. S. Silva,True,,,,,,,2,0
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,45,,period,,,,,,,HT,,2,0
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,45,5,card,G. Castilho,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,45,5,card,M. Coronel,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,45,,injuryTime,,,,,,,,4,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,46,,substitution,,False,,,J. A. Camacho,B. Parra,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,55,,card,L. Abascia,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,58,,substitution,,False,,,B. Duarte,E. Giménez,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,59,,substitution,,True,,,J. L. Rodríguez,M. d. S. Silva,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,59,,substitution,,True,,,L. M. Dupuy,Ó. Estupiñán,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,59,,substitution,,True,,,J. Torres,G. Castilho,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,78,,substitution,,False,,,W. Madrid,I. Benito,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,78,,substitution,,False,,,P. Victor,D. Munoz,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,83,,goal,J. L. Rodríguez,True,,,,,,,3,0
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,84,,substitution,,True,,,J. Carmona,F. Nevarez,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,86,,substitution,,False,,,E. Perez,C. A. García,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,89,,goal,A. Ávila,False,,,,,,,3,1
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,90,,period,,,,,,,FT,,3,1
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,90,2,substitution,,True,,,J. Murillo,D. Garcia,,,,
+liga_mx_apertura_2026,2026-10-31,15,FC Juárez,Querétaro FC,3,1,90,,injuryTime,,,,,,,,5,,

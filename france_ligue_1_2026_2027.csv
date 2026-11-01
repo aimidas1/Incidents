@@ -1536,3 +1536,27 @@ france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,85,,substitution,,T
 france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,88,,card,M. E. A. Amoura,True,yellow,,,,,,,
 france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,90,,period,,,,,,,FT,,5,2
 france_ligue_1_2026_2027,2026-10-30,9,Nice,Stade Rennais,5,2,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,18,,card,M. Diaz,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,33,,goal,M. Diop,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,46,,substitution,,False,,,D. Gueye,A. Rabillard,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,46,,substitution,,True,,,K. Diawara,T. Nkada,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,46,,substitution,,False,,,B. Brahimi,H. Diallo,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,47,,card,R. Torrente,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,52,,card,P. Gozzi,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,60,,substitution,,False,,,J. Vercruysse,A. Lauray,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,66,,substitution,,True,,,I. Boura,P. Gozzi,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,67,,card,N. Kocik,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,67,,varDecision,K. Diawara,True,,,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,69,,card,I. Boura,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,71,,goal,I. Boura,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,74,,substitution,,False,,,W. Harhouz,L. Mafouta,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,74,,substitution,,False,,,Y. Larouci,L. Calodat,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,74,,card,N. Boissé,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,79,,substitution,,True,,,I. Gomis,M. Diop,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,79,,substitution,,True,,,J. Le Douaron,R. Ripart,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,90,,period,,,,,,,FT,,2,0
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,90,6,card,S. Yohou,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,90,2,substitution,,True,,,H. Picard,M. Ifnaoui,,,,
+france_ligue_1_2026_2027,2026-10-31,9,Troyes,Le Mans,2,0,90,,injuryTime,,,,,,,,6,,

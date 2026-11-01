@@ -1846,3 +1846,74 @@ italia_serie_a_2026_2027,2026-10-29,9,Frosinone,Lecce,5,1,83,,substitution,,Fals
 italia_serie_a_2026_2027,2026-10-29,9,Frosinone,Lecce,5,1,90,,period,,,,,,,FT,,5,1
 italia_serie_a_2026_2027,2026-10-29,9,Frosinone,Lecce,5,1,90,4,goal,D. Bîrligea,True,,,,,,,5,1
 italia_serie_a_2026_2027,2026-10-29,9,Frosinone,Lecce,5,1,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,4,,goal,C. Pulišić,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,10,,goal,A. Rabiot,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,22,,goal,A. Bastoni,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,43,,goal,D. Moreira,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,45,,period,,,,,,,HT,,3,1
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,49,,card,K. De Winter,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,52,,card,D. Moreira,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,72,,substitution,,False,,,H. Mkhitaryan,A. Diouf,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,72,,substitution,,False,,,P. Zieliński,H. Çalhanoğlu,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,75,,varDecision,H. Mkhitaryan,False,,,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,81,,substitution,,False,,,F. Dimarco,A. Bastoni,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,82,,substitution,,True,,,A. Cisse,C. Pulišić,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,82,,substitution,,True,,,A. Jashari,Y. Musah,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,82,,substitution,,False,,,A. Bonny,Y. Bisseck,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,82,,substitution,,False,,,F. P. Esposito,N. Barella,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,83,,substitution,,True,,,D. Bartesaghi,S. Diawara,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,89,,substitution,,True,,,O. Hutchinson,D. Moreira,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,89,,substitution,,True,,,F. Terracciano,G. Ramos,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,90,,period,,,,,,,FT,,3,1
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,90,,card,C. Augusto,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,AC Milan,Inter,3,1,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,6,,goal,G. Varela,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,12,,card,R. Mangas,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,17,,card,J. Odgaard,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,23,,card,T. Pobega,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,33,,goal,T. Pobega,True,,,,,,,1,1
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,45,,period,,,,,,,HT,,1,1
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,46,,substitution,,False,,,J. Robinson,E. Zeballos,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,56,,varDecision,A. Theate,True,,,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,58,,card,L. Lucchesi,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,59,,goal,F. Bernardeschi,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,64,,substitution,,True,,,S. Mbangula,J. Odgaard,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,66,,substitution,,False,,,I. Touré,E. Kouadio,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,66,,substitution,,False,,,M. Mout,L. Colombo,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,71,,substitution,,False,,,P. Cutrone,G. Varela,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,71,,substitution,,False,,,C. Ngonge,D. Mota,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,74,,substitution,,True,,,O. El Azzouzi,T. Pobega,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,74,,card,N. Zortea,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,75,,substitution,,True,,,M. Darmian,M. Vitík,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,76,,card,I. Touré,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,77,,varDecision,J. Robinson,False,,,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,81,,penalty_missed,P. Cutrone,False,,saved,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,83,,substitution,,True,,,A. Dovbyk,F. Bernardeschi,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,83,,substitution,,True,,,M. Amondarain,N. Zortea,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,90,,card,M. Amondarain,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Bologna,Monza,2,1,90,,injuryTime,,,,,,,,6,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,10,,goal,B. Cristante,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,23,,card,L. Miller,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,31,,goal,R. Mora,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,33,,goal,D. Malen,False,,,,,,,0,3
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,37,,goal,E. Ndicka,False,,,,,,,0,4
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,45,,period,,,,,,,HT,,0,4
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,50,,goal,N. Zaniolo,True,,,,,,,1,4
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,56,,substitution,,True,,,G. Chakvetadze,J. Ekkelenkamp,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,56,,substitution,,True,,,U. Gómez,K. Davis,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,59,,substitution,,False,,,S. Castro,D. Malen,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,59,,substitution,,False,,,N. Pisilli,R. Mora,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,60,,card,B. Cristante,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,67,,substitution,,True,,,J. Piotrowski,N. Zaniolo,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,78,,goal,M. Palma,True,,,,,,,2,4
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,79,,substitution,,False,,,G. Mancini,M. Soulé,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,79,,substitution,,False,,,D. Rensch,Wesley,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,82,,substitution,,True,,,J. Arizala,H. Kamara,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,82,,substitution,,True,,,L. Jovanović,J. Karlström,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,84,,substitution,,False,,,K. Koulierakis,M. Hermoso,,,,
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,90,,period,,,,,,,FT,,2,5
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,90,2,goal,D. Ghilardi,False,,,,,,,2,5
+italia_serie_a_2026_2027,2026-10-31,10,Udinese,AS Roma,2,5,90,,injuryTime,,,,,,,,4,,

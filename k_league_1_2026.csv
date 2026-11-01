@@ -3738,3 +3738,32 @@ k_league_1_2026,2026-10-24,33,Ulsan HD,Pohang Steelers,2,2,90,5,card,L. Jin-hyun
 k_league_1_2026,2026-10-24,33,Ulsan HD,Pohang Steelers,2,2,90,,penalty_missed,J. Teixeira,False,,saved,,,,,,
 k_league_1_2026,2026-10-24,33,Ulsan HD,Pohang Steelers,2,2,90,,substitution,,False,,,K. Ye-Sung,M. Kang,,,,
 k_league_1_2026,2026-10-24,33,Ulsan HD,Pohang Steelers,2,2,90,,substitution,,False,,,J. Sung-wook,K. Shin,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,26,,substitution,,True,,,Y. Ahn,T. v. Grunsven,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,29,,card,S. Y. Kwon,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,37,,substitution,,True,,,M. Moon,Seung-un Ha,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,46,,substitution,,False,,,J. Jae-Min,M. Kang,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,46,,substitution,,True,,,M. Lee,João Pedro,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,61,,substitution,,False,,,I. Kim,K. Ju-Hyeok,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,64,,goal,I. Kim,False,,,,,,,0,1
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,76,,goal,J. Iredale,True,,,,,,,1,1
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,82,,substitution,,False,,,R. Kyung-ho,L. Sangheon,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,88,,substitution,,True,,,S. J. Ju,K. Choi,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,88,,substitution,,False,,,M. S. Park,P. Jin-Seong,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,88,,substitution,,False,,,Y. Jae-Seok,Y. Hong,,,,
+k_league_1_2026,2026-10-31,34,Gwangju FC,Gimcheon Sangmu FC,1,1,90,,period,,,,,,,FT,,1,1
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,45,,card,Italo,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,57,,substitution,,True,,,A. Compagno,T. Orobó,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,57,,substitution,,True,,,S. U. Maeng,J. Gamboa,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,59,,substitution,,False,,,Diogo Oliveira,M. K. Ju,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,68,,substitution,,True,,,Y. Kim,J. Yeon,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,68,,substitution,,True,,,S. Lee,Dodô,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,69,,card,Y. Kang,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,71,,substitution,,False,,,J. Victor,W.S. Um,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,71,,substitution,,False,,,J. B. Kim,J. S. Seo,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,80,,card,J. Seong-Kwon,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,88,,substitution,,False,,,J. Jeong,G. Ludwigson,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,88,,substitution,,False,,,S. Lee,Y. Kang,,,,
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,90,,period,,,,,,,FT,,0,0
+k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,90,1,substitution,,True,,,S. S. Kim,Y. J. Lee,,,,

@@ -7525,3 +7525,67 @@ brasileirao_serie_b_2026,2026-10-30,36,Criciúma,Ponte Preta,2,0,89,,card,E. Bia
 brasileirao_serie_b_2026,2026-10-30,36,Criciúma,Ponte Preta,2,0,90,,period,,,,,,,FT,,2,0
 brasileirao_serie_b_2026,2026-10-30,36,Criciúma,Ponte Preta,2,0,90,6,card,R. Otero,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-30,36,Criciúma,Ponte Preta,2,0,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,22,,card,L. Maciel,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,37,,substitution,,False,,,M. Ajul,W. Oliveira,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,39,,goal,Hygor,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,45,1,goal,Perotti,False,,,,,,,1,1
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,46,,substitution,,False,,,B. Fonseca,F. Sobral,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,46,,substitution,,False,,,Marlon,Diego Hernández,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,55,,card,M. Soso,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,64,,substitution,,False,,,N. Pessoa,Perotti,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,69,,substitution,,True,,,Pedrinho,F. Vieira,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,70,,substitution,,True,,,Arthur Caíke,R. Gava,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,70,,substitution,,True,,,M. Sales,L. Maciel,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,78,,substitution,,True,,,W. Pinheiro,Z. Hugo,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,79,,substitution,,False,,,J. Alano,Claudinho,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,88,,substitution,,True,,,Thiaguinho,Hygor,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,90,,period,,,,,,,FT,,1,1
+brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,90,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,1,,card,J. Maciel,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,7,,substitution,,True,,,L. Índio,Betão,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,8,,card,P. Sérgio,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,17,,card,B. Borasi,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,18,,card,J. Vitor,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,21,,card,S. F. Rodrigues,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,23,,goal,B. Borasi,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,37,,card,Z. Ricardo,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,45,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,46,,substitution,,False,,,Gaspar,D. Penha,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,46,,substitution,,False,,,Wallison,C. Suassuna,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,46,,substitution,,False,,,L. Gamalho,J. Vitor,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,58,,substitution,,True,,,Reginaldo,Arnaldo,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,58,,substitution,,True,,,Wanderson,L. Paulo,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,58,,substitution,,True,,,L. Claudio,P. Sérgio,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,63,,substitution,,False,,,Hyan,Wenderson,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,70,,substitution,,False,,,K. Gabriel,P. Vitor,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,71,,card,L. Índio,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,78,,substitution,,True,,,Todinho,Vinícius,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,86,,card,Ryan,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,88,,card,D. Teixeira,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,42,,card,M. Paulo,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,45,4,varDecision,Everton Galdino,True,,,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,46,,card,Aderlan,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,46,,substitution,,False,,,L. Mineiro,L. Amarilla,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,54,,card,I. Cariús,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,55,,goal,Janderson,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,62,,card,J. Vieira,True,red,Foul,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,68,,substitution,,False,,,J. Christian,M. Paulo,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,68,,substitution,,False,,,L. Alves,M. Paulo,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,72,,card,Messias,False,red,Professional foul last man,,,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,73,,substitution,,True,,,Nathan Camargo,I. Cariús,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,76,,goal,L. Alves,False,,,,,,,1,1
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,80,,substitution,,True,,,Dodô,Marquinhos Gabriel,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,80,,substitution,,True,,,Dellatorre,A. Luís,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,83,,goal,D. D. Santos,True,,,,,,,2,1
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,86,,goal,A. Safira,False,,,,,,,2,2
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,87,,substitution,,False,,,Patryck,Aderlan,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,88,,substitution,,False,,,Titi,A. Safira,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,90,,period,,,,,,,FT,,2,2
+brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,90,,injuryTime,,,,,,,,11,,

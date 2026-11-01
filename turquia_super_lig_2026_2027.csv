@@ -1734,3 +1734,68 @@ turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,82,,substitu
 turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,90,,period,,,,,,,FT,,0,4
 turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,90,,card,M. Jevtović,True,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-10-30,10,Konyaspor,Galatasaray,0,4,90,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,20,,goal,Ç. Söyüncü,False,,,,,,,0,1
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,28,,card,E. Tozlu,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,34,,card,G. Sazdağı,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,45,,period,,,,,,,HT,,0,1
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,59,,substitution,,True,,,G. Kerk,E. Owusu,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,65,,card,G. Giorbelidze,True,yellow,Persistent fouling,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,68,,substitution,,True,,,M. Fettahoglu,Y. Kırtay,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,68,,substitution,,True,,,I. Diabaté,M. Cardoso,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,71,,goal,J. Ramírez,False,,,,,,,0,2
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,74,,goal,I. Diabaté,True,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,75,,substitution,,False,,,A. Penetra,E. Mahmić,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,77,,varDecision,G. Sazdağı,False,,,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,78,,substitution,,True,,,S. Akgün,M. Rodríguez,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,78,,substitution,,True,,,F. Ebosele,O. Ovacıklı,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,79,,goal,J. Ramírez,False,,,,,,,1,3
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,83,,substitution,,False,,,A. Ildız,M. Diomande,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,83,,substitution,,False,,,Y. Moukoko,J. Ramírez,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,87,,substitution,,False,,,M. Karlsbakk,G. Sazdağı,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,87,,substitution,,False,,,G. Gürpüz,A. Kyziridis,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,90,,period,,,,,,,FT,,1,3
+turquia_super_lig_2026_2027,2026-10-31,10,Erzurumspor FK,Çorum FK,1,3,90,,injuryTime,,,,,,,,5,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,3,,card,N. Kanté,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,39,,card,A. Antunes,False,yellow,,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,42,,card,N. Semedo,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,45,,period,,,,,,,HT,,1,0
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,45,1,goal,M. Guendouzi,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,47,,card,R. Akonnor,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,65,,substitution,,True,,,M. Müldür,N. Semedo,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,65,,substitution,,False,,,A. Henrique,Janderson,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,74,,substitution,,False,,,S. Armstrong,Juan,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,74,,substitution,,False,,,T. Anjorin,A. Antunes,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,76,,goal,S. Armstrong,False,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,78,,goal,A. Henrique,False,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,83,,substitution,,True,,,D. Nene,O. Aydın,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,83,,substitution,,True,,,V. Muriqi,K. Aktürkoğlu,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,84,,substitution,,True,,,Y. E. Demir,K. P. Oppong,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,89,,card,T. Altıkardeş,False,yellow,Time wasting,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,90,,period,,,,,,,FT,,1,2
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,90,4,card,E. Bekiroğlu,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,90,2,substitution,,False,,,Allan,N. Miroshi,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,90,2,substitution,,False,,,E. Bekiroğlu,Rhaldney,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Fenerbahçe,Göztepe,1,2,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,16,,card,M. Susoho,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,30,,card,U. K. Yıldız,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,44,,card,G. Borrelli,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,45,,period,,,,,,,HT,,0,0
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,45,,injuryTime,,,,,,,,1,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,46,,substitution,,False,,,A. Kutucu,A. Mebude,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,46,,substitution,,False,,,A. Sowe,G. Borrelli,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,63,,substitution,,True,,,E. Bilim,M. Susoho,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,63,,substitution,,True,,,D. Agyei,G. Sousa,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,66,,substitution,,False,,,V. Mihăilă,E. Bulut,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,70,,card,M. Sagnan,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,75,,substitution,,True,,,M. Cinan,R. Rivas,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,75,,substitution,,True,,,M. Altunbaş,M. Baku,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,80,,substitution,,False,,,T. Antalyalı,Q. Laci,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,80,,card,Show,True,yellow,Off the ball foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,88,,substitution,,False,,,D. Varešanović,I. Olawoyin,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,89,,card,V. Mihăilă,False,yellow,Off the ball foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,90,,period,,,,,,,FT,,0,0
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,90,3,card,E. Ortakaya,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,90,1,substitution,,True,,,T. Gulliksen,B. Kutlu,,,,
+turquia_super_lig_2026_2027,2026-10-31,10,Kocaelispor,Çaykur Rizespor,0,0,90,,injuryTime,,,,,,,,4,,

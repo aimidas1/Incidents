@@ -1805,7 +1805,6 @@ eredivisie_2026_2027,2026-10-25,10,Sparta Rotterdam,AFC Ajax,1,2,90,,period,,,,,
 eredivisie_2026_2027,2026-10-25,10,Sparta Rotterdam,AFC Ajax,1,2,90,4,substitution,,False,,,D. Blind,D. Janse,,,,
 eredivisie_2026_2027,2026-10-25,10,Sparta Rotterdam,AFC Ajax,1,2,90,3,card,L. Rosa,False,yellow,Time wasting,,,,,,
 eredivisie_2026_2027,2026-10-25,10,Sparta Rotterdam,AFC Ajax,1,2,90,,injuryTime,,,,,,,,4,,
-eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,9,,goal,T. Arokodare,True,,,,,,,1,0
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,26,,card,W. Patati,False,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,30,,card,A. Ouazane,True,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,38,,substitution,,True,,,O. Gloukh,J. Brandt,,,,
@@ -1821,6 +1820,7 @@ eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,74,,substitution,,Tru
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,78,,substitution,,False,,,D. Kasius,E. Dijkstra,,,,
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,78,,substitution,,False,,,M. Chávez,M. De Wit,,,,
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,85,,substitution,,False,,,B. Kovács,L. Schouten,,,,
+eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,9,,goal,T. Arokodare,True,,,,,,,1,0
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,90,,period,,,,,,,FT,,1,0
 eredivisie_2026_2027,2026-10-31,11,AFC Ajax,AZ Alkmaar,1,0,90,,injuryTime,,,,,,,,4,,
 eredivisie_2026_2027,2026-10-31,11,Feyenoord,Fortuna Sittard,1,1,30,,substitution,,False,,,I. Márquez,R. Guth,,,,
@@ -1859,6 +1859,25 @@ eredivisie_2026_2027,2026-10-31,11,PSV Eindhoven,Willem II Tilburg,7,0,80,,subst
 eredivisie_2026_2027,2026-10-31,11,PSV Eindhoven,Willem II Tilburg,7,0,81,,goal,S. Cornecion,True,,,,,,,7,0
 eredivisie_2026_2027,2026-10-31,11,PSV Eindhoven,Willem II Tilburg,7,0,90,,period,,,,,,,FT,,7,0
 eredivisie_2026_2027,2026-10-31,11,PSV Eindhoven,Willem II Tilburg,7,0,90,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,7,,goal,I. Baouf,True,,,,,,,1,0
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,15,,goal,J. Ceka,True,,,,,,,2,0
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,41,,goal,B. v. Duijl,True,,,,,,,3,0
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,44,,card,N. Souren,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,45,,period,,,,,,,HT,,3,0
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,46,,substitution,,False,,,T. Galvez,D. James,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,46,,substitution,,False,,,T. Baeten,O. S. Sivertsen,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,46,,substitution,,False,,,S. I. Sigurðarson,E. Linthorst,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,51,,card,T. Baeten,False,yellow,Argument,,,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,67,,card,N. Binder,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,68,,substitution,,True,,,E. Apkakou,M. Maertens,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,68,,substitution,,True,,,S. Bouhoudane,N. Binder,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,75,,substitution,,False,,,R. Margaret,V. Edvardsen,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,78,,substitution,,True,,,I. Henstra,J. Ceka,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,78,,substitution,,True,,,D. Visser,N. Souren,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,80,,substitution,,False,,,Y. Rahmouni,M. Suray,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,80,,goal,R. E. Arguioui,True,,,,,,,4,0
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,81,,substitution,,True,,,S. Vink,R. E. Arguioui,,,,
+eredivisie_2026_2027,2026-10-31,11,SC Cambuur,Go Ahead Eagles,4,0,90,,period,,,,,,,FT,,4,0
 eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,32,,card,O. Braude,True,yellow,Argument,,,,,,
 eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,32,,card,C. Bischoff,False,yellow,Argument,,,,,,
 eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,34,,card,B. Linssen,False,yellow,Argument,,,,,,
@@ -1878,3 +1897,96 @@ eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,86,,substituti
 eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,90,,period,,,,,,,FT,,1,0
 eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,90,2,substitution,,True,,,M. Farji,J. Trenskow,,,,
 eredivisie_2026_2027,2026-10-31,11,SC Heerenveen,NEC Nijmegen,1,0,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,5,,card,N. Groen,True,red,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,12,,goal,W. Weghorst,False,,,,,,,0,1
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,17,,card,W. Weghorst,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,27,,varDecision,T. V. d. Belt,False,,,,,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,32,,goal,W. Weghorst,False,,,,,,,0,2
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,33,,goal,W. Weghorst,False,,,,,,,0,3
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,39,,goal,T. V. d. Belt,False,,,,,,,0,4
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,43,,card,L. Hartjes,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,45,,period,,,,,,,HT,,0,5
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,45,1,goal,D. Rots,False,,,,,,,0,5
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,46,,substitution,,False,,,J. Bawuah,R. Nijstad,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,46,,substitution,,False,,,M. Rosiak,B. van Rooij,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,46,,substitution,,True,,,E. d. S. Moreira,D. v. Vianen,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,46,,substitution,,True,,,M. Domínguez,A. Sliti,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,49,,goal,J. Bawuah,False,,,,,,,0,6
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,59,,varDecision,J. Bawuah,False,,,,,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,62,,goal,W. Weghorst,False,,,,,,,0,7
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,63,,substitution,,False,,,L. V. o. Hesselink,W. Weghorst,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,63,,substitution,,True,,,S. Janssen,I. Yegoian,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,63,,substitution,,False,,,M. Pjaca,S. Ørjasæter,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,71,,goal,R. Zerrouki,False,,,,,,,0,8
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,72,,substitution,,False,,,K. Hlynsson,R. Pröpper,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,82,,goal,D. Rots,False,,,,,,,0,9
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,83,,substitution,,True,,,V. Sulzbacher,N. Naujoks,,,,
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,90,,period,,,,,,,FT,,0,9
+eredivisie_2026_2027,2026-11-01,11,Excelsior,FC Twente,0,9,90,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,1,,goal,J. Ondrejka,True,,,,,,,1,0
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,5,,card,T. d. Jonge,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,15,,goal,C. Hatenboer,False,,,,,,,1,1
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,25,,goal,M. Zonneveld,False,,,,,,,1,2
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,29,,goal,T. v. Bergen,True,,,,,,,2,2
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,36,,card,B. Martins Indi,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,45,,period,,,,,,,HT,,2,2
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,46,,substitution,,False,,,T. Q. León,N. Verschuren,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,55,,substitution,,False,,,R. van Cruijsen,J. Toornstra,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,61,,card,L. E. Martes,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,71,,substitution,,False,,,S. Mito,I. Babadi,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,71,,substitution,,False,,,A. Kostić,M. Zonneveld,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,75,,substitution,,True,,,T. Land,T. v. Bergen,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,75,,card,C. Hatenboer,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,83,,substitution,,True,,,W. Prins,J. Schreuders,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,83,,substitution,,True,,,N. Eggens,J. Ondrejka,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,83,,substitution,,True,,,J. Dillema,B. Darri Willumsson,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,85,,goal,A. Kostić,False,,,,,,,2,3
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,87,,substitution,,False,,,G. Vianello,M. Van Bergen,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,87,,substitution,,True,,,O. Zawada,M. Rente,,,,
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,90,,period,,,,,,,FT,,2,3
+eredivisie_2026_2027,2026-11-01,11,FC Groningen,Sparta Rotterdam,2,3,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,40,,varDecision,E. Rottier,False,,,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,45,,period,,,,,,,HT,,1,0
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,45,,goal,D. Mbayo,True,,,,,,,1,0
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,45,,injuryTime,,,,,,,,2,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,46,,substitution,,False,,,C. Peupion,J. Hawkins,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,46,,substitution,,False,,,O. Raterink,J. Jensen-Abbew,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,48,,card,Y. Eduardo,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,52,,card,P. Mulder,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,60,,substitution,,True,,,T. Oosting,Y. Namli,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,61,,substitution,,False,,,D. van Mieghem,N. Thomas,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,61,,substitution,,False,,,J. Bal,M. Šín,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,65,,card,O. Aertssen,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,72,,card,M. Waem,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,73,,substitution,,True,,,I. Cissoko,D. Mbayo,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,74,,substitution,,True,,,J. Bürger,O. Aertssen,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,78,,substitution,,False,,,D. Bárány,Y. Eduardo,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,79,,card,G. v. d. Wal,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,81,,card,I. Cissoko,True,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,88,,substitution,,True,,,T. Velthuis,T. Sommer,,,,
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,90,,period,,,,,,,FT,,1,0
+eredivisie_2026_2027,2026-11-01,11,PEC Zwolle,ADO Den Haag,1,0,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,8,,goal,T. Owusu,True,,,,,,,1,0
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,25,,goal,A. Soualhia,True,,,,,,,2,0
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,37,,substitution,,False,,,Á. Alarcón,S. Horemans,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,37,,substitution,,False,,,P. Kloosterboer,A. Zagre,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,42,,goal,Á. Alarcón,False,,,,,,,2,1
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,44,,goal,N. Þórisson,True,,,,,,,3,1
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,45,,period,,,,,,,HT,,3,1
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,45,,injuryTime,,,,,,,,1,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,46,,goal,Y. Cathline,False,,,,,,,3,2
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,46,,substitution,,False,,,A. Stepanov,O. Agougil,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,59,,goal,A. Martha,True,,,,,,,4,2
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,61,,substitution,,True,,,R. Oudsten,G. Caschili,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,62,,substitution,,True,,,J. Hardeveld,M. Peersman,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,70,,substitution,,True,,,N. Shenkman,E. Demircan,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,71,,card,D. De Wit,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,73,,card,P. Kloosterboer,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,74,,substitution,,False,,,A. Blake,M. Broholm,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,77,,substitution,,True,,,F. Rust,N. Þórisson,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,77,,substitution,,True,,,F. Turay,A. Martha,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,87,,substitution,,False,,,S. v. Duijn,N. Panagiotou,,,,
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,90,,period,,,,,,,FT,,4,2
+eredivisie_2026_2027,2026-11-01,11,SC Telstar,FC Utrecht,4,2,90,,injuryTime,,,,,,,,3,,

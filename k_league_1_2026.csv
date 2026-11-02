@@ -3767,3 +3767,61 @@ k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,88
 k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,88,,substitution,,False,,,S. Lee,Y. Kang,,,,
 k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,90,,period,,,,,,,FT,,0,0
 k_league_1_2026,2026-10-31,34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,0,0,90,1,substitution,,True,,,S. S. Kim,Y. J. Lee,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,27,,card,J. Kim,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,33,,card,S. Ye-Geon,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,39,,goal,J. I. Park,False,,,,,,,0,1
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,45,,period,,,,,,,HT,,0,1
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,55,,goal,S. Hong,True,,,,,,,1,1
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,66,,substitution,,True,,,G. Choi,H. Chae,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,66,,substitution,,True,,,B. Herculano,U. Kim,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,72,,substitution,,False,,,Gustavo Nescau,J. I. Park,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,72,,substitution,,False,,,Galego,S. Kim,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,80,,substitution,,False,,,S. Kim,J. Kim,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,81,,card,B. Herculano,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,82,,substitution,,True,,,J. Lee,J. H. Kang,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,87,,substitution,,True,,,J. W. Yu,I. Jukić,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,87,,substitution,,True,,,J. H. Kim,B. Knežević,,,,
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,89,,goal,K. W. Kwon,True,,,,,,,2,1
+k_league_1_2026,2026-11-01,34,FC Anyang,Bucheon FC 1995,2,1,90,,period,,,,,,,FT,,2,1
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,46,,substitution,,False,,,D. Lee,L. Ribeiro,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,46,,substitution,,True,,,L. Han-do,H. Jeong,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,46,,substitution,,True,,,M. Seon-min,L. Sang-min,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,62,,substitution,,True,,,D. Hwang,C. Young-wook,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,63,,card,J. Fernández,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,70,,substitution,,False,,,M. Ferrier,S. Mugoša,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,82,,substitution,,True,,,L. Ruiz,J. Son,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,82,,substitution,,False,,,G. Fernandes,S. Kim,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,85,,substitution,,False,,,C. Seung-Gu,M. J. Lee,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,85,,substitution,,False,,,L. Min-Hyeok,K. Myung-Sun,,,,
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,90,,period,,,,,,,FT,,0,1
+k_league_1_2026,2026-11-01,34,FC Seoul,Incheon United,0,1,90,6,goal,G. Fernandes,False,,,,,,,0,1
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,31,,goal,Emerson Ramon,False,,,,,,,0,1
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,42,,substitution,,True,,,J. Tranziska,J. Teixeira,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,45,,period,,,,,,,HT,,1,1
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,45,10,goal,Wanderson,True,,,,,,,1,1
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,55,,substitution,,False,,,C. Byung-Wook,E. Cinari,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,55,,substitution,,False,,,S. Sang-Eun,K. Shin-jin,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,69,,substitution,,True,,,H. M. Jung,A. Jae-joon,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,69,,substitution,,True,,,S. Y. Ki,S. Kim,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,74,,card,J. Rocha,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,84,,substitution,,True,,,K. Gwang-won,J. Rocha,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,84,,substitution,,True,,,J. Sung-wook,K. Shin,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,84,,substitution,,False,,,G. Bon-Seo,C. J. Park,,,,
+k_league_1_2026,2026-11-01,34,Pohang Steelers,Jeju SK,1,1,90,,period,,,,,,,FT,,1,1
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,41,,goal,B. K. Hwang,False,,,,,,,0,1
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,45,,period,,,,,,,HT,,0,1
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,46,,substitution,,True,,,Yago,K. S. Lee,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,56,,substitution,,True,,,E. Farias,H. Lee,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,64,,substitution,,False,,,H. Chul,A. Chaouche,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,67,,substitution,,True,,,D. Bojanić,Y. W. Park,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,69,,goal,E. Farias,True,,,,,,,1,1
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,75,,substitution,,False,,,K. Gun-hee,D. Kim,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,75,,substitution,,False,,,S. W. Lee,M. Seo,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,75,,substitution,,False,,,L. Eun-Ho,Y. Goh,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,83,,substitution,,False,,,A. Halaihal,B. Choi,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,85,,goal,E. Farias,True,,,,,,,2,1
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,86,,substitution,,True,,,S. Shim,J. Yoon,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,86,,substitution,,True,,,I. Back,L. Jin-hyun,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,88,,card,K. Gun-hee,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,90,,period,,,,,,,FT,,2,1

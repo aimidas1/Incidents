@@ -1416,7 +1416,6 @@ alemanha_bundesliga_2026_2027,2026-10-31,8,FC Augsburg,SC Freiburg,1,2,88,,subst
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Augsburg,SC Freiburg,1,2,90,,period,,,,,,,FT,,1,2
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Augsburg,SC Freiburg,1,2,90,1,card,V. Grifo,False,yellow,Time wasting,,,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Augsburg,SC Freiburg,1,2,90,,injuryTime,,,,,,,,3,,
-alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,6,,card,J. Bellingham,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,29,,substitution,,True,,,N. Brown,I. Saibari,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,31,,substitution,,True,,,J. Stanišić,S. Gnabry,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,34,,varDecision,J. Bellingham,False,,,,,,,,
@@ -1425,6 +1424,7 @@ alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,45,,injuryTime,,,,,,,,6,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,53,,card,J. Stanišić,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,56,,penalty_missed,H. Kane,True,,post,,,,,,
+alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,6,,card,J. Bellingham,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,60,,goal,S. Guirassy,False,,,,,,,1,1
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,66,,goal,D. Upamecano,True,,,,,,,2,1
 alemanha_bundesliga_2026_2027,2026-10-31,8,FC Bayern München,Borussia Dortmund,2,2,67,,substitution,,False,,,K. Karetsas,M. Beier,,,,
@@ -1474,3 +1474,49 @@ alemanha_bundesliga_2026_2027,2026-10-31,8,SV Werder Bremen,TSG Hoffenheim,2,0,9
 alemanha_bundesliga_2026_2027,2026-10-31,8,SV Werder Bremen,TSG Hoffenheim,2,0,90,1,substitution,,True,,,O. Wojcik,N. Füllkrug,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,SV Werder Bremen,TSG Hoffenheim,2,0,90,1,substitution,,False,,,V. Lässig,M. Rots,,,,
 alemanha_bundesliga_2026_2027,2026-10-31,8,SV Werder Bremen,TSG Hoffenheim,2,0,90,,injuryTime,,,,,,,,3,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,10,,goal,J. Haberer,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,37,,card,Z. Van Den Bosch,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,45,,period,,,,,,,HT,,1,0
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,45,1,card,J. Simpson-Pusey,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,45,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,53,,card,P. Okon-Engstler,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,54,,card,K. Imeri,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,61,,substitution,,True,,,O. Burke,T. Skarke,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,61,,substitution,,True,,,A. Kemlein,K. Imeri,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,61,,substitution,,False,,,M. Moore,Í. B. Jóhannesson,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,61,,substitution,,False,,,A. Castro-Montes,S. Sebulonsen,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,69,,card,L. Maina,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,72,,substitution,,False,,,M. E. Mala,L. Maina,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,74,,substitution,,True,,,C. Trimmel,J. Haberer,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,74,,substitution,,True,,,W. Jeong,L. Burcu,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,76,,card,A. Kemlein,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,77,,card,D. Köhn,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,79,,goal,M. E. Mala,False,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,84,,substitution,,True,,,E. Latte Lath,M. Aebischer,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,90,,period,,,,,,,FT,,1,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,1. FC Union Berlin,1. FC Köln,1,1,90,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,10,,goal,W. Omari,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,14,,goal,T. Moffi,False,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,33,,card,S. Nandja,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,45,,period,,,,,,,HT,,1,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,45,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,46,,substitution,,True,,,A. Knauff,K. Kosugi,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,47,,goal,R. Onyedika,True,,,,,,,2,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,63,,substitution,,False,,,P. Daka,T. Moffi,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,63,,substitution,,False,,,Z. E. Ouahdi,L. Lemke,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,63,,varDecision,F. Chaïbi,True,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,69,,goal,Y. Ebnoutalib,True,,,,,,,3,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,70,,card,M. Adeline,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,74,,substitution,,True,,,J. Burkardt,Y. Ebnoutalib,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,76,,card,W. Omari,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,80,,substitution,,False,,,A. Røssing-Lelesiit,M. Adeline,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,80,,substitution,,False,,,K. J. Amoako,A. Sambi Lokonga,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,85,,card,E. Baum,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,88,,substitution,,False,,,O. Stange,A. Grønbæk,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,period,,,,,,,FT,,3,1
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,8,card,O. Stange,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,8,card,R. Koch,True,yellow,Time wasting,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,substitution,,True,,,N. Ilicevic,C. Uzun,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,substitution,,True,,,M. Götze,N. Aséko,,,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,injuryTime,,,,,,,,8,,
+alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,card,A. Hütter,True,yellow,Argument,,,,,,

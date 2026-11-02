@@ -9566,13 +9566,13 @@ mls_2026,2026-10-29,,Vancouver Whitecaps,San Diego FC,4,1,90,,period,,,,,,,FT,,4
 mls_2026,2026-10-29,,Vancouver Whitecaps,San Diego FC,4,1,90,4,card,R. Elloumi,True,yellowRed,,,,,,,
 mls_2026,2026-10-29,,Vancouver Whitecaps,San Diego FC,4,1,90,1,card,R. Elloumi,True,yellow,Foul,,,,,,
 mls_2026,2026-10-29,,Vancouver Whitecaps,San Diego FC,4,1,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,6,,goal,H. Kessler,True,,,,,,,1,0
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,25,,card,Iago,False,yellow,Argument,,,,,,
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,45,,period,,,,,,,HT,,1,0
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,45,,injuryTime,,,,,,,,1,,
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,46,,substitution,,False,,,A. Marín,V. Nogueira,,,,
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,46,,substitution,,False,,,E. Atuesta,L. Otávio,,,,
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,49,,goal,A. Saint-Maximin,True,,,,,,,2,0
+mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,6,,goal,H. Kessler,True,,,,,,,1,0
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,61,,card,A. Westwood,True,yellow,Time wasting,,,,,,
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,62,,substitution,,False,,,J. Ellis,Z. Taifi,,,,
 mls_2026,2026-10-31,,Charlotte FC,Orlando City SC,4,0,68,,substitution,,True,,,L. D. L. Torre,A. Westwood,,,,
@@ -9669,8 +9669,8 @@ mls_2026,2026-10-31,,New York City FC,CF Montréal,1,1,90,,period,,,,,,,FT,,1,1
 mls_2026,2026-10-31,,New York City FC,CF Montréal,1,1,90,1,goal,D. Rios,False,,,,,,,1,1
 mls_2026,2026-10-31,,New York City FC,CF Montréal,1,1,90,,card,F. Herbers,False,yellow,Foul,,,,,,
 mls_2026,2026-10-31,,New York City FC,CF Montréal,1,1,90,,injuryTime,,,,,,,,7,,
-mls_2026,2026-10-31,,San Jose Earthquakes,Real Salt Lake,2,1,2,,goal,O. Bouda,True,,,,,,,1,0
 mls_2026,2026-10-31,,San Jose Earthquakes,Real Salt Lake,2,1,17,,goal,B. Kikanović,True,,,,,,,2,0
+mls_2026,2026-10-31,,San Jose Earthquakes,Real Salt Lake,2,1,2,,goal,O. Bouda,True,,,,,,,1,0
 mls_2026,2026-10-31,,San Jose Earthquakes,Real Salt Lake,2,1,23,,goal,J. Sanabria,False,,,,,,,2,1
 mls_2026,2026-10-31,,San Jose Earthquakes,Real Salt Lake,2,1,45,,period,,,,,,,HT,,2,1
 mls_2026,2026-10-31,,San Jose Earthquakes,Real Salt Lake,2,1,45,,injuryTime,,,,,,,,3,,
@@ -9733,6 +9733,25 @@ mls_2026,2026-10-31,,St.Louis City,San Diego FC,0,1,87,,card,C. Holse,True,yello
 mls_2026,2026-10-31,,St.Louis City,San Diego FC,0,1,88,,substitution,,False,,,J. Tverskov,A. Dreyer,,,,
 mls_2026,2026-10-31,,St.Louis City,San Diego FC,0,1,90,,period,,,,,,,FT,,0,1
 mls_2026,2026-10-31,,St.Louis City,San Diego FC,0,1,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,22,,goal,M. Almirón,True,,,,,,,1,0
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,33,,card,D. Sallói,False,yellow,Foul,,,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,40,,goal,C. Sanchez,True,,,,,,,2,0
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,45,,period,,,,,,,HT,,2,0
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,51,,goal,A. Miranchuk,True,,,,,,,3,0
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,54,,substitution,,False,,,L. Morgan,D. Sallói,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,54,,substitution,,False,,,A. Coello,N. Dorsch,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,69,,substitution,,False,,,D. Etienne,M. Pereira,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,69,,substitution,,False,,,R. Chukwu,N. Gomis,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,70,,substitution,,True,,,A. Gill,M. Amaro,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,70,,substitution,,True,,,A. Fortune,M. Almirón,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,79,,goal,L. Morgan,False,,,,,,,3,1
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,80,,substitution,,True,,,L. Brennan,B. Embolo,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,80,,substitution,,True,,,T. Muyumba,C. Sanchez,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,86,,substitution,,False,,,E. Aristizábal,T. Corbeanu,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,90,,period,,,,,,,FT,,3,1
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,90,2,card,A. Coello,False,yellow,Foul,,,,,,
+mls_2026,2026-11-01,,Atlanta United,Toronto FC,3,1,90,,injuryTime,,,,,,,,6,,
 mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,22,,goal,M. Whittaker,True,,,,,,,1,0
 mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,41,,goal,J. Bamba,False,,,,,,,1,1
 mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,45,,period,,,,,,,HT,,1,1
@@ -9758,3 +9777,115 @@ mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,90,,period,,,,,,,FT,,2,4
 mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,90,2,card,A. Gutman,False,yellow,Time wasting,,,,,,
 mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,90,,card,R. Holding,True,yellow,Argument,,,,,,
 mls_2026,2026-11-01,,Colorado Rapids,Chicago Fire,2,4,90,,injuryTime,,,,,,,,9,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,19,,penalty_missed,C. Cowell,False,,saved,,,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,25,,card,S. Kone,False,yellow,Foul,,,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,34,,goal,J. Hall,False,,,,,,,0,1
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,39,,substitution,,False,,,R. Mosquera,C. Harper,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,40,,goal,R. Mosquera,False,,,,,,,0,2
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,45,,period,,,,,,,HT,,1,2
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,45,2,card,J. Ruvalcaba,False,yellow,Foul,,,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,45,,goal,T. Parker,True,,,,,,,1,2
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,45,,injuryTime,,,,,,,,9,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,59,,substitution,,False,,,M. Jiménez,C. Cowell,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,67,,substitution,,True,,,B. Acosta,M. Corcoran,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,67,,substitution,,True,,,E. Tagseth,P. Yazbek,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,78,,goal,J. Bazán,True,,,,,,,2,2
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,78,,varDecision,C. Espinoza,True,,,,,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,82,,substitution,,True,,,W. Madrigal,E. Saad,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,89,,substitution,,False,,,E. Forsberg,J. Ruvalcaba,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,89,,substitution,,False,,,C. Faello,R. Mosquera,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,89,,substitution,,False,,,D. Ruíz,S. Kone,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,,period,,,,,,,FT,,3,2
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,3,substitution,,True,,,J. Bauer,A. Najar,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,3,substitution,,True,,,S. Mohammed,C. Espinoza,,,,
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,1,goal,S. Surridge,True,,,,,,,3,2
+mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,,injuryTime,,,,,,,,8,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,1,,goal,B. White,True,,,,,,,1,0
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,9,,goal,R. Gauld,True,,,,,,,2,0
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,9,,varDecision,A. Cvetković,True,,,,,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,43,,goal,M. Laborda,True,,,,,,,3,0
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,45,,period,,,,,,,HT,,3,0
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,45,3,card,J. Ferreira,False,yellow,Argument,,,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,45,2,card,B. Quiñonez,True,yellow,Foul,,,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,45,,injuryTime,,,,,,,,5,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,46,,substitution,,False,,,H. Dotson,S. Brunell,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,46,,substitution,,False,,,S. Hawkins,N. Tolo,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,46,,substitution,,False,,,S. Gomez,J. Ferreira,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,46,,substitution,,False,,,P. Arriola,K. Kossa-Rienzi,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,53,,goal,B. White,True,,,,,,,4,0
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,62,,goal,J. Morris,False,,,,,,,4,1
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,63,,substitution,,True,,,K. Poku,B. White,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,63,,substitution,,True,,,R. Veselinović,É. Ocampo,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,63,,substitution,,True,,,C. T. Sabaly,B. Quiñonez,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,70,,goal,A. Cvetković,True,,,,,,,5,1
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,74,,substitution,,True,,,R. Priso,R. Gauld,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,79,,substitution,,False,,,K. Kee-hee,J. Morris,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,82,,substitution,,True,,,M. Gherasimencov,T. Johnson,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,90,,period,,,,,,,FT,,5,1
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,29,,goal,J. Pereyra,False,,,,,,,0,1
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,34,,goal,C. Valerius,False,,,,,,,0,2
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,45,,period,,,,,,,HT,,0,2
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,45,5,card,J. Pereyra,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,45,1,card,Igor Jesus,True,yellow,Argument,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,45,,injuryTime,,,,,,,,7,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,46,,substitution,,True,,,N. Tafari,A. Long,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,58,,card,E. Segura,True,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,60,,card,J. Díaz,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,63,,substitution,,True,,,T. Boyd,L. Walta,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,63,,substitution,,True,,,S. Vásquez,Igor Jesus,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,73,,substitution,,True,,,J. Shaffelburg,A. Sieb,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,73,,substitution,,False,,,M. Caldeira,K. Yeboah,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,74,,card,M. Duggan,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,81,,goal,J. Pereyra,False,,,,,,,0,3
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,82,,substitution,,False,,,P. Stroud,O. Gene,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,83,,substitution,,True,,,M. Delgado,M. Choinière,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,84,,card,T. Boyd,True,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,89,,goal,S. Vásquez,True,,,,,,,1,3
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,90,,period,,,,,,,FT,,1,3
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,90,3,card,N. Triantis,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,90,2,substitution,,False,,,B. Hlongwane,J. Pereyra,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,90,2,substitution,,False,,,A. Jackson,T. Chancalay,,,,
+mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,90,,injuryTime,,,,,,,,4,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,25,,card,G. Luján,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,45,,injuryTime,,,,,,,,1,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,53,,goal,D. Gazdag,True,,,,,,,1,0
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,63,,substitution,,False,,,S. Reguilón,G. Luján,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,63,,substitution,,False,,,M. Galarza,Y. Bright,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,69,,goal,G. Berterame,False,,,,,,,1,1
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,71,,substitution,,False,,,L. Suárez,Riquelme,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,75,,card,M. Galarza,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,76,,substitution,,True,,,A. Yusuf,I. Feingold,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,83,,goal,L. Messi,False,,,,,,,1,2
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,85,,substitution,,True,,,L. Langoni,M. Polster,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,85,,card,T. Segovia,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,89,,varDecision,I. Fray,True,,,,,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,90,,period,,,,,,,FT,,1,2
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,90,6,card,L. Langoni,True,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,90,3,substitution,,True,,,D. Fagúndez,E. Kohler,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,90,3,substitution,,False,,,F. Mura,T. Segovia,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,90,3,substitution,,False,,,D. Ayala,G. Berterame,,,,
+mls_2026,2026-11-02,,New England Revolution,Inter Miami CF,1,2,90,,injuryTime,,,,,,,,6,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,18,,card,I. Smith,True,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,25,,goal,D. Da Costa,True,,,,,,,1,0
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,36,,substitution,,False,,,D. Holmes,F. Negri,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,40,,card,D. Samassékou,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,45,,period,,,,,,,HT,,1,0
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,45,,injuryTime,,,,,,,,5,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,61,,card,A. Resch,False,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,62,,substitution,,True,,,C. Bassett,E. Izoita,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,65,,goal,K. Velde,True,,,,,,,2,0
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,66,,substitution,,False,,,M. Arana,Artur,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,66,,substitution,,False,,,F. Andrade,I. Aliyu,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,66,,substitution,,False,,,D. McGuire,L. Foster,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,71,,goal,A. Bouzat,False,,,,,,,2,1
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,78,,goal,V. Janssen,True,,,,,,,3,1
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,82,,substitution,,True,,,O. Fernandez,A. Lassiter,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,82,,substitution,,True,,,A. Aravena,V. Janssen,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,83,,substitution,,False,,,N. Markanich,D. Holmes,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,90,,period,,,,,,,FT,,3,1
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,90,3,card,D. Chará,True,yellow,Foul,,,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,90,,substitution,,True,,,D. Chará,D. Da Costa,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,90,,substitution,,True,,,J. Ortíz,J. Caicedo,,,,
+mls_2026,2026-11-02,,Portland Timbers,Houston Dynamo,3,1,90,,injuryTime,,,,,,,,8,,

@@ -1692,7 +1692,6 @@ inglaterra_premier_league_2026_2027,2026-10-31,9,Chelsea,Manchester United,2,0,9
 inglaterra_premier_league_2026_2027,2026-10-31,9,Chelsea,Manchester United,2,0,90,7,substitution,,True,,,G. Quenda,C. Palmer,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Chelsea,Manchester United,2,0,90,3,card,M. Penders,True,yellow,Time wasting,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Chelsea,Manchester United,2,0,90,,injuryTime,,,,,,,,10,,
-inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,7,,card,V. Torp,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,17,,goal,T. Sakamoto,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,37,,goal,T. Awoniyi,True,,,,,,,2,0
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,45,,period,,,,,,,HT,,2,0
@@ -1703,6 +1702,7 @@ inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,57
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,57,,substitution,,False,,,W. Isidor,N. Angulo,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,63,,varDecision,R. Mandava,False,,,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,67,,goal,E. Le Fée,False,,,,,,,3,1
+inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,7,,card,V. Torp,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,72,,substitution,,True,,,B. Thomas-Asante,Y. Gboho,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,72,,substitution,,True,,,S. Cherif,T. Awoniyi,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Coventry City,Sunderland,3,1,75,,substitution,,False,,,M. Fofana,N. Sadiki,,,,
@@ -1773,3 +1773,25 @@ inglaterra_premier_league_2026_2027,2026-10-31,9,Tottenham Hotspur,Crystal Palac
 inglaterra_premier_league_2026_2027,2026-10-31,9,Tottenham Hotspur,Crystal Palace,2,0,88,,substitution,,True,,,L. Williams-Barnett,M. Tel,,,,
 inglaterra_premier_league_2026_2027,2026-10-31,9,Tottenham Hotspur,Crystal Palace,2,0,90,,period,,,,,,,FT,,2,0
 inglaterra_premier_league_2026_2027,2026-10-31,9,Tottenham Hotspur,Crystal Palace,2,0,90,,injuryTime,,,,,,,,3,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,16,,goal,K. Havertz,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,45,,period,,,,,,,HT,,0,1
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,45,2,card,B. Barcola,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,45,,injuryTime,,,,,,,,2,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,55,,card,N. Madueke,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,59,,substitution,,True,,,D. Szoboszlai,T. Nyoni,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,62,,substitution,,False,,,M. Lewis-Skelly,B. Guimarães,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,67,,substitution,,True,,,R. Ngumoha,C. Gakpo,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,67,,card,M. Kerkez,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,72,,card,M. Lewis-Skelly,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,80,,card,A. Mac Allister,True,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,80,,card,J. Timber,False,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,81,,substitution,,True,,,L. Koumas,F. Wirtz,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,81,,substitution,,True,,,V. Muñoz,R. Araújo,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,81,,substitution,,True,,,K. Tsimikas,M. Kerkez,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,84,,substitution,,False,,,V. Gyökeres,K. Havertz,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,84,,substitution,,False,,,P. Hincapié,C. Tzolis,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,88,,substitution,,False,,,M. Merino,M. Ødegaard,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,90,,period,,,,,,,FT,,0,1
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,90,7,card,V. van Dijk,True,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,90,3,card,D. Raya,False,yellow,Time wasting,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-01,9,Liverpool FC,Arsenal,0,1,90,,injuryTime,,,,,,,,6,,

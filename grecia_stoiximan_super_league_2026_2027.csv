@@ -1242,3 +1242,83 @@ grecia_stoiximan_super_league_2026_2027,2026-10-31,9,AE Kifisia,Olympiacos FC,2,
 grecia_stoiximan_super_league_2026_2027,2026-10-31,9,AE Kifisia,Olympiacos FC,2,3,90,1,card,K. Roukounakis,True,yellow,,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-10-31,9,AE Kifisia,Olympiacos FC,2,3,90,1,goal,G. Sousa,True,,,,,,,2,2
 grecia_stoiximan_super_league_2026_2027,2026-10-31,9,AE Kifisia,Olympiacos FC,2,3,90,,injuryTime,,,,,,,,3,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,8,,goal,G. Nikas,True,,,,,,,1,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,42,,goal,M. Vichos,True,,,,,,,2,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,45,,period,,,,,,,HT,,2,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,45,,injuryTime,,,,,,,,2,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,46,,substitution,,False,,,G. Gianniotas,S. Papasarafianos,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,46,,substitution,,True,,,A. Pantea,M. Vichos,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,58,,substitution,,True,,,M. Ndiaye,G. Nikas,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,62,,varDecision,M. Hongla,False,,,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,63,,substitution,,False,,,R. Mir,B. Garré,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,67,,card,O. Richards,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,75,,substitution,,False,,,K. Charoupas,O. Richards,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,75,,substitution,,False,,,K. Galanopoulos,B. Šutalo,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,77,,substitution,,True,,,O. Ozegović,O. Popescu,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,77,,substitution,,True,,,D. Emmanouilidis,M. Cobnan,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,87,,goal,A. Pantea,True,,,,,,,3,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,89,,substitution,,True,,,A. Șut,M. Elneny,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,90,,period,,,,,,,FT,,3,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,APO Levadiakos,Aris Thessaloniki,3,0,90,,injuryTime,,,,,,,,4,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,26,,card,A. Poungouras,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,41,,substitution,,True,,,D. Galiatsos,C. Mavrias,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,45,,period,,,,,,,HT,,0,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,45,,injuryTime,,,,,,,,2,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,54,,card,A. Prodromitis,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,58,,substitution,,True,,,S. Soumah,M. Djenepo,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,58,,substitution,,True,,,Y. Badji,K. Opoku,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,68,,substitution,,False,,,K. Kodro,A. Cantalapiedra,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,69,,card,A. Prodromitis,True,yellowRed,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,73,,substitution,,False,,,K. Kostoulas,A. Poungouras,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,74,,substitution,,True,,,K. Thymianis,N. Eraković,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,74,,substitution,,True,,,V. Nikolaou,D. Esteban,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,76,,card,D. Galiatsos,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,88,,goal,K. Kodro,False,,,,,,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,90,,period,,,,,,,FT,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,90,2,substitution,,False,,,T. Chatzigiovanis,T. Fountas,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,90,2,substitution,,False,,,Z. Karachalios,T. Nuss,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,GFS Panetolikos,OFI Crete,0,1,90,,injuryTime,,,,,,,,4,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,8,,goal,C. Ndiaye,True,,,,,,,1,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,34,,card,J. Kenny,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,38,,card,S. Shoretire,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,39,,goal,B. Mbunga-Kimpioka,False,,,,,,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,42,,card,D. Kourbelis,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,45,,period,,,,,,,HT,,1,1
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,45,,injuryTime,,,,,,,,1,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,62,,substitution,,False,,,G. Bouzoukis,Ricardinho,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,63,,card,J. Kenny,True,yellowRed,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,67,,card,F. Brorsson,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,68,,substitution,,True,,,A. Mythou,C. Ndiaye,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,68,,substitution,,True,,,A. Elustondo,S. Shoretire,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,68,,substitution,,True,,,K. Jakić,C. Zafeiris,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,73,,card,F. Brorsson,False,yellowRed,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,76,,substitution,,False,,,D. Laskaris,B. Mbunga-Kimpioka,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,76,,substitution,,False,,,A. Papakanellos,F. Orozco,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,80,,substitution,,True,,,G. Taylor,B. Santamaria,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,85,,substitution,,True,,,M. Camara,D. Costa,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,87,,goal,A. Mythou,True,,,,,,,2,1
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,90,,period,,,,,,,FT,,2,1
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,90,1,substitution,,False,,,N. Kaltsas,A. Mendez,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,PAOK,Asteras Aktor,2,1,90,,injuryTime,,,,,,,,3,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,1,,goal,A. Tetteh,True,,,,,,,1,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,30,,card,L. Rota,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,45,,period,,,,,,,HT,,1,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,45,,injuryTime,,,,,,,,2,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,46,,substitution,,False,,,A. Koita,O. Zubkov,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,46,,substitution,,False,,,M. Georgiev,L. Rota,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,49,,goal,S. Andino,True,,,,,,,2,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,54,,substitution,,False,,,Zini,L. Majer,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,57,,substitution,,True,,,V. Taborda,C. Dessers,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,68,,card,A. Koita,False,yellow,Argument,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,69,,card,H. Moukoudi,False,yellow,Argument,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,70,,card,K. Kangwa,True,red,Violent conduct,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,70,,varDecision,K. Kangwa,True,,,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,71,,substitution,,True,,,A. Salah-Eddine,G. Kyriakopoulos,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,71,,substitution,,True,,,I. Louza,L. García,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,74,,substitution,,False,,,P. Mantalos,R. Marin,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,75,,card,Zini,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,80,,substitution,,True,,,E. Rastoder,A. Tetteh,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,84,,substitution,,False,,,D. Kutesa,M. Vitális,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,90,,period,,,,,,,FT,,2,0
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,90,2,card,A. Salah-Eddine,True,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-01,9,Panathinaikos FC,AEK Athens,2,0,90,,injuryTime,,,,,,,,4,,

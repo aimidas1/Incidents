@@ -7544,8 +7544,6 @@ brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,88,,substitu
 brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_b_2026,2026-10-31,36,Botafogo-SP,Sport Recife,1,1,90,,injuryTime,,,,,,,,3,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,1,,card,J. Maciel,False,yellow,Foul,,,,,,
-brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,7,,substitution,,True,,,L. Índio,Betão,,,,
-brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,8,,card,P. Sérgio,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,17,,card,B. Borasi,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,18,,card,J. Vitor,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,21,,card,S. F. Rodrigues,True,yellow,Foul,,,,,,
@@ -7560,9 +7558,11 @@ brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,58,,substitution,,True
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,58,,substitution,,True,,,Wanderson,L. Paulo,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,58,,substitution,,True,,,L. Claudio,P. Sérgio,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,63,,substitution,,False,,,Hyan,Wenderson,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,7,,substitution,,True,,,L. Índio,Betão,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,70,,substitution,,False,,,K. Gabriel,P. Vitor,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,71,,card,L. Índio,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,78,,substitution,,True,,,Todinho,Vinícius,,,,
+brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,8,,card,P. Sérgio,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,86,,card,Ryan,True,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,88,,card,D. Teixeira,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Náutico,Avaí,1,0,90,,period,,,,,,,FT,,1,0
@@ -7589,3 +7589,73 @@ brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,87,,substituti
 brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,88,,substitution,,False,,,Titi,A. Safira,,,,
 brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,90,,period,,,,,,,FT,,2,2
 brasileirao_serie_b_2026,2026-10-31,36,Vila Nova FC,Juventude,2,2,90,,injuryTime,,,,,,,,11,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,14,,goal,Fabrício Daniel,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,17,,card,Marcão Silva,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,45,5,varDecision,C. Costa,True,,,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,45,2,goal,C. Costa,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,46,,substitution,,False,,,H. Maciel,Jemerson,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,56,,substitution,,False,,,D. D. S. Roque,Fabrício Daniel,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,56,,substitution,,False,,,F. Garcia,Pedrinho,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,58,,goal,D. D. S. Roque,False,,,,,,,1,2
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,65,,substitution,,False,,,B. Melo,Lucas Fernandes,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,70,,substitution,,True,,,N. Cruz,V. Peixoto,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,70,,substitution,,True,,,G. Mansano,Raul,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,70,,substitution,,True,,,Eliel,J. Dias,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,78,,substitution,,True,,,P. Alemão,Igor,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,81,,substitution,,False,,,Galdino,Foguinho,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,86,,substitution,,True,,,Eric,K. Cristtyan,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,87,,substitution,,False,,,Augusto,H. Maciel,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_b_2026,2026-11-01,36,Cuiabá,São Bernardo,1,2,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,8,,card,Patrick,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,20,,card,Miranda,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,21,,card,Luís Oyama,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,33,,card,V. D. D. Antonia,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,34,,goal,N. Careca,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,38,,goal,M. Bianqui,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,45,,period,,,,,,,HT,,2,0
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,46,,substitution,,False,,,B. P. Silva,G. Feliciano,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,46,,substitution,,True,,,Carlão,Robson,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,46,,substitution,,False,,,L. Erig,Miranda,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,46,,substitution,,True,,,L. Naldi,Luís Oyama,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,51,,goal,Joseph,False,,,,,,,2,1
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,63,,card,Joseph,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,64,,substitution,,True,,,D. Galo,N. Careca,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,65,,substitution,,False,,,A. Simplicio,Índio,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,67,,card,Carlinhos,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,70,,substitution,,False,,,Aylon,D. Mosconi,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,79,,card,Moraes Júnior,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,80,,substitution,,False,,,N. Schulz,Moraes Júnior,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,82,,substitution,,True,,,Juninho,Reidiney,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,90,,period,,,,,,,FT,,2,1
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,90,8,card,D. Galo,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,90,6,substitution,,True,,,Marlon,M. Bianqui,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,90,5,card,L. Erig,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_b_2026,2026-11-01,36,Grêmio Novorizontino,Operário-PR,2,1,90,,card,A. Valentim,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,19,,card,J. R. Jiménez,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,21,,goal,Artur,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,23,,card,Tárik,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,30,,goal,W. Bigode,False,,,,,,,0,2
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,37,,card,William Pottker,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,45,,period,,,,,,,HT,,0,2
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,58,,card,Luan,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,60,,substitution,,False,,,Luidy,P. Victor,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,60,,substitution,,True,,,I. Bahia,Tárik,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,60,,substitution,,True,,,G. Cachoeira,Vitinho,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,60,,goal,Matías Segovia,False,,,,,,,0,3
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,64,,goal,Herbert,True,,,,,,,1,3
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,73,,substitution,,True,,,J. Coni,Herbert,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,73,,substitution,,True,,,Kevyn,Artur,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,77,,substitution,,False,,,M. Maçola,W. Bigode,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,78,,substitution,,False,,,E. Person,Matías Segovia,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,82,,card,R. Barcelos,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,86,,substitution,,True,,,P. Dyego,William Pottker,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,90,,period,,,,,,,FT,,1,3
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,90,3,substitution,,False,,,Geovane,T. Ostchega,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,90,3,substitution,,False,,,F. Amaral,G. Parede,,,,
+brasileirao_serie_b_2026,2026-11-01,36,Londrina,América Mineiro,1,3,90,,injuryTime,,,,,,,,4,,

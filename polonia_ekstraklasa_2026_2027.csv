@@ -2269,3 +2269,69 @@ polonia_ekstraklasa_2026_2027,2026-10-31,13,Wisła Płock,Piast Gliwice,2,2,88,,
 polonia_ekstraklasa_2026_2027,2026-10-31,13,Wisła Płock,Piast Gliwice,2,2,89,,substitution,,True,,,G. Kuchko,S. Akere,,,,
 polonia_ekstraklasa_2026_2027,2026-10-31,13,Wisła Płock,Piast Gliwice,2,2,90,,period,,,,,,,FT,,2,2
 polonia_ekstraklasa_2026_2027,2026-10-31,13,Wisła Płock,Piast Gliwice,2,2,90,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,5,,goal,C. Donis,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,6,,goal,P. Banaszak,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,21,,card,A. Tapsoba,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,45,,period,,,,,,,HT,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,45,6,card,D. Szala,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,45,,injuryTime,,,,,,,,9,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,49,,goal,J. Grzesik,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,50,,card,J. Grzesik,True,yellow,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,60,,substitution,,False,,,A. Ciucka,P. Samiec-Talar,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,60,,substitution,,False,,,I. Camoes,M. Dembélé,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,60,,substitution,,False,,,E. Shabani,K. Linetty,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,66,,card,I. Camoes,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,71,,goal,J. Grzesik,True,,,,,,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,74,,substitution,,True,,,G. Luiz,A. Tapsoba,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,74,,substitution,,True,,,R. Wolski,Luquinhas,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,77,,substitution,,False,,,J. Yriarte,G. Tomasiewicz,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,77,,substitution,,False,,,L. Marjanac,P. Banaszak,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,83,,substitution,,True,,,C. Nunnely,J. Grzesik,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,90,,period,,,,,,,FT,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,90,3,card,J. Yriarte,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,90,1,substitution,,True,,,F. Gouré,R. Lumungo,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Radomiak Radom,Śląsk Wrocław,3,1,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,5,,goal,D. Churlinov,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,16,,card,M. Diaby,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,40,,penalty_missed,M. Diaby,True,,miss,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,45,,period,,,,,,,HT,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,45,2,card,J. Sánchez,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,45,,injuryTime,,,,,,,,2,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,47,,goal,P. Makuch,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,57,,substitution,,False,,,H. Ali,I. Eichie,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,59,,substitution,,True,,,M. Bulat,W. Kocherhin,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,60,,substitution,,True,,,T. Pieńko,M. Diaby,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,62,,card,F. Tudor,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,64,,card,L. Willen,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,71,,substitution,,True,,,O. Kwiatkowski,M. Emreli,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,72,,substitution,,False,,,K. Grosicki,J. Sánchez,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,72,,substitution,,False,,,J. Nsamé,P. Mukairu,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,73,,goal,B. Racovițan,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,78,,card,J. Biegański,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,79,,substitution,,True,,,J. Jendryka,J. Silva,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,79,,substitution,,True,,,Á. Molnár,E. Otieno,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,85,,substitution,,False,,,R. Molnár,K. Acosta,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,90,,period,,,,,,,FT,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,90,7,goal,T. Pieńko,True,,,,,,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,90,4,card,V. Cojocaru,False,red,Professional foul last man,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,90,,card,L. Willen,False,yellowRed,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Raków Częstochowa,Pogoń Szczecin,3,1,90,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,4,,goal,A. Mosór,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,30,,card,R. Yakuba,True,yellow,Persistent fouling,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,39,,substitution,,True,,,D. Michalski,M. Nalepa,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,45,,period,,,,,,,HT,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,46,,substitution,,False,,,M. Stępiński,D. Bąk,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,46,,substitution,,True,,,I. Orlikowski,R. Yakuba,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,50,,card,S. Rubežić,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,59,,substitution,,False,,,M. Fassbender,M. Ameyaw,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,59,,substitution,,False,,,M. Remacle,S. Gustafson,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,61,,substitution,,True,,,J. Sypek,S. Kerk,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,69,,substitution,,True,,,J. Kolan,M. Dziewiatowski,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,69,,substitution,,True,,,F. Szymczak,A. Wozniak,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,73,,card,D. Dąbrowski,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,80,,substitution,,False,,,S. Davidović,K. Jakubczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,83,,substitution,,False,,,D. Błanik,M. Pieczek,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,90,,period,,,,,,,FT,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,90,1,card,M. Regula,True,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,90,,injuryTime,,,,,,,,4,,

@@ -1785,7 +1785,6 @@ belgica_pro_league_2026_2027,2026-11-01,10,Lommel SK,KAA Gent,2,0,87,,goal,Đ. G
 belgica_pro_league_2026_2027,2026-11-01,10,Lommel SK,KAA Gent,2,0,90,,period,,,,,,,FT,,2,0
 belgica_pro_league_2026_2027,2026-11-01,10,Lommel SK,KAA Gent,2,0,90,,card,T. Araújo,False,yellow,Argument,,,,,,
 belgica_pro_league_2026_2027,2026-11-01,10,Lommel SK,KAA Gent,2,0,90,,injuryTime,,,,,,,,4,,
-belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,6,,goal,J. N. Romsaas,True,,,,,,,1,0
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,29,,varDecision,C. Keita,True,,,,,,,,
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,33,,goal,A. Scheidler,True,,,,,,,2,0
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,45,,period,,,,,,,HT,,2,0
@@ -1796,6 +1795,7 @@ belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louviè
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,48,,substitution,,True,,,A. Colassin,J. N. Romsaas,,,,
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,49,,goal,F. Mbemba,True,,,,,,,4,0
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,52,,card,A. Ousou,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,6,,goal,J. N. Romsaas,True,,,,,,,1,0
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,62,,substitution,,True,,,G. Nawata,A. Scheidler,,,,
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,62,,substitution,,True,,,I. I. Cissé,P. Pflücke,,,,
 belgica_pro_league_2026_2027,2026-11-01,10,RC Sporting Charleroi,RAAL La Louvière,5,2,71,,substitution,,False,,,M. Boukamir,M. Wade,,,,

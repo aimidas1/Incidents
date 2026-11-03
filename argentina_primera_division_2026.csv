@@ -9888,7 +9888,6 @@ argentina_primera_division_2026,2026-10-31,15,Vélez Sarsfield,San Lorenzo,2,2,9
 argentina_primera_division_2026,2026-10-31,15,Vélez Sarsfield,San Lorenzo,2,2,90,2,card,D. Arboleda,False,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-10-31,15,Vélez Sarsfield,San Lorenzo,2,2,90,,substitution,,False,,,E. Herrera,F. Farías,,,,
 argentina_primera_division_2026,2026-10-31,15,Vélez Sarsfield,San Lorenzo,2,2,90,,injuryTime,,,,,,,,6,,
-argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,8,,varDecision,L. Martinez Quarta,False,,,,,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,10,,card,L. Martinez Quarta,False,red,Professional foul last man,,,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,13,,substitution,,False,,,L. Rivero,L. Beltrán,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,20,,card,L. D. Lollo,True,yellow,Foul,,,,,,
@@ -9908,6 +9907,7 @@ argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,71,,s
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,76,,substitution,,True,,,E. Valencia,M. Merentiel,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,77,,card,E. Valencia,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,79,,card,G. Montiel,False,red,Foul,,,,,,
+argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,8,,varDecision,L. Martinez Quarta,False,,,,,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,82,,card,R. Borré,False,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,85,,substitution,,False,,,G. González,T. Galván,,,,
 argentina_primera_division_2026,2026-11-01,15,Boca Juniors,River Plate,1,0,88,,substitution,,True,,,T. Belmonte,L. Paredes,,,,
@@ -10004,3 +10004,85 @@ argentina_primera_division_2026,2026-11-01,15,Newell's Old Boys,Club Atlético U
 argentina_primera_division_2026,2026-11-01,15,Newell's Old Boys,Club Atlético Unión de Santa Fe,1,1,90,4,card,M. Cóccaro,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-11-01,15,Newell's Old Boys,Club Atlético Unión de Santa Fe,1,1,90,,substitution,,True,,,J. G. Mattar,W. Mazzantti,,,,
 argentina_primera_division_2026,2026-11-01,15,Newell's Old Boys,Club Atlético Unión de Santa Fe,1,1,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,58,,goal,G. Mainero,True,,,,,,,1,0
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,69,,substitution,,False,,,M. Cuitiño,S. Moyano,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,69,,substitution,,True,,,J. Gauto,I. Gómez,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,69,,substitution,,True,,,B. Merlini,N. Retamar,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,69,,substitution,,True,,,M. Amarfil,F. Zapiola,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,74,,goal,Víctor Cuesta,True,,,,,,,2,0
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,75,,substitution,,False,,,I. Santillán,T. Ramirez,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,77,,substitution,,True,,,G. Togni,G. Mainero,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,83,,substitution,,True,,,S. Dalmasso,P. Ferreira,,,,
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,90,,period,,,,,,,FT,,2,0
+argentina_primera_division_2026,2026-11-02,15,Club Atlético Platense,Central Córdoba,2,0,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,24,,card,S. Arias,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,38,,goal,L. Fernández,True,,,,,,,1,0
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,42,,varDecision,M. Meza,False,,,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,44,,goal,M. Meza,False,,,,,,,1,1
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,45,,period,,,,,,,HT,,1,1
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,45,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,52,,card,N. Banegas,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,61,,card,S. Montiel,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,66,,substitution,,True,,,A. Molinas,D. Barbona,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,67,,substitution,,True,,,M. Porcel,C. Pérez,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,68,,card,S. Valdez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,71,,card,M. Porcel,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,78,,substitution,,False,,,L. Millán,M. Meza,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,78,,substitution,,False,,,I. Morales,J. Palais,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,78,,substitution,,False,,,F. Zabala,N. Banegas,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,79,,card,J. M. Arrayago,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,80,,substitution,,True,,,T. Perrotta,J. Lucco,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,83,,substitution,,False,,,F. Tempone,C. Ávila,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,88,,substitution,,False,,,I. Machuca,S. Montiel,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,90,3,substitution,,True,,,L. Souto,N. Roselli,,,,
+argentina_primera_division_2026,2026-11-02,15,Defensa y Justicia,CA Independiente,1,1,90,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,30,,goal,M. Giménez Rojas,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,36,,card,L. Vallejo,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,38,,substitution,,False,,,T. Molina,M. Giménez Rojas,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,43,,goal,C. Ferreira,False,,,,,,,0,2
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,45,,period,,,,,,,HT,,0,2
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,46,,substitution,,True,,,F. Pimienta,F. Nicola,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,46,,substitution,,True,,,A. Canelo,N. Laméndola,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,46,,substitution,,True,,,M. Brondo,L. Díaz,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,59,,card,B. Cortés,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,59,,card,J. Fernández,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,59,,card,F. Paredes,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,59,,card,F. Álvarez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,60,,card,L. Ingolotti,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,71,,substitution,,False,,,M. Mendoza,F. Paredes,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,71,,substitution,,False,,,H. López Muñoz,G. Verón,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,72,,substitution,,True,,,R. Granillo,R. Tesuri,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,83,,card,E. Godoy,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,85,,card,M. Mendoza,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,86,,goal,A. Canelo,True,,,,,,,1,2
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,88,,substitution,,False,,,K. Coronel,S. Prieto,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,88,,substitution,,False,,,C. Bravo,D. Porcel,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,90,,period,,,,,,,FT,,1,2
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,90,1,card,L. A. Godoy,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,90,1,card,L. Vallejo,True,yellowRed,Foul,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Atlético Tucumán,Argentinos Juniors,1,2,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,9,,goal,S. Daniele,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,11,,goal,J. Florentín,True,,,,,,,1,1
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,15,,goal,J. Florentín,True,,,,,,,2,1
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,28,,card,J. M. Elordi,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,40,,varDecision,L. Gómez,False,,,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,43,,card,T. Bottari,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,45,,period,,,,,,,HT,,3,1
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,45,,goal,S. Daniele,True,,,,,,,3,1
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,45,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,46,,substitution,,False,,,L. Villegas,S. Esquivel,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,46,,substitution,,True,,,A. Vigo,L. Costa,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,60,,substitution,,False,,,A. Machado,D. Zalazar,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,64,,substitution,,False,,,L. Piñero,F. Medina,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,66,,substitution,,True,,,L. Sequeira,F. Sartori,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,66,,substitution,,True,,,M. Fernández,L. Bucca,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,77,,substitution,,False,,,S. L. Garcia,T. Adoryan,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,83,,substitution,,True,,,M. Reali,G. Ríos,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,,period,,,,,,,FT,,3,1
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,6,card,A. Osella,True,yellow,Handball,,,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,1,substitution,,True,,,S. Moreyra,J. Florentín,,,,
+argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,,injuryTime,,,,,,,,7,,

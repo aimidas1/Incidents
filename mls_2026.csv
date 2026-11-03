@@ -9801,8 +9801,6 @@ mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,3,substitution,,True
 mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,1,goal,S. Surridge,True,,,,,,,3,2
 mls_2026,2026-11-01,,Nashville SC,New York Red Bulls,3,2,90,,injuryTime,,,,,,,,8,,
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,1,,goal,B. White,True,,,,,,,1,0
-mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,9,,goal,R. Gauld,True,,,,,,,2,0
-mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,9,,varDecision,A. Cvetković,True,,,,,,,,
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,43,,goal,M. Laborda,True,,,,,,,3,0
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,45,,period,,,,,,,HT,,3,0
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,45,3,card,J. Ferreira,False,yellow,Argument,,,,,,
@@ -9821,6 +9819,8 @@ mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,70,,goal,A. Cve
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,74,,substitution,,True,,,R. Priso,R. Gauld,,,,
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,79,,substitution,,False,,,K. Kee-hee,J. Morris,,,,
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,82,,substitution,,True,,,M. Gherasimencov,T. Johnson,,,,
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,9,,goal,R. Gauld,True,,,,,,,2,0
+mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,9,,varDecision,A. Cvetković,True,,,,,,,,
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,90,,period,,,,,,,FT,,5,1
 mls_2026,2026-11-01,,Vancouver Whitecaps,Seattle Sounders FC,5,1,90,,injuryTime,,,,,,,,4,,
 mls_2026,2026-11-02,,Los Angeles FC,Minnesota United,1,3,29,,goal,J. Pereyra,False,,,,,,,0,1

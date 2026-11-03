@@ -1646,3 +1646,19 @@ france_ligue_1_2026_2027,2026-11-01,9,RC Strasbourg,AJ Auxerre,5,1,85,,goal,G. Y
 france_ligue_1_2026_2027,2026-11-01,9,RC Strasbourg,AJ Auxerre,5,1,87,,card,R. Faivre,False,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-11-01,9,RC Strasbourg,AJ Auxerre,5,1,90,,period,,,,,,,FT,,5,1
 france_ligue_1_2026_2027,2026-11-01,9,RC Strasbourg,AJ Auxerre,5,1,90,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,41,,card,M. Baldé,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,58,,card,S. I. Touré,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,66,,substitution,,True,,,G. Bernardeau,S. Faye,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,66,,substitution,,True,,,A. Tosin,I. Baldé,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,69,,goal,L. Ajorque,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,76,,substitution,,False,,,N. Edjouma,M. Baldé,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,76,,substitution,,False,,,G. Versini,K. Doumbia,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,79,,substitution,,True,,,T. L. Bris,J. Makengo,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,79,,substitution,,True,,,N. Mbamba,N. Cadiou,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,82,,substitution,,False,,,M. Diambou,P. Mboup,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,86,,substitution,,True,,,S. Kuzmić,D. Sylla,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,,period,,,,,,,FT,,0,2
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,2,goal,N. Edjouma,False,,,,,,,0,2
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,1,penalty_missed,A. Tosin,True,,post,,,,,,
+france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,,injuryTime,,,,,,,,3,,

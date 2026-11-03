@@ -2022,3 +2022,44 @@ italia_serie_a_2026_2027,2026-11-01,10,Lecce,Genoa,1,2,86,,substitution,,False,,
 italia_serie_a_2026_2027,2026-11-01,10,Lecce,Genoa,1,2,87,,card,E. D. Francesco,True,yellow,Argument,,,,,,
 italia_serie_a_2026_2027,2026-11-01,10,Lecce,Genoa,1,2,90,,period,,,,,,,FT,,1,2
 italia_serie_a_2026_2027,2026-11-01,10,Lecce,Genoa,1,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,41,,goal,G. Fabbian,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,45,,period,,,,,,,HT,,0,1
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,46,,substitution,,False,,,A. Ndiaye,D. Drobnic ,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,47,,goal,D. Zappacosta,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,58,,goal,S. Lontani,False,,,,,,,0,3
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,62,,substitution,,True,,,E. Elmas,Éderson,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,67,,substitution,,False,,,C. Ordoñez,S. Lontani,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,67,,substitution,,True,,,K. Sulemana,J. Rowe,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,74,,substitution,,False,,,M. Frigan,G. Fabbian,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,74,,substitution,,False,,,N. Elphege,E. Touré,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,76,,substitution,,True,,,J. Idele,D. Zappacosta,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,76,,substitution,,True,,,L. Samardžić,N. Zalewski,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,89,,substitution,,False,,,H. Caviglia,V. Sierro,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,90,,period,,,,,,,FT,,0,3
+italia_serie_a_2026_2027,2026-11-02,10,Atalanta,Parma,0,3,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,25,,goal,A. Laurienté,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,40,,card,I. Sulemana,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,42,,card,R. Drăguşin,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,44,,card,A. Njie,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,45,,period,,,,,,,HT,,1,1
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,45,2,goal,M. Pellegrino,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,46,,substitution,,True,,,D. Bakola,I. Sulemana,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,50,,goal,A. Njie,False,,,,,,,1,2
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,59,,substitution,,True,,,K. Bowie,V. Adžić,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,63,,substitution,,False,,,W. Gnonto,A. Njie,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,63,,substitution,,False,,,C. Oulaï,N. Fagioli,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,65,,goal,A. Laurienté,True,,,,,,,2,2
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,77,,substitution,,True,,,R. Obrador,J. Doig,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,77,,substitution,,True,,,S. Cinquegrano,S. Walukiewicz,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,77,,substitution,,False,,,P. Gonçalves,M. Brescianini,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,77,,substitution,,False,,,Beto,M. Pellegrino,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,79,,goal,F. Mastantuono,False,,,,,,,2,3
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,89,,substitution,,False,,,V. Valdepeñas,F. Mastantuono,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,89,,substitution,,True,,,G. Kulla,S. Esposito,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,,period,,,,,,,FT,,2,4
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,6,card,G. Kulla,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,3,goal,V. Valdepeñas,False,,,,,,,2,4
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,2,card,W. Gnonto,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,,injuryTime,,,,,,,,5,,

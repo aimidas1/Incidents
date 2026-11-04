@@ -6878,9 +6878,9 @@ brasileirao_serie_a_2026,2026-10-31,33,Coritiba,Vitória,2,0,89,,substitution,,T
 brasileirao_serie_a_2026,2026-10-31,33,Coritiba,Vitória,2,0,90,,period,,,,,,,FT,,2,0
 brasileirao_serie_a_2026,2026-10-31,33,Coritiba,Vitória,2,0,90,4,card,V. G. Tissi,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-10-31,33,Coritiba,Vitória,2,0,90,,injuryTime,,,,,,,,9,,
-brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,4,,goal,Rodinei,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,20,,card,J. Alencar,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,37,,goal,P. Coutinho,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,4,,goal,Rodinei,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,41,,goal,Wallace,True,,,,,,,2,1
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,45,,period,,,,,,,HT,,2,1
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,45,1,card,Á. Barreal,False,yellow,Argument,,,,,,
@@ -6899,3 +6899,52 @@ brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,80,,substi
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,80,,substitution,,True,,,J. Herrera,Wallace,,,,
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_a_2026,2026-11-02,34,Red Bull Bragantino,Santos,2,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,12,,goal,Kauan,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,15,,card,B. Pacheco,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,18,,varDecision,A. Luis,False,,,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,20,,penalty_missed,Reinaldo,False,,post,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,22,,card,Camilo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,26,,card,R. Lacerda,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,45,8,card,Denilson,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,45,4,goal,Reinaldo,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,45,2,varDecision,Alesson,False,,,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,45,,injuryTime,,,,,,,,9,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,46,,substitution,,False,,,J. Aldo,Denilson,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,46,,substitution,,False,,,C. Eduardo,Eduardo,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,57,,goal,Anderson,False,,,,,,,1,2
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,62,,substitution,,True,,,F. Rossi,T. E. S. d. Oliveira,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,62,,substitution,,True,,,D. Antunes,Y. Felipe,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,62,,substitution,,True,,,K. Ramírez,Y. Bolasie,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,68,,substitution,,True,,,M. Carvalho,G. Augusto,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,72,,substitution,,False,,,Chico,Shaylon,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,78,,substitution,,True,,,D. Borrero,Marcinho,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,78,,substitution,,False,,,Fernandinho,Alesson,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,82,,card,E. Doma,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,89,,substitution,,False,,,W. Machado,N. Moura,,,,
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,90,,period,,,,,,,FT,,1,2
+brasileirao_serie_a_2026,2026-11-03,34,Chapecoense,Mirassol,1,2,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,18,,card,Vitinho,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,30,,card,T. Cóser,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,45,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,57,,substitution,,False,,,R. Moledo,J. Maranhão,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,57,,card,N. Fonseca,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,67,,substitution,,True,,,A. Bernabei,M. Bahia,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,69,,substitution,,False,,,F. Bustos,P. Rocha,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,69,,substitution,,False,,,V. Paulista,N. Fonseca,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,69,,substitution,,False,,,J. Lavega,B. Lopes,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,75,,card,T. Maia,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,76,,substitution,,True,,,Calebe,B. Aguirre,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,76,,substitution,,True,,,B. Henrique,T. Maia,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,82,,card,J. P. B. d. O. Lo,True,yellow,Unallowed field entering,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,82,,substitution,,True,,,J. P. B. d. O. Lo,J. Carbonero,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,82,,substitution,,True,,,Ronaldo,B. Gomes,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,84,,substitution,,False,,,Richard,T. Santos,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,8,card,Bruno Melo,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,5,goal,Alerrandro,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,3,card,R. Moledo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,2,varDecision,J. Juninho,True,,,,,,,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_a_2026,2026-11-04,34,Internacional,Coritiba,1,0,90,,card,G. Maripán,True,red,Argument,,,,,,

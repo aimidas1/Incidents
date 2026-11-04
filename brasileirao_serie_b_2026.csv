@@ -7703,7 +7703,6 @@ brasileirao_serie_b_2026,2026-11-02,36,Fortaleza,Atlético Goianiense,0,0,90,1,c
 brasileirao_serie_b_2026,2026-11-02,36,Fortaleza,Atlético Goianiense,0,0,90,,card,Rodriguinho,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Fortaleza,Atlético Goianiense,0,0,90,,penalty_missed,Maílton,True,,saved,,,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Fortaleza,Atlético Goianiense,0,0,90,,injuryTime,,,,,,,,8,,
-brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,8,,card,D. Hereda,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,23,,card,Filipe Machado,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,42,,goal,Djalma,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,45,,period,,,,,,,HT,,1,0
@@ -7720,6 +7719,7 @@ brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,69,,card,Luiz Felipe,True,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,71,,substitution,,False,,,João Neto,Danielzinho,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,71,,substitution,,False,,,D. Baggio,Mikael,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,76,,goal,Cadu,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,8,,card,D. Hereda,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,80,,substitution,,True,,,Juninho,L. R. M. Costa,,,,
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,80,,goal,D. Belmonte,False,,,,,,,2,1
 brasileirao_serie_b_2026,2026-11-02,36,Goiás,CRB,2,1,81,,varDecision,D. Belmonte,False,,,,,,,,

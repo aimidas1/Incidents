@@ -1833,3 +1833,26 @@ belgica_pro_league_2026_2027,2026-11-01,10,Sint-Truidense VV,Oud-Heverlee Leuven
 belgica_pro_league_2026_2027,2026-11-01,10,Sint-Truidense VV,Oud-Heverlee Leuven,1,2,90,3,card,R. Nyakossi,False,yellow,Time wasting,,,,,,
 belgica_pro_league_2026_2027,2026-11-01,10,Sint-Truidense VV,Oud-Heverlee Leuven,1,2,90,,injuryTime,,,,,,,,5,,
 belgica_pro_league_2026_2027,2026-11-01,10,Sint-Truidense VV,Oud-Heverlee Leuven,1,2,90,,card,T. Simons,False,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,20,,card,M. Anderson,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,23,,card,M. Eerdhuijzen,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,30,,card,A. Drouhin,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,45,,period,,,,,,,HT,,0,0
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,53,,goal,T. Ambrose,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,56,,card,T. Koudou,False,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,59,,substitution,,False,,,D. Praet,M. Decherf,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,59,,substitution,,False,,,C. J. V. Meirvenne,B. Raman,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,66,,card,J. Ndjeungoue,True,red,Professional foul last man,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,69,,substitution,,True,,,B. Lambert,S. Campbell,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,69,,goal,M. Van Brederode,False,,,,,,,1,1
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,71,,card,M. Fofana,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,72,,goal,M. Fofana,False,,,,,,,1,2
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,78,,substitution,,True,,,J. V. Landschoot,T. Ambrose,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,79,,substitution,,True,,,R. Štorman,B. Dejaegere,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,79,,substitution,,True,,,S. Ogbuehi,G. Koyalipou,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,81,,card,R. Štorman,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,82,,substitution,,False,,,L. Marijnissen,M. Eerdhuijzen,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,82,,substitution,,False,,,H. Özdemir,M. Lohunanu-Mbasi,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,86,,substitution,,True,,,N. Mehssatou,H. Murray-Campbell,,,,
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,,period,,,,,,,FT,,1,3
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,1,goal,B. Lambert,False,,,,,,,1,3
+belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,,injuryTime,,,,,,,,5,,

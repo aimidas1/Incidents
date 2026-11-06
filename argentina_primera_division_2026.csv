@@ -10086,3 +10086,50 @@ argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3
 argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,6,card,A. Osella,True,yellow,Handball,,,,,,
 argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,1,substitution,,True,,,S. Moreyra,J. Florentín,,,,
 argentina_primera_division_2026,2026-11-03,15,Independiente Rivadavia,Banfield,3,1,90,,injuryTime,,,,,,,,7,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,14,,card,B. Palavecino,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,16,,card,L. Castro,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,33,,card,S. Moya,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,45,,period,,,,,,,HT,,0,0
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,58,,card,S. Espíndola,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,59,,varDecision,S. Moya,True,,,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,66,,substitution,,False,,,S. Driussi,T. Galván,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,68,,card,N. Gaitán,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,71,,card,A. Vombergar,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,71,,card,J. E. Sanguinetti,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,73,,varDecision,S. Driussi,False,,,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,76,,goal,L. Beltrán,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,77,,substitution,,True,,,B. Dadín,N. Gaitán,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,81,,substitution,,False,,,F. Ortega,M. Acuña,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,81,,substitution,,False,,,L. Silva,S. Espíndola,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,81,,substitution,,False,,,R. Borré,L. Beltrán,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,86,,substitution,,True,,,E. López,L. Castro,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,86,,substitution,,True,,,F. Anso,S. Moya,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,86,,substitution,,True,,,F. Laurelli,B. Cufré,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,90,,period,,,,,,,FT,,0,2
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,90,4,substitution,,False,,,M. Arambarri,T. Andrada,,,,
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,90,1,goal,Á. Correa,False,,,,,,,0,2
+argentina_primera_division_2026,2026-11-05,16,Aldosivi,River Plate,0,2,90,,injuryTime,,,,,,,,8,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,6,,goal,L. Janson,True,,,,,,,1,0
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,6,,card,A. Benítez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,27,,goal,A. Auzmendi,True,,,,,,,2,0
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,27,,varDecision,M. Melluso,True,,,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,45,,period,,,,,,,HT,,2,1
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,45,1,goal,A. Benítez,False,,,,,,,2,1
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,45,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,48,,card,N. Barros Schelotto,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,63,,substitution,,False,,,N. Fernández,S. Longo,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,65,,substitution,,True,,,F. D. Biasi,L. Janson,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,67,,card,N. Fernández,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,72,,card,L. Morales,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,75,,substitution,,False,,,A. Spörle,F. Ricca,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,75,,substitution,,True,,,M. Panaro,M. Torres,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,75,,substitution,,True,,,R. Giampaoli,N. Barros Schelotto,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,80,,card,I. Miramón,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,82,,substitution,,True,,,A. Max,M. Seoane,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,83,,substitution,,False,,,R. Hernandes,E. Rigoni,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,83,,substitution,,False,,,A. Falcón,A. Benítez,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,84,,card,A. Spörle,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,90,,period,,,,,,,FT,,2,1
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,90,5,card,F. D. Biasi,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-05,16,Gimnasia y Esgrima,Club Atlético Belgrano,2,1,90,,injuryTime,,,,,,,,5,,

@@ -7008,6 +7008,31 @@ brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,85,,substi
 brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,89,,substitution,,False,,,V. Hugo,V. F. C. Teixeira,,,,
 brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,4,,goal,J. Arias,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,14,,goal,J. Arias,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,21,,goal,Mauricio,True,,,,,,,3,0
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,36,,goal,Marcelinho,True,,,,,,,4,0
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,38,,varDecision,Mauricio,True,,,,,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,45,,period,,,,,,,HT,,4,1
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,45,2,goal,Zé Welison,False,,,,,,,4,1
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,46,,substitution,,False,,,Z. Ivaldo,D. Tchamba,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,46,,substitution,,False,,,Edson Fernando,L. Picco,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,46,,substitution,,False,,,Mayk,Marlon,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,46,,substitution,,True,,,J. López,J. Arias,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,46,,substitution,,True,,,A. Barboza,G. Gómez,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,46,,substitution,,True,,,L. Evangelista,M. Freitas,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,53,,card,Marllon,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,55,,goal,J. López,True,,,,,,,5,1
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,60,,card,Z. Ivaldo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,61,,substitution,,True,,,F. Anderson,Mauricio,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,66,,card,Marcelinho,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,70,,substitution,,False,,,Y. Pikachu,Marcelinho,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,74,,substitution,,True,,,E. Martínez,Murilo,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,78,,substitution,,False,,,E. Melo,Jajá,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,80,,goal,F. Anderson,True,,,,,,,6,1
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,85,,card,Edson Fernando,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,90,,period,,,,,,,FT,,6,1
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,31,,card,Djhordney,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,31,,card,M. Pereira,False,red,Argument,,,,,,
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,41,,substitution,,False,,,Vitinho,R. Garro,,,,
@@ -7033,3 +7058,29 @@ brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,86,,substituti
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,89,,card,Ferreira,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,90,,period,,,,,,,FT,,0,0
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,5,,substitution,,True,,,M. Viña,F. Bruno,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,19,,card,N. Acevedo,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,32,,goal,C. Olivera,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,45,,period,,,,,,,HT,,1,1
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,45,2,goal,K. Jorge,True,,,,,,,1,1
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,57,,substitution,,False,,,J. Lucas,N. Acevedo,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,61,,varDecision,Gerson,True,,,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,63,,penalty_missed,K. Jorge,True,,miss,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,65,,substitution,,False,,,E. Pulga,E. Ribeiro,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,65,,substitution,,False,,,M. Araújo,R. Nestor,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,65,,substitution,,False,,,C. Alexandre,Erick,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,69,,card,C. Alexandre,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,69,,goal,B. Rodrigues,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,70,,card,B. Rodrigues,True,yellow,,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,76,,card,J. Jesus,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,82,,substitution,,True,,,M. Henrique,B. Rodrigues,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,82,,substitution,,True,,,K. Moraes,Fagner,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,82,,substitution,,True,,,Marquinhos,K. Arroyo,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,83,,substitution,,False,,,R. Gómez,Kanu,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,86,,goal,K. Jorge,True,,,,,,,3,1
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,87,,substitution,,True,,,L. Silva,Gerson,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,,period,,,,,,,FT,,3,2
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,8,card,K. Moraes,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,5,goal,A. Véliz,False,,,,,,,3,2
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,,injuryTime,,,,,,,,8,,

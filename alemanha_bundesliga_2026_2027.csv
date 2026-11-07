@@ -1520,3 +1520,24 @@ alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,
 alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,substitution,,True,,,M. Götze,N. Aséko,,,,
 alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,injuryTime,,,,,,,,8,,
 alemanha_bundesliga_2026_2027,2026-11-01,8,Eintracht Frankfurt,Hamburger SV,3,1,90,,card,A. Hütter,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,11,,goal,M. Muheim,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,38,,card,K. Itakura,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,44,,goal,R. Hack,False,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,45,,period,,,,,,,HT,,1,1
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,49,,card,K. Itakura,False,yellowRed,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,56,,substitution,,False,,,K. Diks,R. Hack,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,59,,goal,S. Nandja,True,,,,,,,2,1
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,63,,substitution,,True,,,T. Moffi,M. Adeline,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,63,,substitution,,True,,,A. Røssing-Lelesiit,S. Nandja,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,70,,goal,A. Grønbæk,True,,,,,,,3,1
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,80,,substitution,,True,,,K. J. Amoako,A. Sambi Lokonga,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,80,,substitution,,True,,,Y. Poulsen,A. Grønbæk,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,81,,substitution,,False,,,F. Honorat,L. Ullrich,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,81,,substitution,,False,,,I. Lidberg,S. Machino,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,81,,substitution,,False,,,J. Castrop,Z. Uno,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,89,,substitution,,True,,,J. D. B. Mouelle,S. Bornauw,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,90,,period,,,,,,,FT,,3,1
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,90,3,card,W. Omari,True,yellow,Time wasting,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,90,2,card,J. Castrop,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-06,9,Hamburger SV,Borussia M'gladbach,3,1,90,,injuryTime,,,,,,,,4,,

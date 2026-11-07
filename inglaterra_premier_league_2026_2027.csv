@@ -1816,3 +1816,23 @@ inglaterra_premier_league_2026_2027,2026-11-02,9,Newcastle United,Everton,0,1,90
 inglaterra_premier_league_2026_2027,2026-11-02,9,Newcastle United,Everton,0,1,90,6,card,J. Ramsey,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-02,9,Newcastle United,Everton,0,1,90,2,substitution,,False,,,H. Hackney,T. George,,,,
 inglaterra_premier_league_2026_2027,2026-11-02,9,Newcastle United,Everton,0,1,90,,injuryTime,,,,,,,,8,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,45,,period,,,,,,,HT,,0,0
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,45,,injuryTime,,,,,,,,1,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,52,,goal,Y. Gboho,False,,,,,,,0,1
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,56,,goal,T. Barry,True,,,,,,,1,1
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,61,,goal,T. Barry,True,,,,,,,2,1
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,73,,substitution,,False,,,B. Thomas-Asante,Y. Gboho,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,73,,substitution,,True,,,B. Johnson,T. Dibling,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,73,,substitution,,True,,,H. Hackney,H. Armstrong,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,73,,substitution,,True,,,J. O'Brien,M. Röhl,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,81,,goal,K. Dewsbury-Hall,True,,,,,,,3,1
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,86,,substitution,,False,,,L. Tchaouna,T. Sakamoto,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,86,,substitution,,False,,,G. Hamer,J. Rudoni,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,86,,substitution,,False,,,M. Grimes,V. Torp,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,87,,substitution,,False,,,S. Cherif,T. Awoniyi,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,88,,card,C. Yirenkyi,False,yellow,Off the ball foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,88,,card,J. Branthwaite,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,89,,substitution,,True,,,M. Keane,J. Branthwaite,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,90,,period,,,,,,,FT,,3,1
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,90,,substitution,,True,,,C. Alcaraz,T. George,,,,
+inglaterra_premier_league_2026_2027,2026-11-06,10,Everton,Coventry City,3,1,90,,injuryTime,,,,,,,,6,,

@@ -7008,11 +7008,11 @@ brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,85,,substi
 brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,89,,substitution,,False,,,V. Hugo,V. F. C. Teixeira,,,,
 brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_a_2026,2026-11-05,34,Botafogo,Atlético Mineiro,1,0,90,,injuryTime,,,,,,,,4,,
-brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,4,,goal,J. Arias,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,14,,goal,J. Arias,True,,,,,,,2,0
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,21,,goal,Mauricio,True,,,,,,,3,0
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,36,,goal,Marcelinho,True,,,,,,,4,0
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,38,,varDecision,Mauricio,True,,,,,,,,
+brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,4,,goal,J. Arias,True,,,,,,,1,0
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,45,,period,,,,,,,HT,,4,1
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,45,2,goal,Zé Welison,False,,,,,,,4,1
 brasileirao_serie_a_2026,2026-11-05,34,Palmeiras,Remo,6,1,45,,injuryTime,,,,,,,,4,,
@@ -7058,12 +7058,12 @@ brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,86,,substituti
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,89,,card,Ferreira,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,90,,period,,,,,,,FT,,0,0
 brasileirao_serie_a_2026,2026-11-05,34,São Paulo,Corinthians,0,0,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,5,,substitution,,True,,,M. Viña,F. Bruno,,,,
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,19,,card,N. Acevedo,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,32,,goal,C. Olivera,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,45,,period,,,,,,,HT,,1,1
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,45,2,goal,K. Jorge,True,,,,,,,1,1
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,5,,substitution,,True,,,M. Viña,F. Bruno,,,,
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,57,,substitution,,False,,,J. Lucas,N. Acevedo,,,,
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,61,,varDecision,Gerson,True,,,,,,,,
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,63,,penalty_missed,K. Jorge,True,,miss,,,,,,
@@ -7084,3 +7084,22 @@ brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,,period,,,,,,,FT,,3
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,8,card,K. Moraes,True,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,5,goal,A. Véliz,False,,,,,,,3,2
 brasileirao_serie_a_2026,2026-11-06,34,Cruzeiro,Bahia,3,2,90,,injuryTime,,,,,,,,8,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,15,,goal,J. Savarino,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,42,,goal,A. Canobbio,False,,,,,,,0,2
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,44,,card,Mateusinho,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,45,,period,,,,,,,HT,,0,2
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,46,,substitution,,True,,,L. Silva,Caique,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,63,,substitution,,True,,,R. Kayzer,Matheuzinho,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,69,,substitution,,False,,,Ganso,L. Acosta,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,69,,substitution,,False,,,R. Castillo,Hulk,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,78,,substitution,,True,,,A. Bruno,Renê,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,79,,substitution,,True,,,Z. Vitor,E. Martinez,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,80,,substitution,,False,,,K. Serna,J. Savarino,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,80,,substitution,,False,,,S. Xavier,Guga,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,84,,substitution,,True,,,Ismael,Mateusinho,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,86,,substitution,,False,,,Y. Soteldo,A. Canobbio,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,88,,card,L. Silva,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,90,,period,,,,,,,FT,,0,3
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,90,,goal,R. Castillo,False,,,,,,,0,3
+brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,90,,injuryTime,,,,,,,,5,,

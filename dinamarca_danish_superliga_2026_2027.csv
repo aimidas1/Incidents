@@ -1624,3 +1624,20 @@ dinamarca_danish_superliga_2026_2027,2026-11-02,13,Sønderjyske Fodbold,FC Købe
 dinamarca_danish_superliga_2026_2027,2026-11-02,13,Sønderjyske Fodbold,FC København,0,2,90,,period,,,,,,,FT,,0,2
 dinamarca_danish_superliga_2026_2027,2026-11-02,13,Sønderjyske Fodbold,FC København,0,2,90,1,card,J. Christensen,True,yellow,Foul,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-11-02,13,Sønderjyske Fodbold,FC København,0,2,90,,injuryTime,,,,,,,,2,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,45,,period,,,,,,,HT,,0,0
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,45,,injuryTime,,,,,,,,1,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,57,,goal,J. Gammelby,True,,,,,,,1,0
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,60,,substitution,,True,,,M. Freundlich,W. Kirk,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,60,,substitution,,True,,,K. Bøgild,K. Kirkegaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,66,,substitution,,False,,,S. Ngabo,O. Højer,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,67,,substitution,,False,,,W. Steindorsson,F. Gytkjær,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,68,,card,M. Freundlich,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,75,,substitution,,False,,,J. J. Thomasen,Í. S. Þorvaldsson,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,76,,substitution,,True,,,S. Berger,L. Riisgaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,80,,card,Z. Sertdemir,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,85,,card,A. Priesborg,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,89,,substitution,,True,,,J. L. Nielsen,O. Ross,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,90,,period,,,,,,,FT,,1,0
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,90,1,substitution,,False,,,N. Nedić,Z. Sertdemir,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,90,1,card,V. Westh,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-06,14,Silkeborg IF,Lyngby,1,0,90,,injuryTime,,,,,,,,4,,

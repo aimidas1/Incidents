@@ -1662,3 +1662,27 @@ france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,,period,,,,,
 france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,2,goal,N. Edjouma,False,,,,,,,0,2
 france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,1,penalty_missed,A. Tosin,True,,post,,,,,,
 france_ligue_1_2026_2027,2026-11-02,9,Lorient,Stade Brestois,0,2,90,,injuryTime,,,,,,,,3,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,27,,card,K. Coulibaly,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,38,,card,C. Tapé,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,38,,card,G. Yassine,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,40,,card,T. Jørgensen,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,45,3,varDecision,S. Hidalgo,True,,,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,45,1,goal,S. Hidalgo,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,56,,goal,M. McKenzie,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,60,,card,N. Sigur,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,62,,substitution,,False,,,S. Amo-Ameyaw,M. Godo,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,62,,substitution,,False,,,S. Nanasi,G. Yassine,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,62,,substitution,,False,,,J. Ortega,C. Harder,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,67,,goal,G. Reyna,False,,,,,,,2,1
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,67,,substitution,,True,,,J. Russell Rowe,S. Hidalgo,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,70,,substitution,,False,,,D. Lobao,G. Reyna,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,72,,substitution,,True,,,I. Azizi,S. Oppong,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,76,,goal,T. Jørgensen,True,,,,,,,3,1
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,77,,substitution,,False,,,P. Diop,D. Essugo,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,88,,card,J. Ortega,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,90,,period,,,,,,,FT,,3,1
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,90,2,substitution,,True,,,A. Amaaouch,T. Jørgensen,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,90,2,substitution,,True,,,A. Vossah,I. Diallo,,,,
+france_ligue_1_2026_2027,2026-11-06,10,Toulouse,RC Strasbourg,3,1,90,,injuryTime,,,,,,,,3,,

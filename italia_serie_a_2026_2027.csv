@@ -2063,3 +2063,19 @@ italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,6,card,G. Kull
 italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,3,goal,V. Valdepeñas,False,,,,,,,2,4
 italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,2,card,W. Gnonto,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-11-02,10,Sassuolo,Fiorentina,2,4,90,,injuryTime,,,,,,,,5,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,51,,card,P. Mazzocchi,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,53,,goal,T. Bašić,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,57,,goal,M. Moreno,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,64,,substitution,,False,,,G. Chakvetadze,J. Piotrowski,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,65,,goal,K. Pérez,True,,,,,,,2,1
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,70,,substitution,,True,,,R. Haps,P. Mazzocchi,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,74,,substitution,,False,,,C. Kabasele,J. Abankwah,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,75,,substitution,,False,,,U. Gómez,N. Zaniolo,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,84,,substitution,,True,,,L. Lauberbach,J. Yeboah,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,85,,substitution,,True,,,Þ. Helgason,T. Bašić,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,88,,substitution,,False,,,V. Bayo,J. Ekkelenkamp,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,88,,substitution,,False,,,L. Miller,O. Solet,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,90,,period,,,,,,,FT,,2,1
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,90,5,card,M. Palma,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-06,11,Venezia,Udinese,2,1,90,,injuryTime,,,,,,,,5,,

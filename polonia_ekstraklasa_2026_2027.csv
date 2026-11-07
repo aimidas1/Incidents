@@ -2335,3 +2335,58 @@ polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1
 polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,90,,period,,,,,,,FT,,1,0
 polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,90,1,card,M. Regula,True,yellow,Time wasting,,,,,,
 polonia_ekstraklasa_2026_2027,2026-11-02,13,Zagłębie Lubin,MKS Korona Kielce,1,0,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,2,,goal,B. Bereszyński,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,16,,card,S. Akere,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,31,,goal,A. Silva,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,33,,goal,O. Kobacki,False,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,35,,card,Y. Bourhane,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,45,,period,,,,,,,HT,,1,2
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,54,,goal,M. Ndiaye,True,,,,,,,2,2
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,56,,card,T. Santos,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,63,,substitution,,False,,,S. Hamulić,Ł. Sekulski,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,63,,substitution,,True,,,K. Lukoszek,T. Santos,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,63,,substitution,,True,,,A. O. Tall,Y. Bourhane,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,71,,substitution,,False,,,J. Pršir,S. Akere,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,71,,substitution,,False,,,F. Hiszpański,O. Kobacki,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,76,,card,M. Haglind Sangre,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,77,,card,Ł. Sekulski,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,80,,substitution,,True,,,P. Meyer,C. Simon,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,80,,substitution,,True,,,M. Aïko,F. Ronaldo,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,80,,substitution,,True,,,M. K. Bartoš,B. Bereszyński,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,81,,card,M. Haglind Sangre,False,yellowRed,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,83,,substitution,,False,,,K. Pomorski,A. Radwanski,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,,period,,,,,,,FT,,3,2
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,10,card,F. Hiszpański,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,10,card,K. Lukoszek,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,10,card,M. Ndiaye,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,7,goal,K. Czubak,True,,,,,,,3,2
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,5,card,F. Luberecki,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,1,card,A. O. Tall,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Motor Lublin,Wisła Płock,3,2,90,,injuryTime,,,,,,,,9,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,9,,goal,M. Carbo,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,12,,card,M. Minchev,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,17,,varDecision,Kakabadze,False,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,20,,goal,A. Hasić,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,20,,penalty_missed,A. Hasić,False,,saved,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,45,,period,,,,,,,HT,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,45,8,card,L. S. Nordås,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,45,2,goal,M. Božić,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,45,,injuryTime,,,,,,,,12,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,60,,substitution,,False,,,M. Berte,L. S. Nordås,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,61,,substitution,,False,,,S. Ltaief,M. Minchev,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,70,,card,Kakabadze,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,75,,card,K. Knap,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,75,,card,M. Božić,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,79,,substitution,,True,,,J. Lelieveld,M. Božić,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,79,,substitution,,True,,,M. Maisonneuve,D. Grujčić,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,84,,substitution,,False,,,K. Zahiroleslam,A. Al-Ammari,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,84,,substitution,,False,,,D. Baumgartner,G. Henriksson,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,86,,card,V. Burlet,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,,period,,,,,,,FT,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,4,card,K. Zahiroleslam,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,3,card,M. Klich,False,red,Violent conduct,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,,substitution,,False,,,D. Piła,K. Knap,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,,substitution,,True,,,J. Guillemenot,Á. Rodado,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,,substitution,,True,,,V. Meseguer,M. Carbo,,,,
+polonia_ekstraklasa_2026_2027,2026-11-06,14,Wisła Kraków,KS Cracovia,2,1,90,,injuryTime,,,,,,,,7,,

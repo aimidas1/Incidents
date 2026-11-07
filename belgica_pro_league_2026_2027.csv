@@ -1856,3 +1856,23 @@ belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,86,,substi
 belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,,period,,,,,,,FT,,1,3
 belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,1,goal,B. Lambert,False,,,,,,,1,3
 belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,,injuryTime,,,,,,,,5,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,5,,goal,D. Eckert Ayensa,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,35,,card,C. Janssens,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,38,,card,B. Godeau,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,45,,period,,,,,,,HT,,1,0
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,45,,injuryTime,,,,,,,,2,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,46,,substitution,,False,,,Y. Gomis,L. Jans,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,46,,substitution,,False,,,F. Slegers,C. O. Condé,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,63,,substitution,,False,,,S. Keller,B. Godeau,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,64,,goal,D. Eckert Ayensa,True,,,,,,,2,0
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,67,,goal,D. Eckert Ayensa,True,,,,,,,3,0
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,77,,substitution,,True,,,M. Ilaimaharitra,A. Trouillet,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,77,,substitution,,True,,,B. Nsimba,D. Eckert Ayensa,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,85,,substitution,,False,,,J. T. Robatsch,V. Boone,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,85,,substitution,,False,,,C. Brüls,M. Kaboré,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,87,,card,S. Keller,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,88,,substitution,,True,,,J. Makiese,R. Touzghar,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,88,,substitution,,True,,,S. Jasper,A. Abid,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,90,,period,,,,,,,FT,,3,0
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,90,,substitution,,True,,,D. Dierckx,I. Hautekiet,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,90,,injuryTime,,,,,,,,3,,

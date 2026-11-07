@@ -1896,3 +1896,22 @@ portugal_liga_betclic_2026_2027,2026-11-02,10,Gil Vicente,Vitória SC,0,0,90,,pe
 portugal_liga_betclic_2026_2027,2026-11-02,10,Gil Vicente,Vitória SC,0,0,90,,substitution,,False,,,M. Nogueira,G. Silva,,,,
 portugal_liga_betclic_2026_2027,2026-11-02,10,Gil Vicente,Vitória SC,0,0,90,,substitution,,False,,,L. Doucet,B. Mukendi,,,,
 portugal_liga_betclic_2026_2027,2026-11-02,10,Gil Vicente,Vitória SC,0,0,90,,injuryTime,,,,,,,,3,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,45,,card,J. Sánchez,False,yellow,Argument,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,48,,varDecision,A. Trezza,False,,,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,55,,card,P. Santos,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,56,,substitution,,False,,,P. Gozálbez,M. Flores,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,56,,substitution,,False,,,B. Mansilla,A. Trezza,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,66,,substitution,,True,,,Ó. Aranda,P. Santos,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,66,,substitution,,True,,,P. Moreira,Sorriso,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,69,,substitution,,False,,,D. Nandín,I. Barbero,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,74,,substitution,,True,,,P. Salas,G. Koutsias,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,74,,substitution,,True,,,G. Dias,R. Beney,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,77,,substitution,,False,,,G. Rukavina,N. Djouahra,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,77,,card,Ó. Aranda,True,yellow,Simulation,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,78,,substitution,,False,,,H. Lee,T. Fukui,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,85,,card,E. v. Ee,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,,period,,,,,,,FT,,1,0
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,6,goal,P. Moreira,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,,card,J. Fontán,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,,injuryTime,,,,,,,,6,,

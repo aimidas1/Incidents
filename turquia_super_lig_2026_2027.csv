@@ -1905,3 +1905,22 @@ turquia_super_lig_2026_2027,2026-11-02,10,Gençlerbirliği,Alanyaspor,5,0,86,,su
 turquia_super_lig_2026_2027,2026-11-02,10,Gençlerbirliği,Alanyaspor,5,0,88,,card,O. B. Ali,False,yellow,Foul,,,,,,
 turquia_super_lig_2026_2027,2026-11-02,10,Gençlerbirliği,Alanyaspor,5,0,90,,period,,,,,,,FT,,5,0
 turquia_super_lig_2026_2027,2026-11-02,10,Gençlerbirliği,Alanyaspor,5,0,90,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,3,,goal,H. Hajradinović,False,,,,,,,0,1
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,21,,goal,A. Benedyczak,False,,,,,,,0,2
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,30,,card,D. Sorescu,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,36,,card,E. Mendes,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,45,,period,,,,,,,HT,,0,2
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,46,,substitution,,True,,,O. Özçiçek,A. Maxim,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,46,,substitution,,True,,,G. Ntino-Emo,D. Sorescu,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,46,,substitution,,True,,,S. Dursun,T. Stewart,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,63,,substitution,,False,,,M. Rafferty,A. Kol,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,63,,substitution,,False,,,T. Diarra,J. Rak-Sakyi,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,63,,substitution,,True,,,S. Destici,L. Pérez,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,72,,substitution,,True,,,H. Dervişoğlu,J. Bacuna,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,75,,substitution,,False,,,E. Boz,E. Mendes,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,82,,card,A. Karapo,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,86,,substitution,,False,,,J. Jessen,H. Hajradinović,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,86,,substitution,,False,,,G. Yalçın,A. Benedyczak,,,,
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,90,,period,,,,,,,FT,,0,2
+turquia_super_lig_2026_2027,2026-11-06,11,Gaziantep FK,Kasımpaşa,0,2,90,,injuryTime,,,,,,,,3,,

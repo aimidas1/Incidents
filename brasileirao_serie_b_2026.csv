@@ -7749,3 +7749,30 @@ brasileirao_serie_b_2026,2026-11-05,37,Botafogo-SP,Londrina,4,0,82,,substitution
 brasileirao_serie_b_2026,2026-11-05,37,Botafogo-SP,Londrina,4,0,88,,card,C. Santos,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-05,37,Botafogo-SP,Londrina,4,0,90,,period,,,,,,,FT,,4,0
 brasileirao_serie_b_2026,2026-11-05,37,Botafogo-SP,Londrina,4,0,90,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,6,,goal,Carlos De Pena,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,14,,goal,Claudinho,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,27,,card,B. Fonseca,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,38,,goal,Perotti,False,,,,,,,1,2
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,45,,period,,,,,,,HT,,2,2
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,45,5,goal,Moraes Júnior,True,,,,,,,2,2
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,45,1,card,Marcelo,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,45,,card,J. Cuenú,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,45,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,46,,substitution,,True,,,L. Erig,B. P. Silva,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,46,,substitution,,False,,,A. Pucci,Claudinho,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,53,,goal,L. Erig,True,,,,,,,3,2
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,54,,card,L. Erig,True,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,58,,card,N. Schulz,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,61,,card,Moraes Júnior,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,67,,substitution,,True,,,Mikael,A. Simplicio,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,76,,substitution,,True,,,Maxwell,Moraes Júnior,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,77,,substitution,,True,,,G. Feliciano,D. Mosconi,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,77,,substitution,,False,,,N. Pessoa,Habraão,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,77,,substitution,,False,,,F. Sobral,B. Fonseca,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,77,,substitution,,True,,,Charles,N. Schulz,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,77,,substitution,,False,,,K. Andrade,Carlos De Pena,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,86,,substitution,,False,,,Clayson,Diego Hernández,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,90,,period,,,,,,,FT,,3,2
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,90,4,card,Marcelo,False,yellowRed,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,90,3,card,G. Feliciano,True,yellow,Time wasting,,,,,,
+brasileirao_serie_b_2026,2026-11-06,37,Operário-PR,Sport Recife,3,2,90,,injuryTime,,,,,,,,5,,

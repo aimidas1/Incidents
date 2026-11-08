@@ -1915,3 +1915,35 @@ portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,,perio
 portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,6,goal,P. Moreira,True,,,,,,,1,0
 portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,,card,J. Fontán,False,yellow,Foul,,,,,,
 portugal_liga_betclic_2026_2027,2026-11-06,11,Famalicão,FC Arouca,1,0,90,,injuryTime,,,,,,,,6,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,22,,card,Ian Luccas,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,25,,card,P. Rosas,False,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,36,,goal,S. Clúa,False,,,,,,,0,1
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,40,,card,D. Gui,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,45,,period,,,,,,,HT,,0,1
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,45,,injuryTime,,,,,,,,2,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,48,,card,Chiquinho,True,yellow,Foul,,,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,55,,substitution,,False,,,M. S. E. Boukammiri,J. Livolant,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,57,,substitution,,True,,,A. Vidigal,F. Chissumba,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,58,,substitution,,True,,,R. Lucas,D. Gui,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,66,,goal,Ian Luccas,True,,,,,,,1,1
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,67,,substitution,,True,,,Matheus França,Figueiredo,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,67,,substitution,,True,,,V. Semedo,D. Camara,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,71,,substitution,,False,,,Rochinha,B. Pauwels,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,72,,substitution,,False,,,L. Ofori,S. Clúa,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,82,,substitution,,True,,,C. Nuozzi,Chiquinho,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,82,,substitution,,False,,,Cassiano,H. Araújo,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,90,,period,,,,,,,FT,,1,1
+portugal_liga_betclic_2026_2027,2026-11-07,11,FC Alverca,Casa Pia,1,1,90,,injuryTime,,,,,,,,4,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,45,,period,,,,,,,HT,,0,0
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,54,,substitution,,False,,,L. Santos,S. Chipyoka,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,54,,substitution,,False,,,Y. Maranhão,L. Vonić,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,61,,goal,L. J. Suárez ,True,,,,,,,1,0
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,62,,substitution,,True,,,G. Catamo,L. Guilherme,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,62,,substitution,,True,,,F. Gonçalves,I. Doumbia,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,62,,substitution,,True,,,R. Zalazar,N. Irankunda,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,73,,substitution,,False,,,R. Alonso,Landerson,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,75,,substitution,,True,,,F. Ioannidis,L. J. Suárez ,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,87,,substitution,,False,,,M. Stjepanović,Á. Martínez,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,87,,substitution,,False,,,A. Vieira,G. Liberato,,,,
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,90,,period,,,,,,,FT,,1,0
+portugal_liga_betclic_2026_2027,2026-11-07,11,Sporting CP,Moreirense,1,0,90,,injuryTime,,,,,,,,4,,

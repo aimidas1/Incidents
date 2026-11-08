@@ -3825,3 +3825,35 @@ k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,86,,substitution,,True,,,S
 k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,86,,substitution,,True,,,I. Back,L. Jin-hyun,,,,
 k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,88,,card,K. Gun-hee,False,yellow,Foul,,,,,,
 k_league_1_2026,2026-11-01,34,Ulsan HD,Gangwon FC,2,1,90,,period,,,,,,,FT,,2,1
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,42,,card,K. Min,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,45,1,card,D. Bakker,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,46,,substitution,,False,,,B. K. Kim,M. Oliveira,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,46,,substitution,,False,,,J. W. Yu,I. Jukić,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,59,,substitution,,True,,,I. Kim,K. Ju-Hyeok,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,59,,substitution,,True,,,J. Jae-Min,M. Kang,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,66,,goal,J. Jae-Min,True,,,,,,,1,0
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,66,,substitution,,False,,,B. Herculano,U. Kim,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,72,,substitution,,True,,,R. Kyung-ho,T. Park,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,74,,substitution,,False,,,G. Choi,H. Chae,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,85,,substitution,,True,,,Y. Heo,P. Jin-Seong,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,85,,substitution,,False,,,J. H. Kim,B. Knežević,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,85,,substitution,,True,,,Y. Jae-Seok,L. Sangheon,,,,
+k_league_1_2026,2026-11-07,35,Gimcheon Sangmu FC,FC Anyang,1,0,90,,period,,,,,,,FT,,1,0
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,2,,goal,Seung-un Ha,False,,,,,,,0,1
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,45,,period,,,,,,,HT,,1,1
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,45,1,goal,C. J. Park,True,,,,,,,1,1
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,46,,substitution,,False,,,Y. Je-ho,K. Jong-Seok,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,58,,card,C. M. Shin,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,63,,substitution,,True,,,D. Kang,C. M. Lee,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,63,,substitution,,True,,,S. Sang-Eun,C. J. Park,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,63,,substitution,,True,,,K. H. Lee,K. Shin-jin,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,65,,card,Y. Je-ho,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,67,,card,T. Figueiredo,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,72,,substitution,,True,,,E. Cinari,Emerson Ramon,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,72,,substitution,,False,,,M. Moon,J. Iredale,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,78,,substitution,,False,,,Y. Ahn,S. Min,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,78,,substitution,,True,,,C. W. Rim,P. Min-Jae,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,78,,substitution,,False,,,K. Woo-Jin,Seung-un Ha,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,85,,substitution,,False,,,S. J. Ju,S. Y. Kwon,,,,
+k_league_1_2026,2026-11-07,35,Jeju SK,Gwangju FC,1,1,90,,period,,,,,,,FT,,1,1

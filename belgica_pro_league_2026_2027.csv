@@ -1856,13 +1856,13 @@ belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,86,,substi
 belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,,period,,,,,,,FT,,1,3
 belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,1,goal,B. Lambert,False,,,,,,,1,3
 belgica_pro_league_2026_2027,2026-11-04,9,KV Kortrijk,KV Mechelen,1,3,90,,injuryTime,,,,,,,,5,,
-belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,5,,goal,D. Eckert Ayensa,True,,,,,,,1,0
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,35,,card,C. Janssens,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,38,,card,B. Godeau,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,45,,period,,,,,,,HT,,1,0
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,45,,injuryTime,,,,,,,,2,,
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,46,,substitution,,False,,,Y. Gomis,L. Jans,,,,
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,46,,substitution,,False,,,F. Slegers,C. O. Condé,,,,
+belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,5,,goal,D. Eckert Ayensa,True,,,,,,,1,0
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,63,,substitution,,False,,,S. Keller,B. Godeau,,,,
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,64,,goal,D. Eckert Ayensa,True,,,,,,,2,0
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,67,,goal,D. Eckert Ayensa,True,,,,,,,3,0
@@ -1876,3 +1876,91 @@ belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,88,,su
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,90,,period,,,,,,,FT,,3,0
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,90,,substitution,,True,,,D. Dierckx,I. Hautekiet,,,,
 belgica_pro_league_2026_2027,2026-11-06,11,Standard Liège,SK Beveren,3,0,90,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,25,,card,T. Rowe,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,41,,card,C. Congreve,True,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,45,,period,,,,,,,HT,,0,0
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,45,,injuryTime,,,,,,,,1,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,58,,goal,A. Scheidler,False,,,,,,,0,1
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,60,,goal,F. Mbemba,False,,,,,,,0,2
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,62,,substitution,,True,,,P. Diongu,I. Sakamoto,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,65,,goal,P. Pflücke,False,,,,,,,0,3
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,67,,substitution,,True,,,F. Tsimba,I. Fofana,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,67,,substitution,,True,,,N. Storm,S. Saito,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,68,,substitution,,False,,,I. I. Cissé,M. Kera,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,72,,goal,A. Scheidler,False,,,,,,,0,4
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,73,,substitution,,True,,,L. Mbamba,F. Ferraro,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,73,,substitution,,True,,,Y. Min-hyeok,C. Congreve,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,74,,goal,N. Bassette,True,,,,,,,1,4
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,78,,card,P. Pflücke,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,80,,substitution,,False,,,A. Bojang,A. Scheidler,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,80,,substitution,,False,,,A. Colassin,J. N. Romsaas,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,86,,substitution,,False,,,G. Nawata,F. Mbemba,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,86,,substitution,,False,,,M. Nzita,P. Pflücke,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,87,,card,P. Diongu,True,red,Professional foul last man,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,89,,goal,A. Bojang,False,,,,,,,1,5
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,90,,period,,,,,,,FT,,1,5
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,90,1,card,Y. Min-hyeok,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,KVC Westerlo,RC Sporting Charleroi,1,5,90,,injuryTime,,,,,,,,2,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,32,,substitution,,False,,,D. Praet,M. Decherf,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,45,,period,,,,,,,HT,,0,0
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,45,,injuryTime,,,,,,,,1,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,46,,substitution,,False,,,C. J. V. Meirvenne,B. Raman,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,50,,goal,E. Addai,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,53,,card,F. Hammar,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,62,,card,J. Lawrence,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,72,,substitution,,True,,,T. Vlietinck,Ó. Gil,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,72,,substitution,,True,,,K. Vaesen,E. Addai,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,73,,substitution,,False,,,B. Antonio,J. Marsa,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,73,,substitution,,False,,,H. Özdemir,M. Lohunanu-Mbasi,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,76,,card,M. Van Brederode,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,80,,card,S. Schrijvers,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,85,,varDecision,R. Mirisola,True,,,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,86,,card,R. Mirisola,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,88,,substitution,,False,,,K. Vanrafelghem,F. Hammar,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,90,,period,,,,,,,FT,,2,0
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,90,4,goal,W. Balikwisha,True,,,,,,,2,0
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,90,3,substitution,,True,,,N. Dussenne,R. Nyakossi,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Oud-Heverlee Leuven,KV Mechelen,2,0,90,,injuryTime,,,,,,,,4,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,6,,goal,S. Ngoura,False,,,,,,,0,1
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,24,,card,L. Le Roux,False,yellow,Persistent fouling,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,38,,substitution,,True,,,S. P. A. Nkoa,S. Gourville,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,39,,card,H. V. D. Bruggen,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,45,,period,,,,,,,HT,,0,1
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,45,6,penalty_missed,M. Isah,True,,miss,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,45,4,varDecision,L. Rousseau,True,,,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,45,,injuryTime,,,,,,,,2,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,46,,substitution,,True,,,S. Delos,T. Lutonda,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,46,,substitution,,True,,,Z. Gruber,A. Tajaouart,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,46,,substitution,,False,,,K. Kouassi,S. Ngoura,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,59,,substitution,,False,,,L. Mondele,L. Le Roux,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,64,,substitution,,True,,,M. Kovács,D. Lamego,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,66,,card,S. P. A. Nkoa,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,72,,substitution,,True,,,E. Filet,M. Courcoul,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,80,,penalty_missed,L. Rousseau,True,,saved,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,83,,substitution,,False,,,L. Michal,T. Akinsola,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,87,,substitution,,False,,,E. Kakou,V. Martens,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,90,,period,,,,,,,FT,,0,1
+belgica_pro_league_2026_2027,2026-11-07,11,RAAL La Louvière,Cercle Brugge,0,1,90,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,15,,varDecision,L. Schoofs,False,,,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,18,,penalty_missed,D. Konadu,False,,saved,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,20,,card,S. Renders,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,40,,goal,S. Porozo,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,45,,period,,,,,,,HT,,1,0
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,45,,injuryTime,,,,,,,,2,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,47,,goal,D. Konadu,False,,,,,,,1,1
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,52,,goal,M. Fofana,True,,,,,,,2,1
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,54,,substitution,,True,,,Y. Hamdaoui,C. Mejia,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,54,,card,S. Porozo,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,55,,substitution,,True,,,R. V. Helden,Y. Tsunashima,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,62,,substitution,,False,,,N. Rommens,T. Gooijer,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,63,,substitution,,False,,,I. Dada-Mascoll,J. Pelupessy,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,66,,goal,D. Konadu,False,,,,,,,2,2
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,72,,substitution,,False,,,R. Seuntjens,J. Talvitie,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,72,,substitution,,True,,,M. Frey,S. Porozo,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,72,,substitution,,True,,,X. Dierckx,M. Benitez,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,78,,substitution,,False,,,Đ. Gordić,S. Appuah,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,81,,substitution,,True,,,F. Adekami,M. Fofana,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,89,,card,L. Johnson,False,yellow,Argument,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,90,,period,,,,,,,FT,,2,2
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,90,1,card,J. v. Duiven,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-07,11,Royal Antwerp FC,Lommel SK,2,2,90,,injuryTime,,,,,,,,4,,

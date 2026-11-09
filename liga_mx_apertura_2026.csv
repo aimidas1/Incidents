@@ -2853,17 +2853,17 @@ liga_mx_apertura_2026,2026-11-07,16,Atlante FC,Santos Laguna,0,2,85,,substitutio
 liga_mx_apertura_2026,2026-11-07,16,Atlante FC,Santos Laguna,0,2,85,,substitution,,True,,,M. García,E. Pizzuto,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlante FC,Santos Laguna,0,2,90,,period,,,,,,,FT,,0,2
 liga_mx_apertura_2026,2026-11-07,16,Atlante FC,Santos Laguna,0,2,90,,injuryTime,,,,,,,,4,,
-liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,5,,goal,M. Capasso,False,,,,,,,0,1
-liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,7,,card,A. Bautista,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,12,,goal,O. Idrissi,False,,,,,,,0,2
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,18,,card,A. Rocha,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,45,,period,,,,,,,HT,,0,2
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,45,,injuryTime,,,,,,,,2,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,46,,substitution,,True,,,J. Lozano,A. Rocha,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,46,,substitution,,True,,,R. Mmaee,M. Valenzuela,,,,
+liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,5,,goal,M. Capasso,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,51,,goal,M. Capasso,True,,,,,,,1,2
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,61,,substitution,,False,,,S. Santos,J. Vallejo,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,61,,substitution,,False,,,Kenedy,A. Bautista,,,,
+liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,7,,card,A. Bautista,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,71,,substitution,,False,,,M. Isais,O. Idrissi,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,74,,card,L. Esteves,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-07,16,Atlas FC,CF Pachuca,1,4,75,,goal,S. Rondón,False,,,,,,,1,3
@@ -2914,7 +2914,6 @@ liga_mx_apertura_2026,2026-11-07,16,Club Necaxa,Club Tijuana,1,0,90,,period,,,,,
 liga_mx_apertura_2026,2026-11-07,16,Club Necaxa,Club Tijuana,1,0,90,3,card,I. Tona,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-07,16,Club Necaxa,Club Tijuana,1,0,90,1,substitution,,True,,,P. Pedraza,D. Ochoa,,,,
 liga_mx_apertura_2026,2026-11-07,16,Club Necaxa,Club Tijuana,1,0,90,,injuryTime,,,,,,,,5,,
-liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,8,,goal,N. Castro,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,23,,goal,Paulinho,True,,,,,,,2,0
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,45,,period,,,,,,,HT,,2,0
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,45,,injuryTime,,,,,,,,1,,
@@ -2935,17 +2934,18 @@ liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,69,,substitution,
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,71,,card,F. Ambríz,False,yellow,Unallowed field entering,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,76,,substitution,,True,,,V. Guzmán,É. Gutiérrez,,,,
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,76,,substitution,,True,,,F. Arce Jr.,F. Romero,,,,
+liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,8,,goal,N. Castro,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,84,,substitution,,True,,,P. Pérez,Paulinho,,,,
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,90,,period,,,,,,,FT,,4,0
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,90,,goal,J. Gallardo,True,,,,,,,4,0
 liga_mx_apertura_2026,2026-11-08,16,CD Toluca,CF Monterrey,4,0,90,,injuryTime,,,,,,,,4,,
-liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,3,,goal,A. Zendejas,False,,,,,,,0,1
-liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,4,,goal,C. Huerta,True,,,,,,,1,1
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,23,,card,C. Huerta,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,23,,card,K. Álvarez,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,24,,card,R. Morales,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,24,,card,E. Sánchez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,3,,goal,A. Zendejas,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,36,,varDecision,R. Morales,True,,,,,,,,
+liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,4,,goal,C. Huerta,True,,,,,,,1,1
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,42,,card,A. Cervantes,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,42,,card,A. Carrasquilla,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,Pumas UNAM,Club América,2,2,45,,period,,,,,,,HT,,1,1
@@ -2994,3 +2994,47 @@ liga_mx_apertura_2026,2026-11-08,16,Tigres UANL,Cruz Azul,2,3,84,,substitution,,
 liga_mx_apertura_2026,2026-11-08,16,Tigres UANL,Cruz Azul,2,3,90,,period,,,,,,,FT,,2,3
 liga_mx_apertura_2026,2026-11-08,16,Tigres UANL,Cruz Azul,2,3,90,5,card,J. Orozco,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-08,16,Tigres UANL,Cruz Azul,2,3,90,,injuryTime,,,,,,,,7,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,18,,card,R. Ledezma,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,20,,varDecision,R. Ledezma,False,,,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,23,,card,J. Guevara,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,51,,card,D. Cambindo,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,53,,card,J. Rodríguez,True,red,Professional foul last man,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,58,,substitution,,True,,,J. Lara,F. Beltrán,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,60,,substitution,,False,,,B. Gutiérrez,O. Govea,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,60,,substitution,,False,,,R. Marín,R. Ledezma,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,67,,substitution,,True,,,C. Mora,S. Vegas,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,67,,substitution,,True,,,P. Bellón,D. Cambindo,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,69,,goal,R. Marín,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,75,,substitution,,True,,,I. Díaz,J. Guevara,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,75,,substitution,,True,,,E. Guerra,I. Moreno,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,76,,substitution,,False,,,J. Carrillo,E. Alvarez,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,84,,substitution,,False,,,L. G. Rey,F. González,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,84,,substitution,,False,,,J. Castillo,D. Aguirre,,,,
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,87,,goal,P. Bellón,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,9,,goal,K. Velasco,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,36,,goal,O. M. Villegas,False,,,,,,,0,2
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,45,,period,,,,,,,HT,,0,2
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,45,,card,Ó. Villa,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,46,,substitution,,True,,,C. Villanueva,B. Duarte,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,57,,substitution,,True,,,E. Giménez,D. Munoz,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,57,,substitution,,True,,,J. A. Camacho,C. A. García,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,60,,substitution,,False,,,E. Mustre,L. Hernández,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,60,,substitution,,False,,,F. Monarrez,O. M. Villegas,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,65,,card,I. Moreno,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,68,,substitution,,True,,,P. Victor,D. Parra,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,68,,card,A. Ávila,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,69,,substitution,,False,,,J. Pachuca,I. Moreno,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,71,,varDecision,M. Coronel,True,,,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,71,,card,E. Perez,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,79,,substitution,,False,,,C. Baltazar,M. Tomás,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,79,,substitution,,False,,,A. Ramirez,A. Organista,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,79,,substitution,,True,,,Á. Alcalá,I. Benito,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,86,,card,A. Ramirez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,,period,,,,,,,FT,,0,2
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,5,card,S. Homenchenko,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,,injuryTime,,,,,,,,6,,

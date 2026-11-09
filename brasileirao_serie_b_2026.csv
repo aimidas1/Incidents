@@ -7796,7 +7796,6 @@ brasileirao_serie_b_2026,2026-11-07,37,Avaí,São Bernardo,2,1,90,,period,,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Avaí,São Bernardo,2,1,90,5,card,B. Melo,False,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Avaí,São Bernardo,2,1,90,3,card,Marcão Silva,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Avaí,São Bernardo,2,1,90,,injuryTime,,,,,,,,4,,
-brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,8,,card,Lorenzo,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,45,,period,,,,,,,HT,,0,1
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,45,7,goal,G. Pires,False,,,,,,,0,1
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,45,5,card,J. Dias,True,yellow,Argument,,,,,,
@@ -7814,6 +7813,7 @@ brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,70,,card,Raí,False
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,74,,substitution,,False,,,L. M. Gonçalves,Raí,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,74,,substitution,,False,,,Alan Kardec,A. Safira,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,78,,substitution,,True,,,Wesley,J. Basso,,,,
+brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,8,,card,Lorenzo,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,83,,substitution,,False,,,Titi,D. Barbosa,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,84,,card,Alan Kardec,False,yellow,Time wasting,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,88,,card,Vitor Mendes,True,yellow,Foul,,,,,,
@@ -7821,9 +7821,6 @@ brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,90,,period,,,,,,,FT
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,90,10,card,Jandrei,False,yellow,Time wasting,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,90,4,varDecision,Alan Kardec,False,,,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Cuiabá,Juventude,1,2,90,,injuryTime,,,,,,,,9,,
-brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,7,,varDecision,N. Careca,True,,,,,,,,
-brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,8,,goal,P. Baya,False,,,,,,,0,1
-brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,8,,card,N. Careca,True,red,Violent conduct,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,19,,varDecision,L. Emanoel,False,,,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,20,,card,L. Emanoel,False,red,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,28,,goal,M. Bianqui,True,,,,,,,1,1
@@ -7834,17 +7831,19 @@ brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,45,,i
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,46,,substitution,,True,,,R. Barcellos,Reidiney,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,50,,substitution,,False,,,L. Sasha,Pierre,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,57,,substitution,,False,,,J. C. Cantillo,P. Henrique,,,,
+brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,7,,varDecision,N. Careca,True,,,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,71,,goal,Luís Oyama,True,,,,,,,2,1
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,73,,card,T. Cardona,False,red,Professional foul last man,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,77,,substitution,,False,,,Ryan,P. Baya,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,77,,substitution,,False,,,K. Henrique,Paulinho,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,77,,substitution,,True,,,Carlão,Robson,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,77,,substitution,,True,,,M. Jesus,Rômulo,,,,
+brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,8,,goal,P. Baya,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,8,,card,N. Careca,True,red,Violent conduct,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,87,,card,R. Barcellos,True,yellow,Argument,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,90,1,substitution,,True,,,Juninho,M. Bianqui,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Grêmio Novorizontino,Fortaleza,2,1,90,,injuryTime,,,,,,,,5,,
-brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,9,,substitution,,False,,,J. Robert,Nicolas,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,11,,goal,Marquinhos Gabriel,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,45,,period,,,,,,,HT,,1,0
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,45,,injuryTime,,,,,,,,5,,
@@ -7861,9 +7860,75 @@ brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,83,,substituti
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,87,,card,Romarinho,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,88,,card,H. Meritão,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,89,,card,M. Hermes,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,9,,substitution,,False,,,J. Robert,Nicolas,,,,
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,90,,period,,,,,,,FT,,1,0
 brasileirao_serie_b_2026,2026-11-07,37,Vila Nova FC,Criciúma,1,0,90,,injuryTime,,,,,,,,6,,
-brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,8,,card,P. Castro,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,14,,goal,Max,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,45,3,card,Max,True,red,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,46,,substitution,,True,,,G. Silva,Yarlen,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,53,,card,B. José,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,59,,substitution,,False,,,J. P. Silva,D. Terans,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,59,,substitution,,False,,,Klebert,H. Freitas,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,59,,substitution,,False,,,G. D. d. S. Gonçalves,G. Lopes,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,59,,substitution,,False,,,Ewerthon,Warley,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,59,,substitution,,False,,,Matheusinho,B. José,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,61,,goal,G. Silva,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,67,,goal,J. P. Silva,False,,,,,,,2,1
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,70,,goal,Gustavo Coutinho,False,,,,,,,2,2
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,75,,substitution,,True,,,Jota,P. Sampaio,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,75,,substitution,,True,,,Douglas,D. B. d. Souza,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,78,,substitution,,True,,,Dudu,Y. Santos,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,83,,substitution,,True,,,F. Vieira,G. Brigida,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,89,,card,Alex,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,90,,period,,,,,,,FT,,2,3
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,90,,goal,Gustavo Coutinho,False,,,,,,,2,3
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,90,,injuryTime,,,,,,,,6,,
+brasileirao_serie_b_2026,2026-11-08,37,Athletic Club,Atlético Goianiense,2,3,90,,card,P. Sampaio,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,30,,substitution,,True,,,L. Holanda,R. López,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,46,,substitution,,False,,,E. Person,P. Victor,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,46,,substitution,,True,,,J. Gabriel,Sávio,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,50,,card,R. Santana,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,51,,goal,Matías Segovia,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,59,,substitution,,True,,,L. Lobato,R. Santana,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,59,,substitution,,True,,,M. Araújo,Richardson,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,66,,substitution,,False,,,Luidy,T. Ostchega,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,73,,substitution,,True,,,L. Mugni,B. Borges,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,76,,card,L. Lobato,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,79,,card,Luidy,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,83,,card,Matías Segovia,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,89,,substitution,,False,,,G. Oliveira,O. Gonçalves,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,,period,,,,,,,FT,,0,1
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,7,card,Richard,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,4,card,L. Holanda,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,3,substitution,,False,,,M. Maçola,W. Bigode,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,3,substitution,,False,,,F. Amaral,Matías Segovia,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,2,card,Barreto,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Ceará,América Mineiro,0,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,27,,substitution,,True,,,W. Rato,L. Lima,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,34,,card,Tadeu,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,35,,card,L. Ribeiro,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,46,,substitution,,True,,,R. Menezes,L. Ribeiro,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,58,,card,K. Junior,False,yellow,Time wasting,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,59,,substitution,,True,,,J. Carlos,F. Clemente,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,59,,substitution,,True,,,A. Ramon,Cadu,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,64,,substitution,,False,,,R. Andrade,E. Ferreira,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,67,,card,Kadu,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,73,,substitution,,True,,,R. Soares,Djalma,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,78,,substitution,,False,,,Miguel,Peu,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,78,,substitution,,False,,,J. d. Oliveira,G. Telles,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,85,,substitution,,False,,,J. R. Leopoldino,F. D. Mauro,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,85,,substitution,,False,,,V. Ribeiro,K. Junior,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,90,11,card,A. Ramon,True,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,90,7,card,Nicolas,True,yellow,,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,90,5,goal,Nicolas,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-11-08,37,Goiás,Ponte Preta,1,0,90,,injuryTime,,,,,,,,6,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,25,,card,S. F. Rodrigues,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,34,,goal,Mikael,False,,,,,,,0,1
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,36,,card,K. Maranhão,True,yellow,Foul,,,,,,
@@ -7882,5 +7947,6 @@ brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,72,,substitution,,True,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,73,,substitution,,False,,,João Neto,Mikael,,,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,76,,substitution,,False,,,H. Santos,Bressan,,,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,78,,card,Reginaldo,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,8,,card,P. Castro,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,83,,card,Ryan,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-08,37,Náutico,CRB,0,3,90,,period,,,,,,,FT,,0,3

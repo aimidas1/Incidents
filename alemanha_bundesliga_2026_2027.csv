@@ -1627,7 +1627,6 @@ alemanha_bundesliga_2026_2027,2026-11-07,9,SC Paderborn 07,Eintracht Frankfurt,2
 alemanha_bundesliga_2026_2027,2026-11-07,9,SC Paderborn 07,Eintracht Frankfurt,2,2,90,,period,,,,,,,FT,,2,2
 alemanha_bundesliga_2026_2027,2026-11-07,9,SC Paderborn 07,Eintracht Frankfurt,2,2,90,3,goal,J. Burkardt,False,,,,,,,2,2
 alemanha_bundesliga_2026_2027,2026-11-07,9,SC Paderborn 07,Eintracht Frankfurt,2,2,90,,injuryTime,,,,,,,,3,,
-alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,7,,goal,M. Mittelstädt,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,24,,card,N. Füllkrug,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,45,,period,,,,,,,HT,,1,0
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,45,,card,O. Deman,False,yellow,Persistent fouling,,,,,,
@@ -1638,8 +1637,73 @@ alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,64
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,65,,substitution,,True,,,T. Tomás,J. Leweling,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,67,,substitution,,False,,,Chuki,S. Lynen,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,67,,substitution,,False,,,J. Njinmah,M. Grüll,,,,
+alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,7,,goal,M. Mittelstädt,True,,,,,,,1,0
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,83,,substitution,,True,,,E. Demirović,C. Führich,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,83,,substitution,,True,,,A. Karazor,Y. Spalt,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,86,,substitution,,False,,,C. Itten,E. Dinkçi,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,90,,period,,,,,,,FT,,1,0
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,90,,injuryTime,,,,,,,,3,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,7,,goal,A. García,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,34,,card,F. Medina,False,yellow,Off the ball foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,40,,card,T. Krauß,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,45,,period,,,,,,,HT,,0,1
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,46,,card,M. Moore,True,yellow,Off the ball foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,52,,card,A. Moreira,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,52,,card,L. Maina,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,53,,card,E. Tapsoba,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,57,,card,J. Schmied,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,70,,card,B. Sosa,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,74,,substitution,,True,,,Í. B. Jóhannesson,T. Krauß,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,75,,substitution,,True,,,R. Heskey,L. Maina,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,75,,substitution,,True,,,M. E. Mala,M. Bülter,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,76,,substitution,,False,,,J. Hofmann,M. Tillman,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,84,,substitution,,True,,,A. Castro-Montes,S. Sebulonsen,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,84,,substitution,,True,,,L. Waldschmidt,M. Moore,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,85,,goal,P. Schick,False,,,,,,,0,2
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,88,,substitution,,False,,,R. Andrich,I. Maza,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,88,,substitution,,False,,,L. Badé,F. Medina,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,,period,,,,,,,FT,,1,2
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,6,card,J. Hofmann,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,5,card,J. Simpson-Pusey,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,5,card,A. García,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,2,goal,S. El Mala,True,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,2,,card,I. Matanović,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,19,,card,Z. Van Den Bosch,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,27,,card,Y. Engelhardt,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,45,,period,,,,,,,HT,,0,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,46,,substitution,,False,,,O. Burke,T. Skarke,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,46,,substitution,,False,,,W. Jeong,K. Imeri,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,55,,goal,R. Khedira,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,67,,goal,Y. Suzuki,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,68,,substitution,,False,,,A. Ilić,L. Burcu,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,68,,substitution,,True,,,V. Grifo,D. Scherhant,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,68,,substitution,,True,,,K. Goto,I. Matanović,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,75,,substitution,,True,,,P. Osterhage,Y. Engelhardt,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,77,,substitution,,False,,,L. Güther,M. Aebischer,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,84,,penalty_missed,V. Grifo,True,,saved,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,85,,substitution,,False,,,T. Rothe,D. Köhn,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,85,,substitution,,True,,,L. Höler,Y. Suzuki,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,85,,substitution,,True,,,L. Kübler,P. Treu,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,89,,card,W. Jeong,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,90,,period,,,,,,,FT,,2,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,90,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,10,,goal,F. Asllani,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,26,,goal,T. Lemperle,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,45,,period,,,,,,,HT,,2,0
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,45,,injuryTime,,,,,,,,1,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,51,,substitution,,False,,,V. Becker,R. Gosens,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,52,,substitution,,False,,,K. Müller,L. Karius,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,70,,substitution,,False,,,J. Adamu,S. Tanaka,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,70,,substitution,,False,,,E. Ebimbe,M. Ayhan,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,70,,substitution,,True,,,A. Hložek,A. Kramarić,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,76,,card,H. Hee-chan,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,77,,substitution,,False,,,E. Džeko,D. Ljubičić,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,78,,substitution,,True,,,A. Daghim,F. Asllani,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,78,,substitution,,True,,,Bernardo,M. Rots,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,81,,goal,J. Adamu,False,,,,,,,2,1
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,,period,,,,,,,FT,,2,1
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,10,card,A. Aouchiche,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,6,substitution,,True,,,M. Moerstedt,T. Lemperle,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,,injuryTime,,,,,,,,9,,

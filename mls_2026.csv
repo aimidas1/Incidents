@@ -9908,7 +9908,6 @@ mls_2026,2026-11-07,,CF Montréal,Vancouver Whitecaps,0,2,74,,card,L. Petrasso,T
 mls_2026,2026-11-07,,CF Montréal,Vancouver Whitecaps,0,2,83,,goal,M. Gherasimencov,False,,,,,,,0,2
 mls_2026,2026-11-07,,CF Montréal,Vancouver Whitecaps,0,2,86,,substitution,,False,,,S. Ramírez,O. Larraz,,,,
 mls_2026,2026-11-07,,CF Montréal,Vancouver Whitecaps,0,2,90,,period,,,,,,,FT,,0,2
-mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,8,,goal,R. Lewandowski,True,,,,,,,1,0
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,11,,card,N. Allen,True,yellow,Foul,,,,,,
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,16,,goal,G. Tapia,False,,,,,,,1,1
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,22,,goal,R. Lewandowski,True,,,,,,,2,1
@@ -9928,6 +9927,7 @@ mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,69,,substitution,,True,,,A. 
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,74,,card,A. Mekvabishvili,True,yellow,Foul,,,,,,
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,78,,substitution,,False,,,A. Gomes,D. Chambost,,,,
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,79,,card,S. Rodríguez,False,yellow,Foul,,,,,,
+mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,8,,goal,R. Lewandowski,True,,,,,,,1,0
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,83,,substitution,,False,,,A. Herrera,A. Zaroury,,,,
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,83,,substitution,,False,,,B. Lennon,M. Farsi,,,,
 mls_2026,2026-11-07,,Chicago Fire,Columbus Crew,3,4,83,,substitution,,True,,,P. Dithejane,P. Zinckernagel,,,,
@@ -9973,11 +9973,10 @@ mls_2026,2026-11-07,,FC Cincinnati,Nashville SC,0,2,90,6,card,M. Woledzi,False,y
 mls_2026,2026-11-07,,FC Cincinnati,Nashville SC,0,2,90,,card,A. Muyl,False,yellow,Foul,,,,,,
 mls_2026,2026-11-07,,FC Cincinnati,Nashville SC,0,2,90,,substitution,,False,,,W. Madrigal,H. Mukhtar,,,,
 mls_2026,2026-11-07,,FC Cincinnati,Nashville SC,0,2,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,4,,varDecision,L. Abada,False,,,,,,,,
-mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,9,,card,T. Segovia,True,yellow,Foul,,,,,,
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,14,,goal,I. Fray,True,,,,,,,1,0
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,24,,substitution,,True,,,G. Luján,S. Reguilón,,,,
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,33,,goal,L. Suárez,True,,,,,,,2,0
+mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,4,,varDecision,L. Abada,False,,,,,,,,
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,42,,goal,R. De Paul,True,,,,,,,3,0
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,45,,period,,,,,,,HT,,3,0
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,45,,injuryTime,,,,,,,,5,,
@@ -9993,6 +9992,7 @@ mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,69,,substitution,,False,,,D
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,69,,substitution,,False,,,A. Doucouré,A. Westwood,,,,
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,83,,substitution,,False,,,B. Bronico,L. D. L. Torre,,,,
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,88,,card,D. Schnegg,False,yellow,Off the ball foul,,,,,,
+mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,9,,card,T. Segovia,True,yellow,Foul,,,,,,
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,90,,period,,,,,,,FT,,3,3
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,90,,goal,R. Aloko,False,,,,,,,3,3
 mls_2026,2026-11-07,,Inter Miami CF,Charlotte FC,3,3,90,,injuryTime,,,,,,,,5,,

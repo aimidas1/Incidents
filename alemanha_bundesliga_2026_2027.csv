@@ -1643,7 +1643,6 @@ alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,83
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,86,,substitution,,False,,,C. Itten,E. Dinkçi,,,,
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,90,,period,,,,,,,FT,,1,0
 alemanha_bundesliga_2026_2027,2026-11-07,9,VfB Stuttgart,SV Werder Bremen,1,0,90,,injuryTime,,,,,,,,3,,
-alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,7,,goal,A. García,False,,,,,,,0,1
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,34,,card,F. Medina,False,yellow,Off the ball foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,40,,card,T. Krauß,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,45,,period,,,,,,,HT,,0,1
@@ -1653,6 +1652,7 @@ alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,5
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,52,,card,L. Maina,True,yellow,Argument,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,53,,card,E. Tapsoba,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,57,,card,J. Schmied,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,7,,goal,A. García,False,,,,,,,0,1
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,70,,card,B. Sosa,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,74,,substitution,,True,,,Í. B. Jóhannesson,T. Krauß,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,75,,substitution,,True,,,R. Heskey,L. Maina,,,,
@@ -1669,8 +1669,8 @@ alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,9
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,5,card,A. García,False,yellow,Argument,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,2,goal,S. El Mala,True,,,,,,,1,2
 alemanha_bundesliga_2026_2027,2026-11-08,9,1. FC Köln,Bayer 04 Leverkusen,1,2,90,,injuryTime,,,,,,,,4,,
-alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,2,,card,I. Matanović,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,19,,card,Z. Van Den Bosch,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,2,,card,I. Matanović,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,27,,card,Y. Engelhardt,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,45,,period,,,,,,,HT,,0,0
 alemanha_bundesliga_2026_2027,2026-11-08,9,SC Freiburg,1. FC Union Berlin,2,0,46,,substitution,,False,,,O. Burke,T. Skarke,,,,

@@ -1916,7 +1916,6 @@ inglaterra_premier_league_2026_2027,2026-11-07,10,Nottingham Forest,Manchester C
 inglaterra_premier_league_2026_2027,2026-11-07,10,Nottingham Forest,Manchester City,3,1,90,5,card,I. Jesus,True,yellow,Time wasting,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-07,10,Nottingham Forest,Manchester City,3,1,90,4,card,L. Netz,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-07,10,Nottingham Forest,Manchester City,3,1,90,,injuryTime,,,,,,,,4,,
-inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,5,,card,K. Ajer,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,15,,goal,D. Gómez,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,22,,card,C. Andrés,True,yellow,Argument,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,23,,card,I. Thiago,False,red,Violent conduct,,,,,,
@@ -1928,6 +1927,7 @@ inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentfo
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,46,,substitution,,False,,,N. Collins,A. Hickey,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,46,,substitution,,True,,,M. Wieffer,C. Andrés,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,46,,substitution,,False,,,Y. Yarmoliuk,D. Ouattara,,,,
+inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,5,,card,K. Ajer,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,51,,card,M. Wieffer,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,59,,substitution,,False,,,M. Jensen,M. Sangare,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Brighton & Hove Albion,Brentford,2,0,59,,substitution,,False,,,E. H. M. Diouf,K. Lewis-Potter,,,,
@@ -1963,13 +1963,13 @@ inglaterra_premier_league_2026_2027,2026-11-08,10,Crystal Palace,Liverpool FC,1,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Crystal Palace,Liverpool FC,1,3,90,1,substitution,,False,,,J. Gomez,R. Araújo,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Crystal Palace,Liverpool FC,1,3,90,,substitution,,False,,,L. Koumas,A. Isak,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Crystal Palace,Liverpool FC,1,3,90,,injuryTime,,,,,,,,4,,
-inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,5,,goal,Evanilson,False,,,,,,,0,1
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,43,,card,M. Tavernier,False,yellow,Argument,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,43,,card,J. Enciso,True,yellow,Argument,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,43,,card,A. Smith,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,45,,period,,,,,,,HT,,0,1
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,45,,injuryTime,,,,,,,,1,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,46,,goal,L. Davis,False,,,,,,,0,2
+inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,5,,goal,Evanilson,False,,,,,,,0,1
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,54,,substitution,,True,,,Z. Flemming,Emersonn,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,54,,substitution,,True,,,J. Clarke,J. Philogene-Bidace,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,65,,substitution,,True,,,A. F. Issahaku,D. Maeda,,,,
@@ -1985,8 +1985,8 @@ inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,9
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,90,3,card,A. Silva,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Ipswich Town,Bournemouth,1,2,90,,injuryTime,,,,,,,,9,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,1,,goal,Alysson,False,,,,,,,0,1
-inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,4,,goal,N. Jackson,False,,,,,,,0,2
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,16,,goal,B. Fernandes,True,,,,,,,1,2
+inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,4,,goal,N. Jackson,False,,,,,,,0,2
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,44,,goal,Y. Tielemans,True,,,,,,,2,2
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,45,,period,,,,,,,HT,,2,2
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,45,,injuryTime,,,,,,,,4,,
@@ -2008,10 +2008,10 @@ inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,90,6,goal,P. Dorgu,True,,,,,,,4,4
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,90,2,goal,J. Zirkzee,True,,,,,,,3,4
 inglaterra_premier_league_2026_2027,2026-11-08,10,Manchester United,Aston Villa,4,4,90,,injuryTime,,,,,,,,6,,
-inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,4,,substitution,,True,,,J. Ahoka,G. Xhaka,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,21,,card,J. Ahoka,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,35,,card,L. Colwill,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,36,,goal,E. Le Fée,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,4,,substitution,,True,,,J. Ahoka,G. Xhaka,,,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,45,,period,,,,,,,HT,,1,0
 inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,45,,injuryTime,,,,,,,,5,,
 inglaterra_premier_league_2026_2027,2026-11-08,10,Sunderland,Chelsea,1,0,46,,substitution,,False,,,Estêvão,L. Colwill,,,,

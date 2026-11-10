@@ -3912,8 +3912,6 @@ k_league_1_2026,2026-11-08,35,FC Seoul,Ulsan HD,1,2,83,,substitution,,False,,,S.
 k_league_1_2026,2026-11-08,35,FC Seoul,Ulsan HD,1,2,90,,period,,,,,,,FT,,1,2
 k_league_1_2026,2026-11-08,35,FC Seoul,Ulsan HD,1,2,90,2,substitution,,False,,,I. Back,E. Farias,,,,
 k_league_1_2026,2026-11-08,35,FC Seoul,Ulsan HD,1,2,90,,goal,Yago,False,,,,,,,1,2
-k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,8,,card,S. Min-Ha,True,yellow,Foul,,,,,,
-k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,9,,goal,A. Compagno,False,,,,,,,0,1
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,13,,goal,S. Min-Ha,True,,,,,,,1,1
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,39,,goal,J. H. Mo,True,,,,,,,2,1
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,45,,period,,,,,,,HT,,2,1
@@ -3922,10 +3920,12 @@ k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,46,,substitu
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,53,,card,Y. J. Lee,False,yellow,Foul,,,,,,
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,59,,substitution,,False,,,T. Orobó,A. Compagno,,,,
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,66,,substitution,,False,,,Italo,S. Lee,,,,
+k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,8,,card,S. Min-Ha,True,yellow,Foul,,,,,,
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,82,,substitution,,True,,,H. Chul,H. Y. Park,,,,
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,82,,substitution,,True,,,P. Sang-Hyeok,Y. Goh,,,,
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,86,,goal,D. J. Lee,False,,,,,,,2,2
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,88,,substitution,,True,,,K. Dong-hyeon,M. Seo,,,,
+k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,9,,goal,A. Compagno,False,,,,,,,0,1
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,90,,period,,,,,,,FT,,3,2
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,90,4,goal,P. Sang-Hyeok,True,,,,,,,3,2
 k_league_1_2026,2026-11-08,35,Gangwon FC,Jeonbuk Hyundai Motors,3,2,90,4,substitution,,True,,,A. Halaihal,B. Choi,,,,

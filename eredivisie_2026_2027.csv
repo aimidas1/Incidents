@@ -2066,7 +2066,6 @@ eredivisie_2026_2027,2026-11-07,12,Fortuna Sittard,SC Telstar,2,2,90,4,substitut
 eredivisie_2026_2027,2026-11-07,12,Fortuna Sittard,SC Telstar,2,2,90,4,substitution,,True,,,N. d. Groot,J. Dahlhaus,,,,
 eredivisie_2026_2027,2026-11-07,12,Fortuna Sittard,SC Telstar,2,2,90,,injuryTime,,,,,,,,4,,
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,2,,goal,J. Ondrejka,False,,,,,,,0,1
-eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,9,,goal,M. Meerdink,True,,,,,,,1,1
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,45,,period,,,,,,,HT,,1,1
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,45,,injuryTime,,,,,,,,1,,
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,47,,goal,B. Darri Willumsson,False,,,,,,,1,2
@@ -2086,6 +2085,7 @@ eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,84,,substitution,
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,84,,substitution,,True,,,C. Stengs,R. Daal,,,,
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,85,,card,E. Vaessen,False,yellow,Foul,,,,,,
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,88,,card,E. Vaessen,False,yellowRed,Argument,,,,,,
+eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,9,,goal,M. Meerdink,True,,,,,,,1,1
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,90,,period,,,,,,,FT,,4,3
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,90,10,card,H. Hateboer,False,red,Professional handball,,,,,,
 eredivisie_2026_2027,2026-11-08,12,AZ Alkmaar,FC Groningen,4,3,90,6,substitution,,True,,,M. De Wit,M. Chávez,,,,

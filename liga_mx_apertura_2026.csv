@@ -3015,7 +3015,6 @@ liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,84,,substituti
 liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,87,,goal,P. Bellón,True,,,,,,,1,1
 liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,90,,period,,,,,,,FT,,1,1
 liga_mx_apertura_2026,2026-11-09,16,Club León,CD Guadalajara,1,1,90,,injuryTime,,,,,,,,5,,
-liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,9,,goal,K. Velasco,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,36,,goal,O. M. Villegas,False,,,,,,,0,2
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,45,,period,,,,,,,HT,,0,2
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,45,,card,Ó. Villa,False,yellow,Foul,,,,,,
@@ -3035,6 +3034,7 @@ liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,79,,substituti
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,79,,substitution,,False,,,A. Ramirez,A. Organista,,,,
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,79,,substitution,,True,,,Á. Alcalá,I. Benito,,,,
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,86,,card,A. Ramirez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,9,,goal,K. Velasco,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,,period,,,,,,,FT,,0,2
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,5,card,S. Homenchenko,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,,injuryTime,,,,,,,,6,,

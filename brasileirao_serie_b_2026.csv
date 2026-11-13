@@ -7969,3 +7969,50 @@ brasileirao_serie_b_2026,2026-11-11,38,Londrina,Náutico,2,1,88,,goal,G. Cachoei
 brasileirao_serie_b_2026,2026-11-11,38,Londrina,Náutico,2,1,90,,period,,,,,,,FT,,2,1
 brasileirao_serie_b_2026,2026-11-11,38,Londrina,Náutico,2,1,90,1,goal,J. Coni,True,,,,,,,2,1
 brasileirao_serie_b_2026,2026-11-11,38,Londrina,Náutico,2,1,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,26,,card,E. Ferreira,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,46,,substitution,,True,,,V. Ribeiro,E. Ferreira,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,58,,substitution,,False,,,R. G. R. Moreira,Joseph,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,58,,substitution,,False,,,Maxwell,C. Vilela,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,64,,card,L. Erig,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,72,,goal,N. Schulz,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,74,,card,N. Schulz,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,74,,substitution,,False,,,J. G. R. Botao,Heitor,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,74,,substitution,,False,,,B. P. Silva,L. Erig,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,75,,substitution,,False,,,G. Gabriel,C. Dantas,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,81,,substitution,,True,,,J. d. Oliveira,J. R. Leopoldino,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,82,,substitution,,True,,,Miguel,Brandão,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,82,,substitution,,True,,,T. D. A. Souza,Peu,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,82,,substitution,,True,,,G. M. Ferreira,F. D. Mauro,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,90,,period,,,,,,,FT,,0,2
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,90,3,card,G. Telles,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,90,2,goal,D. Mosconi,False,,,,,,,0,2
+brasileirao_serie_b_2026,2026-11-12,38,Ponte Preta,Operário-PR,0,2,90,,injuryTime,,,,,,,,4,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,28,,card,Hugo,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,30,,substitution,,False,,,P. Sampaio,Jhonathan,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,32,,card,Augusto,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,45,2,card,Jemerson,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,46,,goal,K. Rodrigues,False,,,,,,,0,1
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,46,,substitution,,True,,,Echaporã,Hugo,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,50,,goal,B. Melo,True,,,,,,,1,1
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,57,,card,G. Silva,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,58,,card,J. Miguel,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,59,,substitution,,False,,,F. Vieira,D. Vera,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,59,,substitution,,False,,,L. Fernando,G. Silva,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,69,,card,Alex,False,yellow,Argument,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,70,,varDecision,Galdino,True,,,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,72,,card,Galdino,True,red,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,75,,substitution,,True,,,F. Garcia,Fabrício Daniel,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,75,,substitution,,True,,,D. Miraíma,B. Melo,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,76,,substitution,,False,,,E. Freire,Tony,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,76,,substitution,,False,,,Jota,Y. Santos,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,82,,goal,F. Garcia,True,,,,,,,2,1
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,83,,substitution,,True,,,Foguinho,D. D. S. Roque,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,84,,card,F. Vieira,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,85,,goal,G. Brigida,False,,,,,,,2,2
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,87,,substitution,,True,,,Pará,Jota,,,,
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,90,,period,,,,,,,FT,,2,2
+brasileirao_serie_b_2026,2026-11-12,38,São Bernardo,Athletic Club,2,2,90,,injuryTime,,,,,,,,10,,

@@ -7103,3 +7103,43 @@ brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,88,,card,L. Silva
 brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,90,,period,,,,,,,FT,,0,3
 brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,90,,goal,R. Castillo,False,,,,,,,0,3
 brasileirao_serie_a_2026,2026-11-06,34,Vitória,Fluminense,0,3,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,24,,card,R. Renan,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,36,,goal,B. Duarte,False,,,,,,,0,1
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,45,,period,,,,,,,HT,,0,1
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,46,,substitution,,True,,,D. Antunes,Y. Felipe,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,56,,card,D. Borrero,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,57,,substitution,,True,,,Fernando,D. Borrero,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,60,,substitution,,False,,,L. Freitas,R. Renan,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,62,,substitution,,False,,,R. Rique,M. Hinestroza,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,72,,substitution,,False,,,Cuiabano,L. Piton,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,72,,substitution,,False,,,L. Augusto,F. Colidio,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,76,,substitution,,True,,,R. Endrio,Max,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,80,,card,Camilo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,81,,goal,B. Duarte,False,,,,,,,0,2
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,82,,substitution,,False,,,Brenner,B. Duarte,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,88,,varDecision,Heitor,True,,,,,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,89,,card,B. Pacheco,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,90,,period,,,,,,,FT,,0,2
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,90,,substitution,,True,,,V. Eduardo,V. Caetano,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,90,,substitution,,True,,,M. Carvalho,G. Augusto,,,,
+brasileirao_serie_a_2026,2026-11-14,21,Chapecoense,Vasco da Gama,0,2,90,,injuryTime,,,,,,,,5,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,7,,card,N. Moura,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,46,,substitution,,True,,,J. Aldo,N. Moura,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,47,,card,Alesson,True,yellow,Handball,,,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,56,,substitution,,True,,,E. Carioca,C. Eduardo,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,64,,substitution,,True,,,Fernandinho,Alesson,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,64,,substitution,,True,,,Eduardo,Shaylon,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,64,,substitution,,False,,,Alexsander,Bernard,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,64,,substitution,,False,,,M. Cissé,Fred,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,69,,substitution,,False,,,Dudu,T. Cuello,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,69,,substitution,,False,,,G. Scarpa,I. Gomes,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,81,,substitution,,True,,,Chico,Denilson,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,82,,substitution,,False,,,V. Hugo,Ruan,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,90,,period,,,,,,,FT,,0,0
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,90,6,card,E. Carioca,True,red,Violent conduct,,,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,90,5,card,Natanael,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,90,2,card,J. Aldo,True,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-14,35,Mirassol,Atlético Mineiro,0,0,90,,injuryTime,,,,,,,,6,,

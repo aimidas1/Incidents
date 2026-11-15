@@ -3038,3 +3038,26 @@ liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,9,,goal,K. Vel
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,,period,,,,,,,FT,,0,2
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,5,card,S. Homenchenko,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-09,16,Querétaro FC,Club Puebla,0,2,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,40,,card,R. Chávez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,46,,substitution,,False,,,L. Orellano,R. Chávez,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,46,,substitution,,False,,,A. D. Nigris,C. Garza,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,48,,goal,D. Rossi,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,50,,card,D. Parra,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,51,,card,R. de la Rosa,False,yellow,Time wasting,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,51,,card,G. Allison,True,red,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,55,,substitution,,True,,,J. Hernández,I. Benito,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,56,,substitution,,True,,,P. Victor,D. Parra,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,65,,substitution,,False,,,F. Ambríz,R. de la Rosa,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,67,,substitution,,True,,,D. Munoz,C. Villanueva,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,68,,card,D. Munoz,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,71,,card,L. Abascia,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,76,,substitution,,False,,,J. Rodríguez,D. Rossi,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,77,,substitution,,True,,,W. Madrid,C. A. García,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,77,,substitution,,True,,,E. Perez,A. Ávila,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,79,,varDecision,E. Perez,True,,,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,80,,card,E. Perez,True,red,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,90,,period,,,,,,,FT,,0,1
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,90,3,card,D. Reyes,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,90,,injuryTime,,,,,,,,11,,

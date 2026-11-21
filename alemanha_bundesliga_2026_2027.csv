@@ -1707,3 +1707,22 @@ alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,10,card,A. Aouchiche,False,yellow,Argument,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,6,substitution,,True,,,M. Moerstedt,T. Lemperle,,,,
 alemanha_bundesliga_2026_2027,2026-11-08,9,TSG Hoffenheim,FC Schalke 04,2,1,90,,injuryTime,,,,,,,,9,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,12,,goal,M. Moore,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,20,,substitution,,True,,,T. Bischof,H. Kane,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,37,,goal,N. Brown,True,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,45,,period,,,,,,,HT,,1,1
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,45,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,46,,substitution,,True,,,T. Binder,M. Olise,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,56,,card,P. Okon-Engstler,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,62,,card,D. Upamecano,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,66,,card,S. El Mala,False,yellow,Time wasting,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,70,,substitution,,True,,,K. Min-jae,D. Upamecano,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,70,,substitution,,True,,,J. Musiala,K. Laimer,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,77,,substitution,,False,,,Í. B. Jóhannesson,P. Okon-Engstler,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,77,,substitution,,False,,,J. Thielmann,L. Maina,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,85,,substitution,,False,,,A. Castro-Montes,S. Sebulonsen,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,85,,substitution,,False,,,R. Heskey,S. El Mala,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,87,,substitution,,True,,,N. Codjo-Evora,A. Pavlović,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,90,,period,,,,,,,FT,,1,1
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,90,1,substitution,,False,,,M. Bülter,M. Moore,,,,
+alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,90,,injuryTime,,,,,,,,2,,

@@ -10406,3 +10406,33 @@ argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old
 argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old Boys,2,2,90,,period,,,,,,,FT,,2,2
 argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old Boys,2,2,90,3,goal,M. Tissera,True,,,,,,,2,2
 argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old Boys,2,2,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,11,,goal,R. Hernandes,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,42,,card,E. Gómez,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,42,,card,F. Vázquez,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,43,,card,R. Hernandes,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,59,,goal,R. Martinez,True,,,,,,,1,1
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,67,,card,R. Aliendro,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,69,,substitution,,True,,,L. Feler,C. Baeza,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,70,,substitution,,False,,,N. Fernández,L. Passerini,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,71,,card,A. Sánchez,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,77,,substitution,,False,,,J. M. Velázquez,R. Hernandes,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,78,,card,L. Feler,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,82,,substitution,,True,,,J. Gordon,J. García,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,87,,substitution,,True,,,Á. Verón,D. Valdés,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,87,,substitution,,False,,,A. Benítez,A. Falcón,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,87,,substitution,,False,,,F. G. Metilli,E. Rigoni,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,87,,substitution,,False,,,S. Longo,F. Vázquez,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,90,,period,,,,,,,FT,,1,1
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,99,,substitution,,True,,,T. Aguirre,Á. Verón,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,100,,goal,N. Fernández,False,,,,,,,1,2
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,105,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,106,,substitution,,True,,,M. Arias,M. Lanzini,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,106,,substitution,,True,,,D. Godoy,M. Pellegrini,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,110,,goal,D. Godoy,True,,,,,,,2,2
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,116,,card,L. Cristaldo,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,120,,period,,,,,,,ET,,2,2
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,120,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,999,,period,,,,,,,PEN,,3,1

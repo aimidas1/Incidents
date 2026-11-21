@@ -2122,3 +2122,28 @@ arabia_saudita_pro_league_2026_2027,2026-10-31,12,Al-Taawoun,Al-Ettifaq,1,1,90,,
 arabia_saudita_pro_league_2026_2027,2026-10-31,12,Al-Taawoun,Al-Ettifaq,1,1,90,1,card,A. Hawsawi,False,yellow,Foul,,,,,,
 arabia_saudita_pro_league_2026_2027,2026-10-31,12,Al-Taawoun,Al-Ettifaq,1,1,90,,goal,A. Khateeb,False,,,,,,,1,1
 arabia_saudita_pro_league_2026_2027,2026-10-31,12,Al-Taawoun,Al-Ettifaq,1,1,90,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,14,,goal,C. Ronaldo,False,,,,,,,0,1
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,18,,penalty_missed,C. Ronaldo,False,,post,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,23,,card,E. Spertsyan,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,34,,varDecision,M. Demiral,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,40,,card,S. Y. Balobaid,True,yellow,Simulation,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,45,,period,,,,,,,HT,,1,1
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,45,1,goal,W. Galeno,True,,,,,,,1,1
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,45,,injuryTime,,,,,,,,5,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,46,,substitution,,True,,,Z. Hawsawi,S. Y. Balobaid,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,48,,card,A. Aman,False,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,61,,card,A. Al-Hamdan,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,61,,card,W. Galeno,True,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,66,,varDecision,M. Demiral,True,,,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,69,,card,M. Simakan,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,69,,card,I. Martínez,False,yellow,Argument,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,71,,substitution,,False,,,K. Coman,A. Al-Khaibari,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,71,,goal,I. Toney,True,,,,,,,2,1
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,75,,goal,R. Ibañez,True,,,,,,,3,1
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,80,,substitution,,True,,,F. Al-Buraikan,E. Spertsyan,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,87,,substitution,,False,,,A. Ghareeb,Ângelo,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,90,,period,,,,,,,FT,,3,1
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,90,7,card,R. Ibañez,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,90,3,card,Z. Hawsawi,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,90,1,card,Z. Aljohani,True,yellow,Foul,,,,,,
+arabia_saudita_pro_league_2026_2027,2026-11-20,9,Al-Ahli,Al-Nassr,3,1,90,,injuryTime,,,,,,,,6,,

@@ -1836,3 +1836,29 @@ france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,83,,substitu
 france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,83,,substitution,,False,,,I. Cossier,N. Mukau,,,,
 france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,90,,period,,,,,,,FT,,1,2
 france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,3,,goal,J. Maja,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,19,,goal,A. Mille,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,34,,card,J. Maja,False,yellow,,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,40,,card,K. Dermane,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,40,,card,J. Mwanga,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,45,,period,,,,,,,HT,,1,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,45,,injuryTime,,,,,,,,1,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,46,,substitution,,True,,,L. Maronnier,Y. Titi,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,64,,card,I. Boura,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,66,,substitution,,False,,,D. Ouziad,K. Mizuta,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,66,,substitution,,False,,,H. Dongopandji,R. Fofana,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,69,,goal,A. Mille,True,,,,,,,2,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,77,,card,A. Touba,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,78,,substitution,,True,,,H. Picard,M. Ifnaoui,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,78,,substitution,,True,,,R. Ripart,J. Le Douaron,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,79,,substitution,,False,,,I. Bouneb,S. Ebonog,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,87,,substitution,,False,,,A. Samatta,J. Maja,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,87,,substitution,,False,,,B. Wade,V. Sasso,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,87,,substitution,,True,,,I. Gomis,M. Diop,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,88,,varDecision,E. Koffi,False,,,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,89,,card,E. Koffi,False,red,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,,period,,,,,,,FT,,3,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,8,goal,R. Ripart,True,,,,,,,3,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,7,varDecision,H. Picard,True,,,,,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,3,substitution,,True,,,T. Nkada,K. Diawara,,,,
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,,injuryTime,,,,,,,,7,,

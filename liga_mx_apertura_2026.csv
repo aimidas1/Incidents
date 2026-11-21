@@ -3061,3 +3061,61 @@ liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,80,,card,E. Pe
 liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,90,,period,,,,,,,FT,,0,1
 liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,90,3,card,D. Reyes,True,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-14,7,Querétaro FC,CF Monterrey,0,1,90,,injuryTime,,,,,,,,11,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,4,,goal,M. Tomás,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,26,,substitution,,True,,,F. Monarrez,J. Pachuca,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,37,,card,K. Velasco,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,40,,card,E. Águila,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,48,,goal,F. Mora,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,67,,substitution,,False,,,S. Muñoz,F. Mora,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,68,,substitution,,True,,,E. Mustre,M. Tomás,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,74,,substitution,,True,,,Á. Leyva,J. Vargas,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,74,,substitution,,True,,,C. Baltazar,O. M. Villegas,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,75,,substitution,,True,,,S. Sanabria,A. Organista,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,80,,substitution,,False,,,S. P. Bouquet,D. Rodriguez,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,90,,period,,,,,,,FT,,1,1
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,90,,substitution,,False,,,R. Torres,B. Galdames,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,90,,substitution,,False,,,L. Flores,A. Duarte,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Puebla,Atlético San Luis,1,1,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,18,,substitution,,True,,,U. Bilbao,J. Vega,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,22,,card,J. Gómez,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,40,,card,U. Bilbao,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,45,,period,,,,,,,HT,,0,0
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,45,1,card,G. Adame,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,45,,card,I. Tona,True,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,46,,substitution,,True,,,E. Manoel,M. E. Ghezouani,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,46,,substitution,,False,,,C. Alfaro,D. Bagüí,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,46,,substitution,,False,,,J. González,G. Adame,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,57,,card,J. González,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,57,,substitution,,False,,,J. Moxica,L. Puente,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,69,,substitution,,False,,,O. Vázquez,L. Calzadilla,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,75,,card,L. Sánchez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,77,,goal,G. Mora,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,79,,card,M. Sarrafiore,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,80,,substitution,,True,,,P. N. Ortíz,G. Mora,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,86,,substitution,,True,,,R. Árciga,F. González,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,86,,substitution,,False,,,J. Charcopa,J. Julio,,,,
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,90,,period,,,,,,,FT,,1,0
+liga_mx_apertura_2026,2026-11-21,17,Club Tijuana,Atlante FC,1,0,90,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,19,,goal,V. Ríos,False,,,,,,,0,1
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,23,,goal,Ó. Estupiñán,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,45,,injuryTime,,,,,,,,5,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,53,,card,M. d. S. Silva,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,58,,substitution,,False,,,E. Montiel,V. Ríos,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,68,,substitution,,True,,,L. M. Dupuy,Ó. Estupiñán,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,71,,substitution,,False,,,J. Martín,R. Mmaee,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,71,,substitution,,False,,,J. Sánchez,A. Rocha,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,74,,card,J. Sánchez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,76,,goal,L. M. Dupuy,True,,,,,,,2,1
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,77,,substitution,,True,,,J. L. Rodríguez,J. Torres,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,77,,substitution,,True,,,Ricardinho,G. Castilho,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,81,,substitution,,False,,,S. Hernandez,E. Zaldívar,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,83,,goal,J. Purata,False,,,,,,,2,2
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,87,,card,G. Sepúlveda,True,yellow,Time wasting,,,,,,
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,90,,period,,,,,,,FT,,3,3
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,90,8,goal,J. L. Rodríguez,True,,,,,,,3,3
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,90,3,goal,E. Montiel,False,,,,,,,2,3
+liga_mx_apertura_2026,2026-11-21,17,FC Juárez,Atlas FC,3,3,90,,injuryTime,,,,,,,,7,,

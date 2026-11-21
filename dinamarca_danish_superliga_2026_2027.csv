@@ -1741,3 +1741,20 @@ dinamarca_danish_superliga_2026_2027,2026-11-08,14,Randers FC,FC Nordsjælland,1
 dinamarca_danish_superliga_2026_2027,2026-11-08,14,Randers FC,FC Nordsjælland,1,6,81,,varDecision,A. Lind,False,,,,,,,,
 dinamarca_danish_superliga_2026_2027,2026-11-08,14,Randers FC,FC Nordsjælland,1,6,90,,period,,,,,,,FT,,1,6
 dinamarca_danish_superliga_2026_2027,2026-11-08,14,Randers FC,FC Nordsjælland,1,6,90,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,2,,card,T. Mølgaard,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,13,,goal,F. Emmery,True,,,,,,,1,0
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,17,,goal,S. Colyn,False,,,,,,,1,1
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,26,,goal,J. Andersen,True,,,,,,,2,1
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,44,,card,M. Fischer,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,45,,period,,,,,,,HT,,2,1
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,45,5,card,S. Colyn,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,45,,injuryTime,,,,,,,,4,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,63,,substitution,,True,,,M. Anderson,C. McCowatt,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,63,,substitution,,True,,,G. Links,F. Emmery,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,64,,substitution,,False,,,D. H. Aronsson,A. Hoskonen,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,64,,substitution,,False,,,J. J. Thomasen,Í. S. Þorvaldsson,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,73,,substitution,,True,,,R. Carstensen,J. Andersen,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,85,,substitution,,True,,,S. Jørgensen,T. Bech,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,85,,substitution,,True,,,J. Bogere,S. Tchamche,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,90,,period,,,,,,,FT,,2,1
+dinamarca_danish_superliga_2026_2027,2026-11-20,15,AGF,Lyngby,2,1,90,,injuryTime,,,,,,,,3,,

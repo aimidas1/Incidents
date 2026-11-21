@@ -2798,3 +2798,54 @@ japao_j1_league_2026_2027,2026-11-08,14,Vissel Kobe,Urawa Red Diamonds,2,2,90,3,
 japao_j1_league_2026_2027,2026-11-08,14,Vissel Kobe,Urawa Red Diamonds,2,2,90,3,substitution,,True,,,R. Komatsu,Y. Ideguchi,,,,
 japao_j1_league_2026_2027,2026-11-08,14,Vissel Kobe,Urawa Red Diamonds,2,2,90,1,goal,T. Kaneko,False,,,,,,,1,2
 japao_j1_league_2026_2027,2026-11-08,14,Vissel Kobe,Urawa Red Diamonds,2,2,90,,injuryTime,,,,,,,,4,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,45,,period,,,,,,,HT,,0,0
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,46,,substitution,,False,,,J. R. Sumiyoshi,Y. Honda,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,65,,substitution,,False,,,K. Kitagawa,K. Kozuka,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,65,,substitution,,True,,,A. Čavrić,H. Hayashi,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,73,,goal,K. Kitagawa,False,,,,,,,0,1
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,76,,substitution,,False,,,K. Kosuke,K. Matsuzaki,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,76,,substitution,,False,,,D. J. Won,K. Koizumi,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,78,,substitution,,True,,,M. Haruto,K. Tsukui,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,78,,substitution,,True,,,H. Tokuda,Élber,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,78,,substitution,,True,,,G. Shibasaki,K. Misao,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,79,,substitution,,False,,,T. Fujii,Capixaba,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,86,,card,R. Germain,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,87,,substitution,,True,,,M. Yoshida,M. Bueno,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,88,,goal,L. Ceará,True,,,,,,,1,1
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,90,,period,,,,,,,FT,,1,1
+japao_j1_league_2026_2027,2026-11-20,15,Kashima Antlers,Shimizu S-Pulse,1,1,90,,injuryTime,,,,,,,,6,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,45,,period,,,,,,,HT,,0,0
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,45,,injuryTime,,,,,,,,1,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,46,,substitution,,True,,,Y. Segawa,Y. Kakita,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,46,,substitution,,True,,,T. Kubo,K. Endo,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,46,,substitution,,True,,,N. Nakagawa,Y. Yamada,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,60,,substitution,,True,,,M. Watai,M. Mitsuta,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,66,,substitution,,False,,,H. Goya,K. Yamura,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,66,,substitution,,False,,,Erison,L. Rocha,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,75,,substitution,,True,,,M. Hosoya,Y. Koizumi,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,76,,substitution,,False,,,N. Sugiyama,T. Tsukui,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,76,,goal,H. Goya,False,,,,,,,0,1
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,78,,card,W. Harada,True,yellow,Argument,,,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,86,,substitution,,False,,,R. Ishio,M. Hidaka,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,86,,substitution,,False,,,Y. Kobayashi,Eduardo,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,90,,period,,,,,,,FT,,0,1
+japao_j1_league_2026_2027,2026-11-20,15,Kashiwa Reysol,JEF United Chiba,0,1,90,,injuryTime,,,,,,,,6,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,6,,goal,M. Nishihara,False,,,,,,,0,1
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,27,,substitution,,True,,,Erik,Y. Muto,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,45,,period,,,,,,,HT,,0,1
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,45,,injuryTime,,,,,,,,1,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,46,,substitution,,True,,,J. Patric,R. Komatsu,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,51,,goal,Y. Osako,True,,,,,,,1,1
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,58,,card,T. Yamakawa,True,red,Professional foul last man,,,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,64,,substitution,,True,,,T. Iwanami,Y. Iwamoto,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,69,,substitution,,False,,,K. Taniguchi,J. Okumura,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,69,,substitution,,False,,,C. Kato,Y. Tamura,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,72,,card,T. Mase,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,73,,substitution,,False,,,S. Suetani,M. Nishihara,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,78,,substitution,,False,,,H. Leonardo,Y. Funabashi,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,78,,substitution,,False,,,K. Uchino,R. Nemoto,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,80,,substitution,,True,,,Y. Goke,D. Sasaki,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,80,,substitution,,True,,,A. Lopes,Y. Osako,,,,
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,89,,goal,Y. Kimoto,False,,,,,,,1,2
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,90,,period,,,,,,,FT,,1,2
+japao_j1_league_2026_2027,2026-11-20,15,Vissel Kobe,Mito Hollyhock,1,2,90,,injuryTime,,,,,,,,6,,

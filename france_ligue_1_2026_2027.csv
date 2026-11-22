@@ -1836,8 +1836,8 @@ france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,83,,substitu
 france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,83,,substitution,,False,,,I. Cossier,N. Mukau,,,,
 france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,90,,period,,,,,,,FT,,1,2
 france_ligue_1_2026_2027,2026-11-08,10,Stade Rennais,LOSC Lille,1,2,90,,injuryTime,,,,,,,,4,,
-france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,3,,goal,J. Maja,False,,,,,,,0,1
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,19,,goal,A. Mille,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,3,,goal,J. Maja,False,,,,,,,0,1
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,34,,card,J. Maja,False,yellow,,,,,,,
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,40,,card,K. Dermane,True,yellow,Foul,,,,,,
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,40,,card,J. Mwanga,False,yellow,Argument,,,,,,
@@ -1862,3 +1862,101 @@ france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,8,goal,R. Ripart,T
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,7,varDecision,H. Picard,True,,,,,,,,
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,3,substitution,,True,,,T. Nkada,K. Diawara,,,,
 france_ligue_1_2026_2027,2026-11-20,11,Troyes,Le Havre,3,1,90,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,18,,varDecision,L. Camara,True,,,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,29,,goal,R. Faivre,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,45,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,59,,substitution,,True,,,F. Balogun,T. Minamino,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,69,,substitution,,True,,,E. Diop,D. Zakaria,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,69,,substitution,,True,,,M. Detourbet,F. Nazinho,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,72,,substitution,,False,,,C. Makosso,T. Siwe,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,72,,substitution,,False,,,K. Danois,R. Lascary,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,76,,substitution,,False,,,L. Sy,M. Senaya,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,80,,substitution,,True,,,I. Belmokhtar,M. Abline,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,81,,substitution,,False,,,A. Piedfort,P. Ekwah,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,82,,goal,E. Diop,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,88,,card,Filipe Luís,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,90,,period,,,,,,,FT,,1,1
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,90,5,card,P. Nardi,False,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,AS Monaco,AJ Auxerre,1,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,40,,goal,M. Bidstrup,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,42,,varDecision,E. Nuamah,False,,,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,45,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,46,,substitution,,True,,,A. Ueda,S. Diaoune,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,52,,substitution,,True,,,M. Goffi,T. Nianzou,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,62,,substitution,,True,,,E. Mbappé,D. Bakwa,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,74,,substitution,,False,,,R. Kluivert,Z. Athekame,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,74,,substitution,,False,,,N. Tagliafico,Abner Vinícius,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,80,,substitution,,True,,,O. Giroud,N. Mukau,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,80,,substitution,,True,,,C. Verdonk,R. Perraud,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,82,,substitution,,False,,,K. Boudache,E. Nuamah,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,82,,substitution,,False,,,J. Duranville,K. Nakamura,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,,period,,,,,,,FT,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,3,card,C. Tolisso,False,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,,substitution,,False,,,N. Nartey,K. Merah,,,,
+france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,8,,goal,M. E. A. Amoura,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,27,,varDecision,J. Neves,False,,,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,31,,goal,S. Mayulu,False,,,,,,,1,1
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,32,,goal,D. Doué,False,,,,,,,1,2
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,44,,substitution,,False,,,F. Torres,D. Doué,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,45,,period,,,,,,,HT,,1,2
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,45,,injuryTime,,,,,,,,8,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,54,,card,H. Boudaoui,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,61,,substitution,,False,,,O. Dembélé,S. Mayulu,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,61,,substitution,,False,,,W. Pacho,N. Mendes,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,62,,substitution,,True,,,M. Sanson,S. Diop,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,62,,substitution,,False,,,M. Godts,M. Akliouche,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,65,,varDecision,M. Godts,False,,,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,66,,substitution,,True,,,A. Abdi,X. Mandza,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,67,,substitution,,True,,,G. Hein,M. E. A. Amoura,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,75,,card,A. Seidu,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,78,,substitution,,True,,,N. Ngoumou,E. Wahi,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,78,,substitution,,True,,,D. Coulibaly,A. Witsel,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,79,,substitution,,False,,,Marquinhos,L. Hernández,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,85,,goal,F. Torres,False,,,,,,,1,3
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,90,,period,,,,,,,FT,,2,3
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,90,5,goal,A. Abdi,True,,,,,,,2,3
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,28,,card,N. Sigur,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,33,,card,F. Thauvin,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,39,,goal,J. Russell Rowe,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,43,,card,S. Hidalgo,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,46,,substitution,,False,,,S. Koumbassa,M. McKenzie,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,47,,goal,M. Cuisance,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,59,,substitution,,True,,,A.Sima,M. Mesloub,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,59,,substitution,,True,,,S. Abdulhamid,R. Aguilar,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,59,,substitution,,True,,,A. Haidara,M. Cuisance,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,62,,card,A. Haidara,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,63,,substitution,,False,,,S. Oppong,S. Hidalgo,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,72,,substitution,,True,,,I. Ganiou,Jhoanner Chávez,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,81,,substitution,,False,,,A. Dønnum,J. Russell Rowe,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,90,,period,,,,,,,FT,,1,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,90,1,substitution,,False,,,A. Vossah,T. Jørgensen,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,90,1,substitution,,True,,,M. Skóraś,F. Sotoca,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Lens,Toulouse,1,1,90,,injuryTime,,,,,,,,4,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,13,,card,D. Essugo,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,13,,card,V. Matos,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,22,,goal,N. Edjouma,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,24,,card,S. Nanasi,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,27,,substitution,,False,,,L. Zogbé,K. Lala,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,45,,period,,,,,,,HT,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,45,,injuryTime,,,,,,,,3,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,56,,card,L. Tousart,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,60,,substitution,,True,,,D. Lobao,S. Nanasi,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,60,,substitution,,True,,,P. Diop,D. Essugo,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,60,,substitution,,True,,,C. Harder,J. Ortega,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,66,,substitution,,True,,,S. Amo-Ameyaw,G. Yassine,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,72,,substitution,,False,,,M. Diambou,J. Nonge,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,72,,substitution,,False,,,M. Baldé,N. Edjouma,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,72,,substitution,,False,,,G. Versini,P. Mboup,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,80,,substitution,,True,,,O. Kellyman,S. E. Mourabet,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,86,,card,D. Lobao,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,,period,,,,,,,FT,,0,1
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,5,penalty_missed,M. Godo,True,,saved,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,1,varDecision,O. Kellyman,True,,,,,,,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,,card,J. Lachuer,False,yellow,Argument,,,,,,

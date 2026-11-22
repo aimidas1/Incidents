@@ -10235,3 +10235,63 @@ mls_2026,2026-11-20,5,Seattle Sounders FC,Real Salt Lake,1,1,90,4,substitution,,
 mls_2026,2026-11-20,5,Seattle Sounders FC,Real Salt Lake,1,1,90,4,substitution,,True,,,P. Rothrock,N. Tolo,,,,
 mls_2026,2026-11-20,5,Seattle Sounders FC,Real Salt Lake,1,1,90,,injuryTime,,,,,,,,8,,
 mls_2026,2026-11-20,5,Seattle Sounders FC,Real Salt Lake,1,1,999,,period,,,,,,,PEN,,2,4
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,32,,card,H. Johansson,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,33,,substitution,,False,,,A. Aravena,A. Lassiter,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,53,,goal,J. Valiente,True,,,,,,,1,0
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,55,,goal,J. Valiente,True,,,,,,,2,0
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,64,,substitution,,False,,,E. Izoita,C. Bassett,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,64,,substitution,,False,,,D. Chará,J. Caicedo,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,64,,substitution,,False,,,O. Fernandez,R. Hernández,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,71,,substitution,,True,,,S. Moreno,D. Job,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,71,,substitution,,False,,,I. Smith,J. Fory,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,71,,substitution,,True,,,B. Kamungo,H. Johansson,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,81,,substitution,,True,,,C. Cappis,J. Valiente,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,86,,substitution,,True,,,L. Farrington,P. Musa,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,86,,substitution,,True,,,S. Sarver,Kaick,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,90,,period,,,,,,,FT,,3,0
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,90,4,goal,S. Sarver,True,,,,,,,3,0
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,90,1,card,B. Kamungo,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,FC Dallas,Portland Timbers,3,0,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,9,,goal,G. Tapia,False,,,,,,,0,1
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,13,,card,G. Luján,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,36,,card,G. Luján,True,yellowRed,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,43,,card,D. Chambost,False,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,45,,period,,,,,,,HT,,0,1
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,45,5,card,Y. Bright,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,45,4,card,G. Tapia,False,yellow,,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,45,4,card,L. Messi,True,yellow,Argument,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,45,,injuryTime,,,,,,,,5,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,46,,substitution,,True,,,M. Galarza,L. Suárez,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,47,,card,G. Berterame,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,52,,goal,T. Habroune,False,,,,,,,0,2
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,58,,goal,G. Tapia,False,,,,,,,0,3
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,59,,substitution,,False,,,A. Gomes,D. Chambost,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,59,,substitution,,False,,,J. Martínez,G. Tapia,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,62,,substitution,,True,,,Shaw,Y. Bright,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,66,,card,I. Fray,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,67,,substitution,,True,,,F. Caicedo,T. Segovia,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,71,,substitution,,False,,,S. T. Bangoura,S. Rodríguez,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,71,,substitution,,False,,,E. Bailly,S. Moreira,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,77,,substitution,,True,,,F. Mura,I. Fray,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,81,,card,J. Martínez,False,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,86,,substitution,,False,,,B. Lennon,T. Habroune,,,,
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,90,,period,,,,,,,FT,,0,3
+mls_2026,2026-11-21,,Inter Miami CF,Columbus Crew,0,3,90,,injuryTime,,,,,,,,2,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,10,,goal,N. Harriel,True,,,,,,,1,0
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,17,,card,N. Harriel,False,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,45,,period,,,,,,,HT,,1,0
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,45,,card,W. Sands,True,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,45,,injuryTime,,,,,,,,1,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,62,,substitution,,True,,,J. Harrison,D. Gazdag,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,71,,substitution,,False,,,J. Bueno,J. Lukić,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,71,,substitution,,False,,,I. Vassilev,M. Iloski,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,73,,goal,P. Miller,True,,,,,,,2,0
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,76,,card,K. Wagner,False,yellow,Foul,,,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,78,,substitution,,True,,,A. Yusuf,C. Gil,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,78,,substitution,,False,,,E. Alladoh,F. Westfield,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,85,,substitution,,False,,,A. Anello,Q. Sullivan,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,86,,substitution,,True,,,L. Langoni,D. Turgeman,,,,
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,90,,period,,,,,,,FT,,2,0
+mls_2026,2026-11-21,,New England Revolution,Philadelphia Union,2,0,90,,injuryTime,,,,,,,,5,,

@@ -1522,3 +1522,16 @@ grecia_stoiximan_super_league_2026_2027,2026-11-08,10,POT Iraklis,Panathinaikos 
 grecia_stoiximan_super_league_2026_2027,2026-11-08,10,POT Iraklis,Panathinaikos FC,1,2,90,2,varDecision,V. Taborda,False,,,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-11-08,10,POT Iraklis,Panathinaikos FC,1,2,90,,card,Y. Bárcenas,True,yellow,Foul,,,,,,
 grecia_stoiximan_super_league_2026_2027,2026-11-08,10,POT Iraklis,Panathinaikos FC,1,2,90,,injuryTime,,,,,,,,4,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,45,,period,,,,,,,HT,,0,0
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,45,,injuryTime,,,,,,,,1,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,55,,goal,A. Koita,False,,,,,,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,63,,substitution,,False,,,L. Majer,K. Arriaga,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,65,,substitution,,True,,,D. Kurminowski,M. Carreazo,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,68,,substitution,,True,,,A. M. Moreira,A. Sigurðsson,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,77,,substitution,,False,,,D. Kutesa,P. Mantalos,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,78,,card,L. Jović,False,yellow,Foul,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,84,,substitution,,True,,,J. Bonetto,J. Bolívar,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,86,,substitution,,False,,,M. Gaćinović,L. Jović,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,88,,card,M. Nikolić,False,red,Argument,,,,,,
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,90,,period,,,,,,,FT,,0,1
+grecia_stoiximan_super_league_2026_2027,2026-11-21,11,PS Kalamata,AEK Athens,0,1,90,,injuryTime,,,,,,,,7,,

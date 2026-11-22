@@ -10406,7 +10406,15 @@ argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old
 argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old Boys,2,2,90,,period,,,,,,,FT,,2,2
 argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old Boys,2,2,90,3,goal,M. Tissera,True,,,,,,,2,2
 argentina_primera_division_2026,2026-11-08,16,Instituto De Córdoba,Newell's Old Boys,2,2,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,100,,goal,N. Fernández,False,,,,,,,1,2
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,105,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,106,,substitution,,True,,,M. Arias,M. Lanzini,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,106,,substitution,,True,,,D. Godoy,M. Pellegrini,,,,
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,11,,goal,R. Hernandes,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,110,,goal,D. Godoy,True,,,,,,,2,2
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,116,,card,L. Cristaldo,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,120,,period,,,,,,,ET,,2,2
+argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,120,,injuryTime,,,,,,,,1,,
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,42,,card,E. Gómez,True,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,42,,card,F. Vázquez,False,yellow,Argument,,,,,,
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,43,,card,R. Hernandes,False,yellow,Foul,,,,,,
@@ -10427,12 +10435,42 @@ argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Bel
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,90,,period,,,,,,,FT,,1,1
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,90,,injuryTime,,,,,,,,4,,
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,99,,substitution,,True,,,T. Aguirre,Á. Verón,,,,
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,100,,goal,N. Fernández,False,,,,,,,1,2
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,105,,injuryTime,,,,,,,,1,,
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,106,,substitution,,True,,,M. Arias,M. Lanzini,,,,
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,106,,substitution,,True,,,D. Godoy,M. Pellegrini,,,,
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,110,,goal,D. Godoy,True,,,,,,,2,2
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,116,,card,L. Cristaldo,True,yellow,Foul,,,,,,
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,120,,period,,,,,,,ET,,2,2
-argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,120,,injuryTime,,,,,,,,1,,
 argentina_primera_division_2026,2026-11-20,5,Vélez Sarsfield,Club Atlético Belgrano,2,2,999,,period,,,,,,,PEN,,3,1
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,18,,card,S. Prieto,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,21,,card,I. Marcone,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,40,,goal,M. Meza,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,46,,substitution,,True,,,T. Molina,F. Carrizo,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,47,,goal,D. Porcel,True,,,,,,,1,1
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,56,,substitution,,False,,,L. Godoy,S. Arias,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,74,,card,B. Cortés,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,75,,goal,M. Meza,False,,,,,,,1,2
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,76,,substitution,,True,,,C. Bravo,F. Álvarez,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,76,,substitution,,True,,,H. López Muñoz,E. Viveros,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,80,,substitution,,True,,,F. Jainikoski,K. Gutiérrez,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,84,,substitution,,False,,,I. Morales,F. Tempone,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,84,,substitution,,False,,,M. Abaldo,J. Palais,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,84,,substitution,,False,,,F. Cruz,M. Meza,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,88,,substitution,,False,,,J. Fedorco,S. Montiel,,,,
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,90,,period,,,,,,,FT,,1,2
+argentina_primera_division_2026,2026-11-21,5,Argentinos Juniors,CA Independiente,1,2,90,,injuryTime,,,,,,,,5,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,18,,card,L. Fernández,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,29,,goal,N. Briasco,False,,,,,,,0,1
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,45,,period,,,,,,,HT,,0,1
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,45,,injuryTime,,,,,,,,1,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,63,,substitution,,True,,,A. Portillo,L. Souto,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,63,,substitution,,False,,,T. Porra,N. Orsini,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,63,,substitution,,True,,,M. Porcel,D. Barbona,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,71,,substitution,,True,,,A. Molinas,S. Sosa,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,71,,substitution,,False,,,E. Pereyra,R. Bogarín,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,71,,substitution,,True,,,T. Perrotta,C. Pérez,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,73,,card,D. Martínez,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,79,,substitution,,False,,,J. Candia,E. Taborda,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,79,,substitution,,False,,,K. Jappert,R. Insúa,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,79,,substitution,,False,,,F. Bruera,N. Briasco,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,83,,substitution,,True,,,A. Hausch,D. Domínguez,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,88,,card,E. Rolón,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,90,,period,,,,,,,FT,,0,1
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,90,1,card,I. Tapia,False,yellow,Time wasting,,,,,,
+argentina_primera_division_2026,2026-11-21,5,Defensa y Justicia,Barracas Central,0,1,90,,injuryTime,,,,,,,,5,,

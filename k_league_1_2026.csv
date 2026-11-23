@@ -3998,3 +3998,46 @@ k_league_1_2026,2026-11-21,36,Pohang Steelers,FC Anyang,1,1,90,,period,,,,,,,FT,
 k_league_1_2026,2026-11-21,36,Pohang Steelers,FC Anyang,1,1,90,5,goal,M. Oliveira,False,,,,,,,1,1
 k_league_1_2026,2026-11-21,36,Pohang Steelers,FC Anyang,1,1,90,1,substitution,,True,,,J. Si-Woo,K. Nishiya,,,,
 k_league_1_2026,2026-11-21,36,Pohang Steelers,FC Anyang,1,1,90,1,substitution,,True,,,H. M. Jung,J. Rocha,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,13,,card,Italo,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,45,,period,,,,,,,HT,,0,0
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,54,,card,Emerson Ramon,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,60,,substitution,,False,,,P. Min-Jae,C. W. Rim,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,60,,substitution,,False,,,D. Kang,S. Park,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,60,,substitution,,False,,,C. Byung-Wook,C. J. Park,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,63,,goal,K. Shin-jin,False,,,,,,,0,1
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,68,,substitution,,True,,,K. Ju-Hyeok,I. Kim,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,68,,substitution,,True,,,T. Park,R. Kyung-ho,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,78,,card,K. Shin-jin,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,78,,card,J. Ahn,True,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,79,,substitution,,True,,,M. Kang,J. Jae-Min,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,79,,substitution,,True,,,J. Oh,L. Sangheon,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,85,,substitution,,False,,,I. Yu,Emerson Ramon,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,85,,substitution,,False,,,K. H. Lee,K. Shin-jin,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,87,,substitution,,True,,,B. Jun-Soo,P. Jin-Seong,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,89,,card,D. Kang,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,90,,period,,,,,,,FT,,0,1
+k_league_1_2026,2026-11-22,36,Gimcheon Sangmu FC,Jeju SK,0,1,90,2,card,K. H. Lee,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,22,,goal,J. Kim,False,,,,,,,0,1
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,34,,goal,M. J. Kim,False,,,,,,,0,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,37,,goal,H. A. Friðjónsson,True,,,,,,,1,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,41,,card,M. J. Kim,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,45,,period,,,,,,,HT,,1,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,45,,card,L. Yechan,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,46,,substitution,,True,,,A. D. B. Loua,Y. Hong,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,46,,substitution,,True,,,K. Choi,S. J. Ju,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,48,,card,D. Kim,False,red,Violent conduct,,,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,56,,card,J. I. Park,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,64,,substitution,,False,,,H. Jeong,L. Yechan,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,64,,substitution,,True,,,J. Iredale,J. Jeong,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,64,,substitution,,False,,,Galego,J. Kim,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,64,,substitution,,False,,,J. W. Shin,T. Santos,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,66,,goal,A. D. B. Loua,True,,,,,,,2,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,70,,substitution,,False,,,H. K. Kim,K. Hyeon-Yeob,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,71,,goal,H. Du,True,,,,,,,3,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,80,,goal,J. Iredale,True,,,,,,,4,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,81,,substitution,,True,,,S. Y. Kwon,M. Lee,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,82,,card,S. Kim,False,yellow,Foul,,,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,84,,substitution,,False,,,Rodrigo,J. I. Park,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,88,,substitution,,True,,,Y. J. Ri,Y. Ahn,,,,
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,90,,period,,,,,,,FT,,4,2
+k_league_1_2026,2026-11-22,36,Gwangju FC,Bucheon FC 1995,4,2,90,5,penalty_missed,A. D. B. Loua,True,,miss,,,,,,

@@ -2088,7 +2088,6 @@ inglaterra_premier_league_2026_2027,2026-11-21,11,Chelsea,Leeds United,1,4,90,1,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Chelsea,Leeds United,1,4,90,1,substitution,,False,,,M. Bard,G. Gudmundsson,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Chelsea,Leeds United,1,4,90,1,substitution,,False,,,H. Wilson,S. Longstaff,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Chelsea,Leeds United,1,4,90,,injuryTime,,,,,,,,6,,
-inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,5,,goal,T. Awoniyi,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,13,,goal,Y. Pino,False,,,,,,,1,1
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,30,,goal,T. Sakamoto,True,,,,,,,2,1
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,36,,card,A. Wharton,False,yellow,Foul,,,,,,
@@ -2097,6 +2096,7 @@ inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,45,1,goal,J. Larsen,False,,,,,,,2,2
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,45,,injuryTime,,,,,,,,3,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,46,,substitution,,True,,,S. Cherif,T. Awoniyi,,,,
+inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,5,,goal,T. Awoniyi,True,,,,,,,1,0
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,61,,card,M. Grimes,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,70,,substitution,,True,,,B. Thomas-Asante,Y. Gboho,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,71,,substitution,,True,,,F. Onyeka,M. Grimes,,,,
@@ -2110,13 +2110,13 @@ inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,89,,substitution,,False,,,D. Osorio,D. McNeil,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,90,,period,,,,,,,FT,,3,2
 inglaterra_premier_league_2026_2027,2026-11-21,11,Coventry City,Crystal Palace,3,2,90,,injuryTime,,,,,,,,4,,
-inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,7,,card,A. Iwobi,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,16,,goal,R. Muniz,False,,,,,,,0,1
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,22,,card,C. Bassey,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,44,,card,S. Charles,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,45,,period,,,,,,,HT,,0,1
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,45,,injuryTime,,,,,,,,2,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,57,,goal,E. Anderson,True,,,,,,,1,1
+inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,7,,card,A. Iwobi,False,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,70,,substitution,,True,,,R. Cherki,P. Foden,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,70,,substitution,,False,,,A. Robinson,A. Iwobi,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Manchester City,Fulham,1,1,70,,substitution,,False,,,H. Larsson,J. King,,,,
@@ -2174,3 +2174,45 @@ inglaterra_premier_league_2026_2027,2026-11-21,11,Tottenham Hotspur,Ipswich Town
 inglaterra_premier_league_2026_2027,2026-11-21,11,Tottenham Hotspur,Ipswich Town,2,0,90,5,card,M. Fernandes,True,yellow,Foul,,,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Tottenham Hotspur,Ipswich Town,2,0,90,,substitution,,True,,,A. Gray,Sávio,,,,
 inglaterra_premier_league_2026_2027,2026-11-21,11,Tottenham Hotspur,Ipswich Town,2,0,90,,injuryTime,,,,,,,,6,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,34,,card,L. Vušković,False,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,37,,card,N. Mendy,True,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,45,,period,,,,,,,HT,,0,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,45,,substitution,,True,,,L. Gourna-Douath,T. Iroegbunam,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,45,,injuryTime,,,,,,,,3,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,46,,substitution,,True,,,S. Thomas,M. Cho,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,59,,card,L. Gourna-Douath,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,63,,card,Costinha,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,67,,substitution,,True,,,R. Giles,E. Stroud,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,67,,substitution,,False,,,Y. Minteh,O. Boscagli,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,67,,substitution,,False,,,C. Kostoulas,G. Rutter,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,67,,substitution,,False,,,J. Hinshelwood,Y. Ayari,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,68,,substitution,,True,,,J. Hjertø-Dahl,M. Crooks,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,80,,substitution,,False,,,F. Kadıoğlu,D. Gómez,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,81,,card,C. Andrés,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,84,,substitution,,True,,,B. Norton-Cuffy,L. Coyle,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,89,,card,Costinha,False,yellowRed,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,90,,period,,,,,,,FT,,2,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,90,5,goal,O. McBurnie,True,,,,,,,2,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,90,4,substitution,,False,,,I. Osman,C. Andrés,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,90,2,goal,O. McBurnie,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Hull City,Brighton & Hove Albion,2,0,90,,injuryTime,,,,,,,,4,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,8,,card,L. Yoro,False,red,Professional foul last man,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,10,,goal,D. Szoboszlai,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,13,,goal,F. Wirtz,True,,,,,,,2,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,22,,substitution,,False,,,H. Maguire,B. Mbeumo,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,45,,period,,,,,,,HT,,2,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,45,,injuryTime,,,,,,,,4,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,46,,substitution,,False,,,J. Zirkzee,M. Cunha,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,62,,card,B. Barcola,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,65,,substitution,,False,,,N. Mazraoui,P. Dorgu,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,65,,substitution,,False,,,M. Mount,Y. Tielemans,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,66,,goal,R. Ngumoha,True,,,,,,,3,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,72,,substitution,,True,,,V. Muñoz,B. Barcola,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,72,,substitution,,True,,,T. Nyoni,A. Mac Allister,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,78,,substitution,,True,,,J. Frimpong,R. Ngumoha,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,82,,goal,V. Muñoz,True,,,,,,,4,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,85,,substitution,,True,,,L. Koumas,A. Isak,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,85,,substitution,,True,,,J. Gomez,R. Araújo,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,87,,substitution,,False,,,A. Santos,K. Mainoo,,,,
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,90,,period,,,,,,,FT,,4,0
+inglaterra_premier_league_2026_2027,2026-11-22,11,Liverpool FC,Manchester United,4,0,90,,injuryTime,,,,,,,,2,,

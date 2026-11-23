@@ -1726,8 +1726,6 @@ alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,8
 alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,90,,period,,,,,,,FT,,1,1
 alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,90,1,substitution,,False,,,M. Bülter,M. Moore,,,,
 alemanha_bundesliga_2026_2027,2026-11-20,10,FC Bayern München,1. FC Köln,1,1,90,,injuryTime,,,,,,,,2,,
-alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,5,,card,B. Gruda,False,yellow,Argument,,,,,,
-alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,9,,card,A. Schäfer,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,13,,card,E. Banzuzi,False,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,16,,varDecision,C. Baumgartner,False,,,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,17,,card,Z. Van Den Bosch,True,yellow,Foul,,,,,,
@@ -1735,6 +1733,7 @@ alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,18
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,41,,goal,M. Aebischer,True,,,,,,,1,1
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,45,,period,,,,,,,HT,,1,1
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,45,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,5,,card,B. Gruda,False,yellow,Argument,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,50,,goal,Rômulo,False,,,,,,,1,2
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,61,,substitution,,True,,,W. Jeong,K. Imeri,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,61,,substitution,,True,,,M. Gray,A. Ilić,,,,
@@ -1749,6 +1748,7 @@ alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,75
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,76,,goal,R. Reitz,False,,,,,,,1,4
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,78,,substitution,,True,,,L. Güther,M. Aebischer,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,89,,goal,R. Baku,False,,,,,,,1,5
+alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,9,,card,A. Schäfer,True,yellow,Foul,,,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,90,,period,,,,,,,FT,,1,5
 alemanha_bundesliga_2026_2027,2026-11-21,10,1. FC Union Berlin,RB Leipzig,1,5,90,,injuryTime,,,,,,,,3,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,Bayer 04 Leverkusen,SC Paderborn 07,4,0,14,,goal,A. Moreira,True,,,,,,,1,0
@@ -1839,3 +1839,49 @@ alemanha_bundesliga_2026_2027,2026-11-21,10,SV 07 Elversberg,SC Freiburg,0,1,81,
 alemanha_bundesliga_2026_2027,2026-11-21,10,SV 07 Elversberg,SC Freiburg,0,1,89,,substitution,,True,,,R. Adam,M. Rohr,,,,
 alemanha_bundesliga_2026_2027,2026-11-21,10,SV 07 Elversberg,SC Freiburg,0,1,90,,period,,,,,,,FT,,0,1
 alemanha_bundesliga_2026_2027,2026-11-21,10,SV 07 Elversberg,SC Freiburg,0,1,90,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,19,,goal,M. Gregoritsch,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,36,,goal,A. J. Bah,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,43,,card,N. Amiri,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,43,,card,M. Baum,True,red,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,44,,card,R. Fellhauer,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,45,,period,,,,,,,HT,,2,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,45,,injuryTime,,,,,,,,5,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,45,,varDecision,R. Fellhauer,True,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,46,,substitution,,False,,,R. Y. Königsdörffer,P. Nebel,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,48,,goal,M. Gregoritsch,True,,,,,,,3,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,51,,goal,R. Y. Königsdörffer,False,,,,,,,3,1
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,64,,substitution,,True,,,A. Ibrahimović,A. Claude-Maurice,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,68,,substitution,,False,,,B. Hollerbach,S. Becker,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,68,,substitution,,False,,,S. Widmer,A. Caci,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,73,,substitution,,True,,,U. Ogundu,M. Gregoritsch,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,73,,substitution,,True,,,Y. W. Seol,M. Wolf,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,75,,card,S. Posch,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,76,,card,S. Widmer,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,81,,substitution,,False,,,E. Martel,D. Costa,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,85,,substitution,,False,,,R. Nakuzola,P. Mwene,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,90,,period,,,,,,,FT,,3,1
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,90,3,substitution,,True,,,M. Kömür,A. Kade,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,FC Augsburg,1. FSV Mainz 05,3,1,90,,injuryTime,,,,,,,,3,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,10,,card,A. Pieper,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,19,,substitution,,False,,,K. J. Amoako,M. Muheim,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,23,,card,W. Omari,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,39,,card,Chuki,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,45,,period,,,,,,,HT,,0,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,45,,injuryTime,,,,,,,,2,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,50,,card,O. Deman,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,55,,goal,M. Friedl,True,,,,,,,1,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,66,,goal,J. Njinmah,True,,,,,,,2,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,70,,goal,J. Njinmah,True,,,,,,,3,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,72,,substitution,,False,,,T. Moffi,P. Daka,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,72,,substitution,,False,,,F. Vieira,K. J. Amoako,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,72,,substitution,,False,,,O. Stange,A. Røssing-Lelesiit,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,74,,card,N. Capaldo,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,78,,substitution,,True,,,D. Stalmach,Chuki,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,78,,substitution,,True,,,P. Erevbenagie,E. Dinkçi,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,84,,card,A. Grønbæk,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,88,,substitution,,True,,,C. Itten,L. Reis,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,88,,substitution,,True,,,M. Schmetgens,O. Deman,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,88,,substitution,,True,,,O. Wojcik,J. Njinmah,,,,
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,90,,period,,,,,,,FT,,4,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,90,2,goal,N. Füllkrug,True,,,,,,,4,0
+alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,90,,injuryTime,,,,,,,,4,,

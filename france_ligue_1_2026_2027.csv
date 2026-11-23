@@ -1896,7 +1896,6 @@ france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,,per
 france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,3,card,C. Tolisso,False,yellow,Time wasting,,,,,,
 france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,,substitution,,False,,,N. Nartey,K. Merah,,,,
 france_ligue_1_2026_2027,2026-11-21,11,LOSC Lille,Olympique Lyonnais,0,1,90,,injuryTime,,,,,,,,4,,
-france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,8,,goal,M. E. A. Amoura,True,,,,,,,1,0
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,27,,varDecision,J. Neves,False,,,,,,,,
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,31,,goal,S. Mayulu,False,,,,,,,1,1
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,32,,goal,D. Doué,False,,,,,,,1,2
@@ -1915,6 +1914,7 @@ france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,75,,card
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,78,,substitution,,True,,,N. Ngoumou,E. Wahi,,,,
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,78,,substitution,,True,,,D. Coulibaly,A. Witsel,,,,
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,79,,substitution,,False,,,Marquinhos,L. Hernández,,,,
+france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,8,,goal,M. E. A. Amoura,True,,,,,,,1,0
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,85,,goal,F. Torres,False,,,,,,,1,3
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,90,,period,,,,,,,FT,,2,3
 france_ligue_1_2026_2027,2026-11-21,11,OGC Nice,Paris Saint-Germain,2,3,90,5,goal,A. Abdi,True,,,,,,,2,3
@@ -1960,3 +1960,71 @@ france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,5,pen
 france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,1,varDecision,O. Kellyman,True,,,,,,,,
 france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,,injuryTime,,,,,,,,5,,
 france_ligue_1_2026_2027,2026-11-21,11,RC Strasbourg,Stade Brestois,0,1,90,,card,J. Lachuer,False,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,27,,goal,B. Dia,False,,,,,,,0,1
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,29,,substitution,,False,,,D. Cissé,V. Rongier,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,36,,card,S. Szymański,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,45,,period,,,,,,,HT,,1,1
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,45,,goal,M. Talbi,True,,,,,,,1,1
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,50,,card,M. Nagida,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,52,,penalty_missed,N. Cadiou,True,,miss,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,62,,substitution,,True,,,M. Koné,A. Tosin,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,62,,substitution,,True,,,S. Faye,G. Bernardeau,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,66,,card,S. Faye,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,70,,card,N. Cadiou,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,71,,substitution,,True,,,T. L. Bris,A. Kouassi,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,71,,substitution,,False,,,A. Thomasson,S. Szymański,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,71,,substitution,,False,,,I. Soumaré,M. Tamari,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,71,,substitution,,False,,,E. Lepaul,B. Dia,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,82,,substitution,,False,,,Q. Merlin,M. Nagida,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,88,,substitution,,True,,,S. Kuzmić,D. Sylla,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,90,,period,,,,,,,FT,,1,1
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,90,2,card,A. Thomasson,False,red,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-11-22,11,Lorient,Stade Rennais,1,1,90,,varDecision,A. Thomasson,False,,,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,33,,goal,A. Gouiri,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,40,,goal,I. Paixão,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,45,,period,,,,,,,HT,,2,0
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,53,,card,A. Rabillard,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,63,,substitution,,False,,,E. Colas,D. Gueye,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,63,,substitution,,False,,,J. Vercruysse,A. Rabillard,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,67,,card,T. Nnadi,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,69,,card,G. Kondogbia,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,70,,goal,L. Mafouta,False,,,,,,,2,1
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,71,,card,H. Voyer,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,74,,substitution,,True,,,A. Gomes,T. Nnadi,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,74,,substitution,,True,,,N. Kamissoko,G. Kondogbia,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,79,,penalty_missed,L. Mafouta,False,,saved,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,80,,card,R. Bamba,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,80,,card,H. Abdelli,True,yellow,Argument,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,82,,substitution,,False,,,R. Torrente,H. Voyer,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,82,,substitution,,False,,,N. Boissé,L. Buades,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,83,,substitution,,False,,,W. Harhouz,L. Mafouta,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,84,,goal,E. Colas,False,,,,,,,2,2
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,88,,substitution,,True,,,K. Abdallah,A. Harit,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,88,,substitution,,True,,,A. Koum,U. Garcia,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,88,,card,D. Traore,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,90,,period,,,,,,,FT,,2,3
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,90,5,goal,J. Vercruysse,False,,,,,,,2,3
+france_ligue_1_2026_2027,2026-11-22,11,Olympique de Marseille,Le Mans,2,3,90,,injuryTime,,,,,,,,5,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,42,,card,L. Koleosho,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,45,,period,,,,,,,HT,,0,0
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,47,,goal,Zabi,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,55,,goal,L. Koleosho,True,,,,,,,2,0
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,58,,substitution,,False,,,L. Raolisoa,C. Arcus,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,58,,substitution,,False,,,A. E. Ouazzani,M. U. Simbakoli,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,58,,substitution,,False,,,J. Allevinah,A. Bermont,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,65,,goal,M. López,True,,,,,,,3,0
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,66,,substitution,,True,,,A. Camara,R. Matondo,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,66,,substitution,,True,,,J. Ikoné,I. Kebbal,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,72,,goal,D. Coppola,True,,,,,,,4,0
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,75,,card,J. Allevinah,False,yellow,Persistent fouling,,,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,76,,substitution,,True,,,M. Mbow,S. S. Chergui,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,76,,substitution,,True,,,J. Krasso,P. Pagis,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,76,,substitution,,False,,,E. Biumla,A. Sbai,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,84,,substitution,,True,,,V. Marchetti,M. López,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,86,,substitution,,False,,,J. Bouffandeau,Y. Belkhdim,,,,
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,90,,period,,,,,,,FT,,4,0
+france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,90,,injuryTime,,,,,,,,7,,

@@ -3162,6 +3162,27 @@ liga_mx_apertura_2026,2026-11-21,17,Santos Laguna,Club León,1,2,81,,substitutio
 liga_mx_apertura_2026,2026-11-21,17,Santos Laguna,Club León,1,2,90,,period,,,,,,,FT,,1,2
 liga_mx_apertura_2026,2026-11-21,17,Santos Laguna,Club León,1,2,90,,goal,I. Díaz,False,,,,,,,1,2
 liga_mx_apertura_2026,2026-11-21,17,Santos Laguna,Club León,1,2,90,,injuryTime,,,,,,,,6,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,21,,goal,E. Alvarez,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,35,,card,C. Rodríguez,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,38,,card,C. Rotondi,False,yellow,Argument,,,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,45,,period,,,,,,,HT,,1,0
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,45,,injuryTime,,,,,,,,2,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,59,,substitution,,False,,,O. Ebere,C. Rotondi,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,59,,substitution,,False,,,A. Montaño,J. Paradela,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,59,,substitution,,False,,,N. Ibáñez,G. Fernández,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,59,,substitution,,True,,,L. G. Rey,J. Castillo,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,60,,card,F. González,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,67,,substitution,,False,,,J. Márquez,A. Mozo,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,67,,substitution,,True,,,R. Marín,E. Alvarez,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,73,,card,G. Piovi,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,73,,card,J. Márquez,False,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,73,,varDecision,A. Palavecino,False,,,,,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,75,,substitution,,True,,,Á. Sepúlveda,R. Alvarado,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,75,,substitution,,True,,,B. Gutiérrez,S. Sandoval,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,75,,substitution,,True,,,M. Gómez,R. Ledezma,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,79,,substitution,,False,,,L. Romero,A. Palavecino,,,,
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,90,,period,,,,,,,FT,,1,0
+liga_mx_apertura_2026,2026-11-22,17,CD Guadalajara,Cruz Azul,1,0,90,,injuryTime,,,,,,,,5,,
 liga_mx_apertura_2026,2026-11-22,17,Pumas UNAM,CF Monterrey,0,2,38,,substitution,,False,,,Ó. Torres,É. Aguirre,,,,
 liga_mx_apertura_2026,2026-11-22,17,Pumas UNAM,CF Monterrey,0,2,45,,period,,,,,,,HT,,0,0
 liga_mx_apertura_2026,2026-11-22,17,Pumas UNAM,CF Monterrey,0,2,45,3,card,N. Silva,True,yellow,Foul,,,,,,
@@ -3204,3 +3225,25 @@ liga_mx_apertura_2026,2026-11-22,17,Tigres UANL,Club América,1,0,90,3,card,J. B
 liga_mx_apertura_2026,2026-11-22,17,Tigres UANL,Club América,1,0,90,1,goal,J. Brunetta,True,,,,,,,1,0
 liga_mx_apertura_2026,2026-11-22,17,Tigres UANL,Club América,1,0,90,1,card,I. Reyes,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-22,17,Tigres UANL,Club América,1,0,90,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,13,,goal,A. Ávila,True,,,,,,,1,0
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,15,,goal,E. Rodriguez,False,,,,,,,1,1
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,33,,varDecision,I. Benito,True,,,,,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,45,,period,,,,,,,HT,,1,1
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,45,,injuryTime,,,,,,,,3,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,46,,substitution,,True,,,S. Homenchenko,J. A. Camacho,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,62,,substitution,,True,,,Á. Alcalá,I. Benito,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,70,,varDecision,L. Abascia,True,,,,,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,71,,card,L. Abascia,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,72,,substitution,,False,,,M. Espíndola,L. Faravelli,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,72,,substitution,,False,,,J. Valencia,O. González,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,73,,substitution,,True,,,B. Duarte,D. Munoz,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,75,,goal,E. Giménez,True,,,,,,,2,1
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,79,,substitution,,False,,,J. Ruiz,D. Ochoa,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,81,,substitution,,True,,,E. Gruezo,P. Victor,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,81,,substitution,,True,,,C. Villanueva,A. Ávila,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,83,,card,D. Reyes,True,yellow,Foul,,,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,89,,goal,J. Carranza,False,,,,,,,2,2
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,90,,period,,,,,,,FT,,2,2
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,90,,substitution,,False,,,O. Domínguez,M. Zaleta,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,90,,substitution,,False,,,L. A. Vargas,D. Leyva,,,,
+liga_mx_apertura_2026,2026-11-23,17,Querétaro FC,Club Necaxa,2,2,90,,injuryTime,,,,,,,,5,,

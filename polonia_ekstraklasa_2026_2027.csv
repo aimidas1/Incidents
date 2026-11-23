@@ -2633,3 +2633,60 @@ polonia_ekstraklasa_2026_2027,2026-11-21,15,Zagłębie Lubin,Górnik Zabrze,2,0,
 polonia_ekstraklasa_2026_2027,2026-11-21,15,Zagłębie Lubin,Górnik Zabrze,2,0,90,3,varDecision,M. Dziewiatowski,True,,,,,,,,
 polonia_ekstraklasa_2026_2027,2026-11-21,15,Zagłębie Lubin,Górnik Zabrze,2,0,90,,card,M. Dziewiatowski,True,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-11-21,15,Zagłębie Lubin,Górnik Zabrze,2,0,90,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,25,,card,M. Wasielewski,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,45,,period,,,,,,,HT,,0,0
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,58,,goal,Y. Agnero,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,62,,substitution,,False,,,G. Berggren,R. Murawski,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,63,,substitution,,False,,,R. Gumny,L. Bengtsson,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,63,,substitution,,True,,,M. Wedrychowski,E. Marković,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,63,,substitution,,True,,,M. Wdowiak,B. Galán,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,69,,substitution,,False,,,E. Sledzinski,F. Jagiełło,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,72,,substitution,,True,,,B. Wolski,K. Lukasiak,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,83,,card,A. Kozubal,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,85,,substitution,,True,,,A. Zreľák,A. Czerwiński,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,85,,substitution,,True,,,E. Jirka,M. Kowalczyk,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,88,,substitution,,False,,,K. Jakóbczyk,L. Palma,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,88,,substitution,,False,,,W. Mońka,J. Pereira,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,90,,period,,,,,,,FT,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,90,3,card,M. Lis,False,yellow,Time wasting,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,90,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,GKS Katowice,Lech Poznań,0,1,90,,card,N. Frederiksen,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,17,,goal,O. Repka,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,39,,card,S. Kapuadi,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,45,,period,,,,,,,HT,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,46,,substitution,,False,,,M. García,C. Cheng,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,52,,goal,J. Shehu,False,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,63,,substitution,,False,,,S. Biuk,S. Bergier,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,69,,substitution,,True,,,Á. Molnár,E. Otieno,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,73,,substitution,,False,,,Paulinho Bóia,D. Maleš,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,74,,substitution,,False,,,E. Kornvig,F. Álvarez,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,77,,substitution,,True,,,I. Brusberg,M. Emreli,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,77,,substitution,,True,,,K. Struski,W. Kocherhin,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,81,,card,Paulinho Bóia,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,82,,goal,B. Racovițan,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,83,,card,Á. Molnár,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,83,,substitution,,False,,,I. Vermesan,L. Selahi,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,86,,substitution,,True,,,J. Jendryka,J. Silva,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,87,,card,J. Gazibegović,False,red,Professional foul last man,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,89,,goal,P. Makuch,True,,,,,,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,,period,,,,,,,FT,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,3,card,P. Makuch,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,3,card,R. Visus,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,5,,goal,Ł. Zjawiński,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,45,,period,,,,,,,HT,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,55,,card,A. Reca,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,61,,substitution,,False,,,R. Adamski,J. Żewłakow,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,62,,substitution,,False,,,K. Chodyna,R. Vinagre,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,65,,substitution,,True,,,P. Kun,D. Gallapeni,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,65,,substitution,,True,,,Ł. Sekulski,S. Hamulić,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,74,,substitution,,False,,,D. Szymański,B. Kapustka,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,74,,substitution,,False,,,V. Bichakhchyan,M. Ševčík,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,75,,substitution,,True,,,F. Hiszpański,O. Kobacki,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,75,,substitution,,True,,,S. Tavares,J. Pršir,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,79,,substitution,,False,,,R. Deziel Jr.,A. Reca,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,83,,substitution,,True,,,G. Kuchko,A. Radwanski,,,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,90,,period,,,,,,,FT,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,90,,injuryTime,,,,,,,,6,,

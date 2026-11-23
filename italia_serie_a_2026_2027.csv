@@ -2337,3 +2337,111 @@ italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,82,,substitution,,T
 italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,82,,substitution,,True,,,Giovane,R. Højlund,,,,
 italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,90,,period,,,,,,,FT,,1,0
 italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,4,,goal,G. Calvani,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,19,,goal,G. Ramos,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,25,,goal,P. Masini,False,,,,,,,2,1
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,34,,card,G. Cittadini,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,40,,card,G. Calò,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,45,,period,,,,,,,HT,,2,1
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,46,,substitution,,False,,,W. Amey,G. Cittadini,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,46,,substitution,,True,,,A. Jashari,D. Bartesaghi,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,48,,goal,A. Jashari,True,,,,,,,3,1
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,51,,substitution,,True,,,A. Cisse,G. Ramos,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,57,,card,I. Monterisi,False,yellow,Persistent fouling,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,60,,goal,A. Cisse,True,,,,,,,4,1
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,60,,varDecision,A. Cisse,True,,,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,62,,substitution,,False,,,A. Terzić,E. T. Mbiayi,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,62,,substitution,,False,,,D. Bîrligea,G. Kvernadze,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,66,,card,A. Oyono,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,68,,goal,C. Pulišić,True,,,,,,,5,1
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,71,,substitution,,True,,,P. Estupiñán,Y. Musah,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,71,,substitution,,True,,,S. Pavlović,S. Diawara,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,74,,substitution,,False,,,A. Zerbin,R. Schmid,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,76,,substitution,,False,,,A. El Azzouzi,G. Calò,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,81,,substitution,,True,,,O. Hutchinson,C. Pulišić,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,82,,substitution,,False,,,,D. Bîrligea,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,87,,card,A. Cisse,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,90,,period,,,,,,,FT,,5,1
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,90,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,16,,goal,F. P. Esposito,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,32,,goal,F. P. Esposito,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,33,,substitution,,False,,,P. Sučić,H. Çalhanoğlu,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,35,,goal,E. Elmas,True,,,,,,,1,2
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,45,,period,,,,,,,HT,,1,2
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,52,,goal,F. P. Esposito,False,,,,,,,1,3
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,60,,card,G. Scalvini,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,64,,substitution,,False,,,C. Jones,N. Barella,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,64,,substitution,,False,,,M. Akanji,F. Dimarco,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,68,,substitution,,True,,,M. Pašalić,Éderson,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,68,,substitution,,True,,,J. Rowe,E. Elmas,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,72,,goal,C. De Ketelaere,True,,,,,,,2,3
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,73,,substitution,,True,,,G. Raspadori,N. Zalewski,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,74,,card,D. Zappacosta,True,yellow,Handball,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,76,,goal,P. Sučić,False,,,,,,,2,4
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,77,,substitution,,False,,,A. Stanković,H. Mkhitaryan,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,77,,substitution,,False,,,L. Martínez,F. P. Esposito,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,80,,goal,C. De Ketelaere,True,,,,,,,3,4
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,88,,substitution,,True,,,L. Bernasconi,R. Bellanova,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,88,,substitution,,True,,,G. Scamacca,N. Krstović,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,,period,,,,,,,FT,,4,4
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,5,card,C. Augusto,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,1,goal,F. Kessié,True,,,,,,,4,4
+italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,6,,card,M. Palma,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,34,,card,P. Zanetti,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,43,,goal,N. Zortea,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,46,,substitution,,True,,,R. Alhassane,R. Orsolini,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,51,,card,O. Solet,False,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,52,,card,F. Bernardeschi,True,yellow,Argument,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,56,,substitution,,False,,,V. Bayo,S. Lovrić,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,56,,substitution,,False,,,A. Zanoli,M. Palma,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,67,,goal,N. Zaniolo,False,,,,,,,1,1
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,79,,substitution,,True,,,M. Vitík,N. Zortea,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,79,,substitution,,True,,,S. Mbangula,F. Bernardeschi,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,79,,substitution,,False,,,M. Vojvoda,N. Zaniolo,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,85,,substitution,,True,,,R. Piccoli,N. Cambiaghi,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,85,,substitution,,True,,,M. Amondarain,M. Darmian,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,87,,substitution,,False,,,D. Alaba,C. Kabasele,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,87,,substitution,,False,,,O. Zarraga,J. Piotrowski,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,90,,period,,,,,,,FT,,1,1
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,45,,period,,,,,,,HT,,0,0
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,46,,substitution,,True,,,P. Sarr,D. Luiz,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,46,,substitution,,True,,,N. Woltemade,K. Alajbegović,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,53,,goal,N. Woltemade,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,59,,goal,T. Koopmeiners,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,65,,goal,J. Cabal,True,,,,,,,3,0
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,67,,substitution,,False,,,J. Yeboah,L. Lauberbach,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,67,,substitution,,False,,,M. Dagasso,S. Sohm,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,68,,substitution,,True,,,F. Gatti,Z. Çelik,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,71,,goal,R. Kolo Muani,True,,,,,,,4,0
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,74,,substitution,,True,,,A. Cambiaso,J. Cabal,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,84,,substitution,,True,,,J. Boga,R. Kolo Muani,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,84,,substitution,,False,,,R. Sagrado,A. Hainaut,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,84,,substitution,,False,,,L. Fanne,K. Pérez,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,87,,substitution,,False,,,A. Rrahmani,A. Adams,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,90,,period,,,,,,,FT,,4,0
+italia_serie_a_2026_2027,2026-11-22,12,Juventus,Venezia,4,0,90,,injuryTime,,,,,,,,3,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,26,,goal,M. Osmajić,False,,,,,,,0,1
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,38,,goal,M. Osmajić,False,,,,,,,0,2
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,45,,period,,,,,,,HT,,0,2
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,45,,injuryTime,,,,,,,,1,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,46,,substitution,,True,,,I. Sulemana,F. Candé,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,46,,substitution,,True,,,K. Bowie,S. Esposito,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,63,,substitution,,False,,,M. Frendrup,Amorim,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,63,,substitution,,False,,,Vitinha,T. Baldanzi,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,63,,card,K. Thorstvedt,True,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,74,,substitution,,False,,,F. Meichtry,J. Messias,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,79,,substitution,,True,,,S. Cinquegrano,I. Van der Brempt,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,79,,substitution,,True,,,B. Domínguez,N. Matić,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,83,,substitution,,False,,,S. Wiafe,H. J. Traorè,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,83,,substitution,,False,,,L. Colombo,M. Osmajić,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,85,,substitution,,True,,,J. Doig,R. Obrador,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,88,,substitution,,False,,,,L. Colombo,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,90,,period,,,,,,,FT,,0,2
+italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,90,,injuryTime,,,,,,,,4,,

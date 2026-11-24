@@ -2674,9 +2674,9 @@ polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,3,card,P. Makuch,True,yellow,Argument,,,,,,
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,3,card,R. Visus,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Raków Częstochowa,Widzew Łódź,3,1,90,,injuryTime,,,,,,,,4,,
-polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,5,,goal,Ł. Zjawiński,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,45,,period,,,,,,,HT,,0,1
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,5,,goal,Ł. Zjawiński,False,,,,,,,0,1
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,55,,card,A. Reca,False,yellow,Foul,,,,,,
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,61,,substitution,,False,,,R. Adamski,J. Żewłakow,,,,
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,62,,substitution,,False,,,K. Chodyna,R. Vinagre,,,,
@@ -2690,3 +2690,24 @@ polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,79,
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,83,,substitution,,True,,,G. Kuchko,A. Radwanski,,,,
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,90,,period,,,,,,,FT,,0,1
 polonia_ekstraklasa_2026_2027,2026-11-22,15,Wisła Płock,Legia Warszawa,0,1,90,,injuryTime,,,,,,,,6,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,1,,varDecision,T. Christensen,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,24,,goal,F. Ronaldo,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,29,,goal,M. Wieteska,True,,,,,,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,35,,card,B. Lederman,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,45,,period,,,,,,,HT,,1,1
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,55,,card,M. Misiura,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,61,,card,M. Vojtko,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,64,,substitution,,True,,,J. A. d. l. Rosa,Miki,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,64,,substitution,,True,,,A. Đermanović,M. Wieteska,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,65,,goal,J. A. d. l. Rosa,True,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,67,,substitution,,False,,,M. Aïko,K. Czubak,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,72,,substitution,,False,,,M. Łęgowski,R. Lopes,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,73,,substitution,,False,,,K. Lukoszek,T. Santos,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,73,,substitution,,False,,,P. Meyer,Y. Bourhane,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,75,,substitution,,True,,,P. Pušić,B. Lederman,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,75,,substitution,,True,,,B. Białek,E. Koulouris,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,78,,substitution,,False,,,D. Gregorski,F. Ronaldo,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,85,,substitution,,True,,,N. Knežević,T. Christensen,,,,
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,90,,period,,,,,,,FT,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,90,,injuryTime,,,,,,,,4,,

@@ -8169,9 +8169,9 @@ brasileirao_serie_b_2026,2026-11-14,38,Sport Recife,Goiás,3,0,88,,card,L. Ribei
 brasileirao_serie_b_2026,2026-11-14,38,Sport Recife,Goiás,3,0,90,,period,,,,,,,FT,,3,0
 brasileirao_serie_b_2026,2026-11-14,38,Sport Recife,Goiás,3,0,90,4,goal,B. Fonseca,True,,,,,,,3,0
 brasileirao_serie_b_2026,2026-11-14,38,Sport Recife,Goiás,3,0,90,,injuryTime,,,,,,,,9,,
-brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,5,,goal,Peixoto,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,31,,substitution,,False,,,W. Formiga,Higor,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,5,,goal,Peixoto,True,,,,,,,1,0
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,62,,substitution,,False,,,Dodô,J. Vieira,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,63,,substitution,,False,,,Hayner,I. Cariús,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,64,,substitution,,False,,,Dellatorre,Lincoln,,,,
@@ -8184,8 +8184,6 @@ brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,75,
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,76,,substitution,,False,,,Willian Maranhão,Marquinhos Gabriel,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_b_2026,2026-11-22,29,Atlético Goianiense,Vila Nova FC,1,1,90,2,card,D. Mendes,False,yellow,Foul,,,,,,
-brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,8,,card,Luciano Castan,True,yellow,Foul,,,,,,
-brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,8,,card,G. Lobo,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,10,,card,Maílton,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,35,,card,L. Gazal,False,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,45,,period,,,,,,,HT,,0,0
@@ -8198,6 +8196,8 @@ brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,75,,substitution,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,75,,substitution,,True,,,J. Robert,Marcinho,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,75,,substitution,,True,,,G. C. Chaves,R. Otero,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,79,,substitution,,True,,,T. R. S. Modesto,E. Biasi,,,,
+brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,8,,card,Luciano Castan,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,8,,card,G. Lobo,True,yellow,Foul,,,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,82,,substitution,,False,,,Jailson,L. Sasha,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,83,,substitution,,True,,,R. Fagundes,C. Martins,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,83,,substitution,,True,,,João Carlos,F. Mateus,,,,

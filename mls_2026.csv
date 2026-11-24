@@ -10314,7 +10314,6 @@ mls_2026,2026-11-22,,Chicago Fire,Charlotte FC,1,2,90,5,substitution,,True,,,J. 
 mls_2026,2026-11-22,,Chicago Fire,Charlotte FC,1,2,90,,substitution,,True,,,J. A. Gomez,J. Bamba,,,,
 mls_2026,2026-11-22,,Chicago Fire,Charlotte FC,1,2,90,,substitution,,True,,,A. Mekvabishvili,D. T. D'Avilla,,,,
 mls_2026,2026-11-22,,Chicago Fire,Charlotte FC,1,2,90,,injuryTime,,,,,,,,6,,
-mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,7,,goal,P. Yazbek,False,,,,,,,0,1
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,39,,card,M. Robinson,False,yellow,Foul,,,,,,
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,45,,period,,,,,,,HT,,0,1
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,45,2,card,P. Yazbek,True,yellow,Foul,,,,,,
@@ -10325,6 +10324,7 @@ mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,56,,substitution,,True,,,J. 
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,61,,substitution,,False,,,P. Bucha,J. Martínez,,,,
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,61,,substitution,,False,,,T. Malacia,B. Ramírez,,,,
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,67,,substitution,,False,,,T. Barlow,Evander,,,,
+mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,7,,goal,P. Yazbek,False,,,,,,,0,1
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,75,,substitution,,False,,,K. M. Dem,S. Gidi,,,,
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,75,,substitution,,True,,,W. Madrigal,M. Corcoran,,,,
 mls_2026,2026-11-22,,Nashville SC,FC Cincinnati,0,1,78,,card,T. Malacia,False,yellow,Foul,,,,,,
@@ -10355,3 +10355,22 @@ mls_2026,2026-11-23,,Vancouver Whitecaps,Real Salt Lake,2,0,84,,card,D. Yedlin,F
 mls_2026,2026-11-23,,Vancouver Whitecaps,Real Salt Lake,2,0,85,,substitution,,False,,,L. Rodrigues,S. Solans,,,,
 mls_2026,2026-11-23,,Vancouver Whitecaps,Real Salt Lake,2,0,90,,period,,,,,,,FT,,2,0
 mls_2026,2026-11-23,,Vancouver Whitecaps,Real Salt Lake,2,0,90,,injuryTime,,,,,,,,6,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,34,,goal,D. Edelman,True,,,,,,,1,0
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,45,,period,,,,,,,HT,,1,0
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,45,,injuryTime,,,,,,,,1,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,51,,goal,J. Sang-bin,True,,,,,,,2,0
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,60,,substitution,,False,,,Igor Jesus,M. Delgado,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,61,,substitution,,False,,,S. Vásquez,L. Walta,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,62,,goal,S. Palencia,False,,,,,,,2,1
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,76,,substitution,,True,,,T. Ostrák,A. Mățan,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,76,,substitution,,True,,,S. Becher,J. Sang-bin,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,78,,goal,S. Becher,True,,,,,,,3,1
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,79,,substitution,,False,,,R. Hollingshead,Y. Cheberko,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,79,,substitution,,False,,,T. Mihalic,M. Choinière,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,80,,card,E. Segura,False,yellow,Foul,,,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,84,,card,Y. Damet,True,yellow,Argument,,,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,85,,card,T. Ostrák,True,yellow,Argument,,,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,85,,goal,D. Bouanga,False,,,,,,,3,2
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,90,,period,,,,,,,FT,,3,2
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,90,1,substitution,,True,,,J. Orozco,C. Wallem,,,,
+mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,90,,injuryTime,,,,,,,,11,,

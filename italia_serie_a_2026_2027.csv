@@ -2337,10 +2337,10 @@ italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,82,,substitution,,T
 italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,82,,substitution,,True,,,Giovane,R. Højlund,,,,
 italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,90,,period,,,,,,,FT,,1,0
 italia_serie_a_2026_2027,2026-11-21,12,SSC Napoli,Torino,1,0,90,,injuryTime,,,,,,,,4,,
-italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,4,,goal,G. Calvani,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,19,,goal,G. Ramos,True,,,,,,,2,0
 italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,25,,goal,P. Masini,False,,,,,,,2,1
 italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,34,,card,G. Cittadini,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,4,,goal,G. Calvani,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,40,,card,G. Calò,False,yellow,Argument,,,,,,
 italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,45,,period,,,,,,,HT,,2,1
 italia_serie_a_2026_2027,2026-11-22,12,AC Milan,Frosinone,5,1,45,,injuryTime,,,,,,,,1,,
@@ -2389,7 +2389,6 @@ italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,,period,,,,,,,FT,,4
 italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,5,card,C. Augusto,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,1,goal,F. Kessié,True,,,,,,,4,4
 italia_serie_a_2026_2027,2026-11-22,12,Atalanta,Inter,4,4,90,,injuryTime,,,,,,,,4,,
-italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,6,,card,M. Palma,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,34,,card,P. Zanetti,False,yellow,Argument,,,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,43,,goal,N. Zortea,True,,,,,,,1,0
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,45,,period,,,,,,,HT,,1,0
@@ -2399,6 +2398,7 @@ italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,51,,card,O. Solet,Fal
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,52,,card,F. Bernardeschi,True,yellow,Argument,,,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,56,,substitution,,False,,,V. Bayo,S. Lovrić,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,56,,substitution,,False,,,A. Zanoli,M. Palma,,,,
+italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,6,,card,M. Palma,False,yellow,Foul,,,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,67,,goal,N. Zaniolo,False,,,,,,,1,1
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,79,,substitution,,True,,,M. Vitík,N. Zortea,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Bologna,Udinese,1,1,79,,substitution,,True,,,S. Mbangula,F. Bernardeschi,,,,
@@ -2445,3 +2445,20 @@ italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,85,,substitution,,True
 italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,88,,substitution,,False,,,,L. Colombo,,,,
 italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,90,,period,,,,,,,FT,,0,2
 italia_serie_a_2026_2027,2026-11-22,12,Sassuolo,Genoa,0,2,90,,injuryTime,,,,,,,,4,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,27,,substitution,,False,,,L. Ranieri,Viery,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,45,,period,,,,,,,HT,,1,0
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,45,,goal,G. Varela,True,,,,,,,1,0
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,45,,injuryTime,,,,,,,,2,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,46,,substitution,,False,,,A. Njie,P. Gonçalves,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,51,,goal,G. Varela,True,,,,,,,2,0
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,59,,goal,J. Robinson,True,,,,,,,3,0
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,66,,substitution,,False,,,V. Valdepeñas,W. Gnonto,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,67,,substitution,,True,,,D. Mota,J. Robinson,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,67,,substitution,,False,,,Beto,F. Mastantuono,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,74,,substitution,,True,,,J. Ziółkowski,E. Kouadio,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,74,,substitution,,True,,,M. Foe Ondoa,E. Akinsanmiro,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,80,,card,R. Drăguşin,False,yellow,Foul,,,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,85,,substitution,,True,,,L. Lucchesi,S. Birindelli,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,85,,substitution,,True,,,I. Touré,M. Pessina,,,,
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,90,,period,,,,,,,FT,,3,0
+italia_serie_a_2026_2027,2026-11-23,12,Monza,Fiorentina,3,0,90,,injuryTime,,,,,,,,2,,

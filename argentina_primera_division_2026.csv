@@ -10497,13 +10497,12 @@ argentina_primera_division_2026,2026-11-22,5,River Plate,CA Lanús,3,1,90,,perio
 argentina_primera_division_2026,2026-11-22,5,River Plate,CA Lanús,3,1,90,,substitution,,True,,,L. Silva,T. Galván,,,,
 argentina_primera_division_2026,2026-11-22,5,River Plate,CA Lanús,3,1,90,,substitution,,True,,,J. C. Meza,T. Andrada,,,,
 argentina_primera_division_2026,2026-11-22,5,River Plate,CA Lanús,3,1,90,,injuryTime,,,,,,,,5,,
-argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,6,,goal,J. Campaz,True,,,,,,,1,0
-argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,8,,goal,E. Copetti,True,,,,,,,2,0
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,29,,substitution,,False,,,U. Sánchez,N. Barboza,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,39,,card,F. Antonini,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,40,,goal,L. Carrera,True,,,,,,,3,0
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,45,,period,,,,,,,HT,,3,0
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,45,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,6,,goal,J. Campaz,True,,,,,,,1,0
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,62,,substitution,,True,,,Á. Rodríguez,F. Cervi,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,62,,substitution,,True,,,S. Zaracho,J. Giménez,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,67,,substitution,,True,,,Á. Di María,J. Fernández,,,,
@@ -10511,14 +10510,54 @@ argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima 
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,70,,substitution,,False,,,M. Úbeda,F. Antonini,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,70,,substitution,,False,,,B. Andrada,I. Sabatini,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,74,,substitution,,False,,,M. Vargas,A. Modica,,,,
+argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,8,,goal,E. Copetti,True,,,,,,,2,0
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,81,,substitution,,True,,,T. Badaloni,V. Pizarro,,,,
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,90,,period,,,,,,,FT,,3,1
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,90,1,goal,F. Lencioni,False,,,,,,,3,1
 argentina_primera_division_2026,2026-11-22,5,Rosario Central,Gimnasia y Esgrima Mendoza,3,1,90,,injuryTime,,,,,,,,2,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,16,,card,L. Regiardo,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,18,,goal,I. Fernández,True,,,,,,,1,0
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,39,,card,L. Janson,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,45,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,53,,card,H. Castillo,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,53,,varDecision,S. Solari,False,,,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,55,,goal,W. Mazzantti,False,,,,,,,1,1
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,56,,card,I. Fernández,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,57,,card,M. Ortega,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,58,,card,G. Conti,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,64,,substitution,,True,,,J. D. Merlo,M. Torres,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,69,,substitution,,False,,,J. G. Mattar,R. Herrera,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,73,,goal,I. Miramón,True,,,,,,,2,1
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,75,,substitution,,True,,,M. Panaro,L. Janson,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,75,,substitution,,True,,,F. D. Biasi,M. Seoane,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,80,,goal,W. Mazzantti,False,,,,,,,2,2
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,83,,substitution,,False,,,A. Soñora,F. Gauch,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,86,,card,J. Russo,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,87,,card,L. Carrizo,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,90,,period,,,,,,,FT,,2,2
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,90,2,card,A. Auzmendi,True,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,90,1,card,F. D. Biasi,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,90,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,94,,substitution,,False,,,J. I. Ramírez,M. Cóccaro,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,97,,card,J. Russo,False,yellowRed,Foul,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,98,,substitution,,False,,,F. Escobar,W. Mazzantti,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,99,,goal,F. Escobar,True,,,,,,,3,2
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,102,,substitution,,True,,,M. Melluso,P. S. Torrejón,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,103,,card,M. Ortega,False,yellowRed,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,104,,card,F. Escobar,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,105,,card,J. I. Ramírez,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,105,,injuryTime,,,,,,,,3,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,106,,substitution,,False,,,F. Scarpeccio,B. Cabrera,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,106,,substitution,,True,,,R. Giampaoli,A. Steimbach,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,106,,substitution,,True,,,A. Colazo,A. Auzmendi,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,106,,substitution,,False,,,W. Nuñez,L. Regiardo,,,,
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,113,,goal,M. Melluso,True,,,,,,,4,2
+argentina_primera_division_2026,2026-11-23,5,Gimnasia y Esgrima,Newell's Old Boys,4,2,120,,period,,,,,,,ET,,4,2
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,1,,goal,A. Luna,True,,,,,,,1,0
-argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,3,,card,A. Luna,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,20,,goal,F. Suárez,True,,,,,,,2,0
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,26,,substitution,,True,,,J. Córdoba,J. Lázaro,,,,
+argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,3,,card,A. Luna,True,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,32,,card,F. Vera,False,yellow,Persistent fouling,,,,,,
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,37,,substitution,,True,,,J. Acevedo,A. Luna,,,,
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,45,,period,,,,,,,HT,,2,0

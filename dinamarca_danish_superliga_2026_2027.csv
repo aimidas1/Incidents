@@ -1843,3 +1843,26 @@ dinamarca_danish_superliga_2026_2027,2026-11-22,15,Viborg FF,Randers FC,0,0,82,,
 dinamarca_danish_superliga_2026_2027,2026-11-22,15,Viborg FF,Randers FC,0,0,82,,substitution,,True,,,Giulio,S. Jalal,,,,
 dinamarca_danish_superliga_2026_2027,2026-11-22,15,Viborg FF,Randers FC,0,0,90,,period,,,,,,,FT,,0,0
 dinamarca_danish_superliga_2026_2027,2026-11-22,15,Viborg FF,Randers FC,0,0,90,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,6,,card,J. Vanlerberghe,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,27,,card,F. Etim,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,37,,substitution,,False,,,J. Emefile,S. Iheanacho,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,37,,substitution,,False,,,G. Cho,F. Etim,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,38,,card,T. Norgaard,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,45,,period,,,,,,,HT,,0,1
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,45,2,goal,G. Cho,False,,,,,,,0,1
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,45,,injuryTime,,,,,,,,3,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,55,,substitution,,False,,,S. Johannesen,O. Diao,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,62,,substitution,,True,,,O. Hyseni,O. Fenger,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,62,,substitution,,True,,,J. Ambaek,M. Frøkjær-Jensen,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,64,,substitution,,False,,,H. Hyun-seok,K. Wätjen,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,76,,goal,F. Alves,False,,,,,,,0,2
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,78,,card,M. Tullberg,False,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,79,,substitution,,True,,,P. Mortensen,F. Bundgaard,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,84,,card,M. Younis,True,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,85,,substitution,,True,,,D. Wass,B. Slisz,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,85,,substitution,,True,,,O. Villadsen,C. Olivier,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,85,,card,B. Slisz,True,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,85,,card,P. Billing,False,yellow,Argument,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,86,,card,R. Kristensen,False,yellow,Foul,,,,,,
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,90,,period,,,,,,,FT,,0,2
+dinamarca_danish_superliga_2026_2027,2026-11-23,15,Brøndby IF,FC Midtjylland,0,2,90,,injuryTime,,,,,,,,4,,

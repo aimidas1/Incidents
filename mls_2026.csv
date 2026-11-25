@@ -10374,3 +10374,26 @@ mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,85,,goal,D. Bouanga,False,
 mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,90,,period,,,,,,,FT,,3,2
 mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,90,1,substitution,,True,,,J. Orozco,C. Wallem,,,,
 mls_2026,2026-11-24,,St.Louis City,Los Angeles FC,3,2,90,,injuryTime,,,,,,,,11,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,11,,goal,R. Vieira,True,,,,,,,1,0
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,23,,card,A. Resch,False,yellow,Foul,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,24,,goal,E. Löwen,True,,,,,,,2,0
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,30,,card,Artur,False,yellow,Foul,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,45,,period,,,,,,,HT,,2,0
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,46,,substitution,,False,,,D. McGuire,L. Foster,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,64,,substitution,,False,,,A. Bouzat,H. Herrera,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,64,,substitution,,False,,,L. Ennali,I. Aliyu,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,67,,card,T. Werner,True,yellow,Foul,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,70,,card,R. Roberts,True,yellow,Foul,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,71,,substitution,,True,,,O. Bouda,P. Judd,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,71,,substitution,,True,,,D. Romney,R. Vieira,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,71,,substitution,,True,,,I. Harkes,V. Costa,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,71,,substitution,,True,,,J. Ricketts,T. Werner,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,73,,substitution,,False,,,N. Markanich,D. Holmes,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,80,,goal,D. McGuire,False,,,,,,,2,1
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,81,,card,A. Resch,False,red,Professional foul last man,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,82,,card,L. Halter,False,yellow,Argument,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,87,,card,J. Ricketts,True,yellow,Time wasting,,,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,90,,period,,,,,,,FT,,2,1
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,90,1,substitution,,True,,,N. Fernandez,E. Löwen,,,,
+mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,90,,injuryTime,,,,,,,,5,,

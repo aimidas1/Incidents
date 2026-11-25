@@ -7524,6 +7524,27 @@ brasileirao_serie_a_2026,2026-11-23,36,Internacional,Vitória,2,5,87,,goal,G. Ba
 brasileirao_serie_a_2026,2026-11-23,36,Internacional,Vitória,2,5,90,,period,,,,,,,FT,,2,5
 brasileirao_serie_a_2026,2026-11-23,36,Internacional,Vitória,2,5,90,4,varDecision,R. Kayzer,False,,,,,,,,
 brasileirao_serie_a_2026,2026-11-23,36,Internacional,Vitória,2,5,90,2,goal,R. Kayzer,False,,,,,,,2,5
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,5,,goal,Camilo,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,15,,card,Camilo,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,26,,card,B. Pacheco,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,32,,goal,Max,True,,,,,,,2,0
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,45,,period,,,,,,,HT,,2,0
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,45,,injuryTime,,,,,,,,3,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,46,,substitution,,False,,,M. C. Bilong,Z. M. Kone,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,65,,substitution,,True,,,Marcinho,T. E. S. d. Oliveira,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,69,,substitution,,False,,,G. Soares,E. Belé,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,69,,substitution,,False,,,Coutinho,L. F. Pacheco,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,77,,card,M. C. Bilong,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,78,,substitution,,False,,,V. Gabriel,Heittor,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,78,,substitution,,True,,,R. Tadeu,G. Augusto,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,78,,substitution,,True,,,Fernando,B. Pacheco,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,78,,substitution,,True,,,B. Tubarão,Camilo,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,87,,substitution,,True,,,M. Carvalho,D. Antunes,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,89,,substitution,,False,,,A. Lucas,F. R. Pereira,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,90,,period,,,,,,,FT,,3,0
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,90,4,card,M. Carvalho,True,yellow,Time wasting,,,,,,
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,90,,goal,M. Carvalho,True,,,,,,,3,0
+brasileirao_serie_a_2026,2026-11-24,37,Chapecoense,Palmeiras,3,0,90,,injuryTime,,,,,,,,4,,
 brasileirao_serie_a_2026,2026-11-24,36,Santos,Grêmio,0,2,14,,goal,F. Amuzu,False,,,,,,,0,1
 brasileirao_serie_a_2026,2026-11-24,36,Santos,Grêmio,0,2,21,,card,E. Noriega,False,yellow,Foul,,,,,,
 brasileirao_serie_a_2026,2026-11-24,36,Santos,Grêmio,0,2,40,,card,J. Alencar,True,yellow,Foul,,,,,,

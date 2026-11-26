@@ -2976,3 +2976,144 @@ japao_j1_league_2026_2027,2026-11-21,15,Tokyo Verdy,Nagoya Grampus,0,0,86,,subst
 japao_j1_league_2026_2027,2026-11-21,15,Tokyo Verdy,Nagoya Grampus,0,0,90,,period,,,,,,,FT,,0,0
 japao_j1_league_2026_2027,2026-11-21,15,Tokyo Verdy,Nagoya Grampus,0,0,90,4,card,T. Takamine,False,yellow,Foul,,,,,,
 japao_j1_league_2026_2027,2026-11-21,15,Tokyo Verdy,Nagoya Grampus,0,0,90,,injuryTime,,,,,,,,4,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,12,,goal,Werik Popó,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,24,,card,K. Takumi,True,yellow,Argument,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,28,,card,K. Okuno,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,45,,period,,,,,,,HT,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,45,,injuryTime,,,,,,,,2,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,46,,substitution,,False,,,J. Amano,T. Kimura,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,46,,substitution,,False,,,J. Onaiwu,R. Miyaichi,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,59,,substitution,,False,,,R. Nitta,S. Miidera,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,59,,substitution,,False,,,D. Tono,K. Matsumura,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,67,,card,Werik Popó,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,69,,substitution,,True,,,S. Usui,Werik Popó,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,69,,substitution,,True,,,M. Yota,Y. Hashimoto,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,69,,substitution,,True,,,N. Shintaro,K. Okuno,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,71,,substitution,,False,,,Tevis,K. Suwama,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,72,,substitution,,False,,,T. Inoue,T. Kondo,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,80,,substitution,,True,,,S. Sato,M. Shigemi,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,80,,substitution,,True,,,Y. Kitajima,S. Morooka,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,88,,substitution,,True,,,D. Miya,D. Fukazawa,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,90,,period,,,,,,,FT,,1,2
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,90,4,goal,D. Tono,False,,,,,,,1,2
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,90,1,goal,R. Nitta,False,,,,,,,1,1
+japao_j1_league_2026_2027,2026-11-25,16,Avispa Fukuoka,Yokohama F. Marinos,1,2,90,,injuryTime,,,,,,,,5,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,15,,goal,S. Ayukawa,False,,,,,,,0,1
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,45,,period,,,,,,,HT,,0,1
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,45,,injuryTime,,,,,,,,1,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,47,,card,T. Ko,True,yellow,Persistent fouling,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,55,,substitution,,False,,,T. Matsumoto,S. Haller,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,68,,substitution,,True,,,H. Ishihara,K. Tawaratsumida,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,68,,substitution,,True,,,T. Nakagawa,D. Gómez,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,68,,substitution,,False,,,S. Kobayashi,Y. Nakajima,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,68,,substitution,,False,,,D. Suga,S. Ayukawa,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,74,,goal,M. Nagakura,True,,,,,,,1,1
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,79,,goal,T. Nakagawa,True,,,,,,,2,1
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,84,,card,H. Araki,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,86,,substitution,,True,,,K. Hashimoto,K. Tokiwa,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,86,,substitution,,True,,,M. Ryan,S. Anzai,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,87,,substitution,,False,,,K. Yengi,K. Hayao,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,87,,substitution,,False,,,M. Naoki,J. S. Kim,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,89,,goal,K. Yengi,False,,,,,,,2,2
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,90,,period,,,,,,,FT,,2,2
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,90,4,substitution,,True,,,R. Omori,S. Muroya,,,,
+japao_j1_league_2026_2027,2026-11-25,16,FC Tokyo,Sanfrecce Hiroshima,2,2,90,,injuryTime,,,,,,,,6,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,45,,period,,,,,,,HT,,0,0
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,45,,injuryTime,,,,,,,,1,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,50,,varDecision,R. Germain,False,,,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,62,,substitution,,True,,,N. Browne,Lucao,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,62,,substitution,,True,,,K. Shirai,M. Matsumoto,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,63,,goal,N. Browne,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,68,,substitution,,False,,,O. Se-Hun,K. Kosuke,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,68,,substitution,,False,,,K. Kitagawa,R. Germain,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,68,,substitution,,False,,,Y. Takahashi,S. Park,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,71,,substitution,,True,,,H. Motoyama,A. Esaka,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,71,,substitution,,True,,,K. Kawano,T. Yamane,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,75,,goal,Y. Suzuki,True,,,,,,,2,0
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,80,,substitution,,False,,,Y. Shimamoto,D. J. Won,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,80,,substitution,,False,,,T. Fujii,Capixaba,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,90,,period,,,,,,,FT,,2,0
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,90,,substitution,,True,,,R. Takeuchi,S. Na,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Fagiano Okayama,Shimizu S-Pulse,2,0,90,,injuryTime,,,,,,,,3,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,13,,card,D. Suzuki,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,16,,goal,T. Yasui,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,39,,goal,R. Izumi,False,,,,,,,1,1
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,45,,period,,,,,,,HT,,1,1
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,45,,injuryTime,,,,,,,,1,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,46,,substitution,,False,,,Y. Yamagishi,K. Nagai,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,46,,substitution,,False,,,Y. Sato,Y. Nogami,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,54,,card,T. Tsukui,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,55,,substitution,,True,,,M. Himeno,K. Yamura,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,55,,substitution,,True,,,K. Tanaka,T. Tsukui,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,55,,substitution,,True,,,L. Rocha,Erison,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,57,,card,Y. Sato,False,yellow,Argument,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,72,,substitution,,False,,,T. Koyamatsu,H. Koda,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,72,,substitution,,False,,,Mateus,Y. Kimura,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,73,,goal,T. Takamine,False,,,,,,,1,2
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,73,,substitution,,True,,,H. Goya,L. Rocha,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,82,,substitution,,False,,,T. Uchida,R. Izumi,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,83,,card,T. Yasui,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,89,,substitution,,True,,,R. Ishio,M. Hidaka,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,90,,period,,,,,,,FT,,1,2
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,90,,card,T. Mae,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,JEF United Chiba,Nagoya Grampus,1,2,90,,injuryTime,,,,,,,,4,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,15,,varDecision,Y. Arai,False,,,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,17,,card,Y. Arai,False,red,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,20,,card,Y. Funabashi,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,45,,period,,,,,,,HT,,0,0
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,45,,injuryTime,,,,,,,,3,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,46,,substitution,,False,,,Y. Uchida,S. Tanabe,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,57,,substitution,,True,,,K. Taniguchi,Y. Tamura,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,67,,card,I. Kumatoriya,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,68,,goal,Y. Kimoto,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,69,,substitution,,False,,,Y. Matsuhashi,I. Kumatoriya,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,69,,substitution,,False,,,K. Ichimi,I. Someno,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,73,,substitution,,True,,,K. Okamoto,Y. Funabashi,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,73,,substitution,,True,,,K. Uchino,R. Nemoto,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,74,,substitution,,True,,,A. Watanabe,M. Nishihara,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,82,,substitution,,False,,,G. Nakamura,Y. Fukuda,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,82,,substitution,,False,,,K. Saito,R. Hirakawa,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,87,,substitution,,True,,,C. Kato,T. Mase,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,90,,period,,,,,,,FT,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,Mito Hollyhock,Tokyo Verdy,1,0,90,,injuryTime,,,,,,,,4,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,11,,goal,A. Onaiwu,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,22,,goal,T. Kaneko,True,,,,,,,2,0
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,45,,period,,,,,,,HT,,2,0
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,45,,injuryTime,,,,,,,,2,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,56,,goal,R. Inoue,False,,,,,,,2,1
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,62,,goal,S. Sakuragawa,False,,,,,,,2,2
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,70,,substitution,,True,,,K. Kudo,S. Gustafson,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,78,,substitution,,False,,,T. Nakamura,Y. Komi,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,78,,substitution,,True,,,H. Minamino,M. Sávio,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,78,,substitution,,True,,,H. Ueki,R. Watanabe,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,78,,substitution,,True,,,J. Hayakawa,T. Kaneko,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,79,,substitution,,False,,,R. Sakata,Y. Yokoyama,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,86,,substitution,,False,,,J. Hernández,A. Ohata,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,86,,substitution,,False,,,S. Uejo,T. Andrade,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,88,,substitution,,True,,,S. Sasa,A. Onaiwu,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,89,,card,D. Cools,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,90,,period,,,,,,,FT,,2,2
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,90,2,card,S. Sakuragawa,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,Urawa Red Diamonds,Cerezo Osaka,2,2,90,,injuryTime,,,,,,,,5,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,18,,goal,I. Yuto,True,,,,,,,1,0
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,22,,goal,F. Uremović,False,,,,,,,1,1
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,35,,varDecision,Y. Egawa,True,,,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,41,,card,H. Nabeshima,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,45,,period,,,,,,,HT,,1,1
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,45,,injuryTime,,,,,,,,3,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,48,,goal,T. Ito,False,,,,,,,1,2
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,58,,substitution,,True,,,J. Junior,T. Santana,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,59,,substitution,,True,,,T. Ominami,H. Nabeshima,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,59,,substitution,,True,,,M. Hasegawa,Y. Egawa,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,62,,card,N. Campbell,True,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,64,,card,Y. Wakizaka,False,yellow,Foul,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,66,,substitution,,True,,,A. Masuyama,I. Yuto,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,69,,substitution,,False,,,S. Yamaichi,T. Ito,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,69,,substitution,,False,,,R. Homma,D. Lacerda,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,69,,substitution,,False,,,Y. Ozeki,Y. Wakizaka,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,76,,substitution,,True,,,T. Matsumoto,N. Campbell,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,76,,card,Y. Ozeki,False,yellow,Simulation,,,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,82,,substitution,,False,,,S. Kawahara,Marcinho,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,90,,period,,,,,,,FT,,1,2
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,90,3,substitution,,False,,,Y. Kobayashi,Y. Yamamoto,,,,
+japao_j1_league_2026_2027,2026-11-25,16,V-Varen Nagasaki,Kawasaki Frontale,1,2,90,,injuryTime,,,,,,,,4,,

@@ -10579,3 +10579,25 @@ argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,90,,period,,,,,,,FT,,2,1
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,90,5,card,L. Blondel,False,yellow,Foul,,,,,,
 argentina_primera_division_2026,2026-11-23,5,Instituto De Córdoba,Huracán,2,1,90,,injuryTime,,,,,,,,6,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,15,,varDecision,S. Villa,True,,,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,18,,goal,L. Paredes,True,,,,,,,1,0
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,30,,card,A. Arce,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,36,,card,L. Lozano,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,37,,substitution,,True,,,W. Alarcón,M. Delgado,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,45,,period,,,,,,,HT,,1,0
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,45,,injuryTime,,,,,,,,4,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,49,,substitution,,True,,,A. Velasco,W. Alarcón,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,53,,goal,M. Merentiel,True,,,,,,,2,0
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,54,,card,S. Studer,False,yellow,Argument,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,56,,substitution,,False,,,M. Reali,L. Sequeira,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,56,,substitution,,False,,,F. Sartori,R. Atencio,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,72,,card,L. Costa,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,72,,substitution,,True,,,L. Flores,S. Villa,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,72,,substitution,,True,,,R. Battaglia,T. Aranda,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,72,,substitution,,True,,,A. Bareiro,M. Merentiel,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,73,,substitution,,False,,,L. Bucca,G. Ríos,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,73,,substitution,,False,,,T. Bottari,L. Costa,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,87,,card,L. Paredes,True,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,90,,period,,,,,,,FT,,2,0
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,90,2,card,L. Bucca,False,yellow,Foul,,,,,,
+argentina_primera_division_2026,2026-11-26,5,Boca Juniors,Independiente Rivadavia,2,0,90,,injuryTime,,,,,,,,4,,

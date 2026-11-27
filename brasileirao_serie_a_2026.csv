@@ -7585,3 +7585,27 @@ brasileirao_serie_a_2026,2026-11-25,36,Atlético Mineiro,Corinthians,1,1,85,,car
 brasileirao_serie_a_2026,2026-11-25,36,Atlético Mineiro,Corinthians,1,1,90,,period,,,,,,,FT,,1,1
 brasileirao_serie_a_2026,2026-11-25,36,Atlético Mineiro,Corinthians,1,1,90,2,goal,T. Cuello,True,,,,,,,1,1
 brasileirao_serie_a_2026,2026-11-25,36,Atlético Mineiro,Corinthians,1,1,90,,injuryTime,,,,,,,,7,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,21,,card,A. Galeano,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,39,,goal,J. Calleri,True,,,,,,,1,0
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,45,,period,,,,,,,HT,,1,0
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,45,2,varDecision,Artur,True,,,,,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,45,,injuryTime,,,,,,,,4,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,46,,substitution,,False,,,Marlon,A. Galeano,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,46,,substitution,,False,,,Jaderson,L. Picco,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,53,,card,Edson Fernando,False,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,55,,goal,G. Poveda,False,,,,,,,1,1
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,67,,substitution,,True,,,R. Francisco,Luciano,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,67,,substitution,,True,,,Lucca,Artur,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,67,,substitution,,True,,,P. Ferreira,P. Maia,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,71,,substitution,,False,,,E. Melo,G. Poveda,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,71,,card,T. Carpini,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,75,,substitution,,True,,,Newton,P. Lima,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,76,,substitution,,True,,,G. Santana,L. Moura,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,78,,substitution,,False,,,V. Bueno,Edson Fernando,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,78,,substitution,,False,,,J. Lucas,Y. Pikachu,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,84,,card,Lucca,True,yellow,Foul,,,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,87,,goal,R. Francisco,True,,,,,,,2,1
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,90,,period,,,,,,,FT,,3,1
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,90,6,card,D. Tchamba,False,yellow,Argument,,,,,,
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,90,5,goal,J. Calleri,True,,,,,,,3,1
+brasileirao_serie_a_2026,2026-11-26,37,São Paulo,Remo,3,1,90,,injuryTime,,,,,,,,6,,

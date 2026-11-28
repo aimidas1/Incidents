@@ -2028,3 +2028,21 @@ france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,84,,substitution,,Tru
 france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,86,,substitution,,False,,,J. Bouffandeau,Y. Belkhdim,,,,
 france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,90,,period,,,,,,,FT,,4,0
 france_ligue_1_2026_2027,2026-11-22,11,Paris FC,Angers,4,0,90,,injuryTime,,,,,,,,7,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,2,,card,P. Lees Melou,False,yellow,Handball,,,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,21,,goal,L. Zogbé,True,,,,,,,1,0
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,30,,card,L. Tousart,True,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,36,,card,L. Koleosho,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,45,,period,,,,,,,HT,,1,0
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,45,,injuryTime,,,,,,,,2,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,46,,substitution,,False,,,R. Matondo,A. Camara,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,46,,substitution,,False,,,I. Kebbal,M. Simon,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,60,,card,I. Kebbal,False,yellow,Foul,,,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,63,,substitution,,True,,,G. Versini,N. Edjouma,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,73,,substitution,,True,,,M. Diambou,K. Doumbia,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,73,,substitution,,True,,,M. Baldé,P. Mboup,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,73,,substitution,,False,,,Zabi,P. Lees Melou,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,78,,card,E. Selvik,True,yellow,Time wasting,,,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,80,,substitution,,False,,,J. Ikoné,L. Koleosho,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,80,,substitution,,False,,,Otávio,H. Traoré,,,,
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,90,,period,,,,,,,FT,,1,0
+france_ligue_1_2026_2027,2026-11-27,12,Stade Brestois,Paris FC,1,0,90,,injuryTime,,,,,,,,4,,

@@ -1885,3 +1885,28 @@ alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,88
 alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,90,,period,,,,,,,FT,,4,0
 alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,90,2,goal,N. Füllkrug,True,,,,,,,4,0
 alemanha_bundesliga_2026_2027,2026-11-22,10,SV Werder Bremen,Hamburger SV,4,0,90,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,24,,varDecision,P. Sander,False,,,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,27,,goal,K. Diks,False,,,,,,,0,1
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,36,,card,J. Castrop,False,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,38,,goal,E. Dinkçi,True,,,,,,,1,1
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,44,,card,P. Sander,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,44,,card,N. Füllkrug,True,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,45,,period,,,,,,,HT,,1,1
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,45,,injuryTime,,,,,,,,4,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,46,,goal,F. Honorat,False,,,,,,,1,2
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,46,,substitution,,True,,,M. Schmetgens,P. Erevbenagie,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,55,,card,S. Machino,False,yellow,Argument,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,57,,card,M. Schmetgens,True,yellow,Foul,,,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,72,,substitution,,True,,,M. Weiser,O. Deman,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,75,,substitution,,False,,,D. Herold,J. Castrop,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,75,,substitution,,False,,,M. Nguefack ,F. Neuhaus,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,78,,goal,F. Honorat,False,,,,,,,1,3
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,79,,substitution,,True,,,C. Itten,Chuki,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,84,,substitution,,False,,,K. Itakura,Z. Uno,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,84,,substitution,,False,,,F. Fleck,F. Honorat,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,85,,goal,E. Dinkçi,True,,,,,,,2,3
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,86,,substitution,,True,,,S. Lynen,Y. Regeer,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,89,,substitution,,False,,,T. Kleindienst,S. Machino,,,,
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,90,,period,,,,,,,FT,,3,3
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,90,2,goal,N. Füllkrug,True,,,,,,,3,3
+alemanha_bundesliga_2026_2027,2026-11-27,11,SV Werder Bremen,Borussia M'gladbach,3,3,90,,injuryTime,,,,,,,,5,,

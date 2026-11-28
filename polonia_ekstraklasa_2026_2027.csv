@@ -2711,3 +2711,50 @@ polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,7
 polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,85,,substitution,,True,,,N. Knežević,T. Christensen,,,,
 polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,90,,period,,,,,,,FT,,2,1
 polonia_ekstraklasa_2026_2027,2026-11-23,15,Wieczysta Kraków,Motor Lublin,2,1,90,,injuryTime,,,,,,,,4,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,2,,goal,R. Janicki,True,,,,,,,1,0
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,10,,varDecision,M. Khlan,True,,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,14,,card,O. Kobacki,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,17,,goal,M. Khlan,True,,,,,,,2,0
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,43,,card,A. Radwanski,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,45,,period,,,,,,,HT,,2,0
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,45,,injuryTime,,,,,,,,3,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,46,,substitution,,False,,,D. Jurić,Ž. Rogelj,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,46,,substitution,,False,,,M. Flis,M. Haglind Sangre,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,46,,substitution,,False,,,F. Hiszpański,J. Pršir,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,61,,goal,D. Jurić,False,,,,,,,2,1
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,65,,card,R. Leszczyński,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,67,,substitution,,False,,,D. Gallapeni,O. Kobacki,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,67,,goal,K. Urbański,True,,,,,,,3,1
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,77,,substitution,,True,,,J. Antiste,M. Khlan,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,77,,substitution,,True,,,S. Liseth,E. Prekop,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,78,,substitution,,True,,,K. Semik,P. Bernardo,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,79,,substitution,,False,,,G. Kuchko,S. Tavares,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,80,,goal,S. Akere,False,,,,,,,3,2
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,82,,card,J. Antiste,True,yellow,,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,86,,substitution,,True,,,J. Kubicki,K. Urbański,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,86,,card,K. Semik,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,90,,period,,,,,,,FT,,3,2
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Górnik Zabrze,Wisła Płock,3,2,90,,injuryTime,,,,,,,,5,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,10,,card,F. Sierralta,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,22,,goal,L. Sanca,False,,,,,,,0,1
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,26,,card,Q. Boisgard,False,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,38,,goal,Q. Boisgard,False,,,,,,,0,2
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,44,,card,J. Silva,True,yellow,Argument,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,45,,period,,,,,,,HT,,0,2
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,45,,injuryTime,,,,,,,,1,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,46,,substitution,,False,,,J. Czerwiński,F. Sierralta,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,46,,substitution,,True,,,M. Diaby,J. Silva,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,59,,goal,M. Emreli,True,,,,,,,1,2
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,66,,substitution,,False,,,J. Łabojko,O. Lesniak,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,74,,substitution,,False,,,S. N. Ndimba,A. Katsantonis,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,74,,substitution,,False,,,S. Mucha,I. Lima,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,77,,substitution,,True,,,J. Jendryka,T. Pieńko,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,77,,substitution,,True,,,I. Brusberg,M. Emreli,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,77,,substitution,,True,,,Á. Molnár,E. Otieno,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,82,,card,F. Tudor,True,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,86,,substitution,,True,,,O. Kwiatkowski,W. Kocherhin,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,86,,substitution,,False,,,J. Félix,L. Sanca,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,87,,card,H. Vallejo,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,90,,period,,,,,,,FT,,1,2
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,90,5,card,J. Félix,False,yellow,Foul,,,,,,
+polonia_ekstraklasa_2026_2027,2026-11-27,16,Raków Częstochowa,Piast Gliwice,1,2,90,,injuryTime,,,,,,,,4,,

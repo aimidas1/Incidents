@@ -10397,3 +10397,36 @@ mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,87,,card,J. Rickett
 mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,90,,period,,,,,,,FT,,2,1
 mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,90,1,substitution,,True,,,N. Fernandez,E. Löwen,,,,
 mls_2026,2026-11-25,,San Jose Earthquakes,Houston Dynamo,2,1,90,,injuryTime,,,,,,,,5,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,18,,card,F. Caicedo,False,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,45,,card,S. Rodríguez,True,yellow,Handball,,,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,65,,card,G. Tapia,True,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,66,,substitution,,False,,,F. Mura,F. Caicedo,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,74,,substitution,,False,,,L. Suárez,Riquelme,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,79,,card,M. Galarza,False,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,83,,card,S. Zawadzki,True,yellow,Argument,,,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,88,,substitution,,True,,,J. Martínez,G. Tapia,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,88,,substitution,,True,,,A. Gomes,D. Chambost,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,88,,substitution,,True,,,A. Herrera,M. Farsi,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,88,,substitution,,False,,,Shaw,I. Fray,,,,
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,90,,period,,,,,,,FT,,1,0
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,90,2,goal,S. Rodríguez,True,,,,,,,1,0
+mls_2026,2026-11-28,,Columbus Crew,Inter Miami CF,1,0,90,,injuryTime,,,,,,,,3,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,16,,card,P. Quinton,True,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,45,,period,,,,,,,HT,,0,0
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,45,,injuryTime,,,,,,,,2,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,58,,goal,E. Sabbi,False,,,,,,,0,1
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,69,,card,A. Cubas,False,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,72,,substitution,,False,,,Y. Diaby,T. Müller,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,72,,substitution,,False,,,J. Badwal,A. Cvetković,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,77,,card,M. Guilavogui,True,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,78,,substitution,,True,,,A. Hezarkhani,S. Spierings,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,84,,card,B. Quiñonez,False,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,87,,card,J. Sanabria,True,yellow,Foul,,,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,87,,substitution,,False,,,M. Laborda,R. Priso,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,87,,substitution,,False,,,C. T. Sabaly,B. Quiñonez,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,88,,substitution,,True,,,L. Rodrigues,S. Lobzhanidze,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,90,,period,,,,,,,FT,,0,1
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,90,5,card,Y. Diaby,False,yellow,Time wasting,,,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,90,4,substitution,,False,,,R. Veselinović,É. Ocampo,,,,
+mls_2026,2026-11-28,,Real Salt Lake,Vancouver Whitecaps,0,1,90,,injuryTime,,,,,,,,5,,

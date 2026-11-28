@@ -2237,3 +2237,26 @@ inglaterra_premier_league_2026_2027,2026-11-23,11,Brentford,Everton,4,0,85,,subs
 inglaterra_premier_league_2026_2027,2026-11-23,11,Brentford,Everton,4,0,90,,period,,,,,,,FT,,4,0
 inglaterra_premier_league_2026_2027,2026-11-23,11,Brentford,Everton,4,0,90,,goal,F. Carvalho,True,,,,,,,4,0
 inglaterra_premier_league_2026_2027,2026-11-23,11,Brentford,Everton,4,0,90,,injuryTime,,,,,,,,3,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,5,,goal,I. Jesus,True,,,,,,,1,0
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,45,,period,,,,,,,HT,,1,0
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,45,,injuryTime,,,,,,,,1,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,46,,substitution,,False,,,E. Emegha,D. Welbeck,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,49,,card,W. Fofana,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,51,,goal,M. Gibbs-White,True,,,,,,,2,0
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,54,,goal,E. Emegha,False,,,,,,,2,1
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,56,,substitution,,False,,,L. Colwill,W. Fofana,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,61,,card,J. Henderson,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,70,,card,X. Alonso,False,yellow,Argument,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,71,,card,P. Neto,False,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,72,,goal,M. Gibbs-White,True,,,,,,,3,1
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,72,,substitution,,True,,,D. Ndoye,I. Jesus,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,80,,card,L. Delap,True,yellow,Foul,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,84,,substitution,,True,,,I. Sangaré,X. Schlager,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,84,,substitution,,True,,,C. Wood,L. Delap,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,85,,substitution,,False,,,G. Quenda,J. Henderson,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,85,,substitution,,False,,,M. Palestra,J. Acheampong,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,89,,goal,E. Emegha,False,,,,,,,3,2
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,90,,period,,,,,,,FT,,3,2
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,90,3,substitution,,True,,,R. Yates,J. McAtee,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,90,3,card,I. Sangaré,True,yellow,Time wasting,,,,,,
+inglaterra_premier_league_2026_2027,2026-11-27,12,Nottingham Forest,Chelsea,3,2,90,,injuryTime,,,,,,,,5,,

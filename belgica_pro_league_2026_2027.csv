@@ -2244,3 +2244,21 @@ belgica_pro_league_2026_2027,2026-11-22,12,SK Beveren,KAA Gent,1,0,90,6,substitu
 belgica_pro_league_2026_2027,2026-11-22,12,SK Beveren,KAA Gent,1,0,90,4,card,M. Paskotsi,False,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-11-22,12,SK Beveren,KAA Gent,1,0,90,1,card,J. T. Robatsch,True,yellow,Foul,,,,,,
 belgica_pro_league_2026_2027,2026-11-22,12,SK Beveren,KAA Gent,1,0,90,,injuryTime,,,,,,,,8,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,6,,varDecision,D. Opoku,True,,,,,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,14,,goal,J. Lawrence,True,,,,,,,1,0
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,30,,card,M. Anderson,False,yellow,Persistent fouling,,,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,43,,card,J. Lawrence,True,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,45,,period,,,,,,,HT,,1,0
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,45,,injuryTime,,,,,,,,3,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,46,,substitution,,False,,,S. Campbell,T. Ambrose,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,54,,goal,G. Koyalipou,False,,,,,,,1,1
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,70,,goal,J. Ndjeungoue,False,,,,,,,1,2
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,73,,substitution,,True,,,S. Yamada,E. Addai,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,73,,substitution,,True,,,B. Verstraete,W. George,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,74,,card,B. Dejaegere,False,yellow,Foul,,,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,81,,substitution,,True,,,K. Vaesen,J. Lawrence,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,82,,substitution,,False,,,J. V. Landschoot,K. Masui,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,89,,goal,R. Mirisola,True,,,,,,,2,2
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,90,,period,,,,,,,FT,,2,2
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,90,,substitution,,True,,,T. Ogiwara,D. Opoku,,,,
+belgica_pro_league_2026_2027,2026-11-27,13,Oud-Heverlee Leuven,KV Kortrijk,2,2,90,,injuryTime,,,,,,,,4,,

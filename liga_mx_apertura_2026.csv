@@ -3286,7 +3286,6 @@ liga_mx_apertura_2026,2026-11-26,27,CF Monterrey,Club América,0,0,88,,card,I. R
 liga_mx_apertura_2026,2026-11-26,27,CF Monterrey,Club América,0,0,90,,period,,,,,,,FT,,0,0
 liga_mx_apertura_2026,2026-11-26,27,CF Monterrey,Club América,0,0,90,1,card,C. Álvarez,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-26,27,CF Monterrey,Club América,0,0,90,,injuryTime,,,,,,,,6,,
-liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,6,,goal,E. Bauermann,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,32,,card,G. Milito,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,39,,card,D. Aguirre,False,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,40,,card,J. Berlanga,True,yellow,Argument,,,,,,
@@ -3298,6 +3297,7 @@ liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,45,,period,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,45,3,card,J. Castillo,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,45,,injuryTime,,,,,,,,6,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,48,,goal,O. Idrissi,True,,,,,,,1,1
+liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,6,,goal,E. Bauermann,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,62,,substitution,,False,,,Á. Sepúlveda,R. Ledezma,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,62,,substitution,,False,,,B. Gutiérrez,S. Sandoval,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,62,,substitution,,False,,,R. Marín,E. Alvarez,,,,
@@ -3313,8 +3313,6 @@ liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,90,3,card,O. I
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,90,2,goal,O. Idrissi,True,,,,,,,2,1
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,90,,substitution,,True,,,C. Hernández,R. Pizarro,,,,
 liga_mx_apertura_2026,2026-11-27,27,CF Pachuca,CD Guadalajara,2,1,90,,injuryTime,,,,,,,,10,,
-liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,5,,card,L. Valadez,True,yellow,Argument,,,,,,
-liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,8,,goal,J. Paradela,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,30,,goal,N. Ibáñez,False,,,,,,,0,2
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,36,,card,J. Márquez,False,yellow,Foul,,,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,44,,card,G. Piovi,False,yellow,Foul,,,,,,
@@ -3323,6 +3321,7 @@ liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,45,,injuryTime,,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,46,,substitution,,True,,,J. Domínguez,F. Beltrán,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,46,,substitution,,True,,,A. Alvarado,I. Díaz,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,46,,substitution,,True,,,J. Rodríguez,L. Valadez,,,,
+liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,5,,card,L. Valadez,True,yellow,Argument,,,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,64,,substitution,,True,,,E. Guerra,I. Moreno,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,65,,substitution,,False,,,G. Fernández,N. Ibáñez,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,65,,substitution,,False,,,A. Mozo,J. Márquez,,,,
@@ -3332,5 +3331,6 @@ liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,66,,goal,J. Paradel
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,73,,goal,G. Fernández,False,,,,,,,0,4
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,75,,substitution,,True,,,J. Cortizo,R. Echeverría,,,,
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,78,,substitution,,False,,,R. Orquin,J. Orozco,,,,
+liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,8,,goal,J. Paradela,False,,,,,,,0,1
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,90,,period,,,,,,,FT,,0,4
 liga_mx_apertura_2026,2026-11-27,27,Club León,Cruz Azul,0,4,90,,injuryTime,,,,,,,,3,,

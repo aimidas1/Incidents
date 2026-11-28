@@ -2283,3 +2283,49 @@ turquia_super_lig_2026_2027,2026-11-23,12,Başakşehir FK,Çorum FK,4,2,86,,goal
 turquia_super_lig_2026_2027,2026-11-23,12,Başakşehir FK,Çorum FK,4,2,90,,period,,,,,,,FT,,4,2
 turquia_super_lig_2026_2027,2026-11-23,12,Başakşehir FK,Çorum FK,4,2,90,1,goal,B. Yıldırım,True,,,,,,,4,2
 turquia_super_lig_2026_2027,2026-11-23,12,Başakşehir FK,Çorum FK,4,2,90,,injuryTime,,,,,,,,4,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,15,,goal,I. Hagi,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,19,,card,İ. Kaya,True,yellow,Simulation,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,23,,goal,J. Muleka,False,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,45,,period,,,,,,,HT,,1,1
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,46,,substitution,,True,,,M. Elia,İ. Kaya,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,46,,substitution,,True,,,B. A. Gezek,G. Makouta,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,52,,card,F. Hadergjonaj,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,62,,substitution,,True,,,I. Cédric,H. Ui-Jo,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,71,,substitution,,False,,,E. Bardhi,E. Destan,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,71,,substitution,,False,,,E. Bars,D. Türüç,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,75,,card,N. Lima,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,78,,card,M. Elia,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,84,,substitution,,True,,,E. Keskin,R. Pereira Duarte,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,85,,substitution,,False,,,M. Jevtović,J. Dompé,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,89,,substitution,,False,,,M. Mohamed,J. Muleka,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,,period,,,,,,,FT,,1,2
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,8,card,D. Ertaş,False,yellow,,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,7,card,M. Mohamed,False,yellow,,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,7,goal,M. Mohamed,False,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,5,card,Maestro,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,4,card,P. Victor,True,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,1,substitution,,True,,,P. Fernandes,I. Hagi,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-11-27,13,Alanyaspor,Konyaspor,1,2,90,,card,I. Palut,False,yellow,Argument,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,22,,goal,Q. Laci,True,,,,,,,1,0
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,32,,goal,C. Winck,False,,,,,,,1,1
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,44,,card,A. Kol,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,45,,period,,,,,,,HT,,1,1
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,45,,injuryTime,,,,,,,,2,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,46,,substitution,,False,,,T. Diarra,A. Kol,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,47,,goal,E. Mendes,False,,,,,,,1,2
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,61,,substitution,,False,,,A. Baldursson,K. Demirbay,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,61,,substitution,,True,,,E. Bulut,A. Mebude,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,63,,card,A. Arous,False,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,76,,substitution,,False,,,A. T. Dağbaşı,A. Arous,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,77,,substitution,,True,,,U. Erdem,Z. Ariss,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,77,,substitution,,False,,,Ö. Bayram,J. Jessen,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,77,,substitution,,True,,,G. Borrelli,A. Kutucu,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,81,,goal,E. Bulut,True,,,,,,,2,2
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,82,,substitution,,False,,,G. Yalçın,J. Rak-Sakyi,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,86,,substitution,,True,,,D. Varešanović,Q. Laci,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,86,,substitution,,True,,,M. Diakité,A. Sowe,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,89,,card,M. Diakité,True,yellow,Foul,,,,,,
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,90,,period,,,,,,,FT,,3,2
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,90,1,goal,G. Borrelli,True,,,,,,,3,2
+turquia_super_lig_2026_2027,2026-11-27,13,Çaykur Rizespor,Kasımpaşa,3,2,90,,injuryTime,,,,,,,,3,,

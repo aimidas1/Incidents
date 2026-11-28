@@ -2381,3 +2381,19 @@ eredivisie_2026_2027,2026-11-22,13,Sparta Rotterdam,AZ Alkmaar,1,5,83,,substitut
 eredivisie_2026_2027,2026-11-22,13,Sparta Rotterdam,AZ Alkmaar,1,5,88,,goal,S. Maikuma,False,,,,,,,1,5
 eredivisie_2026_2027,2026-11-22,13,Sparta Rotterdam,AZ Alkmaar,1,5,90,,period,,,,,,,FT,,1,5
 eredivisie_2026_2027,2026-11-22,13,Sparta Rotterdam,AZ Alkmaar,1,5,90,,injuryTime,,,,,,,,3,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,31,,varDecision,W. Prins,True,,,,,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,38,,goal,C. Twigt,False,,,,,,,0,1
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,45,,period,,,,,,,HT,,0,1
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,45,,injuryTime,,,,,,,,4,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,51,,substitution,,False,,,P. v. Loon,F. Stam,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,55,,card,P. v. Loon,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,66,,substitution,,True,,,J. Ondrejka,W. Prins,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,66,,substitution,,True,,,T. Land,D. v. d. Werff,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,71,,substitution,,False,,,A. Et-Taibi,V. van Crooij,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,71,,substitution,,False,,,J. Slory,E. Gürbüz,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,75,,card,K. Boogaard,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,80,,substitution,,True,,,O. Zawada,M. Csinger,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,90,,period,,,,,,,FT,,1,1
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,90,3,goal,T. v. Bergen,True,,,,,,,1,1
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,90,3,card,D. Haen,False,yellow,Foul,,,,,,
+eredivisie_2026_2027,2026-11-27,14,FC Groningen,Willem II Tilburg,1,1,90,,injuryTime,,,,,,,,4,,

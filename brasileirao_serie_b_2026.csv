@@ -8202,3 +8202,24 @@ brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,82,,substitution,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,83,,substitution,,True,,,R. Fagundes,C. Martins,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,83,,substitution,,True,,,João Carlos,F. Mateus,,,,
 brasileirao_serie_b_2026,2026-11-22,29,Criciúma,Fortaleza,1,0,90,,period,,,,,,,FT,,1,0
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,8,,card,W. Formiga,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,11,,card,Gustavo Coutinho,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,38,,card,G. Lopes,False,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,45,,period,,,,,,,HT,,0,0
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,45,,injuryTime,,,,,,,,2,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,46,,substitution,,True,,,Dellatorre,Lincoln,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,53,,goal,J. Barreto,True,,,,,,,1,0
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,56,,card,Dellatorre,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,57,,substitution,,True,,,Nathan Camargo,I. Cariús,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,58,,substitution,,False,,,G. Maia,Netinho,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,58,,substitution,,False,,,J. P. Silva,Peixoto,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,58,,substitution,,False,,,Marrony,D. Terans,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,72,,substitution,,False,,,B. José,Warley,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,77,,goal,J. Vieira,True,,,,,,,2,0
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,78,,substitution,,False,,,L. Vilela,Gustavo Coutinho,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,82,,substitution,,True,,,Emerson Urso,Janderson,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,83,,substitution,,True,,,Willian Maranhão,Marquinhos Gabriel,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,87,,substitution,,True,,,Anderson,D. D. Santos,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,90,,period,,,,,,,FT,,2,0
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,90,3,card,Everton Galdino,True,yellow,Foul,,,,,,
+brasileirao_serie_b_2026,2026-11-27,29,Vila Nova FC,Atlético Goianiense,2,0,90,,injuryTime,,,,,,,,5,,
